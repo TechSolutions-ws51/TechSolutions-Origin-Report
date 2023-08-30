@@ -135,3 +135,18 @@
 |Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Tareas| Conclusion|
 |Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Tareas|Conclusion|
 <br><br>
+
+# Capitulo 1: Introducción
+
+## 1.1 Startup Profile
+
+### 1.1.1 Descripción de la Startup
+Nuestra aplicacación **"POINT BAR"** de nuestro equipo **"TechSolutions"** ha sido creado con la finalidad de mejorar el sistema de administracion para el sector de bares y mejorar la experiencia del cliente por medio de  beneficios como descuentos, y promociones. 
+
+ #### Misión
+
+La misión de nuestra App es generar facilidad de interacción entre clientes y bares, como también mejorar las herrramientas de gestión para-ambos sectores.  
+
+#### Visión
+
+Nuestra visión es que la aplicación que desarrollemos marque un nuevo hito entre las aplicaciones similares que existen y que nuestros usuarios nos respaldan considerando a ésta una de las mejores del rubro. 
