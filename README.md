@@ -319,6 +319,19 @@ Cuando en el primer año que nuestro producto sea lanzado, sea solicitado por m�
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
+-	Nosotros superaremos a la competencia al tener un completo grupo de profesionales que estarán constantemente actualizando productos con los que pueden ser canjeados por puntos.
+
+-	Nuestro servicio permitirá que los clientes acumulen puntos, además, simultáneamente brindaremos un servicio de control de inventario de los productos del bar, con la finalidad de facilitar el trabajo a los encargados de ese rubro.
+
+-	Se implementarán actualizaciones cada cierto plazo, de manera que se solucione todos los inconvenientes y quejas con respecto a nuestros usuarios. 
+
+-	Seremos un servicio mucho más completo, ofrecemos más funciones que la competencia para el uso de nuestros usuarios y por parte del empresario. 
+
+-	Nuestro servicio será mucho más accesible al estar disponible en todos los dispositivos ya que será un sitio web responsive.
+
+-	Tendremos mucho más alcance con nuestra publicidad y alianzas estratégicas. 
+
+-	Implementaremos un sector en el que los usuarios puedan comentar algunas sugerencias con respecto a la aplicación, es decir, podrán comentar o calificar con un rango de estrellas, el cual sea de su preferencia, para mantenernos informados y realizar mejoras a nuestro servicio.
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
