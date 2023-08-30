@@ -290,6 +290,22 @@ Debe tener un diseño minimalista, pero a la vez atractivo, con colores que comb
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
+**Hipótesis 1:**
+
+**Creemos que** implementando un sitio web, este podrá ser usado tanto en dispositivos Android como IOS, sin la necesidad de crear una aplicación para cada sistema operativo. Por parte de las empresas tendrán la misma facilidad con el control de inventario.
+
+**Sabremos que** hemos tenido éxito.
+
+Cuando en el primer trimestre de ser lanzado nuestro servicio, la empresa obtenga mejoras considerables en las ganancias.
+
+
+**Hipótesis 2:**
+**Creemos que** implementar un sistema de control de inventario para la empresa, ayudará a esta misma a facilitar el trabajo de los encargados, de tal forma que sea más fácil llevar un control.
+
+**Sabremos que** hemos tenido éxito.
+
+Cuando en el primer año que nuestro producto sea lanzado, sea solicitado por más empresas de licorería, de tal forma que sea un producto que favorezca al incremento de ganancias para muchos bares y no solo a uno.
+
 #### 1.2.2.4. Lean UX Canvas.
 
 ## 1.3. Segmentos objetivo.
