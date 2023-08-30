@@ -335,6 +335,28 @@ Cuando en el primer año que nuestro producto sea lanzado, sea solicitado por m�
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
+  **USUARIOS:**
+
+1.	***¿Cómo fue tu experiencia en el último bar que visitaste?***
+2.	***¿El bar al que fuiste poseía una plataforma digital?***
+3.	***¿Alguna vez imaginaste poder acumular puntos por cada compra realizada en un bar? ¿Qué piensas de eso?***
+4.	***¿Qué tipos de reclamos o recompensas te motivarían a acumular muchos más puntos en los bares que visitas?***
+5.	***Qué te parece más atractivo: ¿descuentos en bebidas, canjear un producto por una cierta cantidad de puntos acumulados u otras ofertas?***
+6.	***¿Has participado en programas que ofrezcan puntos al cliente por cada compra en los bares que has visitado?***
+7.	***¿Qué aspectos crees que hicieran único al programa de fidelización, porque es lo que es, en este caso, el acumulador de puntos, desde tu perspectiva como cliente?***
+8.	***¿Cómo preferirías recibir notificaciones o actualizaciones sobre los puntos que vas ganando u ofertas de los productos?***
+9.	***¿Hay algo extra que te gustaría compartir o sugerir con respecto a este programa de fidelización que nosotros vamos a desarrollar?***
+
+**EMPRESA:**
+1.	***¿Alguna vez imaginaste generar más ganancias con plataformas digitales que ayuden a tu negocio a ser más innovador?***
+2.	***¿Crees que un sistema de acumulación de puntos a los clientes podría beneficiar a tu negocio?***
+3.	***Además, tengo entendido que el hecho de controlar lo vendido en un bar es algo trabajoso, sobre todo, verificar que los productos se están agotando, ¿cómo vienes desarrollando esta labor con respecto a tu bar?***
+4.	***¿Conoces bares que manejen este sistema tecnológico? ¿Por qué crees que el ámbito tecnológico ayudaría a tu negocio?***
+5.	***Tanto el sistema de control de inventarios como el de acumular puntos a los clientes para que posteriormente sean canjeados por nuevos productos y ofertas, ¿De que manera crees que estos sistemas ayudarían a tu negocio?***
+6.	***¿Estarías dispuesto a ofrecer descuentos o promociones especiales a los clientes que acumulen puntos? Teniendo en cuenta que esto generará una alianza entre el cliente y tu negocio, motivándolo a ir más seguido e ir motivando a demás personas.***
+7.	***¿Qué método de comunicación preferirías para mantenerte informado sobre las novedades del servicio y actualizaciones?***
+8.	***¿Existe algo extra que te gustaría compartir o sugerir con respecto a este programa que vamos a desarrollar? ¿Crees que es algo innovador en el sector de los bares?***
+
 
 ### 2.2.2. Registro de entrevistas.
 
