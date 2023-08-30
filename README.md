@@ -150,3 +150,55 @@ La misión de nuestra App es generar facilidad de interacción entre clientes y 
 #### Visión
 
 Nuestra visión es que la aplicación que desarrollemos marque un nuevo hito entre las aplicaciones similares que existen y que nuestros usuarios nos respaldan considerando a ésta una de las mejores del rubro. 
+
+
+### 1.1.2 Perfiles de integrantes del equipo
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Foto</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Miembro</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Habilidades</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Codigo</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1145902674265505832/rostro.jpeg?width=466&height=621" alt="Foto 1" width="60" height="50" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, Jose Carlos Isaac</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Actualmente soy estudiante del 6to ciclo de la carrera de Ingeniería de Software en la UPC. Cuento con conocimientos en programación orientado a objetos en el lenguaje de C++, manejo de base de datos relacional y no relacional. Además he elaborado algunos videojuegos y programas para trabajos de la universidad.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202112936</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1145902797229916192/ba.jpg?width=621&height=621" alt="Foto 2" width="50" height="50" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcon Rondon, Sandro Fourfive</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Actualmente soy estudiante de la UPC y curso en el 6to ciclo en la carrera de Ing. de Software. Tengo experiencia en el desarrollo de sitios web y conocimientos en los lenguajes de programación C++ y  CSS</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202114140</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1145900517415981216/WhatsApp_Image_2023-08-28_at_20.58.40.jpeg?width=466&height=621" alt="Foto 3" width="50" height="50" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Estoy cursando el 6to ciclo de la carrera de ingeniería de software, tengo conocimiento del lenguaje de programación C++ y he aprendido lo básico de HTML, tengo conocimiento de páginas webs.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202115348</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1145909349965897808/JDiego_Image.jpg?width=621&height=621" alt="Foto 4" width="50" height="50" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Huamani Sánchez, José Diego</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy una persona que le fascina la tecnología en sus múltiples aspectos y, además, le gusta trabajar en equipo. En base a mis skills, destacan el tema de liderazgo, conocimientos de marcos de trabajos ágiles, programación en lenguajes tales como C++, HTML, CSS y manejo de base de datos como MySQL, SQL Server y MongoDB.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202110458</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1145931206744080414/pp.jfif" alt="Foto 5" width="50" height="50" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Actualmente estudiando la carrera de Ingeniería de Software. Yo como estudiante de esta carrera hasta el momento ya sé manejar el código en C++, python y un poco de java, manejando estructuras, ciclos repetitivos y más. Soy entusiasta, perseverante y gracias a ello podré siempre mantener al equipo unido para cumplir con todas las actividades a tiempo.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201b895</td>
+  </tr>
+</table>
