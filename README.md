@@ -400,6 +400,8 @@ Cuando en el primer año que nuestro producto sea lanzado, sea solicitado por m�
 
 ## 2.3. Needfinding.
 
+En esta sección se presentan los artefactos del proceso de análisis de la información recopilada de nuestros segmentos objetivos. Se incluyen las secciones de User Personas, User Task Matrix, User Journey Mappin, Empathy Mapping y As-Is Scenario Mapping. 
+
 ### 2.3.1. User Personas.
 
 ### 2.3.2. User Task Matrix.
