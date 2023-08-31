@@ -432,6 +432,10 @@ En esta sección se presentan los artefactos del proceso de análisis de la info
 ### 4.1.2. Web Style Guidelines.
 
 ## 4.2. Information Architecture.
+
+En esta seccion se enfoca en la organizacion del contenido de la website PointBar en buscar el 100% de satisfacion en nuestros clientes durante la navegacion de nuestra website.
+A continuacion, podemos ver los topicos de Labelling Systems, Organization Systems, Seo Tags and Meta Tags, Searching Systems y Navigation Systems.
+
 ### 4.2.1. Organization Systems.
 
 ### 4.2.2. Labeling Systems.
