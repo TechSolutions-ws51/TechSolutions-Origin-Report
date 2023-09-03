@@ -404,6 +404,11 @@ En esta sección se presentan los artefactos del proceso de análisis de la info
 
 ### 2.3.1. User Personas.
 
+En esta sección presentaremos dos fichas de User Persona para nuestro producto,
+el cual se enfoca en el cliente que va consumir algun trago y en la Empresa. Estas
+fichas están basadas en las principales características y necesidades identificadas
+en el análisis de entrevistas y de la competencia.
+
 ### 2.3.2. User Task Matrix.
 
 ### 2.3.3. User Journey Mapping.
