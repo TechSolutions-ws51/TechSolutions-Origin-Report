@@ -417,6 +417,12 @@ en el análisis de entrevistas y de la competencia.
     </td>
   </tr>
 
+#### 2.3.1.2 Segmento Objetivo 1: Empresario
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1147997558657007706/User_Person_Empresario.png?width=419&height=592"width="403" height="569">
+    </td>
+  </tr>
 
 ### 2.3.2. User Task Matrix.
 
