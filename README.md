@@ -446,6 +446,40 @@ En este apartado, se mostrarán todas las entrevistas realizadas a nuestro estim
 
 ### 2.2.3. Análisis de entrevistas.
 
+Primeramente, el 71.9% de los entrevistados cuentan con experiencia en la compra de bebidas en un bar (ver Figura 1). Adicional a ello, si nos ubicamos en la figura 2, el 100% de dichos entrevistados ha visitado entre 1 o más veces un bar. En correspondencia a las estadísticas registradas, todos están de acuerdo en que siga impulsando mas ideas innovadoras que beneficien tanto a la parte de los clientes como del negocio (un ganar ganar para ambos respectivamente).
+
+
+<b>Figura 1</b>
+
+<div align='center'>
+<img src="https://i.ibb.co/LkS6rvQ/imagen-2023-09-03-004357433.png" width="700" height="400">
+<p><i>Nota: </i>Dicho gráfico representa la cantidad de entrevistados que han visitado por lo menos una vez un bar.</p>
+</div>
+
+<br>
+
+<b>Figura 2</b>
+
+<div align='center'>
+<img src="https://i.ibb.co/qRkhKXb/imagen-2023-09-03-004042734.png" width="700" height="400">
+<p><i>Nota: </i>Dicho gráfico representa la cantidad de entrevistados que han visitado por lo menos una vez un bar.</p>
+</div>
+
+<br>
+
+En cuanto a la visita de bares, la gran mayoría de entrevistados ha tenido una muy grata experiencia a excepción de una de ellos la cual es dueña de un establecimiento de bar.
+
+En retrospectiva del aspecto de sugerencias, se logró identificar algunas un tanto repetitivas que se vinieron dando en el transcurso de las entrevistas; esta vienen a ser las siguientes: varios entrevistados sugieren que la interfaz de la plataforma Web sea lo mas interactiva y llamativa posible para que facilite la navegación y el uso que la persona misma le venga a estar dando. Adicional a ello, sugieren que apliquemos ciertas técnicas de marketing para ayudar a incentivar a que más personas conozcan el <i>Startup</i> y pueda generar ingresos - beneficioso para seguir creciendo diferenciarnos del resto de competidores -.
+
+En conclusión, nos podemos percatar de que cada entrevistado tiene diferentes preferencias; por lo que, un 82.1% esta a favor de la optima e interactiva usabilidad y el 17.9% restante esta más que interesado en todo lo que respecta al área de marketing y financiación.
+
+<b>Figura 3</b>
+
+<div align='center'>
+<img src="https://i.ibb.co/BgWQSbH/imagen-2023-09-03-003450592.png" width="700" height="400">
+<p><i>Nota: </i>La representación del gráfico nos da a entender el margen porcentual entre la los entrevistados que prefieren un fácil uso e interacción en la plataforma y los que prefieren cubrir los aspectos de negocios.</p>
+</div>
+
 ## 2.3. Needfinding.
 
 En esta sección se presentan los artefactos del proceso de análisis de la información recopilada de nuestros segmentos objetivos. Se incluyen las secciones de User Personas, User Task Matrix, User Journey Mappin, Empathy Mapping y As-Is Scenario Mapping. 
