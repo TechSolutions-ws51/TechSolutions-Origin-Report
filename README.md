@@ -894,6 +894,14 @@ se va a estar adentrando para canalizar y cerciorar que datos se estarán utiliz
 
 ### 4.8.1. Database Diagram.
 
+<p>En dicho apartado, se mostrará a continuación el respectivo diagrama que utilizará nuestra base datos, donde se visualizan todas las entidades definidas con sus respectivas relaciones para el desarrollo de nuestra plataforma Web.</p>
+
+<div align='center'>
+<img  src="https://i.ibb.co/g3x5s9F/DB-Point-Bar-UPC-Open-Source-2023-08-31-10-05.png"  alt="Database_Diagram"  width="900"  height="500"></center>
+
+<center><p>Link del diagrama de base de datos: <a  href="https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS">https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS</a></p>
+</div>
+
 <br><br>
 
 # Capítulo V: Product Implementation, Validation & Deployment
