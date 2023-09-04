@@ -205,9 +205,19 @@ Nuestra visión es que la aplicación que desarrollemos marque un nuevo hito ent
 
 ## 1.2. Solution Profile
 
-Nuestra solucion ante la problemática que explicaremos mediante el uso de las 5"W" y 2"H" será la creacion de una website, cuando nuestros clientes quieran salir a tomar podran usar nuestra aplicacion y podran generar puntos en la app para tener descuentos, asi se motivara a seguir comprando por nuestra app.
-
 ### 1.2.1 Antecedentes y problemática
+
+En estos últimos años, el negocio de bares en el Perú está teniendo un pico de popularidad demasiado alto, donde cada día nuevos gerentes crean sus propios emprendimientos donde, en base a una buena estrategia de marketing, gestión de los aspectos publicitarios y monetarios, logran tener un gran impacto en el mercado y en la sociedad; por lo que, según INEI(2023), nos comenta que se ha logrado tener un aumento porcentual del 19.20% en estos tipos de servicios.
+
+Al haber un alto indice de competidores en la actulidad, el objetivo principal que tiene nuestro <q>startup</q> llamado <b>LoyalSips</b>, es centrarse en la estimulación de aumento de ganancias para los bares mediante un sistema de acumulacion de puntos que recibirán los clientes en nuestra página web después de realizar el pago por lo consumido. De esta forma, estaremos contribuyendo con el desarrollo al crecimiento monetario y diferenciación en aspectos competitivos que se tienen en el mercado.
+
+
+**The 5W & 2H**
+
+Este método es uno de los principales gestores que utilizaremos para definir y ampliar un poco más el contexto acerca de la problemática que se nos a presentado; principalmente, sus eficaces y solemnes herramientas son lo que lo hace fácil de manipular e interpretar. Cuando logramos visualizar la terminación ordenada de los números en combinaciones con ciertos márgenes paramétricos estructurales ligústicos sintácticos, hacemos un hincapié a la rigurosa planificación de forma estructurada dividida en fases, con un un enfoque bien planteado y a su vez definido.
+Tanto en el mundo empresarial como en el ámbito personal y en multitud de escenarios mas, la planificación condiciona el éxito de un resultado (Betancourt, 2018).
+
+En breves instantes, usaremos esta técnica para especificar de manera detallada y concisa acerca de la problemática en la cual se va a basar nuestra <i>startup</i>.
 
 ***What? - ¿Qué?***
 
@@ -958,4 +968,5 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 ## Conclusiones y recomendaciones.
 ## Video About-the-Team.
 ## Bibliografía
+
 ## Anexos
