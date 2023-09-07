@@ -453,20 +453,28 @@ Cuando en el primer año que nuestro producto sea lanzado, sea solicitado por m�
 
 En este apartado, se mostrarán todas las entrevistas realizadas a nuestro estimado público objetivo respectivamente. En caso gusten visualizar con mayor detalle las entrevistas, se recomienda que vaya al apartado de "Anexos" para obtener más información. 
 
+### Entrevista 1:
 <div align="center">
 
 <img  src="https://i.ibb.co/mJxy99m/Entrevista-1.png"  alt="Entrevista_#1" width="500"  height="700">
 
-<br>
-
-<img  src="https://i.ibb.co/KhZMr2d/Entrevista-2.png" alt="Entrevista_#2" width="500"  height="700">
-
-<br>
-
-<img  src="https://i.ibb.co/ZYz33Jz/Entrevista-3.png" alt="Entrevista_#3" width="500"  height="700">
-
-<br>
 </div>
+
+<br>
+
+### Entrevista 2:
+<div align="center">
+<img  src="https://i.ibb.co/KhZMr2d/Entrevista-2.png" alt="Entrevista_#2" width="500"  height="700">
+</div>
+
+<br>
+
+### Entrevista 3:
+<div align="center">
+<img  src="https://i.ibb.co/ZYz33Jz/Entrevista-3.png" alt="Entrevista_#3" width="500"  height="700">
+</div>
+
+<br>
 
 ### 2.2.3. Análisis de entrevistas.
 
