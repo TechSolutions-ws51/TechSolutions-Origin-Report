@@ -239,10 +239,17 @@ Tener una base de datos con informacion facil y didactica con la que los usuario
 
 ***How much? - ¿Cuánto?***
 
-Se ha investigado que en el Perú mas del 60% de personas salen todos los fines de semana a relajarse en discotecas y bares. 
+Se ha investigado que en el Perú el 55.8% de personas salen todos los fines de semana a relajarse en discotecas y bares. 
 
 Ademas, en el Perú muy pocas personas utilizan una website para reservar espacios en los bares y tampoco para comprar bebidas o tragos.
 
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1149362286729887814/image.png"width="403" height="296">
+    </td>
+  </tr>
+<br>
 ### 1.2.2 Lean UX Process.
 
 #### 1.2.2.1. Lean UX Problem Statements.
@@ -565,6 +572,36 @@ En la organizacion visual tenemos:
 
 
 ### 4.2.2. Labeling Systems.
+
+Para el sistema de etiquetado hemos utilizado, en su mayoría, un lenguaje formal de
+fácil identificación para los usuarios. Tenemos: 
+
+<table>
+  <tr>
+    <th><strong>Apartados</strong></th>
+    <th style="text-align: justify;"><strong>Abrir el sitio Web</strong></th>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Login</strong></td>
+    <td style="text-align: justify;">El empresario se registra como empresario y se muestra una interfaz distinta a la del usuario</td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Reservacion de mesas</strong></td>
+    <td style="text-align: justify;">“Que satisfacción ingresar a un sitio web de manera rápida”</td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Ofertas de bebidas</strong></td>
+    <td style="text-align: justify;">Siente satisfacción porque puede observar los clientes asociados al sitio web de forma entendible. </td>
+  </tr>
+    <tr>
+    <td style="text-align: justify;"><strong>Bebidas mas compradas</strong></td>
+    <td style="text-align: justify;">Siente satisfacción porque puede observar los clientes asociados al sitio web de forma entendible. </td>
+  </tr>
+    <tr>
+    <td style="text-align: justify;"><strong>Registro de compras</strong></td>
+    <td style="text-align: justify;">Siente satisfacción porque puede observar los clientes asociados al sitio web de forma entendible. </td>
+  </tr>
+</table>
 
 ### 4.2.3. SEO Tags and Meta Tags
 
