@@ -451,6 +451,25 @@ Cuando en el primer año que nuestro producto sea lanzado, sea solicitado por m�
 
 ### 2.2.2. Registro de entrevistas.
 
+En este apartado, se mostrarán todas las entrevistas realizadas a nuestro estimado público objetivo respectivamente. En caso gusten visualizar con mayor detalle las entrevistas, se recomienda que vaya al apartado de "Anexos" para obtener más información. 
+
+<div align="center">
+
+<img  src="https://i.ibb.co/mJxy99m/Entrevista-1.png"  width="500"  height="700">
+
+<br>
+
+<img  src="https://i.ibb.co/xY2ms4d/Entrevista-2.png"  width="500"  height="700">
+
+<br>
+
+<img  src="https://i.ibb.co/wRq2j46/Entrevista-3.png"  width="500"  height="700">
+
+</div>
+
+<br>
+
+
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
