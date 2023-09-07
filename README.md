@@ -455,20 +455,18 @@ En este apartado, se mostrarán todas las entrevistas realizadas a nuestro estim
 
 <div align="center">
 
-<img  src="https://i.ibb.co/mJxy99m/Entrevista-1.png"  width="500"  height="700">
+<img  src="https://i.ibb.co/mJxy99m/Entrevista-1.png"  alt="Entrevista_#1" width="500"  height="700">
 
 <br>
 
-<img  src="https://i.ibb.co/xY2ms4d/Entrevista-2.png"  width="500"  height="700">
+<img  src="https://i.ibb.co/KhZMr2d/Entrevista-2.png" alt="Entrevista_#2" width="500"  height="700">
 
 <br>
 
-<img  src="https://i.ibb.co/wRq2j46/Entrevista-3.png"  width="500"  height="700">
+<img  src="https://i.ibb.co/ZYz33Jz/Entrevista-3.png" alt="Entrevista_#3" width="500"  height="700">
 
+<br>
 </div>
-
-<br>
-
 
 ### 2.2.3. Análisis de entrevistas.
 
