@@ -252,6 +252,13 @@ Ademas, en el Perú muy pocas personas utilizan una website para reservar espaci
 <br>
 ### 1.2.2 Lean UX Process.
 
+Gracias al enfoque teórico del libro <i>"Lean UX - Designing Great Products with Agile Teams"</i>, redactado por los autores Jeff Gothelf y Josh Seiden (2016),  se centra en un marco ágil colaborativo centrado en la obtención de retroalimentación de usuarios temprana, para así mismo poder diseñar experiencias de usuarios con iteraciones rápidas, continuas y sobre todo óptimas. 
+Todo este proceso logra tener un auge basado en 3 principios fundamentales: "Diseño colaborativo en lugar de expertos en solitario, experimentación y progreso continuo, y colaboración con el usuario manteniendo el enfoque en él.
+
+<div align='center'>
+<img src="https://m.media-amazon.com/images/I/414-j-WyjcL.jpg" alt="LEAN-UX-Book" width="250" height="250">
+</div>
+
 #### 1.2.2.1. Lean UX Problem Statements.
 
 #### 1.2.2.2. Lean UX Assumptions.
