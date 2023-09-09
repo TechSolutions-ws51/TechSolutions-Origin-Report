@@ -950,7 +950,26 @@ fácil identificación para los usuarios. Tenemos:
 
 ### 4.2.4. Searching Systems.
 
-### 4.2.5. Navigation Systems.
+<p> En esta sección se presentarán los sistemas de búsqueda que se implementaran en la aplicación y la página web. Al hacer uso de esos sistemas, los usuarios podrán encontrar la información que requieren de diversas maneras.</p>
+
+<p><b>Para el sitio Web:</b></p>
+
+* Motor de Búsqueda Eficiente: Hemos implementado un motor de búsqueda altamente eficiente en nuestro sitio web. Los usuarios pueden acceder a él desde cualquier página, ya que está ubicado de manera destacada en la parte superior.  
+* Búsqueda en Tiempo Real: Utilizamos la búsqueda en tiempo real para proporcionar resultados instantáneos a medida que los usuarios escriben su consulta. Esto agiliza la experiencia de búsqueda.
+*  Filtros y Categorías: Los usuarios pueden refinar sus búsquedas utilizando filtros avanzados. Pueden seleccionar la ubicación, el tipo de bar, el rango de precios y otras categorías para encontrar exactamente lo que desean.
+* Resultados Relevantes: Hemos mejorado nuestros algoritmos de clasificación para garantizar que los resultados sean altamente relevantes. Los bares y ofertas más populares se muestran primero.
+* Búsqueda por Voz: También hemos agregado la función de búsqueda por voz, lo que permite a los usuarios buscar simplemente hablando con su dispositivo, lo que hace que la búsqueda sea aún más fácil y conveniente.
+
+<p><b>Para la aplicacion movil</b></p>
+
+* Búsqueda Rápida en la App: En nuestra aplicación móvil, hemos colocado una barra de búsqueda en la parte superior de la pantalla de inicio. Los usuarios pueden acceder rápidamente a la función de búsqueda desde cualquier lugar de la aplicación. 
+* Sugerencias Inteligentes: Nuestro sistema de búsqueda predictiva ofrece sugerencias inteligentes a medida que los usuarios escriben, lo que les ayuda a encontrar resultados más rápido. 
+* Búsqueda por Categorías: Los usuarios pueden explorar bares por categorías como "cervecerías", "clubes nocturnos" o "happy hour". Esto facilita la búsqueda de experiencias específicas. 
+* Historial y Favoritos: Hemos agregado una función de historial de búsqueda y la capacidad de marcar bares como favoritos. Esto permite a los usuarios acceder rápidamente a las búsquedas anteriores y guardar sus lugares preferidos. 
+* Resultados Personalizados: A lo largo del tiempo, nuestro sistema aprende las preferencias de los usuarios y adapta los resultados de búsqueda para que sean más relevantes según su historial de búsqueda y comportamiento. 
+* Notificaciones Relevantes: Los usuarios pueden configurar notificaciones de búsqueda para recibir alertas sobre nuevos bares o ofertas que coincidan con sus intereses. 
+* Búsqueda sin conexión: Incluso cuando no tienen conexión a Internet, los usuarios pueden realizar búsquedas previas y ver resultados guardados en su dispositivo. Los datos se sincronizan automáticamente cuando vuelven a estar en línea. 
+
 
 ### 4.2.5. Navigation Systems
 
