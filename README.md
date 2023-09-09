@@ -2462,6 +2462,42 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
 
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150095599287423068/image.png?width=654&height=600" width=654 & height=600>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150095708268019722/image.png" width=914 & height=540>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150096187937005658/image.png?width=877&height=600" width=877 & height=600>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150096214306607185/image.png?width=870&height=600" width=870 & height=600>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150096248326602752/image.png?width=887&height=600" width=887 & height=600>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150096617001734174/image.png" width=935 & height=525>
+    </td>
+</tr>
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 
