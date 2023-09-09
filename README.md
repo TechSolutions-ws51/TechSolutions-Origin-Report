@@ -418,11 +418,10 @@ Nosotros tenemos 2 puntos muy importantes que consideramos en el segmento objeti
 <br><br>
 
 # Capítulo II: Requirements Elicitation & Analysis
+
 ## 2.1. Competidores.
 
 ### 2.1.1. Análisis competitivo.
-
-
 
 <table >
   <tr > 
@@ -1118,6 +1117,30 @@ tareas para los User Personas previamente definidos.
 </table>
 
 ## 3.3. Impact Mapping.
+
+La herramienta Impact Mapping representa de forma visual las metas que nos planteamos para llegar a cada sector de nuestro publico. 
+### User Bar:
+<tr>
+    <td >
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149524347619389551/image.png?width=289&height=423"width="403" height="569">
+    </td>
+</tr>
+
+Realizamos el impact Mapping para el usuario Bar, que representa a los dueños bares, y según los User Stories realizadas por nuestro equipo, desarrollamos alternivas para solucionar y satisfacer sus necesidades. 
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149524152261283901/image.png?width=401&height=423"width="403" height="569">
+    </td>
+</tr>
+
+Hemos llevado a cabo un proceso de Impact Mapping dirigido al usuario llamado "cliente", quien representa a los clientes que consumen en bares. A partir de las historias de usuario generadas por nuestro equipo, hemos elaborado diferentes opciones para abordar y satisfacer sus requerimientos. 
+
+
+
+Link de Miro y Uxpressiar -> https://miro.com/welcomeonboard/Mk5wZzhZdGppbjl0Y0VZWllDeWtlZ3g3emt6R1NvTHhqdDJ5dUt6MGNoYWRORm5GTHpyNTZOa3paSVRpZ1hJeXwzMDc0NDU3MzU3MTA0ODcyOTA0fDI=?share_link_id=659519633230  
+
+https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc 
 
 ## 3.4. Product Backlog.
 
