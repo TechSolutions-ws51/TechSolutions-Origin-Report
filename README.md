@@ -948,6 +948,46 @@ fácil identificación para los usuarios. Tenemos:
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+<p>En esta sección, se presentan las etiquetas que identificarán y le dará originalidad a nuestro sitio web (LoyalSips).</p>  
+
+#### <b>Para el sitio web (Landing Page)</b>  
+
+<p><b>Title:</b></p>
+
+* Título de la Página de Registro: "Regístrate y Gana Descuentos en Bares con LoyalSips" 
+* Título de la Página Principal: "LoyalSips - Tu Lealtad Recompensada en los Mejores Bares". 
+<p><b>Description:</b></p>
+
+* Descripción de la Página Principal: "Descubre LoyalSips, la aplicación que te recompensa por tus visitas a bares favoritos. Acumula puntos y obtén descuentos exclusivos en tragos y cervezas."  
+* Descripción de la Página de Registro: "Regístrate en LoyalSips y comienza a ganar puntos por tus compras en bares. ¡Aprovecha descuentos y ofertas especiales!" 
+<p><b>Keywords:</b></p>
+
+* Palabras Clave Generales: Lealtad en Bares, Descuentos en Bares, Puntos de Lealtad, Evaluación de Bares, Recompensas en Bares, Aplicación Móvil de Bares.  
+* Palabras Clave Específicas: Lealtad en la Vida Nocturna, Descuentos en Tragos, Ofertas de Cerveza, Calificación de Servicio de Bares. 
+<p><b>Authors:</b></p>
+
+* TechSolutions_Teams
+
+#### <b>Para el aplicativo móvil:</b>  
+
+
+<p><b>Title:</b></p>
+
+
+* Título de la Aplicación: "LoyalSips - Lealtad en Bares".    
+* Título de la Página de Registro: "Regístrate y Gana Descuentos en Bares con LoyalSips". 
+<p><b>Description:</b></p>
+
+* Descripción de la Aplicación: "LoyalSips es la aplicación que recompensa tu lealtad en bares. Acumula puntos por tus compras y disfruta de descuentos exclusivos en tragos y cervezas."  
+* Descripción de la Página de Registro: "Regístrate en LoyalSips y comienza a ganar puntos por tus compras en bares. ¡Aprovecha descuentos y ofertas especiales!" 
+<p><b>Keywords:</b></p>
+
+* Palabras Clave Generales: Lealtad en Bares, Descuentos en Bares, Puntos de Lealtad, Evaluación de Bares, Recompensas en Bares, Aplicación Móvil de Bares. 
+* Palabras Clave Específicas: Lealtad en la Vida Nocturna, Descuentos en Tragos, Ofertas de Cerveza, Calificación de Servicio de Bares. 
+<p><b>Authors:</b></p>
+
+* TechSolutions_Teams
+
 ### 4.2.4. Searching Systems.
 
 <p> En esta sección se presentarán los sistemas de búsqueda que se implementaran en la aplicación y la página web. Al hacer uso de esos sistemas, los usuarios podrán encontrar la información que requieren de diversas maneras.</p>
