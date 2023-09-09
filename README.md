@@ -1985,6 +1985,16 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 ## 4.5. Web Applications Prototyping.
 
+
+### Link del prototipo en Figma: https://www.figma.com/proto/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?page-id=0%3A1&type=design&node-id=18-31&viewport=482%2C573%2C0.23&t=fF9wq2WzqPvgenwU-1&scaling=scale-down&starting-point-node-id=18%3A31&mode=design 
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149832165748654200/Captura_de_pantalla_2023-09-08_172204.png?width=688&height=435"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 
