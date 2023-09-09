@@ -1387,6 +1387,179 @@ mejor relación para la vista.
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+Se muestra el diseño visual y la interacción que poseen los wireframes en nuestro proyecto digital.
+
+Algunas plantillas generales que poseemos son el sistema de registro:
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150000600885501982/Imagen15.jpg?width=1119&height=625"width="700" height="">
+    </td>
+  </tr>
+
+<br>
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150000468148367411/Imagen3.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+<br>
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150000930893332480/Imagen4.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+<br>
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150001432314007653/Imagen5.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+
+<br>
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150001605953982494/Imagen6.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+
+<br>
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150001849252974622/Imagen7.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+
+<br>
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150001990273867957/Imagen8.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+
+<br>
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150002091054608385/Imagen9.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+
+<br>
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150002191118110790/Imagen10.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+
+<br>
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150002275113242654/Imagen11.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+
+<br>
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150002536674238564/Imagen12.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+
+<br>
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150002634703519744/Imagen13.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+
+<br>
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150002743549894757/Imagen14.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+
+<br>
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150002903013150791/Imagen16.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+
+<br>
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150002973276114964/Imagen17.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+
+<br>
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150003129300045884/Imagen18.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+
+<br>
+
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150003223688654848/Imagen19.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+
+<br>
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150003328797921372/Imagen20.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+
+<br>
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1150003424256065607/Imagen21.jpg?width=1116&height=625"width="700" height="">
+    </td>
+  </tr>
+
+
+---
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
