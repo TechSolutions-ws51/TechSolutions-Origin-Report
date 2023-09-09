@@ -978,6 +978,13 @@ fácil identificación para los usuarios. Tenemos:
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
+<div align='center'>
+<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148778810737696829/image.png" width="750" height="350">
+</div>
+<b>Link del diagrama:</b>  
+<p>https://lucid.app/lucidchart/daf95998-1760-461d-abfe-2fd30bc0bc28/edit?viewport_loc=-1193%2C-1766%2C2720%2C1316%2C0_0&invitationId=inv_8697997e-4a61-48df-a95e-8ec0a8e8f9bf
+</p>
+
 ### 4.7.2. Class Dictionary.
 
 ## 4.8. Database Design.
