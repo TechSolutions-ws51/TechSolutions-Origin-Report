@@ -976,6 +976,8 @@ fácil identificación para los usuarios. Tenemos:
 ### 4.6.3. Software Architecture Components Diagrams.
 
 ## 4.7. Software Object-Oriented Design.
+
+<p>En este punto se presentará un diseño de software orientado a objetos de "LoyalSips". Se centra en crear una plataforma intuitiva que conecta a usuarios con bares, ofreciendo una experiencia de navegación eficiente, gestión de ofertas y reservas, y la interacción entre usuarios y bares mediante la calificación y la gestión de inventarios. Para ello, se mostrará un diagrama de clases que estará explicado con diversos detalles.</p>
 ### 4.7.1. Class Diagrams.
 
 <div align='center'>
