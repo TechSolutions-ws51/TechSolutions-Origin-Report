@@ -2323,6 +2323,13 @@ se va a estar adentrando para canalizar y cerciorar que datos se estarán utiliz
 <br>
 
 ### 4.8.1. Database Diagram.
+En esta apartado, se podrá observar como las entidades y atributos mencionados anteriormente se establecen dentro de nuestro diagrama de base de datos mediante tablas; por lo que, en base a ello, se realizó las relaciones equivalentes que se tiene entre cada una de ellas para definir más el contexto accionario que tiene cada una de ellas. 
+
+<div  align='center'>
+<img  src="https://i.ibb.co/ypLfmcB/imagen-2023-09-09-124331796.png"  alt="Database_Diagram"  width="900"  height="500">
+
+<center><p>Link del diagrama de base de datos: <a  href="https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS">https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS</a></p>
+</div>
 
 <br><br>
 
