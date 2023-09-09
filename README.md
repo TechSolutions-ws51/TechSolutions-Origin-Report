@@ -399,6 +399,12 @@ Cuando en el primer a√±o que nuestro producto sea lanzado, sea solicitado por m√
 
 #### 1.2.2.4. Lean UX Canvas.
 
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918606/1147441096566255687/image.png?width=1150&height=646" alt="LEAN-UX-Canvas" width="750" height="550">
+</div>
+Link del Canvas: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1
+
+
 ## 1.3. Segmentos objetivo.
 
 Nosotros tenemos 2 puntos muy importantes que consideramos en el segmento objetivo:
