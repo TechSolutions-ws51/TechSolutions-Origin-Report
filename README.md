@@ -422,6 +422,206 @@ Nosotros tenemos 2 puntos muy importantes que consideramos en el segmento objeti
 
 ### 2.1.1. Análisis competitivo.
 
+
+
+<table >
+  <tr > 
+    <th colspan="4"> Competitive Analysis Landscape </th>    
+  </tr> 
+  
+  <tr> 
+    <td  >¿Qué llevar cabo en este análisis? </td> 
+    <td >Debido al analisis de los competidores del mercado actual, hemos logrado identificar las fortalezas y debilidades de nuestros competidores. Esto nos ayuda a identificar que estrategias tomar para posicionarnos dentro del mercado y como diferenciarnos de ellos.  </td>    
+  </tr> 
+  
+  <tr> 
+    <td colspan="4" align="center" >¿Quienes son nuestros principales competidores y que nos diferencia de ellos? </td>    
+  </tr>
+  
+  <tr> 
+    <td  ></td>  
+    <td  ></td> 
+    <td ><img src="https://media.discordapp.net/attachments/1146639921830973516/1149503395309293608/GEIfFwe57gAAAABJRU5ErkJggg.png" height="40">  </td>  
+    <td  ><img src="https://media.discordapp.net/attachments/1146639921830973516/1149503543036878991/8hCjmUnM9rUizlTrbq884vVgiAIgiAIgiAIgiAIgiAIgiAIgiAIghDmP63uaBSiYBMwAAAAAElFTkSuQmCC.png" height="80"> </td>
+    <td  > <img src="https://media.discordapp.net/attachments/1146639921830973516/1149503462976000161/yelp-logo_768x512.png?width=635&height=423" height="40">	</td>  
+    <td > <img src="https://media.discordapp.net/attachments/1146639921830973516/1149513853357543464/WhatsApp_Image_2023-08-31_at_8.00.27_PM.jpeg?width=486&height=423" height="80"> </td>  
+  </tr> 
+  
+  
+  
+  <tr> 
+    <td > PERFIL </td> 
+    <td > Overview </td>  
+    <td > Drink go es una aplicacion que busca agilizar y facilitar la forma de consumir en las barras de los eventos musicales. Esta aplicación te evitará usar pulseras, tokens o efectivo para pagar tu bebida. Puedes obtener puntos por cada compra, y Podrás canjearlos por entradas, camisetas, etc. </td> 
+    <td > Kyte es un sistema de punto de venta para bares para cualquiera que busque digitalizar, puede manejar su establecimiento y vender en línea o de forma presencial sin perderse y con más libertad, ya que puede controlar su negocio desde su celular, tableta o computadora.  </td>
+    <td > Yelp es una aplicación que permite a los usuarios encontrar puntos de ventas de bares, restaurantes, etc. Permite a los clientes conocer información a cerca de estos lugares, atención, promociones, reseñas y más.  </td>
+    <td >  Loyalsips es una aplicacion que permite a los dueños de bares, administrar y promover sus negocios, como tambien permite a los clientes conocer a cerca de los bares, y recibir promociones, anuncios y  premios. </td>
+  </tr> 
+
+
+<tr> 
+    <td > PERFIL </td> 
+    <td > Ventaja competitiva 
+
+¿Que valor ofrece a los clientes? </td>  
+    <td > Agilización de procesos en tiempo de atención y obtencion de recompensas al cliente y de la administración de inventario para bares.  </td> 
+    <td > Gestión digitalizada para vender, y administrar inventario de negocio.   </td>
+    <td > Comunicación interactiva de los usuarios dentro la plataforma. </td>
+    <td >  Administracion para la gestion de inventario y ventas para el bar y recompensas y premios para los clientes.  </td>
+  </tr> 
+
+
+<tr> 
+    <td > Perfil de Marketing </td> 
+    <td > Mercado Objetivo </td>  
+    <td > Bares que busquen agilizar procesos de ventas y promover el consumo a clientes.
+
+</td> 
+    <td > 
+Bares que busquen gestionar el inventario y sus ventas. 
+
+
+  </td>
+    <td > 
+Bares que busquen darse a conocer en el rubro con alta interaccion con los usuarios. 
+
+
+
+</td>
+    <td >  
+Bares que necesiten gestionar el inventario, y sus eventos.
+
+</td>
+  </tr> 
+  
+  
+  <tr> 
+    <td > Perfil de Marketing </td> 
+    <td > Estrategias de Marketing </td>  
+    <td > Marketing a través de campañas digitales en redes sociales, realizar eventos, promociones y ofrecer recompensas. </td> 
+    <td > Promocionar por medio de Google Ads para encontrar en los resultados de los navegadores.  </td>
+    <td > Promocionar por medio de Google Ads para encontrar en los resultados de los navegadores. 
+
+Campañas digitales en redes sociales,  </td>
+    <td > Marketing a través de campañas digitales en redes sociales, realizar eventos, promociones y ofrecer recompensas. 
+
+Uso de Google Ads para encontrar en los resultados de los navegadores </td>
+  </tr> 
+
+  
+<tr> 
+    <td > Perfil de Producto </td> 
+    <td > Productos y servicios  </td>  
+    <td >Servicio de gestion de ventas en la aplicacion.  </td> 
+    <td > Servicio de gestion de ventas en la aplicacion. 
+
+ 
+
+Servicio de gestion inventario.  </td>
+    <td > Servicio de gestion de reservas.  </td>
+    <td > Servicio de gestion inventario. 
+
+ 
+
+Servicio de gestion publicitaria en la aplicacion. </td>
+  </tr> 
+
+
+
+
+<tr> 
+    <td > Perfil de Producto </td> 
+    <td >  Precio y costo </td>  
+    <td >Descarga Gratis  
+
+Comision por venta entre 3.5% a 5.5%. </td> 
+    <td > Descarga Gratis con funciones limiadas. 
+
+ 
+
+Suscripciones premium de  
+
+US$ 7.99/Mes 
+
+US$ 11.99/Mes 
+
+US$ 19.99/Mes con mayor opcion de funciones. </td>
+    <td > Descarga Gratis 
+
+ Anucios dentro es oscilan entre $0,30 y $4.  </td>
+    <td >  Descarga Gratis 
+
+Suscripciones premium de  
+
+US$ 7 /Mes 
+
+US$ 10/Mes 
+
+ 
+
+CPC entre $0,10 y $1,5. </td>
+  </tr> 
+
+<tr> 
+    <td > Perfil de Producto </td> 
+    <td > Canales de distribucion  </td>  
+    <td >Móvil </td> 
+    <td >Web y movil  </td>
+    <td > Web y movil  </td>
+    <td > Web y movil  </td>
+  </tr> 
+  
+  <tr> 
+    <td > Perfil de Producto </td> 
+    <td > Canales de distribucion  </td>  
+    <td >Móvil </td> 
+    <td >Web y movil  </td>
+    <td > Web y movil  </td>
+    <td > Web y movil  </td>
+  </tr> 
+
+
+
+<tr> 
+    <td > Análisis SWOT  </td> 
+    <td > Fortalezas  </td>  
+    <td >Uso rápido y fácil de la aplicación.   </td> 
+    <td >Facil manejo y control de funcionalidades para el bar. </td>
+    <td >La interaccion constante de los usuarios en la plataforma.  </td>
+    <td > Uso de herramientas publicitarias para promocionar bares.  </td>
+  </tr> 
+
+<tr> 
+    <td > Análisis SWOT  </td> 
+    <td > Debilidades   </td>  
+    <td >Baja tasa de interacion de los usuarios en Perú </td> 
+    <td >Baja interacción con los usuarios, soporte bajo nivel de asistencia. </td>
+    <td >No disponible en Perú  </td>
+    <td >Sistema de filtrado de busquedas.  </td>
+  </tr> 
+
+
+<tr> 
+    <td > Análisis SWOT  </td> 
+    <td > Oportunidades   </td>  
+    <td >Integracion de mayor funcionalidades de publicidad para los bares. </td> 
+    <td >Incrementar el numero de usuarios en su plataforma.  </td>
+    <td >Crecimiento de personas interesadas en conocer nuevos lugares en Perú. </td>
+    <td >Crecimiento de publico objetivo interesados en la aplicacion  </td>
+  </tr> 
+
+<tr> 
+    <td > Análisis SWOT  </td> 
+    <td > Amenazas   </td>  
+    <td >Solo contar con el movil para interactuar con la aplicacion. </td> 
+    <td >Soporte rápido para personas que sean de Brasil.  </td>
+    <td >Sotware con problemas de mantenimiento  </td>
+    <td >Tiempo de respuesta del servidor.  </td>
+  </tr> 
+
+
+</table>
+ 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
 -	Nosotros superaremos a la competencia al tener un completo grupo de profesionales que estarán constantemente actualizando productos con los que pueden ser canjeados por puntos.
