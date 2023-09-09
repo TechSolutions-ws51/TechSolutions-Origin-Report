@@ -916,9 +916,25 @@ tareas para los User Personas previamente definidos.
   <td style="text-align: justify;">Epic 4</td>
   </tr>
 </table>
+
 ## 3.3. Impact Mapping.
 
 ## 3.4. Product Backlog.
+
+<br><br>
+| <div align='center'> Orden | <div align='center'> User Story ID | <div align='center'> Descripción | <div align='center'> Story Points |
+|-------|--------------|-------------|--------------|
+| 3     | HU03         | Entrar a la página como invitado: Como usuario del servicio web, quiero una sección de entrar como invitado para la que no sea necesario la creación de cuenta. | <div align='center'> 3 |
+| 7     | HU07         | Eliminar mi Bar: Como usuario del servicio web, quiero eliminar mi bar registrado para que los clientes ya no miren el servicio. | <div align='center'> 3 |
+| 1     | HU01         | Crear cuenta común: Como usuario del servicio web, quiero una sección de creación de cuenta para tener y acceder con una cuenta propia. |<div align='center'> 5 |
+| 2     | HU02         | Crear cuenta con otras plataformas: Como usuario del servicio web, quiero una sección de diversos métodos para la creación de cuenta. | <div align='center'>5 |
+| 5     | HU05         | Añadir bar: Como usuario del servicio web, quiero registrar mi bar para que los clientes puedan interactuar con él. |<div align='center'> 5 |
+| 6     | HU06         | Modificar mi Bar: Como usuario del servicio web, quiero modificar datos de su bar para que los clientes puedan tener los datos actualizados. | <div align='center'>5 |
+| 8     | HU08         | Mostrar mesas disponibles: Como usuario del servicio web, quiero ver las mesas disponibles en los bares para poder reservar y no perder tiempo en la espera de alguna. | <div align='center'>5 |
+| 9     | HU09         | Reservar mesas: Como usuario del servicio web, quiero reservar el bar vía online y rápido para no perder tanto tiempo. | <div align='center'>5 |
+| 4     | HU04         | Catálogo de Bares: Como usuario del servicio web, quiero una sección de catálogos de bares que cuentan con diversos filtros para poder seleccionar con facilidad los bares cercanos, por el costo u otros. | <div align='center'>8 |
+| 10    | HU10         | Almacén de los productos: Como usuario del servicio web, quiero tener un centro de datos de mis productos del bar en tiempo real para mantener los stock de todos los productos y poder organizarlo mejor. | <div align='center'>8 |
+| 11    | HU11         | Administrar los productos: Como usuario del servicio web, quiero administrar todos los movimientos de mis productos para así poder supervisar mejor y más rápido la parte administrativa. | <div align='center'>8 |
 
 <br><br>
 
