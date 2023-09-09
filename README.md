@@ -2080,6 +2080,248 @@ Api Aplication:
 ### 4.7.2. Class Dictionary.
 
 ## 4.8. Database Design.
+
+<div align="justify">
+<b>Entities:</b>
+Con respecto a la elaboración del diseño de la base de datos, hemos tenido que analizar el inmerso panorama general el cual nuestro proyecto 
+se va a estar adentrando para canalizar y cerciorar que datos se estarán utilizando para equiparar el orden y la consistencia del mismo logrando ofrecer un flujo óptimo al momento de alojarlos. Es por ello que, en base a ello, podremos identificar cuales vendrían a ser nuestras entidades de las cuales serán participes para nuestro proceso de modelamiento respectivamente; estos vendrían a ser los siguientes:
+</div>
+
+<br>
+
+<p><b>- Entity customers:</b> Son los datos pertenecientes a los clientes que ingresaran al local.</p>
+<p><b>- Entity admins:</b> Es el equipo de desarrollo, creadores de la aplicación de los cuales administran cualquier eventualidad.</p>
+<p><b>- Entity forums:</b> Repositorio donde están las opiniones de las personas hacia el enfoque de la atención brindada.</p>
+<p><b>- Entity customer_support:</b> Facilita el seguimiento de los problemas o consultas de los usuarios, lo que permite un proceso de resolución mas eficiente y efectivo por parte del equipo de soporte.</p>
+<p><b>- Entity reservations:</b> Apartado de registro de los datos de la persona así como el motivo de la reservación.</p>
+<p><b>- Entity tables:</b> Determina el nombre que recibe dicha mesa y la capacidad de personas que puede alojar.</p>
+<p><b>- Entity waiters:</b> Son los datos pertenecientes a los meseros o meseras que trabajan en el establecimiento.</p>
+<p><b>- Entity bills:</b> Es el registro de la cuenta del usuario donde se contabiliza todo lo que ha consumido en el local.</p>
+<p><b>- Entity payments_methods:</b> Aloja los diversos medios de pago por los cuales el cliente cancelara su cuenta.</p>
+<p><b>- Entity card_data:</b> Proporciona el alojamiento de los datos que contiene una tarjeta para validar el pago. </p>
+<p><b>- Entity drinks:</b> Registros de los datos y características que tiene cada una de las bebidas.</p>
+<p><b>- Entity drinks_offers:</b> Establece y determina que ofertas en esos momentos están en ofertas en el establecimiento.</p>
+<p><b>- Entity offers:</b> contabiliza el descuento por las bebidas que ahora están en oferta, teniendo en cuenta una fecha limite establecida</p>
+<p><b>- Entity logs:</b> Registra las ventas de las bebidas que los comensales adquirieron en el local.</p>
+<p><b>- Entity sales:</b> Registra los detalles de las ventas de las bebidas que determinaran la ganancia del local.</p>
+<p><b>- Entity promotion_drinks:</b> Establece las promociones de bebidas vigentes en el local.</p>
+<p><b>- Entity promotions:</b> Determinar el precio de las bebidas que se encuentren en promoción. </p>
+<p><b>- Entity providers:</b> Son los datos descripticos el cual califican a nuestros proveedores.</p>
+<p><b>- Entity warehouses:</b> Registra los productos que se tienen almacenados por los proveedores.</p>
+<p><b>- Entity inventories:</b> Cantidad de bebidas que se encuentran en stock.</p>
+
+<br>
+<b>Atributes:</b>
+
+<b>- Entity customers:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key |
+|--- |--- |--- |--- |
+| id_customer | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| first_name | <center>NVARCHAR(20)</center> | <center>YES</center> | <center>NO</center> |
+| last_name | <center>NVARCHAR(30)</center> | <center>YES</center> | <center>NO</center> |
+| birthdate | <center>DATE</center> | <center>YES</center> | <center>NO</center> |
+| email | <center>NVARCHAR(70)</center> | <center>YES</center> | <center>NO</center> |
+| phone_number | <center>NVARCHAR(9)</center> | <center>YES</center> |  <center>NO</center> |
+| forums_id_forum | <center>INTENRGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+| admins_id_admin | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+
+<br>
+
+<b>- Entity admins;</b>
+| Attribute | Type | Is mandatory? | Is Primary Key |
+|--- |--- |--- |--- |
+| id_admin|  <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| admin_name | <center>NVARCHAR(60)</center> | <center>YES</center> | <center>NO</center> |
+| admin_last_name | <center>NVARCHAR(30)</center> | <center>YES</center> | <center>NO</center> |
+| email | <center>NVARCHAR(70)</center> | <center>YES</center> | <center>NO</center> |
+| phone_number | <center>NVARCHAR(9)</center> | <center>YES</center> |  <center>NO</center> |
+
+<br>
+
+<b>- Entity forums:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key |
+|--- |--- |--- |--- |
+| id_forum | <center>INTENGER</center> | <center>YES</center>  | <center>YES</center> |
+| title | <center>NVARCHAR(40)</center> | <center>YES</center>  | <center>NO</center> |
+| description | <center>NVARCHAR(100)</center> | <center>YES</center>  | <center>NO</center> |
+| publication_date | <center>DATE</center> | <center>YES</center>  | <center>NO</center> |
+
+<br>
+
+<b>- Entity customer_support:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key |
+|--- |--- |--- |--- |
+| admins_id_admin | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
+| forums_id_forum | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
+
+<br>
+
+<b>- Entity reservations:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key|
+|--- |--- |--- |--- |
+| id_reservation | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| amount_people | <center>INTENGER</center> | <center>YES</center> | <center>NO</center> |
+| reason_meeting | <center>NVARCHAR(30)</center>| <center>YES</center> | <center>NO</center> |
+| date_reservation | <center>DATE</center> | <center>YES</center> | <center>NO</center> |
+| hour | <center>TIME</center> | <center>YES</center> | <center>NO</center> |
+| extra_time | <center>TIME</center> | <center>YES</center> | <center>NO</center> |
+| customers_id_customer | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center>|
+
+<br>
+
+<b>- Entity tables:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key|
+|--- |--- |--- |--- |
+| id_mesa | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| name | <center>NVARCHAR(6)</center> | <center>YES</center> | <center>NO</center> |
+| capacity |<center>INTENGER</center>| <center>YES</center> | <center>NO</center> |
+| waiters_id_waiter | <center>INTENGER</center>| <center>YES</center> | <center>NO</center> |
+| reservations_id_reservation | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center>  |
+
+<br>
+
+<b>- Entity waiters:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key|
+|--- |--- |--- |--- |
+| id_waiter | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| first_name | <center>NVARCHAR(20)</center> | <center>YES</center> | <center>NO</center> |
+| last_name| <center>NVARCHAR(30)</center> | <center>YES</center> | <center>NO</center> |
+| antry_time | <center>TIME</center> | <center>YES</center> | <center>NO</center> |
+| depature_time | <center>TIME</center> | <center>YES</center> | <center>NO</center> |
+
+<br>
+
+<b>- Entity bills:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key|
+|--- |--- |--- |--- |
+| id_bill | <center>INTENGER</center> | <center>YES</center> | <center>YES</center>|
+| waiters_id_waiter | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+| drinks_id_frink | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+| drinks_offers_drinks_id_drink | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+| drinks_offers_offers_id_offer | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center>|
+
+<br>
+
+<b>- Entity payments_methods:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key|
+|--- |--- |--- |--- |
+| id_pay_method | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| name| <center>NVARCHAR(20)</center> | <center>YES</center> | <center>NO</center> |
+| description | <center>NVARCHAR(30)</center> | <center>YES</center> | <center>NO</center> |
+| card_data_id_card_data | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+| bills_id_bill | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+
+<br>
+
+<b>- Entity card_data:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key|
+|--- |--- |--- |--- |
+| id_card_data | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| card_numbers | <center>BIGINT</center> | <center>YES</center> | <center>NO</center> |
+| date | <center>SMALLINT</center> | <center>YES</center> | <center>NO</center> |
+| CVV | <center>SMALLINT</center> | <center>YES</center> |<center>NO</center> |
+
+<br>
+
+<b>- Entity drinks:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key|
+|--- |--- |--- |--- |
+| id_drink | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| drink_name | NVARCHAR(35) | <center>YES</center> | <center>NO</center> |
+| brand | <center>NVARCHAR(20)</center> | <center>YES</center> | <center>NO</center> |
+| number_liters | <center>INTENGER</center> | <center>YES</center> | <center>NO</center> |
+| cost | <center>FLOAT</center> | <center>YES</center> | <center>NO</center> |
+| providers_id_provider | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+
+<br>
+
+<b>- Entity drinks_offers:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key|
+|--- |--- |--- |--- |
+| drinks_id_drink | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
+| offers_id_offer | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
+
+<br>
+
+<b>- Entity offers:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key|
+|--- |--- |--- |--- |
+| id_offer | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| discount | <center>FLOAT</center> | <center>YES</center> | <center>NO</center>|
+| start_date | <center>DATE</center> | <center>YES</center> | <center>NO</center> |
+| finish_date | <center>DATE</center> | <center>YES</center> | <center>NO</center> |
+| promo_code | <center>NVARCHAR(13)</center> | <center>YES</center> | <center>NO</center> |
+
+<br>
+
+<b>- Entity logs:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key|
+|--- |--- |--- |--- |
+| id_sale | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| sales_id_sale | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+| drinks_id_drink | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+
+<br>
+
+<b>- Entity sales:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key|
+|--- |--- |--- |--- |
+| id_sale | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| sale_date | <center>DATE</center> | <center>YES</center> | <center>NO</center> |
+| quantity | <center>INTENGER</center> | <center>YES</center> |  <center>NO</center>|
+| business_name | <center>INTENGER</center> | <center>YES</center> | <center>NO</center> |
+| total_purchase | <center>INTENGER</center> | <center>YES</center> | <center>NO</center> |
+
+<br>
+
+<b>- Entity promotion_drinks:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key|
+|--- |--- |--- |--- |
+| drinks_id_drink | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
+| promotions_id_promotion | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
+
+<br>
+
+<b>- Entity promotions:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key|
+|--- |--- |--- |--- |
+| id_promotion | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| price | <center>FLOAT</center> | <center>YES</center> | <center>NO</center> |
+| desription | <center>NVARCHAR(100)</center>| <center>YES</center> | <center>NO</center> |
+
+<br>
+
+<b>- Entity providers:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key|
+|--- |--- |--- |--- |
+| id_provider | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| first_name | <center>NVARCHAR(20)</center> | <center>YES</center> | <center>NO</center> |
+| last_name | <center>NVARCHAR(30)</center> | <center>YES</center> | <center>NO</center> |
+| address | <center>NVARCHAR(70)</center> | <center>YES</center> | <center>NO</center> |
+| phone_number | <center>NVARCHAR(9)</center> | <center>YES</center> | <center>NO</center> |
+| email | <center>NVARCHAR(50)</center> | <center>YES</center> | <center>NO</center> |
+| RUC | <center>BIGINT</center> | <center>YES</center> | <center>NO</center> |
+
+<br>
+
+<b>- Entity warehouses:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key|
+|--- |--- |--- |--- |
+| inventories_id_inventor | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
+| providers_id_provider | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
+
+<br>
+
+<b>- Entity inventories:</b>
+| Attribute | Type | Is mandatory? | Is Primary Key|
+|--- |--- |--- |--- |
+| id_inventory | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| stock | <center>TINYINT</center> | <center>YES</center> | <center>NO</center> |
+| desription | <center>NVARCHAR(100)</center> | <center>YES</center> | <center>NO</center> |
+| total | <center>BIGINT</center> | <center>YES</center> | <center>NO</center> |
+
+<br>
+
 ### 4.8.1. Database Diagram.
 
 <br><br>
