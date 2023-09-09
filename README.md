@@ -2758,6 +2758,13 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 ## 5.4. Video About-the-Product.
 
 
+<div align='center'>
+<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1150212284627562537/image.png" width="750" height="350">
+</div>
+<b>Link del video:</b>  
+<p>https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b895_upc_edu_pe/EbTIlFuRZuBLrgRn1UC7VhYBbLYO6Jf60LeNcmVKg8v7wQ?e=a7yNRk
+</p>
+
 # Conclusiones
 ## Conclusiones y recomendaciones.
 ## Video About-the-Team.
