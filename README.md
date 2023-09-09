@@ -2476,7 +2476,7 @@ En el sprint 1, se logró implementar del despliegue de la Landing page. En el q
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-
+Esta sección aun no ha sido completada para la evidencia de la documentación, pero estamos trabajando internamente para completarlo.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Para el desarrollo del Landing Page TechSolution se ha utilizado los siguientes lenguajes:
