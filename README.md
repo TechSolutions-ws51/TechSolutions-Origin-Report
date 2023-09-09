@@ -561,15 +561,6 @@ US$ 10/Mes
 CPC entre $0,10 y $1,5. </td>
   </tr> 
 
-<tr> 
-    <td > Perfil de Producto </td> 
-    <td > Canales de distribucion  </td>  
-    <td >Móvil </td> 
-    <td >Web y movil  </td>
-    <td > Web y movil  </td>
-    <td > Web y movil  </td>
-  </tr> 
-  
   <tr> 
     <td > Perfil de Producto </td> 
     <td > Canales de distribucion  </td>  
@@ -636,8 +627,6 @@ CPC entre $0,10 y $1,5. </td>
 -	Tendremos mucho más alcance con nuestra publicidad y alianzas estratégicas. 
 
 -	Implementaremos un sector en el que los usuarios puedan comentar algunas sugerencias con respecto a la aplicación, es decir, podrán comentar o calificar con un rango de estrellas, el cual sea de su preferencia, para mantenernos informados y realizar mejoras a nuestro servicio.
-
-### 2.1.2 Estrategias y tácticas frente a competidores
 
 Considerando el SWOF, desarrollamos las siguientes estrategias:
 
@@ -2108,6 +2097,8 @@ Sobre Software Architecture Container Diagrams, son representaciones visuales qu
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1150053277724053534/structurizr-Container-001_2.png?width=211&height=423"width="375" height="692">
     </td>
   </tr>
+
+  
 
 ### 4.6.3. Software Architecture Components Diagrams.  
 
