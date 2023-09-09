@@ -1349,13 +1349,15 @@ Link del apartado móvil: https://www.figma.com/file/N8EmdAUWapHigf4Lk8sGHr/Web-
 ***Vista previa del wireframe para el apartado de escritorio.***
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149742021024698499/Imagen2.png?width=224&height=386"width="250" height="400">
+      <div align="center">
+      <img src="https://media.discordapp.net/attachments/892430247042105427/1150134263858069654/image.png?width=253&height=564" width="300" height="700">
+      </div>
     </td>
   </tr>
 
 <br>
 
-El link del apartado de escritorio: https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=317-2245&mode=design&t=V3E4RrnPyXstUB4s-0
+El link del apartado de escritorio: <a href="https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=397%3A3611&mode=design&t=jL9xPnI96j5KRImq-1">https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=397%3A3611&mode=design&t=jL9xPnI96j5KRImq-1</a>
 
 Para la elaboración de los Wireframes de la Landing page, se tomó en cuenta los elementos y principios de diseño, esto se puede apreciar para la creación de formas usando los elementos de dirección y línea, las cuales lo usamos para difenciar tanto las imágenes como los componentes que forman parte del landing page.
 
@@ -1363,7 +1365,39 @@ En este caso, se puede observar los distintos elementos que se usaron para difer
 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149742580825870367/Imagen3.png?width=1032&height=625"width="480" height="300">
+      <div align='center'>
+      <img  src="https://media.discordapp.net/attachments/892430247042105427/1150135122641834084/image.png?width=831&height=564" width="600" height="400">
+      </div>
+    </td>
+  </tr>
+
+<br>
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <div align='center'>
+      <img  src="https://media.discordapp.net/attachments/892430247042105427/1150136506795688127/image.png?width=759&height=564" width="600" height="400">
+      </div>
+    </td>
+  </tr>
+
+  <br>
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <div align='center'>
+      <img  src="https://media.discordapp.net/attachments/892430247042105427/1150137095084572852/image.png?width=760&height=564" width="600" height="400">
+      </div>
+    </td>
+  </tr>
+
+  <br>
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <div align='center'>
+      <img  src="https://media.discordapp.net/attachments/892430247042105427/1150137459896762539/image.png?width=750&height=564" width="600" height="400">
+      </div>
     </td>
   </tr>
 
