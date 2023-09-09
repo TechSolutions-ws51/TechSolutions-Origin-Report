@@ -1165,6 +1165,7 @@ https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc
 
 ## 4.1. Style Guidelines.
 
+### 4.1.1 General Style Guidelines
 Nuestro producto de aplicación web que se diseñara es LoyalSips, la cual ofrece al cliente una solución tecnológica para que el problema de separar mesas en un bar o que los precios de los bares sean muy altos, en nuestra web podra reservar un espacio comodo y tambien encontrara ofertas de bebidas, un plus que tiene nuestra web es que cada vez que el cliente compre un trago se le incluiran puntos para que pueda canjear un trago cuando llegue a los puntos requeridos Para los estilos utilizados se tomará en cuenta la satisfacción del cliente y su experiencia.
 Los colores que se están utilizando para nuestra solución (Landing Page y Web site) son los siguientes: 
 <br><br>
@@ -1185,9 +1186,9 @@ Por otro lado Usamos el tipo de letra San Francisco.
     </td>
   </tr>
 
-### 4.1.1. General Style Guidelines.
-
 ### 4.1.2. Web Style Guidelines.
+
+Para el diseño de la web se establecieron los colores ya antes mencionados, Turquesa, negro y morado. El estilo de letra que se utilizará en la aplicación web es San Francisco. Para todo esto hemos tenido en cuenta que cada cliente tiene un distinto dispositivo, por esta razón hemos decidido hacer nuestra web con los principios responsive.
 
 ## 4.2. Information Architecture.
 
