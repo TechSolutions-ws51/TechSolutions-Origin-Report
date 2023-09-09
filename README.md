@@ -401,6 +401,14 @@ Cuando en el primer año que nuestro producto sea lanzado, sea solicitado por m�
 
 ## 1.3. Segmentos objetivo.
 
+Nosotros tenemos 2 puntos muy importantes que consideramos en el segmento objetivo:
+
+1._Los clientes de Bares: Este segmento incluye a las personas que visitan diveros bares y establecimientos similares con cierta frecuencia. Ellos pueden variar en sus edades siempre y cuando sean mayores de edad, pero todos ellos comparten el interés en disfrutar de bebidas en estos lugares.
+
+
+2._ Dueños y Gerentes de Bares: Este segmento tambien está enfocado en los propietarios, gerentes de bares y restaurantes que desean mejorar sus diversas operaciones y mejorar eficientemente, especialmente en lo que respecta al control de inventario.
+
+
 <br><br>
 
 # Capítulo II: Requirements Elicitation & Analysis
