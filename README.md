@@ -2410,21 +2410,30 @@ Es asi como nosotros verificamos el cambio en la linea de trabajo:
 ## 5.2. Landing Page, Services & Applications Implementation.
 <p>En esta sección el equipo ha implementado a la página de inicio, servicios y aplicaciones de "LoyalSips" que se enfoca en presentar de manera efectiva los bares y ofertas, permitiendo a los usuarios buscar, reservar y calificar, tanto en el sitio web como en la aplicación móvil.</p>  
 
-### 5.2.X. Sprint n
+### 5.2.1. Sprint 1
 
-#### 5.2.X.1. Sprint Planning n.
+#### 5.2.1.1. Sprint Planning 1.
 
-#### 5.2.X.2. Sprint Backlog n.
+#### 5.2.1.2. Sprint Backlog 1.
 
-#### 5.2.X.3. Development Evidence for Sprint Review.
+#### 5.2.1.3. Development Evidence for Sprint Review.
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+Para la entrega del Sprint 1, se tuvo pensado alcanzar el desarrollo completo del despliegue del Landing page. En esta sección presentamos la implementación del Landing page, tratando de alcanzar el diseño original que se realizó en Figma, de tal modo que el usuario tenga una buena experiencia de usuario.
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+| Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
+| [LoyalSips-LandingPage](https://github.com/IsaacAmp24/LoyalSips-LandingPage.git) | Feature/TS-LandingPage | feature:home-section add     | Initial commit | Se creó el proyecto | 08/09/2023          |
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Para el desarrollo del Landing Page TechSolution se ha utilizado los siguientes lenguajes:
 
