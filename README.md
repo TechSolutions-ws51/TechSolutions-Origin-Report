@@ -637,37 +637,6 @@ CPC entre $0,10 y $1,5. </td>
 
 -	Implementaremos un sector en el que los usuarios puedan comentar algunas sugerencias con respecto a la aplicación, es decir, podrán comentar o calificar con un rango de estrellas, el cual sea de su preferencia, para mantenernos informados y realizar mejoras a nuestro servicio.
 
-### 2.1.2 Estrategias y tácticas frente a competidores
-
-Considerando el SWOF, desarrollamos las siguientes estrategias:
-
-**Estrategias para Fortalezas:**
-- **EF1:** Promocionar la facilidad de uso de la aplicación como un punto de venta único.
-- **EF2:** Ofrecer capacitación y recursos para ayudar a los bares a aprovechar al máximo las funcionalidades de la plataforma.
-- **EF3:** Fomentar la interacción de los usuarios a través de programas de recompensas o promociones.
-- **EF4:** Continuar utilizando herramientas publicitarias de manera efectiva para promocionar bares.
-
-**Estrategias para Debilidades:**
-- **ED1:** Implementar estrategias específicas para aumentar la interacción de los usuarios en Perú.
-- **ED2:** Mejorar el soporte al cliente y proporcionar una mayor asistencia.
-- **ED3:** Explorar la expansión de la plataforma a Perú.
-- **ED4:** Resolver los problemas del sistema de filtrado de búsquedas de manera proactiva.
-
-**Estrategias para Oportunidades:**
-- **EO1:** Desarrollar y promocionar nuevas funcionalidades de publicidad para atraer a más bares.
-- **EO2:** Lanzar campañas de marketing agresivas para aumentar la base de usuarios.
-- **EO3:** Centrarse en la expansión de la aplicación en Perú, aprovechando el interés en lugares nuevos.
-- **EO4:** Personalizar las ofertas y características de la aplicación para atraer al público objetivo en crecimiento.
-
-**Estrategias para Amenazas:**
-- **EA1:** Explorar la posibilidad de ofrecer una versión de escritorio de la aplicación para reducir la dependencia de dispositivos móviles.
-- **EA2:** Establecer un sistema de soporte específico para usuarios en 3 lenaguajes español, ingles y portuguese.
-- **EA3:** Priorizar el mantenimiento y la solución de problemas de software de manera continua.
-- **EA4:** Optimizar el rendimiento del servidor y reducir el tiempo de respuesta.
-
-Con ello podremos cubrir puntos de carencias y mejorar aspectos para nuestro proyecto.
-
-
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
   **USUARIOS:**
@@ -1193,33 +1162,10 @@ https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc
 <br><br>
 
 # Capítulo IV: Product Design
-
 ## 4.1. Style Guidelines.
-
-### 4.1.1 General Style Guidelines
-Nuestro producto de aplicación web que se diseñara es LoyalSips, la cual ofrece al cliente una solución tecnológica para que el problema de separar mesas en un bar o que los precios de los bares sean muy altos, en nuestra web podra reservar un espacio comodo y tambien encontrara ofertas de bebidas, un plus que tiene nuestra web es que cada vez que el cliente compre un trago se le incluiran puntos para que pueda canjear un trago cuando llegue a los puntos requeridos Para los estilos utilizados se tomará en cuenta la satisfacción del cliente y su experiencia.
-Los colores que se están utilizando para nuestra solución (Landing Page y Web site) son los siguientes: 
-<br><br>
-
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1149549523522289684/image.png"width="403" height="87">
-    </td>
-  </tr>
-<br>
-<br>
-Por otro lado Usamos el tipo de letra San Francisco.
-<br>
-<br>
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1149548371288277044/image.png"width="288" height="447">
-    </td>
-  </tr>
+### 4.1.1. General Style Guidelines.
 
 ### 4.1.2. Web Style Guidelines.
-
-Para el diseño de la web se establecieron los colores ya antes mencionados, Turquesa, negro y morado. El estilo de letra que se utilizará en la aplicación web es San Francisco. Para todo esto hemos tenido en cuenta que cada cliente tiene un distinto dispositivo, por esta razón hemos decidido hacer nuestra web con los principios responsive.
 
 ## 4.2. Information Architecture.
 
@@ -1380,15 +1326,13 @@ Link del apartado móvil: https://www.figma.com/file/N8EmdAUWapHigf4Lk8sGHr/Web-
 ***Vista previa del wireframe para el apartado de escritorio.***
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <div align="center">
-      <img src="https://media.discordapp.net/attachments/892430247042105427/1150134263858069654/image.png?width=253&height=564" width="300" height="700">
-      </div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149742021024698499/Imagen2.png?width=224&height=386"width="250" height="400">
     </td>
   </tr>
 
 <br>
 
-El link del apartado de escritorio: <a href="https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=397%3A3611&mode=design&t=jL9xPnI96j5KRImq-1">https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=397%3A3611&mode=design&t=jL9xPnI96j5KRImq-1</a>
+El link del apartado de escritorio: https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=317-2245&mode=design&t=V3E4RrnPyXstUB4s-0
 
 Para la elaboración de los Wireframes de la Landing page, se tomó en cuenta los elementos y principios de diseño, esto se puede apreciar para la creación de formas usando los elementos de dirección y línea, las cuales lo usamos para difenciar tanto las imágenes como los componentes que forman parte del landing page.
 
@@ -1396,39 +1340,7 @@ En este caso, se puede observar los distintos elementos que se usaron para difer
 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <div align='center'>
-      <img  src="https://media.discordapp.net/attachments/892430247042105427/1150135122641834084/image.png?width=831&height=564" width="600" height="400">
-      </div>
-    </td>
-  </tr>
-
-<br>
-
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <div align='center'>
-      <img  src="https://media.discordapp.net/attachments/892430247042105427/1150136506795688127/image.png?width=759&height=564" width="600" height="400">
-      </div>
-    </td>
-  </tr>
-
-  <br>
-
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <div align='center'>
-      <img  src="https://media.discordapp.net/attachments/892430247042105427/1150137095084572852/image.png?width=760&height=564" width="600" height="400">
-      </div>
-    </td>
-  </tr>
-
-  <br>
-
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <div align='center'>
-      <img  src="https://media.discordapp.net/attachments/892430247042105427/1150137459896762539/image.png?width=750&height=564" width="600" height="400">
-      </div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149742580825870367/Imagen3.png?width=1032&height=625"width="480" height="300">
     </td>
   </tr>
 
@@ -2083,51 +1995,12 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
   </tr>
   <br><br>
 
-## 4.6. Domain-Driven Software Architecture.  
+## 4.6. Domain-Driven Software Architecture.
+### 4.6.1. Software Architecture Context Diagram.
 
-En esta seccion, se presentarán los diagramas de arquitectura de software desarrollados para nuestra aplicacion web. Hemos considerado el enfoque Domain-Driven, de tal forma podemos reflejar la estructura del diseño empleado para nuestro proyecto. 
+### 4.6.2. Software Architecture Container Diagrams.
 
- 
-
-### 4.6.1. Software Architecture Context Diagram.  
-
-En la seccion de Software Architecture Context Diagram, es una representación visual que muestra cómo un sistema de software interactúa con su entorno. Este diagrama ayuda a comprender las relaciones y dependencias del sistema en su entorno, siendo una herramienta clave en el diseño de la arquitectura de software. 
-
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150047809362468984/structurizr-SystemContext-001_1.png?width=865&height=423"width="775" height="592">
-    </td>
-  </tr>
-
-### 4.6.2. Software Architecture Container Diagrams. 
-
-Sobre Software Architecture Container Diagrams, son representaciones visuales que muestran cómo un sistema de software se divide en contenedores, que son unidades lógicas de alto nivel que contienen componentes y servicios relacionados. Nos premite  comprender la estructura general de un sistema y cómo interactúan sus partes principales, siendo una parte importante de la documentación de la arquitectura de software. 
-
- <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150053277724053534/structurizr-Container-001_2.png?width=211&height=423"width="375" height="692">
-    </td>
-  </tr>
-
-### 4.6.3. Software Architecture Components Diagrams.  
-
-Con respecto a Software Architecture Components Diagrams, son representaciones visuales que ilustran cómo los sistemas de software se componen en diferentes módulos o componentes, mostrando las relaciones y dependencias entre ellos. 
-
-Api Aplication:  
-
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150098538810847333/structurizr-Component-001_1.png?width=413&height=423"width="475" height="592">
-    </td>
-  </tr>
-
-  Web Aplication:  
-
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150102558770212994/structurizr-Component-001_2.png?width=277&height=423"width="475" height="592">
-    </td>
-  </tr>
+### 4.6.3. Software Architecture Components Diagrams.
 
 ## 4.7. Software Object-Oriented Design.
 
@@ -2145,256 +2018,7 @@ Api Aplication:
 ### 4.7.2. Class Dictionary.
 
 ## 4.8. Database Design.
-
-<div align="justify">
-<b>Entities:</b>
-Con respecto a la elaboración del diseño de la base de datos, hemos tenido que analizar el inmerso panorama general el cual nuestro proyecto 
-se va a estar adentrando para canalizar y cerciorar que datos se estarán utilizando para equiparar el orden y la consistencia del mismo logrando ofrecer un flujo óptimo al momento de alojarlos. Es por ello que, en base a ello, podremos identificar cuales vendrían a ser nuestras entidades de las cuales serán participes para nuestro proceso de modelamiento respectivamente; estos vendrían a ser los siguientes:
-</div>
-
-<br>
-
-<p><b>- Entity customers:</b> Son los datos pertenecientes a los clientes que ingresaran al local.</p>
-<p><b>- Entity admins:</b> Es el equipo de desarrollo, creadores de la aplicación de los cuales administran cualquier eventualidad.</p>
-<p><b>- Entity forums:</b> Repositorio donde están las opiniones de las personas hacia el enfoque de la atención brindada.</p>
-<p><b>- Entity customer_support:</b> Facilita el seguimiento de los problemas o consultas de los usuarios, lo que permite un proceso de resolución mas eficiente y efectivo por parte del equipo de soporte.</p>
-<p><b>- Entity reservations:</b> Apartado de registro de los datos de la persona así como el motivo de la reservación.</p>
-<p><b>- Entity tables:</b> Determina el nombre que recibe dicha mesa y la capacidad de personas que puede alojar.</p>
-<p><b>- Entity waiters:</b> Son los datos pertenecientes a los meseros o meseras que trabajan en el establecimiento.</p>
-<p><b>- Entity bills:</b> Es el registro de la cuenta del usuario donde se contabiliza todo lo que ha consumido en el local.</p>
-<p><b>- Entity payments_methods:</b> Aloja los diversos medios de pago por los cuales el cliente cancelara su cuenta.</p>
-<p><b>- Entity card_data:</b> Proporciona el alojamiento de los datos que contiene una tarjeta para validar el pago. </p>
-<p><b>- Entity drinks:</b> Registros de los datos y características que tiene cada una de las bebidas.</p>
-<p><b>- Entity drinks_offers:</b> Establece y determina que ofertas en esos momentos están en ofertas en el establecimiento.</p>
-<p><b>- Entity offers:</b> contabiliza el descuento por las bebidas que ahora están en oferta, teniendo en cuenta una fecha limite establecida</p>
-<p><b>- Entity logs:</b> Registra las ventas de las bebidas que los comensales adquirieron en el local.</p>
-<p><b>- Entity sales:</b> Registra los detalles de las ventas de las bebidas que determinaran la ganancia del local.</p>
-<p><b>- Entity promotion_drinks:</b> Establece las promociones de bebidas vigentes en el local.</p>
-<p><b>- Entity promotions:</b> Determinar el precio de las bebidas que se encuentren en promoción. </p>
-<p><b>- Entity providers:</b> Son los datos descripticos el cual califican a nuestros proveedores.</p>
-<p><b>- Entity warehouses:</b> Registra los productos que se tienen almacenados por los proveedores.</p>
-<p><b>- Entity inventories:</b> Cantidad de bebidas que se encuentran en stock.</p>
-
-<br>
-<b>Atributes:</b>
-
-<b>- Entity customers:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key |
-|--- |--- |--- |--- |
-| id_customer | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| first_name | <center>NVARCHAR(20)</center> | <center>YES</center> | <center>NO</center> |
-| last_name | <center>NVARCHAR(30)</center> | <center>YES</center> | <center>NO</center> |
-| birthdate | <center>DATE</center> | <center>YES</center> | <center>NO</center> |
-| email | <center>NVARCHAR(70)</center> | <center>YES</center> | <center>NO</center> |
-| phone_number | <center>NVARCHAR(9)</center> | <center>YES</center> |  <center>NO</center> |
-| forums_id_forum | <center>INTENRGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
-| admins_id_admin | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
-
-<br>
-
-<b>- Entity admins;</b>
-| Attribute | Type | Is mandatory? | Is Primary Key |
-|--- |--- |--- |--- |
-| id_admin|  <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| admin_name | <center>NVARCHAR(60)</center> | <center>YES</center> | <center>NO</center> |
-| admin_last_name | <center>NVARCHAR(30)</center> | <center>YES</center> | <center>NO</center> |
-| email | <center>NVARCHAR(70)</center> | <center>YES</center> | <center>NO</center> |
-| phone_number | <center>NVARCHAR(9)</center> | <center>YES</center> |  <center>NO</center> |
-
-<br>
-
-<b>- Entity forums:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key |
-|--- |--- |--- |--- |
-| id_forum | <center>INTENGER</center> | <center>YES</center>  | <center>YES</center> |
-| title | <center>NVARCHAR(40)</center> | <center>YES</center>  | <center>NO</center> |
-| description | <center>NVARCHAR(100)</center> | <center>YES</center>  | <center>NO</center> |
-| publication_date | <center>DATE</center> | <center>YES</center>  | <center>NO</center> |
-
-<br>
-
-<b>- Entity customer_support:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key |
-|--- |--- |--- |--- |
-| admins_id_admin | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
-| forums_id_forum | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
-
-<br>
-
-<b>- Entity reservations:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
-|--- |--- |--- |--- |
-| id_reservation | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| amount_people | <center>INTENGER</center> | <center>YES</center> | <center>NO</center> |
-| reason_meeting | <center>NVARCHAR(30)</center>| <center>YES</center> | <center>NO</center> |
-| date_reservation | <center>DATE</center> | <center>YES</center> | <center>NO</center> |
-| hour | <center>TIME</center> | <center>YES</center> | <center>NO</center> |
-| extra_time | <center>TIME</center> | <center>YES</center> | <center>NO</center> |
-| customers_id_customer | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center>|
-
-<br>
-
-<b>- Entity tables:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
-|--- |--- |--- |--- |
-| id_mesa | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| name | <center>NVARCHAR(6)</center> | <center>YES</center> | <center>NO</center> |
-| capacity |<center>INTENGER</center>| <center>YES</center> | <center>NO</center> |
-| waiters_id_waiter | <center>INTENGER</center>| <center>YES</center> | <center>NO</center> |
-| reservations_id_reservation | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center>  |
-
-<br>
-
-<b>- Entity waiters:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
-|--- |--- |--- |--- |
-| id_waiter | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| first_name | <center>NVARCHAR(20)</center> | <center>YES</center> | <center>NO</center> |
-| last_name| <center>NVARCHAR(30)</center> | <center>YES</center> | <center>NO</center> |
-| antry_time | <center>TIME</center> | <center>YES</center> | <center>NO</center> |
-| depature_time | <center>TIME</center> | <center>YES</center> | <center>NO</center> |
-
-<br>
-
-<b>- Entity bills:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
-|--- |--- |--- |--- |
-| id_bill | <center>INTENGER</center> | <center>YES</center> | <center>YES</center>|
-| waiters_id_waiter | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
-| drinks_id_frink | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
-| drinks_offers_drinks_id_drink | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
-| drinks_offers_offers_id_offer | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center>|
-
-<br>
-
-<b>- Entity payments_methods:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
-|--- |--- |--- |--- |
-| id_pay_method | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| name| <center>NVARCHAR(20)</center> | <center>YES</center> | <center>NO</center> |
-| description | <center>NVARCHAR(30)</center> | <center>YES</center> | <center>NO</center> |
-| card_data_id_card_data | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
-| bills_id_bill | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
-
-<br>
-
-<b>- Entity card_data:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
-|--- |--- |--- |--- |
-| id_card_data | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| card_numbers | <center>BIGINT</center> | <center>YES</center> | <center>NO</center> |
-| date | <center>SMALLINT</center> | <center>YES</center> | <center>NO</center> |
-| CVV | <center>SMALLINT</center> | <center>YES</center> |<center>NO</center> |
-
-<br>
-
-<b>- Entity drinks:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
-|--- |--- |--- |--- |
-| id_drink | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| drink_name | NVARCHAR(35) | <center>YES</center> | <center>NO</center> |
-| brand | <center>NVARCHAR(20)</center> | <center>YES</center> | <center>NO</center> |
-| number_liters | <center>INTENGER</center> | <center>YES</center> | <center>NO</center> |
-| cost | <center>FLOAT</center> | <center>YES</center> | <center>NO</center> |
-| providers_id_provider | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
-
-<br>
-
-<b>- Entity drinks_offers:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
-|--- |--- |--- |--- |
-| drinks_id_drink | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
-| offers_id_offer | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
-
-<br>
-
-<b>- Entity offers:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
-|--- |--- |--- |--- |
-| id_offer | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| discount | <center>FLOAT</center> | <center>YES</center> | <center>NO</center>|
-| start_date | <center>DATE</center> | <center>YES</center> | <center>NO</center> |
-| finish_date | <center>DATE</center> | <center>YES</center> | <center>NO</center> |
-| promo_code | <center>NVARCHAR(13)</center> | <center>YES</center> | <center>NO</center> |
-
-<br>
-
-<b>- Entity logs:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
-|--- |--- |--- |--- |
-| id_sale | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| sales_id_sale | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
-| drinks_id_drink | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
-
-<br>
-
-<b>- Entity sales:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
-|--- |--- |--- |--- |
-| id_sale | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| sale_date | <center>DATE</center> | <center>YES</center> | <center>NO</center> |
-| quantity | <center>INTENGER</center> | <center>YES</center> |  <center>NO</center>|
-| business_name | <center>INTENGER</center> | <center>YES</center> | <center>NO</center> |
-| total_purchase | <center>INTENGER</center> | <center>YES</center> | <center>NO</center> |
-
-<br>
-
-<b>- Entity promotion_drinks:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
-|--- |--- |--- |--- |
-| drinks_id_drink | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
-| promotions_id_promotion | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
-
-<br>
-
-<b>- Entity promotions:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
-|--- |--- |--- |--- |
-| id_promotion | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| price | <center>FLOAT</center> | <center>YES</center> | <center>NO</center> |
-| desription | <center>NVARCHAR(100)</center>| <center>YES</center> | <center>NO</center> |
-
-<br>
-
-<b>- Entity providers:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
-|--- |--- |--- |--- |
-| id_provider | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| first_name | <center>NVARCHAR(20)</center> | <center>YES</center> | <center>NO</center> |
-| last_name | <center>NVARCHAR(30)</center> | <center>YES</center> | <center>NO</center> |
-| address | <center>NVARCHAR(70)</center> | <center>YES</center> | <center>NO</center> |
-| phone_number | <center>NVARCHAR(9)</center> | <center>YES</center> | <center>NO</center> |
-| email | <center>NVARCHAR(50)</center> | <center>YES</center> | <center>NO</center> |
-| RUC | <center>BIGINT</center> | <center>YES</center> | <center>NO</center> |
-
-<br>
-
-<b>- Entity warehouses:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
-|--- |--- |--- |--- |
-| inventories_id_inventor | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
-| providers_id_provider | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
-
-<br>
-
-<b>- Entity inventories:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
-|--- |--- |--- |--- |
-| id_inventory | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| stock | <center>TINYINT</center> | <center>YES</center> | <center>NO</center> |
-| desription | <center>NVARCHAR(100)</center> | <center>YES</center> | <center>NO</center> |
-| total | <center>BIGINT</center> | <center>YES</center> | <center>NO</center> |
-
-<br>
-
 ### 4.8.1. Database Diagram.
-En esta apartado, se podrá observar como las entidades y atributos mencionados anteriormente se establecen dentro de nuestro diagrama de base de datos mediante tablas; por lo que, en base a ello, se realizó las relaciones equivalentes que se tiene entre cada una de ellas para definir más el contexto accionario que tiene cada una de ellas. 
-
-<div  align='center'>
-<img  src="https://i.ibb.co/ypLfmcB/imagen-2023-09-09-124331796.png"  alt="Database_Diagram"  width="900"  height="500">
-
-<center><p>Link del diagrama de base de datos: <a  href="https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS">https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS</a></p>
-</div>
 
 <br><br>
 
@@ -2805,6 +2429,50 @@ Para la entrega del Sprint 1, se tuvo pensado alcanzar el desarrollo completo de
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
+En el sprint 1, se logró implementar del despliegue de la Landing page. En el que se muestra diferentes secciones que anteriormente fueron diseñadas en el Figma, de este modo se muestran las secciones en el que pueden saber mas de la empresa.
+
+- 1. **Sección About us**
+      
+      En esta sección se muestra donde el usuario puede ver más acerca de nosotros y lo que ofrecemos.
+    <br>
+      <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150176709635739770/image.png?width=1409&height=579"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+  - 2. **Sección Services**
+  En esta sección se muestra el servicio que ofrecemos, pero al tener 2 segmentos objetivos, tenemos servicios para clientes y servicios para las empresas.
+  <br>
+        <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150181153958023179/image.png?width=1409&height=261"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+  
+    - 3. **Sección Reviews**
+  En esta sección se muestra los comentarios o las reseñas de nuestros usuarios, tanto empresas como clientes, de este modo nosotros podremos mejorar e innovar en nuestro sitio web.
+
+  <br>
+        <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150181289304006747/image.png?width=1409&height=353"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+    - 4. **Sección Contact**
+  En esta sección se muestra un formulario en el que los usuarios, tanto cliente como usuario puede realizar envios de mensajes para contactarnos directamente con nosotros.
+
+  <br>
+        <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150181591591682230/image.png?width=1237&height=625"600="" height="">
+    </td>
+  </tr>
+  <br><br>
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
@@ -2824,42 +2492,6 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
 
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150095599287423068/image.png?width=654&height=600" width=654 & height=600>
-    </td>
-</tr>
-
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150095708268019722/image.png" width=914 & height=540>
-    </td>
-</tr>
-
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150096187937005658/image.png?width=877&height=600" width=877 & height=600>
-    </td>
-</tr>
-
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150096214306607185/image.png?width=870&height=600" width=870 & height=600>
-    </td>
-</tr>
-
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150096248326602752/image.png?width=887&height=600" width=887 & height=600>
-    </td>
-</tr>
-
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150096617001734174/image.png" width=935 & height=525>
-    </td>
-</tr>
-
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 
@@ -2870,53 +2502,8 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 ## 5.4. Video About-the-Product.
 
 
+# Conclusiones
 ## Conclusiones y recomendaciones.
-
-1. Por medio del proceso de interacción con los entrevistados - mediante en el enfoque de las entrevistas -, nos ha permitido enmarcar y centrar una pequeña muestra acerca de nuestro público objetivo el cual va dirigido nuestro “Startup”, logrando recapitular información valiosa acerca sus intereses, sensaciones, perspectivas y expectativas que esperan tanto los consumidores como los dueños de los diversos bares que hay hoy en día en la ciudad de Lima y en el Perú acerca de lo que vamos a ofrecerles.
-2. Entendemos y apreciamos la flexibilidad de las metodologías ágiles, por ende estamos dispuestos a adaptarnos rápidamente a los cambios y responder de manera ágil a las necesidades cambiantes de nuestro proyecto.
-3. Con respecto al analisis competitivo desarrollado, podemos concluir que las aplicaciones dirigidas para el sector Bares
-Es un nicho que no cuenta con demasiados competidores que enfoquen a mejorar la experiencia de usuario para los clientes y dueños de bares.
-
 ## Video About-the-Team.
-
-
-
 ## Bibliografía
 ## Anexos
-<div align="center">Anexos A: Historial de vinculos</div>
-<br>
-
-1. Github: https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report.git 
-2. Link del Canvas: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1 
-3. Link del Lean Ux Canva: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1
-4. Link de Miro: https://miro.com/welcomeonboard/Mk5wZzhZdGppbjl0Y0VZWllDeWtlZ3g3emt6R1NvTHhqdDJ5dUt6MGNoYWRORm5GTHpyNTZOa3paSVRpZ1hJeXwzMDc0NDU3MzU3MTA0ODcyOTA0fDI=?share_link_id=659519633230 
-Uxpressiar: https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc 
-5. El link del apartado de escritorio: https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=317-2245&mode=design&t=V3E4RrnPyXstUB4s-0 
-6. Link del figma móvil: https://www.figma.com/file/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?type=design&node-id=0%3A1&mode=design&t=qizxCWqTKyWhjUIy-1 
-7. Link del figma de escritorio: https://www.figma.com/file/WvBHU5rWPbgabHex3Er6jj/Landing-Page---LoyalSips?type=design&node-id=0%3A1&mode=design&t=E225PHq1IOJ3VIcx-1
-8. Link para visualizar los wireframes diagrams: https://overflow.io/s/O6IYMWFP
-9. El link del user Flow diagrams es el siguiente: https://overflow.io/s/RV6NU7NK 
-10. Link del prototipo en Figma: https://www.figma.com/proto/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?page-id=0%3A1&type=design&node-id=18-31&viewport=482%2C573%2C0.23&t=fF9wq2WzqPvgenwU-1&scaling=scale-down&starting-point-node-id=18%3A31&mode=design 
-
-<br> 
-
-<div align="center">Anexos B: Entrevistas</div>
-<br>
-
-<p>&gt <b>Entrevista N° 1:</b><p>
-
-<a href="https://youtu.be/ZIdgHwiWlko">https://youtu.be/ZIdgHwiWlko</a>
-
-<br>
-
-<p>&gt <b>Entrevista N° 2:</b><p>
-
-<a href="https://youtu.be/4FK0_9jsTe4">https://youtu.be/4FK0_9jsTe4</a>
-
-<br>
-
-<p>&gt <b>Entrevista N° 3:</b><p>
-
-<a href="https://youtu.be/4NOoDO7oZMk">https://youtu.be/4NOoDO7oZMk</a>
-
-<br>
