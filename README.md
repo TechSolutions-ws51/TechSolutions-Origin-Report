@@ -2801,3 +2801,23 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 ## Video About-the-Team.
 ## Bibliografía
 ## Anexos
+<div align="center">Anexos A: Entrevistas</div>
+<br>
+
+<p>&gt <b>Entrevista N° 1:</b><p>
+
+<a href="https://youtu.be/ZIdgHwiWlko">https://youtu.be/ZIdgHwiWlko</a>
+
+<br>
+
+<p>&gt <b>Entrevista N° 2:</b><p>
+
+<a href="https://youtu.be/4FK0_9jsTe4">https://youtu.be/4FK0_9jsTe4</a>
+
+<br>
+
+<p>&gt <b>Entrevista N° 3:</b><p>
+
+<a href="https://youtu.be/4NOoDO7oZMk">https://youtu.be/4NOoDO7oZMk</a>
+
+<br>
