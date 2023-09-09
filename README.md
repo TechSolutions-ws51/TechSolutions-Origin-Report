@@ -282,25 +282,7 @@ Aunque de por si hay alto interés por parte de los dueños en adquirir estos si
 
 </div>
 
-# 1.2 Solution Profile
-
-Nuestra solucion ante la problemática que explicaremos mediante el uso de las 5"W" y 2"H" será la creacion de una website, cuando nuestros clientes quieran salir a tomar podran usar nuestra aplicacion y podran generar puntos en la app para tener descuentos, asi se motivara a seguir comprando por nuestra app.
-
-### 1.2.2.4 Lean UX Canvas 
-
-<div align='center'>
-<img src="https://media.discordapp.net/attachments/1145898392631918606/1147441096566255687/image.png?width=1150&height=646" alt="LEAN-UX-Canvas" width="750" height="550">
-</div>
-Link del Canvas: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1
-
-### 1.3 Segmento Objetivo  
-
-Nosotros tenemos 2 puntos muy importantes que consideramos en el segmento objetivo:
-
-1._ Los clientes de Bares: Este segmento incluye a las personas que visitan diveros bares y establecimientos similares con cierta frecuencia. Ellos pueden variar en sus edades siempre y cuando sean mayores de edad, pero todos ellos comparten el interés en disfrutar de bebidas en estos lugares.
-
-2._ Dueños y Gerentes de Bares: Este segmento tambien está enfocado en los propietarios, gerentes de bares y restaurantes que desean mejorar sus diversas operaciones y mejorar eficientemente, especialmente en lo que respecta al control de inventario.
-
+<br>
 
 #### 1.2.2.2. Lean UX Assumptions.
 
