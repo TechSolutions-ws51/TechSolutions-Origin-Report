@@ -1074,6 +1074,72 @@ Para ello, tenemos la misma documentación actual que explica como funciona.
 
 ### 5.1.2. Source Code Management.
 
+Para el desarrollo de los nuevos branches, hemos utilizado la siguiente nomenclatura para tener control e idea de lo que se desarrolla.  
+
+
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1149921802445914122/image.png?width=624&height=262" height="250">
+    </td>
+</tr>
+
+Iniciamos con el cambio de ubación de rama, y luego creamos la nueva rama:
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1149923282934579282/image.png?width=693&height=269 " height="200">
+    </td>
+</tr>
+
+
+Despues, agregamos en el archivo MD todo los cambios que desarrollamos y así utilizar los siguientes comandos: 
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699329884438558/image.png?width=339&height=95" height="100">
+    </td>
+</tr>
+
+Una vez utilizado el comando y colocando la descripción del trabajo, guardamos en la nueva rama. 
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699369642238194/image.png?width=471&height=151" height="300">
+    </td>
+</tr>
+
+Verificamos y hacemos pull a la rama develop. 
+
+Aprobamos y unimos los cambios. 
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699406052991036/image.png?width=474&height=179" height="100">
+    </td>
+</tr>
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699443285839954/image.png?width=474&height=278" height="100">
+    </td>
+</tr>
+
+
+Es necesario para mantener un orden para cada rama creada, borrarla despues de utilizarla. 
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699471953907792/image.png?width=414&height=45" height="50">
+    </td>
+</tr>
+
+Es asi como nosotros verificamos el cambio en la linea de trabajo: 
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699509165756458/image.png?width=375&height=116" height="300">
+    </td>
+</tr>
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 
 
