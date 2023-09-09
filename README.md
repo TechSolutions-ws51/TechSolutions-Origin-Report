@@ -1078,6 +1078,70 @@ Para ello, tenemos la misma documentación actual que explica como funciona.
 
 ### 5.1.4. Software Deployment Configuration.
 
+
+<p>En esta situación en equipo ah implementado la configuración de "LoyalSips", permitiendo una gestión eficiente del código fuente en GitHub, despliegues automáticos con GitHub Actions, y asegurando la compatibilidad con servidores web y bases de datos MySQL, garantizando así un funcionamiento suave, seguro y conciso de nuestra aplicación web. </p>  
+
+
+<p><b> 1. Repositorio de GitHub:</b></p>
+
+
+<p> -  Nuestro proyecto está alojado en un repositorio de GitHub, lo que nos permite gestionar nuestro código fuente de manera colaborativa y realizar un seguimiento de las versiones.</p>  
+
+
+<p><b> 2. Branch de Desarrollo:</b></p>
+
+
+<p> - Utilizamos un enfoque de ramificación en nuestro repositorio de GitHub con una rama principal ("main") para el código de producción y una rama de desarrollo ("develop") para nuevas características y correcciones de errores. </p>  
+
+
+<p><b>3. Automatización de Implementación: </b></p>
+
+
+<p> - Hemos configurado GitHub Actions para automatizar el proceso de implementación. Las pruebas y los despliegues se realizan automáticamente cuando se realizan cambios en el repositorio. </p>  
+
+
+<p><b> 4. Configuración del Servidor:</b></p>
+
+
+<p> -  Hemos configurado un servidor web que admite HTML, CSS y MySQL para alojar nuestra aplicación web. El servidor tiene el entorno adecuado para ejecutar nuestra aplicación sin problemas.</p>  
+
+
+<p><b>5. Base de Datos: </b></p>
+
+
+<p> -  Hemos configurado una base de datos MySQL para almacenar datos importantes de la aplicación, como información de usuarios, bares y ofertas. La base de datos está respaldada regularmente y se toman medidas para garantizar la seguridad de los datos.</p>  
+
+
+<p><b>6. Script de Base de Datos: </b></p>
+
+
+<p> -  Creamos un script SQL que contiene instrucciones para crear la estructura de la base de datos y cargar datos iniciales.</p>  
+
+
+<p><b> 7. Variables de Entorno:</b></p>
+
+
+<p> -  Utilizamos variables de entorno para gestionar configuraciones sensibles, como contraseñas de base de datos y claves de acceso a servicios externos. Estas configuraciones no se almacenan en texto plano en nuestro código fuente.</p>  
+
+
+<p><b>8. Implementación Manual: </b></p>
+
+
+<p> -Realizamos implementaciones manuales utilizando Git para clonar o actualizar nuestro repositorio en el servidor web cuando es necesario. Nos aseguramos de que las rutas de archivo y las configuraciones se actualicen adecuadamente.  </p>  
+
+
+<p><b>9. Pruebas de Implementación: </b></p>
+
+
+<p> - Antes de cada implementación en producción, realizamos pruebas exhaustivas en un entorno de desarrollo o prueba para identificar y corregir posibles problemas. </p>  
+
+
+<p><b> 10. Monitorización y Mantenimiento:</b></p>
+
+
+<p> - Configuramos herramientas de monitorización y gestión de registros para supervisar la salud de nuestra aplicación en producción. También establecimos un plan de mantenimiento regular para aplicar actualizaciones y correcciones de seguridad.</p>  
+
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 <p>En esta sección el equipo ha implementado a la página de inicio, servicios y aplicaciones de "LoyalSips" que se enfoca en presentar de manera efectiva los bares y ofertas, permitiendo a los usuarios buscar, reservar y calificar, tanto en el sitio web como en la aplicación móvil.</p>  
 
