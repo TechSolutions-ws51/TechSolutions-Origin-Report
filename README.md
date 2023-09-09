@@ -952,6 +952,12 @@ fácil identificación para los usuarios. Tenemos:
 
 ### 4.2.5. Navigation Systems.
 
+### 4.2.5. Navigation Systems
+
+<p>En el siguiente punto, nuestro equipo mostrará los sistemas de navegación implementados en TechSolutions para que los usuarios puedan manipular de manera rápida, efectiva y segura en nuestro aplicativo. </p>
+<p>Para ello en el sitio web de 'LoyalSips', hemos implementado un sistema de navegación intuitivo con un menú de encabezados ubicado en la parte superior de la página principal. Cada encabezado representa una sección clave, como 'Inicio', 'Bares', 'Ofertas', 'Registro' y 'Contacto', permitiendo a los usuarios acceder de manera rápida y sencilla a la información relevante. Además, proporcionamos enlaces útiles en el pie de página para acceder a detalles adicionales como 'Política de Privacidad' y 'Términos y Condiciones' </p>
+<p> En el caso del aplicativo móvil de 'LoyalSips', hemos decidido diseñar un sistema de navegación eficiente que se basa en un menú principal desplegable desde la parte superior de la pantalla. Este menú ofrece opciones esenciales, como 'Inicio', 'Buscar Bares', 'Mis Puntos', 'Ofertas' y 'Perfil', para que los usuarios accedan fácilmente a diferentes áreas de la aplicación. Además, permitimos la navegación por categorías y la aplicación de filtros para una experiencia de usuario más personalizada. Los botones de acción rápida en las páginas de detalle facilitan la toma de decisiones, y un botón de 'Volver' garantiza una navegación sin problemas.</p>
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 
@@ -978,6 +984,7 @@ fácil identificación para los usuarios. Tenemos:
 ## 4.7. Software Object-Oriented Design.
 
 <p>En este punto se presentará un diseño de software orientado a objetos de "LoyalSips". Se centra en crear una plataforma intuitiva que conecta a usuarios con bares, ofreciendo una experiencia de navegación eficiente, gestión de ofertas y reservas, y la interacción entre usuarios y bares mediante la calificación y la gestión de inventarios. Para ello, se mostrará un diagrama de clases que estará explicado con diversos detalles.</p>
+
 ### 4.7.1. Class Diagrams.
 
 <div align='center'>
