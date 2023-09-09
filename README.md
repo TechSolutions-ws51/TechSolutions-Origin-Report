@@ -560,6 +560,16 @@ tareas para los User Personas previamente definidos.
 
 ### 2.3.4. Empathy Mapping.
 
+<p> En esta sección el equipo logró elaborar un Empathy Mapping de nuestros usuarios y de los gerentes de los bares. Este análisis nos ayudará a profundizar en la necesidad de los clientes y nuestros gerentes de bares para enfocarnos en nuestros desenfoques y sus necesidades con el aplicativo.</p>
+<p><b>USER:</b></p>
+<div align='center'>
+<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148290909172154368/image.png" width="750" height="550">
+</div>
+<p><b>Business:</b></p>
+<div align='center'>
+<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148291301012414515/image.png" width="750" height="550">
+</div>
+
 ### 2.3.5. As-is Scenario Mapping.
 
 <p> En esta sección nuestro equipo elaboró pasos, acciones, pensamiento y sentimientos que los usuarios experimentan al llevar a cabo una tarea. Debido a este As-is Scenario Mapping podremos plantear diversas soluciones a las dudas e inseguridades de la página web. </p>
