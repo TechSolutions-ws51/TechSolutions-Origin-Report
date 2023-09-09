@@ -1076,6 +1076,73 @@ Para ello, tenemos la misma documentación actual que explica como funciona.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
+
+<p>En esta sección se mostrarán las diferentes pautas para poder mostrar nuestras convenciones, estilos y principios que utilizaremos para cada uno de los lenguajes que se emplearán en la creación de nuestra aplicación. </p>  
+
+
+<p><b>Nomenclatura:</b></p>
+
+
+<p> - Hemos utilizado nombres de variables, funciones y clases descriptivos y en minúsculas, siguiendo la notación camelCase.  </p>
+<p> -  Para las clases CSS y los identificadores HTML, hemos utilizado nombres en minúsculas separados por guiones (kebab-case).</p>
+
+
+<p><b> Indentación y Espaciado:</b></p>
+
+
+<p> - Hemos empleado una sangría de 2 espacios para cada nivel de anidación.  </p>
+<p> -  Utilizamos espacios en lugar de tabulaciones.</p>
+<p> -  Dejamos una línea en blanco entre bloques de código lógicos.</p>
+<p> -  Limitamos las líneas de código a 80-100 caracteres de ancho.</p>
+
+
+<p><b> Comentarios:</b></p>
+<p> -   Hemos agregado comentarios claros y concisos para explicar el propósito de las funciones, métodos y secciones de código.</p>
+<p> - Documentamos las funciones y métodos utilizando JSDoc o una convención similar. </p>
+
+
+<p><b> Organización del Código:</b></p>
+<p> -  Organizamos el código en módulos y componentes separados para facilitar el mantenimiento. </p>
+<p> - Seguimos un patrón de arquitectura, como el patrón MVC (Model-View-Controller) o el patrón de componentes. </p>
+
+
+<p><b> Estándares de JavaScript:</b></p>
+<p> - Utilizamos ECMAScript 6 (ES6) o versiones posteriores de JavaScript.  </p>
+<p> -  Declara variables utilizando "let" o "const" en lugar de "var".</p>
+<p> - Utiliza "async/await" para las operaciones asincrónicas en lugar de "callbacks". </p>
+<p> - Evitamos el uso excesivo de variables globales. </p>
+
+
+<p><b> Estándares de CSS:</b></p>
+
+
+<p> -   Utilizamos hojas de estilo en cascada (CSS) y preprocesadores como Sass o LESS para mejorar la legibilidad y el mantenimiento del código CSS.</p>
+<p> -  Agrupamos las reglas CSS por funcionalidad y utilizamos comentarios para indicar secciones significativas.</p>
+<p> -  Minimizamos la especificidad de las reglas CSS y evitamos la anidación excesiva.</p>
+
+
+<p><b>Pruebas Unitarias: </b></p>
+
+
+<p> -  Implementamos pruebas unitarias para las funciones y métodos críticos utilizando un marco de prueba, como Jest o Mocha. </p>  
+
+
+<p><b> Control de Versiones:</b></p>
+
+
+<p> -  Utilizamos un sistema de control de versiones, como Git, y seguimos las mejores prácticas de ramificación y fusionado. </p>
+
+
+<p><b> Compatibilidad y Rendimiento:</b></p>
+<p> - Aseguramos que el sitio web sea compatible con los navegadores más populares y se cargue de manera eficiente. </p>
+
+
+<p><b> Seguridad:</b></p>
+<p> -  Implementamos medidas de seguridad para proteger los datos de los usuarios, como la validación de entrada y la prevención de ataques de inyección.</p>
+
+
+
+
 ### 5.1.4. Software Deployment Configuration.
 
 
