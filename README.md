@@ -637,6 +637,37 @@ CPC entre $0,10 y $1,5. </td>
 
 -	Implementaremos un sector en el que los usuarios puedan comentar algunas sugerencias con respecto a la aplicación, es decir, podrán comentar o calificar con un rango de estrellas, el cual sea de su preferencia, para mantenernos informados y realizar mejoras a nuestro servicio.
 
+### 2.1.2 Estrategias y tácticas frente a competidores
+
+Considerando el SWOF, desarrollamos las siguientes estrategias:
+
+**Estrategias para Fortalezas:**
+- **EF1:** Promocionar la facilidad de uso de la aplicación como un punto de venta único.
+- **EF2:** Ofrecer capacitación y recursos para ayudar a los bares a aprovechar al máximo las funcionalidades de la plataforma.
+- **EF3:** Fomentar la interacción de los usuarios a través de programas de recompensas o promociones.
+- **EF4:** Continuar utilizando herramientas publicitarias de manera efectiva para promocionar bares.
+
+**Estrategias para Debilidades:**
+- **ED1:** Implementar estrategias específicas para aumentar la interacción de los usuarios en Perú.
+- **ED2:** Mejorar el soporte al cliente y proporcionar una mayor asistencia.
+- **ED3:** Explorar la expansión de la plataforma a Perú.
+- **ED4:** Resolver los problemas del sistema de filtrado de búsquedas de manera proactiva.
+
+**Estrategias para Oportunidades:**
+- **EO1:** Desarrollar y promocionar nuevas funcionalidades de publicidad para atraer a más bares.
+- **EO2:** Lanzar campañas de marketing agresivas para aumentar la base de usuarios.
+- **EO3:** Centrarse en la expansión de la aplicación en Perú, aprovechando el interés en lugares nuevos.
+- **EO4:** Personalizar las ofertas y características de la aplicación para atraer al público objetivo en crecimiento.
+
+**Estrategias para Amenazas:**
+- **EA1:** Explorar la posibilidad de ofrecer una versión de escritorio de la aplicación para reducir la dependencia de dispositivos móviles.
+- **EA2:** Establecer un sistema de soporte específico para usuarios en 3 lenaguajes español, ingles y portuguese.
+- **EA3:** Priorizar el mantenimiento y la solución de problemas de software de manera continua.
+- **EA4:** Optimizar el rendimiento del servidor y reducir el tiempo de respuesta.
+
+Con ello podremos cubrir puntos de carencias y mejorar aspectos para nuestro proyecto.
+
+
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
   **USUARIOS:**
