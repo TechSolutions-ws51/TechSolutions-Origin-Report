@@ -282,26 +282,6 @@ Aunque de por si hay alto interés por parte de los dueños en adquirir estos si
 
 </div>
 
-# 1.2 Solution Profile
-
-Nuestra solucion ante la problemática que explicaremos mediante el uso de las 5"W" y 2"H" será la creacion de una website, cuando nuestros clientes quieran salir a tomar podran usar nuestra aplicacion y podran generar puntos en la app para tener descuentos, asi se motivara a seguir comprando por nuestra app.
-
-### 1.2.2.4 Lean UX Canvas 
-
-<div align='center'>
-<img src="https://media.discordapp.net/attachments/1145898392631918606/1147441096566255687/image.png?width=1150&height=646" alt="LEAN-UX-Canvas" width="750" height="550">
-</div>
-Link del Canvas: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1
-
-### 1.3 Segmento Objetivo  
-
-Nosotros tenemos 2 puntos muy importantes que consideramos en el segmento objetivo:
-
-1._ Los clientes de Bares: Este segmento incluye a las personas que visitan diveros bares y establecimientos similares con cierta frecuencia. Ellos pueden variar en sus edades siempre y cuando sean mayores de edad, pero todos ellos comparten el interés en disfrutar de bebidas en estos lugares.
-
-2._ Dueños y Gerentes de Bares: Este segmento tambien está enfocado en los propietarios, gerentes de bares y restaurantes que desean mejorar sus diversas operaciones y mejorar eficientemente, especialmente en lo que respecta al control de inventario.
-
-
 #### 1.2.2.2. Lean UX Assumptions.
 
 ##### ***<u>FEATURES</u>***
@@ -397,24 +377,20 @@ Cuando en el primer trimestre de ser lanzado nuestro servicio, la empresa obteng
 
 Cuando en el primer año que nuestro producto sea lanzado, sea solicitado por más empresas de licorería, de tal forma que sea un producto que favorezca al incremento de ganancias para muchos bares y no solo a uno.
 
-#### 1.2.2.4. Lean UX Canvas.
+### 1.2.2.4 Lean UX Canvas 
 
 <div align='center'>
 <img src="https://media.discordapp.net/attachments/1145898392631918606/1147441096566255687/image.png?width=1150&height=646" alt="LEAN-UX-Canvas" width="750" height="550">
 </div>
 Link del Canvas: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1
 
-
-## 1.3. Segmentos objetivo.
+### 1.3 Segmento Objetivo  
 
 Nosotros tenemos 2 puntos muy importantes que consideramos en el segmento objetivo:
 
-1._Los clientes de Bares: Este segmento incluye a las personas que visitan diveros bares y establecimientos similares con cierta frecuencia. Ellos pueden variar en sus edades siempre y cuando sean mayores de edad, pero todos ellos comparten el interés en disfrutar de bebidas en estos lugares.
-
+1._ Los clientes de Bares: Este segmento incluye a las personas que visitan diveros bares y establecimientos similares con cierta frecuencia. Ellos pueden variar en sus edades siempre y cuando sean mayores de edad, pero todos ellos comparten el interés en disfrutar de bebidas en estos lugares.
 
 2._ Dueños y Gerentes de Bares: Este segmento tambien está enfocado en los propietarios, gerentes de bares y restaurantes que desean mejorar sus diversas operaciones y mejorar eficientemente, especialmente en lo que respecta al control de inventario.
-
-
 <br><br>
 
 # Capítulo II: Requirements Elicitation & Analysis
@@ -2454,7 +2430,6 @@ Es el mantenimiento de documentos que describen la estructura y cual es el uso d
 
 Para ello, tenemos la misma documentación actual que explica como funciona. 
 
-#### 5.1.2. Source Code Management.
 
 ### 5.1.2. Source Code Management.
 Para la siguiene sección, Source Code Management nos hace referencia a la funcion de seguimiento de modificaciones que los integrantes del equipo ejerce durante el desarollo del proyecto hasta su conclusion de este mismo. Para ello, cabe mencionar la importacia de un repositorio o sistema  de control de versiones el cual es Github. 
@@ -2755,7 +2730,11 @@ Es asi como nosotros verificamos el cambio en la linea de trabajo:
 ## 5.2. Landing Page, Services & Applications Implementation.
 <p>En esta sección el equipo ha implementado a la página de inicio, servicios y aplicaciones de "LoyalSips" que se enfoca en presentar de manera efectiva los bares y ofertas, permitiendo a los usuarios buscar, reservar y calificar, tanto en el sitio web como en la aplicación móvil.</p>  
 
-### 5.2.X. Sprint n
+### 5.2.1. Sprint 1
+
+Es esta primera fase de desarrollo, el cual viene a ser énfasis en el "Sprint 1", se planteó como objetivo principal la implementación del diseño de la "Landing Page" que estará siguiendo nuestro <em>"Startup"<em>, lo cual se elaboró mediante la herramienta "WebStorm". Por consiguiente, estableció todas las secciones especificadas en nuestros bocetos de diseño lo cual contiene nuestro "home page". De esta manera, aperturamos todos los registros que se tienen asi como el detalle de los labores que a cada uno le correspondio elaborar para esta entrega.
+
+<b>Repositorio Landing page:</b> <a href="https://github.com/IsaacAmp24/LoyalSips-LandingPage">https://github.com/IsaacAmp24/LoyalSips-LandingPage</a>
 
 #### 5.2.X.1. Sprint Planning n.
 
