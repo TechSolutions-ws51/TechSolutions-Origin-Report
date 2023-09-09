@@ -987,7 +987,90 @@ fácil identificación para los usuarios. Tenemos:
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
+
 ### 5.1.1. Software Development Environment Configuration.
+
+
+En la sección de Software Development Environment Configuration, implica la presentación de conjunto de herramientas, software y configuraciones necesarios para que los desarrolladores trabajen eficientemente en la creación, prueba y mantenimiento de software. Además. esto incluye la instalación de herramientas de desarrollo, configuración de sistemas operativos, gestión de dependencias, configuración de bases de datos y más. Garantiza que los desarrolladores tengan un entorno adecuado para sus proyectos y es fundamental para un desarrollo de software efectivo. Para ello, dividimos en los siguientes puntos: 
+
+ 
+
+Project Mangement 
+
+Requirements Management 
+
+Product UX/UI Design 
+
+Software Development 
+
+Software Testing 
+
+Software Documentation 
+
+
+Además, es necesario mencionar la clasificacion de estos, ya que pueden ser elementos de las secciones como "Ruta de Referencia" o "Ruta de Descarga".
+ 
+
+### Project Mangement 
+
+Project Mangement tiene como objetivo en la gestión de proyectos, mejorar los procesos y tambien, el entorno para obtener los resultados requeridos. 
+
+Para el proyecto no hemos utilizado un software que gestione el proyecto. 
+
+ 
+
+### Requirements Management 
+
+Requirements Management implica la recopilación, documentación y seguimiento de los requisitos del software. 
+
+Para el proyecto no hemos utilizado un software que gestione el proyecto. 
+
+ 
+
+### Product UX/UI Design 
+
+Es la fase que diseña la apariencia y la interacción del software para garantizar una experiencia de usuario atractiva y eficiente. 
+
+Uxpressia es una herramienta eficiente que nos ha ayudado en el diseño del Impact Mapping de nuestro proyecto. Uxpressia: https://uxpressia.com/  
+
+Para ello, hemos utilizado Miro, el cual nos ayuda a diseñar la estructura de la interfaz para nuestro proyecto. Miro: https://miro.com/app/dashboard/  
+
+Para este propósito, hemos empleado Figma, una herramienta que nos permite diseñar la estructura de la interfaz de nuestro proyecto de manera efectiva. Figma: https://www.figma.com/ 
+
+Lucid Chart es una herramienta eficiente con respecto al desarrollo del diseño de modelados. Lucid Chart : https://www.lucidchart.com/  
+
+ 
+
+### Software Development 
+
+Con respecto a Software Development, el cual nos permite tener un entorno adecuado para desarrollar el proyecto en código. 
+
+Para el desarrollo de continuo de nuestro equipo y mantener los avances del proyecto utilizamos Github. Github: https://github.com/  
+
+Visual Studio Code es un editor de código gratuito y altamente extensible de Microsoft, multiplataforma, con depuración integrada y soporte para múltiples lenguajes de programación. Visual Studio Code: https://code.visualstudio.com/  
+
+WebStorm es un IDE  de JetBrains especializado en desarrollo web. 
+Ofrece herramientas avanzadas para escribir, depurar y administrar proyectos web en lenguajes como JavaScript, HTML y CSS. WebStorm: https://www.jetbrains.com/webstorm/promo/?source=google&medium=cpc&campaign=9641686239&term=webstorm&content=523833970754&gad=1&gclid=CjwKCAjwo9unBhBTEiwAipC115R9P8mt3UWuHjEycEIKW2WnOgU7I5V0Wq2Xg3PHMHUtD6VGXCwBkxoCuZgQAvD_BwE  
+
+El lenguaje de programacion JavaScript implica utilizar frameworks, bibliotecas y herramientas para crear aplicaciones web. JavaScript: https://support.microsoft.com/es-es/topic/c%C3%B3mo-habilitar-javascript-en-windows-88d27b37-6484-7fc0-17df-872f65168279  
+
+CSS, da estilo y diseño a páginas web, controlando colores, fuentes, márgenes y la apariencia de elementos HTML para mejorar la presentación visual. CSS: https://developer.mozilla.org/es/docs/Web/CSS  
+
+HTML es el lenguaje de marcado utilizado para crear y estructurar contenido en la web, definiendo elementos y su función en una página, como títulos, párrafos e imágenes. HTML: https://developer.mozilla.org/es/docs/Web/HTML  
+
+ 
+
+### Software Testing 
+
+Software Testing es la fase del desarrollo de software en la que se realizan pruebas exhaustivas para identificar y corregir errores, asegurando que la aplicación funcione correctamente y cumpla con los requisitos. 
+
+En nuestro proyecto no hemos utilizado este tipo de herramienta. 
+
+### Software Documentation 
+
+Es el mantenimiento de documentos que describen la estructura y cual es el uso del software. Esto incluye manuales de usuario, documentación técnica y guías para desarrolladores.  
+
+Para ello, tenemos la misma documentación actual que explica como funciona. 
 
 ### 5.1.2. Source Code Management.
 
