@@ -1079,6 +1079,8 @@ Para ello, tenemos la misma documentación actual que explica como funciona.
 ### 5.1.4. Software Deployment Configuration.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
+<p>En esta sección el equipo ha implementado a la página de inicio, servicios y aplicaciones de "LoyalSips" que se enfoca en presentar de manera efectiva los bares y ofertas, permitiendo a los usuarios buscar, reservar y calificar, tanto en el sitio web como en la aplicación móvil.</p>  
+
 ### 5.2.X. Sprint n
 
 #### 5.2.X.1. Sprint Planning n.
