@@ -2028,6 +2028,34 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 </p>
 
 ### 4.7.2. Class Dictionary.
+<div align="justify">
+<dl>
+<li><b>User</b></li>
+<dd>Es una clase que representa a los usuarios en nuestra plataforma web, de los cuales contenemos tanto atributos como métodos en relación a ellos para identificarlos con mayor facilidad. Asimismo, este será nuestra clase padre de los cuales solidificaran las bases para los demás métodos contenidos en otras clases que garatizaran el núcleo central del proceso de nuestro proyecto. </dd>
+<br>
+<li><b>Reservation</b></li>
+<dd>Esta clase viene a simbolizar las reservaciones que los usuarios desarrollan para separar un mesa dentro del establecimiento; por lo que, para este tipo de clase, se alojará todos los datos necesarios - tales como el tiempo o el numero de la mesa - para definir con más detalle la descripción de la reservación que se le entregará al usuario. </dd>
+<br>
+<li><b>Bar</b></li>
+<dd>Esta clase viene a representar los datos del bar asi como ciertas características únicas que logra ofrecer en el lugar. Allí, podremos tener una visión más amplia acerca de todo lo que ofrece el bar para los comensales que vienen a pasar un grato momento.</dd>
+<br>
+<li><b>Offer</b></li>
+<dd>Se centra en la descripción de los detalles de las ofertas de bebidas que hay en vigencia en el establecimiento. Practicamente, esto permite generar más variadad de incentivo a los clientes a que consuman en en lugar - y si desea conocer que atributos contiene, tenemos el nombre y desripcion que recibira dicha oferta, el tiempo de vigecia y por su puesto el precio -. </dd>
+<br>
+<li><b>Inventory</b></li>
+<dd>Es la clase donde se va a almacenar y tener registro de todos los insumos y sus cantidades que se tienen en el establecimiento para elaboracion de las bebidas que soliciten los clientes.</dd>
+<br>
+<li><b>Rating</b></li>
+<dd>Esta clase viene a alojar las valoraciones y comentarios acerca de la experiencia que tuvo el cliente en dicho lugar - permitiendoles ser más sugestivos y criticos para recomendar lugares, dar quejas o sugerencias para mejorar el negocio -.</dd>
+<br>
+<li><b>Category</b></li>
+<dd>Como su mismo nombre nos lo indica, viene a ser una clase que se encarga de categorizar o, en otras palabras, clasificar los productos para asi tener un enfoque informativo más claro acerca del producto.</dd>
+<br>
+<li><b>Filter</b></li>
+<dd>Es una clase que se va a encargar de filtrar todos los insumos que están en el inventario para asi tener una mejor búsqueda y tener una mejor organización al visualizar el inventario.</dd>
+<br>
+</dl>
+</div>
 
 ## 4.8. Database Design.
 
