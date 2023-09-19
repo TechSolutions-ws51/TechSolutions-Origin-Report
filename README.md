@@ -2852,6 +2852,10 @@ Es asi como nosotros verificamos el cambio en la linea de trabajo:
 
 #### 5.2.1.1. Sprint Planning 1.
 
+<div align='center'>
+<img src="https://i.ibb.co/Pj68PSr/Documento-A4-para-escribir-formas-org-nicas-bordes-de-hojas-plantas-minimalista-ilustracion-dibujo-v.png" alt="sprint-planning-image" style="width:400px;height:auto;">
+</div>
+
 #### 5.2.1.2. Sprint Backlog 1.
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
