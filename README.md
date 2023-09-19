@@ -282,25 +282,7 @@ Aunque de por si hay alto interés por parte de los dueños en adquirir estos si
 
 </div>
 
-# 1.2 Solution Profile
-
-Nuestra solucion ante la problemática que explicaremos mediante el uso de las 5"W" y 2"H" será la creacion de una website, cuando nuestros clientes quieran salir a tomar podran usar nuestra aplicacion y podran generar puntos en la app para tener descuentos, asi se motivara a seguir comprando por nuestra app.
-
-### 1.2.2.4 Lean UX Canvas 
-
-<div align='center'>
-<img src="https://media.discordapp.net/attachments/1145898392631918606/1147441096566255687/image.png?width=1150&height=646" alt="LEAN-UX-Canvas" width="750" height="550">
-</div>
-Link del Canvas: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1
-
-### 1.3 Segmento Objetivo  
-
-Nosotros tenemos 2 puntos muy importantes que consideramos en el segmento objetivo:
-
-1._ Los clientes de Bares: Este segmento incluye a las personas que visitan diveros bares y establecimientos similares con cierta frecuencia. Ellos pueden variar en sus edades siempre y cuando sean mayores de edad, pero todos ellos comparten el interés en disfrutar de bebidas en estos lugares.
-
-2._ Dueños y Gerentes de Bares: Este segmento tambien está enfocado en los propietarios, gerentes de bares y restaurantes que desean mejorar sus diversas operaciones y mejorar eficientemente, especialmente en lo que respecta al control de inventario.
-
+<br>
 
 #### 1.2.2.2. Lean UX Assumptions.
 
@@ -1363,9 +1345,8 @@ Para la elaboración de los Wireframes de la Landing page, se tomó en cuenta lo
 
 En este caso, se puede observar los distintos elementos que se usaron para diferenciar un componente de otro, así como las fuentes de las letras, sobre todo, detalle muy importante, que los colores están en escala de grises dado que es un boceto, lo cual puede cambiar para la elaboración del Mock-up.
 
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <div align='center'>
+   <tr>
+        <div align='center'>
       <img  src="https://media.discordapp.net/attachments/892430247042105427/1150135122641834084/image.png?width=831&height=564" width="600" height="400">
       </div>
     </td>
@@ -1386,8 +1367,6 @@ En este caso, se puede observar los distintos elementos que se usaron para difer
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
       <div align='center'>
-      <img  src="https://media.discordapp.net/attachments/892430247042105427/1150137095084572852/image.png?width=760&height=564" width="600" height="400">
-      </div>
     </td>
   </tr>
 
@@ -1398,9 +1377,6 @@ En este caso, se puede observar los distintos elementos que se usaron para difer
       <div align='center'>
       <img  src="https://media.discordapp.net/attachments/892430247042105427/1150137459896762539/image.png?width=750&height=564" width="600" height="400">
       </div>
-    </td>
-  </tr>
-
 
 ### 4.3.2. Landing Page Mock-up.
 Para la elaboración del Mock-up del Landing page tanto para el apartado de escritorio como para móvil se usaron principios, elementos de diseño, diseño inclusivo y arquitectura de información que se planteó en puntos anteriores.
@@ -2112,17 +2088,36 @@ Api Aplication:
 </p>
 
 ### 4.7.2. Class Dictionary.
-
-## 4.8. Database Design.
-
 <div align="justify">
-<b>Entities:</b>
-Con respecto a la elaboración del diseño de la base de datos, hemos tenido que analizar el inmerso panorama general el cual nuestro proyecto 
-se va a estar adentrando para canalizar y cerciorar que datos se estarán utilizando para equiparar el orden y la consistencia del mismo logrando ofrecer un flujo óptimo al momento de alojarlos. Es por ello que, en base a ello, podremos identificar cuales vendrían a ser nuestras entidades de las cuales serán participes para nuestro proceso de modelamiento respectivamente; estos vendrían a ser los siguientes:
+<dl>
+<li><b>User</b></li>
+<dd>Es una clase que representa a los usuarios en nuestra plataforma web, de los cuales contenemos tanto atributos como métodos en relación a ellos para identificarlos con mayor facilidad. Asimismo, este será nuestra clase padre de los cuales solidificaran las bases para los demás métodos contenidos en otras clases que garatizaran el núcleo central del proceso de nuestro proyecto. </dd>
+<br>
+<li><b>Reservation</b></li>
+<dd>Esta clase viene a simbolizar las reservaciones que los usuarios desarrollan para separar un mesa dentro del establecimiento; por lo que, para este tipo de clase, se alojará todos los datos necesarios - tales como el tiempo o el numero de la mesa - para definir con más detalle la descripción de la reservación que se le entregará al usuario. </dd>
+<br>
+<li><b>Bar</b></li>
+<dd>Esta clase viene a representar los datos del bar asi como ciertas características únicas que logra ofrecer en el lugar. Allí, podremos tener una visión más amplia acerca de todo lo que ofrece el bar para los comensales que vienen a pasar un grato momento.</dd>
+<br>
+<li><b>Offer</b></li>
+<dd>Se centra en la descripción de los detalles de las ofertas de bebidas que hay en vigencia en el establecimiento. Practicamente, esto permite generar más variadad de incentivo a los clientes a que consuman en en lugar - y si desea conocer que atributos contiene, tenemos el nombre y desripcion que recibira dicha oferta, el tiempo de vigecia y por su puesto el precio -. </dd>
+<br>
+<li><b>Inventory</b></li>
+<dd>Es la clase donde se va a almacenar y tener registro de todos los insumos y sus cantidades que se tienen en el establecimiento para elaboracion de las bebidas que soliciten los clientes.</dd>
+<br>
+<li><b>Rating</b></li>
+<dd>Esta clase viene a alojar las valoraciones y comentarios acerca de la experiencia que tuvo el cliente en dicho lugar - permitiendoles ser más sugestivos y criticos para recomendar lugares, dar quejas o sugerencias para mejorar el negocio -.</dd>
+<br>
+<li><b>Category</b></li>
+<dd>Como su mismo nombre nos lo indica, viene a ser una clase que se encarga de categorizar o, en otras palabras, clasificar los productos para asi tener un enfoque informativo más claro acerca del producto.</dd>
+<br>
+<li><b>Filter</b></li>
+<dd>Es una clase que se va a encargar de filtrar todos los insumos que están en el inventario para asi tener una mejor búsqueda y tener una mejor organización al visualizar el inventario.</dd>
+<br>
+</dl>
 </div>
 
-<br>
-
+## 4.8. Database Design.
 <p><b>- Entity customers:</b> Son los datos pertenecientes a los clientes que ingresaran al local.</p>
 <p><b>- Entity admins:</b> Es el equipo de desarrollo, creadores de la aplicación de los cuales administran cualquier eventualidad.</p>
 <p><b>- Entity forums:</b> Repositorio donde están las opiniones de las personas hacia el enfoque de la atención brindada.</p>
@@ -2361,6 +2356,12 @@ En esta apartado, se podrá observar como las entidades y atributos mencionados 
 
 <div  align='center'>
 <img  src="https://i.ibb.co/ypLfmcB/imagen-2023-09-09-124331796.png"  alt="Database_Diagram"  width="900"  height="500">
+
+<center><p>Link del diagrama de base de datos: <a  href="https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS">https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS</a></p>
+</div>
+
+<div  align='center'>
+<img  src="https://i.ibb.co/g3x5s9F/DB-Point-Bar-UPC-Open-Source-2023-08-31-10-05.png"  alt="Database_Diagram"  width="900"  height="500">
 
 <center><p>Link del diagrama de base de datos: <a  href="https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS">https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS</a></p>
 </div>
@@ -2806,8 +2807,6 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
     <td style="border: 1px solid #dddddd; padding: 8px;">
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1150096214306607185/image.png?width=870&height=600" width=870 & height=600>
     </td>
-</tr>
-
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1150096248326602752/image.png?width=887&height=600" width=887 & height=600>
