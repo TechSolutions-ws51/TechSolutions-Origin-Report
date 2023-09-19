@@ -128,6 +128,7 @@
 
 
 <br>
+<div align='justify'>
 
 # Student Outcome
 | Criterio específico | Acciones Realizadas | Conclusiones |
@@ -246,7 +247,9 @@ Ademas, en el Perú muy pocas personas utilizan una website para reservar espaci
 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1149362286729887814/image.png"width="403" height="296">
+      </div>
     </td>
   </tr>
 <br>
@@ -727,14 +730,18 @@ en el análisis de entrevistas y de la competencia.
 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1147987398639235173/User_Person_Cliente.png?width=419&height=592"width="403" height="569">
+      </div>
     </td>
   </tr>
 
 #### 2.3.1.2 Segmento Objetivo 1: Empresario
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1147997558657007706/User_Person_Empresario.png?width=419&height=592"width="403" height="569">
+      </div>
     </td>
   </tr>
 
@@ -1103,21 +1110,26 @@ tareas para los User Personas previamente definidos.
 La herramienta Impact Mapping representa de forma visual las metas que nos planteamos para llegar a cada sector de nuestro publico. 
 ### User Bar:
 <tr>
-    <td >
+    <td>
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639921830973516/1149524347619389551/image.png?width=289&height=423"width="403" height="569">
+      </div>
     </td>
 </tr>
-
+<br>
 Realizamos el impact Mapping para el usuario Bar, que representa a los dueños bares, y según los User Stories realizadas por nuestro equipo, desarrollamos alternivas para solucionar y satisfacer sus necesidades. 
+<br>
+<br>
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639921830973516/1149524152261283901/image.png?width=401&height=423"width="403" height="569">
+      </div>
     </td>
 </tr>
-
+<br>
 Hemos llevado a cabo un proceso de Impact Mapping dirigido al usuario llamado "cliente", quien representa a los clientes que consumen en bares. A partir de las historias de usuario generadas por nuestro equipo, hemos elaborado diferentes opciones para abordar y satisfacer sus requerimientos. 
-
 
 
 Link de Miro y Uxpressiar -> https://miro.com/welcomeonboard/Mk5wZzhZdGppbjl0Y0VZWllDeWtlZ3g3emt6R1NvTHhqdDJ5dUt6MGNoYWRORm5GTHpyNTZOa3paSVRpZ1hJeXwzMDc0NDU3MzU3MTA0ODcyOTA0fDI=?share_link_id=659519633230  
@@ -1154,7 +1166,9 @@ Los colores que se están utilizando para nuestra solución (Landing Page y Web 
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1149549523522289684/image.png"width="403" height="87">
+      </div>
     </td>
   </tr>
 <br>
@@ -1164,7 +1178,8 @@ Por otro lado Usamos el tipo de letra San Francisco.
 <br>
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1149548371288277044/image.png"width="288" height="447">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1149548371288277044/image.png"width="288" height="447"></div>
     </td>
   </tr>
 
@@ -1187,7 +1202,9 @@ En la organizacion visual tenemos:
 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1148313906264150197/Untitled_1.jpg?width=475&height=592"width="475" height="592">
+      </div>
     </td>
   </tr>
 <br>
@@ -1319,10 +1336,12 @@ Para la elaboración de los wireframes de la Landing Page tanto en el sector de 
 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1149741296244772864/Imagen1.png?width=623&height=207"width="1000" height="250">
+      </div>
     </td>
   </tr>
-
+<br>
 Link del apartado móvil: https://www.figma.com/file/N8EmdAUWapHigf4Lk8sGHr/Web-Application-Wireframes?type=design&node-id=0%3A1&mode=design&t=DfFWWAqT7hgXSXLE-1 
 
 <br>
@@ -1389,9 +1408,13 @@ Para la elaboración del Mock-up del Landing page tanto para el apartado de escr
 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1149745161811800064/Imagen4.png?width=455&height=625"width="500" height="720">
+      </div>
     </td>
   </tr>
+
+<br>
 
 Link del figma móvil: https://www.figma.com/file/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?type=design&node-id=0%3A1&mode=design&t=qizxCWqTKyWhjUIy-1 
 
@@ -1401,11 +1424,15 @@ Link del figma móvil: https://www.figma.com/file/vE2mliJXJbycAVSDC0Tn3g/Landing
 
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1149745513353183363/Imagen5.png?width=602&height=625"width="480" height="360">
+      </div>
     </td>
   </tr>
 
-  Link del figma de escritorio: https://www.figma.com/file/WvBHU5rWPbgabHex3Er6jj/Landing-Page---LoyalSips?type=design&node-id=0%3A1&mode=design&t=E225PHq1IOJ3VIcx-1 
+  <br>
+
+  ##### Link del figma de escritorio: https://www.figma.com/file/WvBHU5rWPbgabHex3Er6jj/Landing-Page---LoyalSips?type=design&node-id=0%3A1&mode=design&t=E225PHq1IOJ3VIcx-1 
 
 Para su diseño se aplicaron los 5 principios del diseño:
 
@@ -1428,6 +1455,7 @@ Se muestra el diseño visual y la interacción que poseen los wireframes en nues
 
 Algunas plantillas generales que poseemos son el sistema de registro:
 
+<div align='center'>
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1150000600885501982/Imagen15.jpg?width=1119&height=625"width="700" height="">
@@ -1593,7 +1621,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1150003424256065607/Imagen21.jpg?width=1116&height=625"width="700" height="">
     </td>
   </tr>
-
+</div>
 
 ---
 
@@ -1605,6 +1633,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 
 **User Goal:** Como soy empresario, quiero elegir el sector de empresa y poder registrarme como empresario.
 
+<div align='center'>
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1149817454575493150/Captura_de_pantalla_2023-09-08_055016.png?width=688&height=276"600="" height="">
@@ -1652,8 +1681,9 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1149819610011533372/Captura_de_pantalla_2023-09-08_060832.png?width=688&height=294"600="" height="">
     </td>
   </tr>
-  
-### Link para visualizar los wireframes diagrams: https://overflow.io/s/O6IYMWFP 
+</div>  
+
+##### Link para visualizar los wireframes diagrams: https://overflow.io/s/O6IYMWFP 
 
 ---
 
@@ -1662,7 +1692,9 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820520892747868/Captura_de_pantalla_2023-09-08_061524.png?width=688&height=280"600="" height="">
+      </div>
     </td>
   </tr>
   <br><br>
@@ -1671,7 +1703,9 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820740019949578/Captura_de_pantalla_2023-09-08_062053.png?width=666&height=617"600="" height="">
+      </div>
     </td>
   </tr>
   <br><br>
@@ -1680,7 +1714,9 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820940545437706/Captura_de_pantalla_2023-09-08_062432.png?width=688&height=606"600="" height="">
+      </div>
     </td>
   </tr>
   <br><br>
@@ -1689,7 +1725,9 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821221635112970/Captura_de_pantalla_2023-09-08_063007.png?width=671&height=618"600="" height="">
+      </div>
     </td>
   </tr>
   <br><br>
@@ -1698,7 +1736,9 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821517945917500/Captura_de_pantalla_2023-09-08_063350.png?width=644&height=618"600="" height="">
+      </div>
     </td>
   </tr>
   <br><br>
@@ -1707,7 +1747,9 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821817746362549/Captura_de_pantalla_2023-09-08_064205.png?width=688&height=330"600="" height="">
+      </div>
     </td>
   </tr>
   <br><br>
@@ -1717,12 +1759,14 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1149822088157339790/Captura_de_pantalla_2023-09-08_064743.png"600="" height="">
+      </div>
     </td>
   </tr>
   <br><br>
 
-### Link para visualizar los wireframes diagrams: https://overflow.io/s/O6IYMWFP 
+##### Link para visualizar los wireframes diagrams: https://overflow.io/s/O6IYMWFP 
 
 ---
 
@@ -1735,7 +1779,9 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1149822816519196702/Captura_de_pantalla_2023-09-08_070404.png?width=688&height=560"600="" height="">
+      </div>
     </td>
   </tr>
   <br><br>
@@ -1744,7 +1790,8 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823111554928670/Captura_de_pantalla_2023-09-08_070707.png?width=688&height=241"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823111554928670/Captura_de_pantalla_2023-09-08_070707.png?width=688&height=241"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1753,7 +1800,9 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823420104704181/Captura_de_pantalla_2023-09-08_071758.png?width=590&height=618"600="" height="">
+      </div>
     </td>
   </tr>
   <br><br>
@@ -1763,7 +1812,8 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823995579990066/Captura_de_pantalla_2023-09-08_164949.png?width=287&height=618"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823995579990066/Captura_de_pantalla_2023-09-08_164949.png?width=287&height=618"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1772,7 +1822,8 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824239642349708/Captura_de_pantalla_2023-09-08_072014.png?width=283&height=618"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824239642349708/Captura_de_pantalla_2023-09-08_072014.png?width=283&height=618"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1781,16 +1832,18 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824395406233640/Captura_de_pantalla_2023-09-08_072222.png?width=688&height=477"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824395406233640/Captura_de_pantalla_2023-09-08_072222.png?width=688&height=477"600="" height=""></div>
     </td>
   </tr>
   <br><br>
 
-***A continuación, se muestra el producto elegido por el usuario que desea canjear. ***
+***A continuación, se muestra el producto elegido por el usuario que desea canjear.***
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824550851321856/Captura_de_pantalla_2023-09-08_072353.png?width=600&height=618"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824550851321856/Captura_de_pantalla_2023-09-08_072353.png?width=600&height=618"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1800,7 +1853,8 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824704320909482/Captura_de_pantalla_2023-09-08_072607.png?width=688&height=357"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824704320909482/Captura_de_pantalla_2023-09-08_072607.png?width=688&height=357"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1809,7 +1863,8 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824887649747054/Captura_de_pantalla_2023-09-08_072804.png?width=688&height=481"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824887649747054/Captura_de_pantalla_2023-09-08_072804.png?width=688&height=481"600="" height=""></div>
     </td>
   </tr>
 
@@ -1820,7 +1875,8 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825424222847066/Captura_de_pantalla_2023-09-08_073410.png?width=688&height=274"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825424222847066/Captura_de_pantalla_2023-09-08_073410.png?width=688&height=274"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1830,7 +1886,8 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825569119272970/Captura_de_pantalla_2023-09-08_073610.png?width=607&height=618"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825569119272970/Captura_de_pantalla_2023-09-08_073610.png?width=607&height=618"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1840,7 +1897,8 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825726229512343/Captura_de_pantalla_2023-09-08_073759.png?width=289&height=617"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825726229512343/Captura_de_pantalla_2023-09-08_073759.png?width=289&height=617"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1849,7 +1907,8 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826008367771678/Captura_de_pantalla_2023-09-08_073849.png?width=289&height=618"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826008367771678/Captura_de_pantalla_2023-09-08_073849.png?width=289&height=618"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1858,7 +1917,8 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826364703256627/Captura_de_pantalla_2023-09-08_074057.png?width=688&height=454"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826364703256627/Captura_de_pantalla_2023-09-08_074057.png?width=688&height=454"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1867,7 +1927,8 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826517245906954/Captura_de_pantalla_2023-09-08_074233.png?width=610&height=618"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826517245906954/Captura_de_pantalla_2023-09-08_074233.png?width=610&height=618"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1876,7 +1937,8 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826780568498216/Captura_de_pantalla_2023-09-08_074435.png?width=688&height=348"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826780568498216/Captura_de_pantalla_2023-09-08_074435.png?width=688&height=348"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1885,15 +1947,17 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149827250842259530/Captura_de_pantalla_2023-09-08_074806.png?width=615&height=618"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149827250842259530/Captura_de_pantalla_2023-09-08_074806.png?width=615&height=618"600="" height=""></div>
     </td>
   </tr>
-  <br><br>
+
+----
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 En esta sección se muestra los user flows diagrams de los Mock-ups previamente creados anteriormente. A continuación, se mostrarán los flujos de la aplicación para el mayor entendimiento de todos.
 
-### El link del user Flow diagrams es el siguiente: https://overflow.io/s/RV6NU7NK 
+##### El link del user Flow diagrams es el siguiente: https://overflow.io/s/RV6NU7NK 
 
 ### Segmento objetivo Empresarios:
 
@@ -1901,7 +1965,8 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828110045429851/Captura_de_pantalla_2023-09-08_081316.png?width=688&height=222"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828110045429851/Captura_de_pantalla_2023-09-08_081316.png?width=688&height=222"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1910,7 +1975,8 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828260415422474/Captura_de_pantalla_2023-09-08_081915.png?width=659&height=618"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828260415422474/Captura_de_pantalla_2023-09-08_081915.png?width=659&height=618"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1919,7 +1985,8 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828409493557329/Captura_de_pantalla_2023-09-08_082048.png?width=665&height=618"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828409493557329/Captura_de_pantalla_2023-09-08_082048.png?width=665&height=618"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1928,7 +1995,8 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828670345723974/Captura_de_pantalla_2023-09-08_082603.png?width=688&height=294"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828670345723974/Captura_de_pantalla_2023-09-08_082603.png?width=688&height=294"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1938,7 +2006,8 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149829025880080424/Captura_de_pantalla_2023-09-08_083350.png?width=688&height=293"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149829025880080424/Captura_de_pantalla_2023-09-08_083350.png?width=688&height=293"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1947,19 +2016,21 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149829280671481936/Captura_de_pantalla_2023-09-08_083841.png?width=688&height=288"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149829280671481936/Captura_de_pantalla_2023-09-08_083841.png?width=688&height=288"600="" height=""></div>
     </td>
   </tr>
   <br><br>
 
 ### Segmento objetivo Usuarios:
-### Link para visualizar los wireframes diagrams: https://overflow.io/s/T9LJPXN7
+##### Link para visualizar los wireframes diagrams: https://overflow.io/s/T9LJPXN7
 
 ***User Goal: Como soy cliente consumidor, quiero elegir el sector de cliente y poder registrarme como cliente.***
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830044420677802/Captura_de_pantalla_2023-09-08_085230.png?width=688&height=292"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830044420677802/Captura_de_pantalla_2023-09-08_085230.png?width=688&height=292"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1968,7 +2039,8 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830239761997968/Captura_de_pantalla_2023-09-08_085338.png?width=655&height=618"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830239761997968/Captura_de_pantalla_2023-09-08_085338.png?width=655&height=618"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1977,7 +2049,8 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830398713532426/Captura_de_pantalla_2023-09-08_085432.png?width=636&height=618"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830398713532426/Captura_de_pantalla_2023-09-08_085432.png?width=636&height=618"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1986,7 +2059,8 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830572672299048/Captura_de_pantalla_2023-09-08_085716.png?width=686&height=618"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830572672299048/Captura_de_pantalla_2023-09-08_085716.png?width=686&height=618"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -1995,7 +2069,8 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830844194766988/Captura_de_pantalla_2023-09-08_085943.png?width=679&height=618"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830844194766988/Captura_de_pantalla_2023-09-08_085943.png?width=679&height=618"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -2004,7 +2079,8 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149831496916541470/Captura_de_pantalla_2023-09-08_090557.png?width=688&height=248"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149831496916541470/Captura_de_pantalla_2023-09-08_090557.png?width=688&height=248"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -2013,7 +2089,8 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149831610284376064/Captura_de_pantalla_2023-09-08_090645.png?width=658&height=617"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149831610284376064/Captura_de_pantalla_2023-09-08_090645.png?width=658&height=617"600="" height=""></div>
     </td>
   </tr>
   <br><br>
@@ -2022,18 +2099,22 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 ## 4.5. Web Applications Prototyping.
 
+<div align='justify'>
 
-### Link del prototipo en Figma: https://www.figma.com/proto/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?page-id=0%3A1&type=design&node-id=18-31&viewport=482%2C573%2C0.23&t=fF9wq2WzqPvgenwU-1&scaling=scale-down&starting-point-node-id=18%3A31&mode=design 
+  ##### Link del prototipo en Figma:
+  https://www.figma.com/proto/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?page-id=0%3A1&type=design&node-id=18-31&viewport=482%2C573%2C0.23&t=fF9wq2WzqPvgenwU-1&scaling=scale-down&starting-point-node-id=18%3A31&mode=design 
+</div>
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149832165748654200/Captura_de_pantalla_2023-09-08_172204.png?width=688&height=435"600="" height="">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149832165748654200/Captura_de_pantalla_2023-09-08_172204.png?width=688&height=435"600="" height=""></div>
     </td>
   </tr>
   <br><br>
 
 ## 4.6. Domain-Driven Software Architecture.  
-
+<div align='justify'>
 En esta seccion, se presentarán los diagramas de arquitectura de software desarrollados para nuestra aplicacion web. Hemos considerado el enfoque Domain-Driven, de tal forma podemos reflejar la estructura del diseño empleado para nuestro proyecto. 
 
  
@@ -2041,20 +2122,23 @@ En esta seccion, se presentarán los diagramas de arquitectura de software desar
 ### 4.6.1. Software Architecture Context Diagram.  
 
 En la seccion de Software Architecture Context Diagram, es una representación visual que muestra cómo un sistema de software interactúa con su entorno. Este diagrama ayuda a comprender las relaciones y dependencias del sistema en su entorno, siendo una herramienta clave en el diseño de la arquitectura de software. 
+</div>
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150047809362468984/structurizr-SystemContext-001_1.png?width=865&height=423"width="775" height="592">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150047809362468984/structurizr-SystemContext-001_1.png?width=865&height=423"width="775" height="592"></div>
     </td>
   </tr>
 
 ### 4.6.2. Software Architecture Container Diagrams. 
-
+<div align='justify'>
 Sobre Software Architecture Container Diagrams, son representaciones visuales que muestran cómo un sistema de software se divide en contenedores, que son unidades lógicas de alto nivel que contienen componentes y servicios relacionados. Nos premite  comprender la estructura general de un sistema y cómo interactúan sus partes principales, siendo una parte importante de la documentación de la arquitectura de software. 
 
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150053277724053534/structurizr-Container-001_2.png?width=211&height=423"width="375" height="692">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150053277724053534/structurizr-Container-001_2.png?width=211&height=423"width="375" height="692"></div>
     </td>
   </tr>
 
@@ -2062,19 +2146,23 @@ Sobre Software Architecture Container Diagrams, son representaciones visuales qu
 
 Con respecto a Software Architecture Components Diagrams, son representaciones visuales que ilustran cómo los sistemas de software se componen en diferentes módulos o componentes, mostrando las relaciones y dependencias entre ellos. 
 
-Api Aplication:  
+**Api Aplication:**  
 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150098538810847333/structurizr-Component-001_1.png?width=413&height=423"width="475" height="592">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150098538810847333/structurizr-Component-001_1.png?width=413&height=423"width="475" height="592"></div>
     </td>
   </tr>
+<br>
+<br>
 
-  Web Aplication:  
+  **Web Aplication:**  
 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150102558770212994/structurizr-Component-001_2.png?width=277&height=423"width="475" height="592">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150102558770212994/structurizr-Component-001_2.png?width=277&height=423"width="475" height="592"></div>
     </td>
   </tr>
 
@@ -2934,3 +3022,5 @@ Uxpressiar: https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc
 <a href="https://youtu.be/4NOoDO7oZMk">https://youtu.be/4NOoDO7oZMk</a>
 
 <br>
+</div>
+</div>
