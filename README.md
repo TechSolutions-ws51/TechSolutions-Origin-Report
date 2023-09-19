@@ -1377,6 +1377,10 @@ En este caso, se puede observar los distintos elementos que se usaron para difer
       <div align='center'>
       <img  src="https://media.discordapp.net/attachments/892430247042105427/1150137459896762539/image.png?width=750&height=564" width="600" height="400">
       </div>
+    <td>
+  <tr>
+<br>
+
 
 ### 4.3.2. Landing Page Mock-up.
 Para la elaboración del Mock-up del Landing page tanto para el apartado de escritorio como para móvil se usaron principios, elementos de diseño, diseño inclusivo y arquitectura de información que se planteó en puntos anteriores.
@@ -2758,19 +2762,70 @@ Es asi como nosotros verificamos el cambio en la linea de trabajo:
 
 ### 5.2.X. Sprint n
 
-#### 5.2.X.1. Sprint Planning n.
+#### 5.2.1.1. Sprint Planning 1.
 
-#### 5.2.X.2. Sprint Backlog n.
+#### 5.2.1.2. Sprint Backlog 1.
 
-#### 5.2.X.3. Development Evidence for Sprint Review.
+#### 5.2.1.3. Development Evidence for Sprint Review.
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+Para la entrega del Sprint 1, se tuvo pensado alcanzar el desarrollo completo del despliegue del Landing page. En esta sección presentamos la implementación del Landing page, tratando de alcanzar el diseño original que se realizó en Figma, de tal modo que el usuario tenga una buena experiencia de usuario.
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+| Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
+| [LoyalSips-LandingPage](https://github.com/IsaacAmp24/LoyalSips-LandingPage.git) | Feature/TS-LandingPage | feature:home-section add     | Initial commit | Se creó el proyecto | 08/09/2023          |
+<br>
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+En el sprint 1, se logró implementar del despliegue de la Landing page. En el que se muestra diferentes secciones que anteriormente fueron diseñadas en el Figma, de este modo se muestran las secciones en el que pueden saber mas de la empresa.
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+- 1. **Sección About us**
+      
+      En esta sección se muestra donde el usuario puede ver más acerca de nosotros y lo que ofrecemos.
+    <br>
+      <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150176709635739770/image.png?width=1409&height=579"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+  - 2. **Sección Services**
+  En esta sección se muestra el servicio que ofrecemos, pero al tener 2 segmentos objetivos, tenemos servicios para clientes y servicios para las empresas.
+  <br>
+        <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150181153958023179/image.png?width=1409&height=261"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+  
+    - 3. **Sección Reviews**
+  En esta sección se muestra los comentarios o las reseñas de nuestros usuarios, tanto empresas como clientes, de este modo nosotros podremos mejorar e innovar en nuestro sitio web.
+
+  <br>
+        <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150181289304006747/image.png?width=1409&height=353"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+    - 4. **Sección Contact**
+  En esta sección se muestra un formulario en el que los usuarios, tanto cliente como usuario puede realizar envios de mensajes para contactarnos directamente con nosotros.
+
+  <br>
+        <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150181591591682230/image.png?width=1237&height=625"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Esta sección aun no ha sido completada para la evidencia de la documentación, pero estamos trabajando internamente para completarlo.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Para el desarrollo del Landing Page TechSolution se ha utilizado los siguientes lenguajes:
 
