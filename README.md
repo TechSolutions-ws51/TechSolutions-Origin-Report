@@ -2848,7 +2848,7 @@ Es asi como nosotros verificamos el cambio en la linea de trabajo:
 ## 5.2. Landing Page, Services & Applications Implementation.
 <p>En esta sección el equipo ha implementado a la página de inicio, servicios y aplicaciones de "LoyalSips" que se enfoca en presentar de manera efectiva los bares y ofertas, permitiendo a los usuarios buscar, reservar y calificar, tanto en el sitio web como en la aplicación móvil.</p>  
 
-### 5.2.X. Sprint n
+### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1.
 
@@ -2857,6 +2857,25 @@ Es asi como nosotros verificamos el cambio en la linea de trabajo:
 </div>
 
 #### 5.2.1.2. Sprint Backlog 1.
+
+<div align='justify'> 
+<p>En esta sección, se mostrará como evidencia fotográfica y, mediante una visón más panoramica, se mostrará de forma estrucural un cuadro donde se detallará más aprofundidad de lo que se desarrolló para este primer entregable <em>(Sprint)</em> que se tuvo previsto para esta entrega.</p>
+</div>
+
+<div align="center">
+<img src="https://media.discordapp.net/attachments/892430247042105427/1153807855690973314/image.png?width=1266&height=564" alt="Sprint-Backlog1-Image" style="width:600px;height:auto;">
+</div>
+
+<div align="center">
+<p><strong>Link del Jira - Modelo Kanban:</strong> <a href="https://loya1sips.atlassian.net/jira/software/projects/EXPOINTBAR/boards/1">https://loya1sips.atlassian.net/jira/software/projects/EXPOINTBAR/boards/1</a></p>
+</div>
+
+<br>
+
+
+<div align="center">
+<img src="https://i.ibb.co/2djwC4n/Documento-A4-para-escribir-formas-org-nicas-bordes-de-hojas-plantas-minimalista-ilustracion-dibujo-v.png" alt="Sprint-Backlog1-Image" style="width:400px;height:auto;">
+</div>
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
