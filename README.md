@@ -274,7 +274,7 @@ Los clientes tienen la preocupación de no encontrar un espacio o una mesa dentr
 
 <b>¿Cómo podemos mejorar el sistema de reservación y ofertas para que los clientes puedan estar al tanto al momento de asistir como adquirir sus insumos, a fin de solidificar la confianza y tranquilad en ellos así como seguir impulsando de manera incremental las ganancias en el recinto?</b>
 
-<b>PS3:</b> Nuestra plataforma ofrece la posibilidad de verificar la cantidad de insumos que quedan en el lugar para la preparación de las bebidas alcohólicas o <q>tragos</q> (esto en su terminación coloquial). Prácticamente, facilitará a los <q><i>Barmans<i></q> como a los dueños de lugar a determinar cuantas botellas o elementos complementarios quedan en el almacén - abasteciéndolo en caso queden muy poco de estos -.
+<b>PS3:</b> Nuestra plataforma ofrece la posibilidad de verificar la cantidad de insumos que quedan en el lugar para la preparación de las bebidas alcohólicas o <q>tragos</q> (esto en su terminación coloquial). Prácticamente, facilitará a los <q><i>Barmans</i></q> como a los dueños de lugar a determinar cuantas botellas o elementos complementarios quedan en el almacén - abasteciéndolo en caso queden muy poco de estos -.
 
 Aunque de por si hay alto interés por parte de los dueños en adquirir estos sistemas de control de inventarios, normalmente la falta de experiencia en la manipulación de tecnología o temor de un mal uso, es lo que le preocupa al dueño o las personas encargadas de manipularlo; por lo que, la gran mayoría de estos establecimientos, sigue prefiriendo tomar registros en otros medios para evitar inconsistencias en los productos que se tienen allí.
 
@@ -1336,7 +1336,6 @@ Link del apartado móvil: https://www.figma.com/file/N8EmdAUWapHigf4Lk8sGHr/Web-
       </div>
     </td>
   </tr>
-
 <br>
 
 El link del apartado de escritorio: <a href="https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=397%3A3611&mode=design&t=jL9xPnI96j5KRImq-1">https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=397%3A3611&mode=design&t=jL9xPnI96j5KRImq-1</a>
@@ -1367,6 +1366,7 @@ En este caso, se puede observar los distintos elementos que se usaron para difer
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
       <div align='center'>
+      </div>
     </td>
   </tr>
 
