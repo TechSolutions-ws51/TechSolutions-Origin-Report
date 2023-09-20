@@ -28,13 +28,13 @@
 
 ## Registros de versiones del Informe
 
-|   Version     |   Fecha   |   Autor   |   Descripción de la modificación|
-|:-------------:|:---------:|:---------|:------------------------|
-|1              |           |Ampudia Flores|- Implementó  |
-|1              |           |Alarcon Rondon|- Implementó  |
-|1              |           |Morin Fuentes |- Implementó  |
-|1              |           |Huamani Sánchez|- Implementó  |
-|1              |           |Ballona Blas|- Implementó  |
+|   Version     |   Fecha   | Autor                   |   Descripción de la modificación|
+|:-------------:|:---------:|:------------------------|:------------------------|
+|1              |  26/08/2023    | Ampudia Flores          |**Capitulo 1** <br> - Implementó el Lean UX Assumptions. <br> - Lean UX Hypothesys  Statements.<br><br>**Capitulo 2**<br>- Estrategias y tácticas frente a competidores.<br> - Diseño de entrevistas.<br><br>**Capitulo 3**<br> - To-Be Scenario Mapping. <br><br>**Capitulo 4**<br>- Landing Page UI Design.<br>- Landing Page Wireframe.<br>- Landing Page Mock-up.<br>- Web Applications UX/UI Design.<br>- Web Applications Wireframes.<br>- Web Applications Wireflow Diagrams.<br>- Web Applications Mock-ups.<br>- Web Applications User Flow Diagrams.<br>- Web Applications Prototyping.<br><br>**Capitulo 5**<br>- Testing Suite Evidence for Sprint Review.<br>- Execution Evidence for Sprint Review.<br>- Services Documentation Evidence for Sprint Review.<br><br> |
+|1              |   29/08/2023   | Alarcon Rondon          |**Capitulo 1** <br> - Implementó el Startup Profile. <br> - Descripcion del Startup.<br>- Perfiles de integrantes del equipo.<br><br>**Capitulo 2**<br>- Competidores.<br> - Análisis competitivo.<br><br>**Capitulo 3**<br> - Impact Mapping. <br><br>**Capitulo 4**<br>- Domain-Driven Software Architecture.<br>- Software Architecture Context Diagram.<br>- Software Architecture Container Diagrams.<br>- Software Architecture Components Diagrams.<br><br>**Capitulo 5**<br>- Software Development Environment Configuration.<br>- Source Code Management.<br><br>|
+|1              |   27/08/2023     | Morin Fuentes           |**Capitulo 1** <br> - Implementó el Solution Profile. <br> - Antecedentes y problematicas.<br><br>**Capitulo 2**<br>- Needfinding.<br> - User Personas.<br>- User Task Matrix.<br><br>**Capitulo 3**<br> - User Stories. <br><br>**Capitulo 4**<br>- General Style Guidelines.<br>- Web Style Guidelines.<br>- Information Architecture.<br>- Organization Systems.<br>- Labeling Systems.<br><br>**Capitulo 5**<br>- Software Deployment Evidence for Sprint Review.<br>- Team Collaboration Insights during Sprint.<br>- Avance de Conclusiones, Bibliografía y Anexos.<br><br>|
+|1              |    01/09/2023  | Huamani Sánchez    |**Capitulo 1** <br> - Implementó el Lean UX Proccess. <br> - Lean UX Problem Statements.<br><br>**Capitulo 2**<br>- Registro de entrevistas.<br> - Análisis de entrevistas.<br><br>**Capitulo 4**<br>- Class Dictionary.<br>- Database Design.<br>- Database Diagram.<br><br>**Capitulo 5**<br>- Sprint Planning 1.<br>- Sprint Backlog 1.<br>- Development Evidence for Sprint Review.<br><br> |
+|1              |     02/09/2023  | Ballona Blas    |**Capitulo 1** <br> - Implementó el Lean UX Canvas. <br> - Segmento Objetivo.<br><br>**Capitulo 2**<br>- User Journey Mapping.<br> - Empathy Mapping.<br>- As-is Scenario Mapping.<br><br>**Capitulo 3**<br> - Product Backlog. <br><br>**Capitulo 4**<br>- SEO Tags and Meta Tags.<br>- Searching Systems. <br>- Navigation Systems.<br>- Software Object-Oriented Design.<br>- Class Diagrams.<br><br>**Capitulo 5**<br>- Source Code Style Guide & Conventions.<br>- Software Deployment Configuration.<br>- Landing Page, Services & Applications Implementation.<br><br> |
 
 <br><br>
 
@@ -115,15 +115,15 @@
     - [5.1.3 Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4 Software Deployment Configuration](#514-software-deployment-configuration)
 - [5.2 Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.X Sprint n](#52x-sprint-n)
-        - [5.2.X.1 Sprint Planning n](#52x1-sprint-planning-n)
-        - [5.2.X.2 Sprint Backlog n](#52x2-sprint-backlog-n)
-        - [5.2.X.3 Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)
-        - [5.2.X.4 Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)
-        - [5.2.X.5 Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)
-        - [5.2.X.6 Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)
-        - [5.2.X.7 Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)
-        - [5.2.X.8 Team Collaboration Insights during Sprint](52x8-team-collaboration-insights-during-sprint)
+    - [5.2.1 Sprint n](#52x-sprint-n)
+        - [5.2.1.1 Sprint Planning n](#52x1-sprint-planning-n)
+        - [5.2.1.2 Sprint Backlog n](#52x2-sprint-backlog-n)
+        - [5.2.1.3 Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)
+        - [5.2.1.4 Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)
+        - [5.2.1.5 Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)
+        - [5.2.1.6 Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)
+        - [5.2.1.7 Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)
+        - [5.2.1.8 Team Collaboration Insights during Sprint](52x8-team-collaboration-insights-during-sprint)
 
 
 
@@ -131,10 +131,59 @@
 <div align='justify'>
 
 # Student Outcome
-| Criterio específico | Acciones Realizadas | Conclusiones |
-|:--------------------|:-------------------:|:------------:|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Tareas| Conclusion|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Tareas|Conclusion|
+<table align="center">
+    <tr>
+      <th>Criterio específico</th>
+      <th>Acciones Realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+    <tr>
+          <td>Comunica oralmente la efectividad a diferentes rangos de audiencia.</td>
+          <td><strong>Ampudia, José</strong><br>
+          <strong>TB1:</strong><br>
+          Se realizaron reuniones para una mejor organización del trabajo, de tal forma facilitar la asignación de puntos que cada integrante del equipo le corresponda desarrollar.<br><br>
+          <strong>Morin, Jean</strong><br>
+          <strong>TB1:</strong><br>
+          A medida que se realizaba el avance de nuestro proyecto, se mantuvo una comunicación constante para facilitar tiempos,de tal forma que si algún integrante del equipo necesitaba ayuda, podía avisar y apoyarnos entre todos.<br><br>
+          <strong>Alarcon, Sandro</strong><br>
+          <strong>TB1:</strong><br>
+          Para la realización de las entrevistas, se tuvo que implementar un diseño de entrevistas, con preguntas abiertas, de tal forma que permitan al segmento objetivo poder explayarse, y de ese modo, rescatar las ideas brindadas por los entrevistados, de este modo nos ayuda como equipo a seguir innovando nuestro proyecto.<br><br>
+          <strong>Huamani, José</strong><br>
+          <strong>TB1:</strong><br>
+          Se tuvo que realizar entrevistas para conocer el punto de vista de los segmentos objetivos, dado que nuestro proyecto posee 2 segmentos objetivos, por lo que las entrevistas nos facilitaron a encontrar ideas innovadoras para aplicarlas en nuestro proyecto, lo cual nos ayuda bastante como equipo.<br><br>
+          <strong>Ballona, Naggit</strong><br>
+          <strong>TB1:</strong><br>
+          Para la elaboración del informe, se comunicó las herramientas a utilizar por interno, para que de este modo se eviten errores y poder realizar un trabajo de manera óptima.
+        </td>
+        <td><strong>TB1:</strong><br>
+        Se alanzó elaborar un trabajo parcialmente bueno, con algunos errores, pero que para las siguientes entregas dichos errores encontrados en esta entrega serán corregidos de tal modo que se presente un trabajo sobresaliente.</td>
+  </tr>
+  <tr>
+    <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
+    <td><strong>Ampudia, José</strong><br>
+    <strong>TB1:</strong><br>
+          Los diseños elaborados para el prototipo de nuestro proyecto fue pieza fundamental para el mejor entendimiento de los usuarios, en el que incluye ambos segmentos objetivos, por lo que la realización es un alcance a la versión final de nuestro proyecto.
+          <br><br>
+          <strong>Morin, Jean</strong><br>
+          <strong>TB1</strong><br>
+          Para mantener un orden de las nuevas características al proyecto que fue desarrollándose durante las semanas, se usaron los "commits" usando el "conventional commits" que son básicamente un lenguaje convencional para mantener un orden y buena organización.
+          <br><br>
+          <strong>Alarcon, Sandro</strong><br>
+          <strong>TB1</strong><br>
+          La elaboración de los diagramas C4, nos ayudan a tener la capacidad de captar la idea del proyecto en un alto nivel, dentro de ello engloba el diagrama de contexto, contenedores y componentes, el cual facilita el entendimiento para los stakeholders.
+          <br><br>
+          <strong>Huamani, José</strong><br>
+          <strong>TB1</strong><br>
+          La implementación del Lean UX Problem Statements es la rama más esencial, porque en este apartado, se explica a detalle el propósito de nuestro proyecto, que solución estamos proponiendo para mejorar en este caso el sistema de los Bares, además de ello, el Solution Profile va de la mano, porque explicamos la visión y misión de nuestro proyecto.
+          <br><br>
+          <strong>Ballona, Naggit</strong><br>
+          <strong>TB1</strong><br>
+          Para finalizar, se realizaron materiales de exposición para explicar los detalles de nuestro proyecto, dentro de estos materiales resaltan el video de exposición y la diapositiva, además, explicamos el alcance exacto de nuestro proyecto para un mejor entendimiento de los segmentos objetivos involucrados.
+    </td>
+    <td><strong>TB1:</strong><br>La capacidad de poder comunicarnos es muy importante para este tipo de trabajos, nos ayudan a optimizar los tiempos, es por ello que se usaron algunas herramientas como Discord y WhatsApp, de tal forma que cada integrante del equipo realice su asignacion correspondiente de manera óptima y pueda comunicarse con el grupo.</td>
+  </tr>
+</table>
+
 <br><br>
 
 # Capitulo 1: Introducción
@@ -2470,23 +2519,23 @@ En la sección de Software Development Environment Configuration, implica la pre
 
  
 
-Project Mangement 
+- Project Mangement 
 
-Requirements Management 
+- Requirements Management 
 
-Product UX/UI Design 
+- Product UX/UI Design 
 
-Software Development 
+- Software Development 
 
-Software Testing 
+- Software Testing 
 
-Software Documentation 
+- Software Documentation 
 
 
 Además, es necesario mencionar la clasificacion de estos, ya que pueden ser elementos de las secciones como "Ruta de Referencia" o "Ruta de Descarga".
  
 
-### Project Mangement 
+#### Project Mangement 
 
 Project Mangement tiene como objetivo en la gestión de proyectos, mejorar los procesos y tambien, el entorno para obtener los resultados requeridos. 
 
@@ -2494,15 +2543,13 @@ Para el proyecto no hemos utilizado un software que gestione el proyecto.
 
  
 
-### Requirements Management 
+#### Requirements Management 
 
 Requirements Management implica la recopilación, documentación y seguimiento de los requisitos del software. 
 
 Para el proyecto no hemos utilizado un software que gestione el proyecto. 
 
- 
-
-### Product UX/UI Design 
+#### Product UX/UI Design 
 
 Es la fase que diseña la apariencia y la interacción del software para garantizar una experiencia de usuario atractiva y eficiente. 
 
@@ -2514,9 +2561,8 @@ Para este propósito, hemos empleado Figma, una herramienta que nos permite dise
 
 Lucid Chart es una herramienta eficiente con respecto al desarrollo del diseño de modelados. Lucid Chart : https://www.lucidchart.com/  
 
- 
 
-### Software Development 
+#### Software Development 
 
 Con respecto a Software Development, el cual nos permite tener un entorno adecuado para desarrollar el proyecto en código. 
 
@@ -2534,14 +2580,13 @@ CSS, da estilo y diseño a páginas web, controlando colores, fuentes, márgenes
 HTML es el lenguaje de marcado utilizado para crear y estructurar contenido en la web, definiendo elementos y su función en una página, como títulos, párrafos e imágenes. HTML: https://developer.mozilla.org/es/docs/Web/HTML  
 
  
-
-### Software Testing 
+#### Software Testing 
 
 Software Testing es la fase del desarrollo de software en la que se realizan pruebas exhaustivas para identificar y corregir errores, asegurando que la aplicación funcione correctamente y cumpla con los requisitos. 
 
 En nuestro proyecto no hemos utilizado este tipo de herramienta. 
 
-### Software Documentation 
+#### Software Documentation 
 
 Es el mantenimiento de documentos que describen la estructura y cual es el uso del software. Esto incluye manuales de usuario, documentación técnica y guías para desarrolladores.  
 
@@ -2888,7 +2933,7 @@ Para la entrega del Sprint 1, se tuvo pensado alcanzar el desarrollo completo de
 
 | Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
-| [LoyalSips-LandingPage](https://github.com/IsaacAmp24/LoyalSips-LandingPage.git) | Feature/TS-LandingPage | feature:home-section add     | Initial commit | Se creó el proyecto | 08/09/2023          |
+| [LoyalSips-LandingPage](https://github.com/IsaacAmp24/LoyalSips-LandingPage.git) | Feature/TS-LandingPage | feature:home-section add     | Initial commit | Se creó el proyecto | 08/09/2023|
 <br>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
@@ -2953,7 +2998,7 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 * GitHub: Plataforma de desarrollo colaborativo que nos ayudo a guardar nuestros proyecto con sus respectivas versiones
 * Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
@@ -2997,6 +3042,7 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 ### 5.3.3. Evaluaciones según heurísticas.
 
 ## 5.4. Video About-the-Product.
+
 
 
 ## Conclusiones y recomendaciones.
