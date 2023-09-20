@@ -652,25 +652,88 @@ CPC entre $0,10 y $1,5. </td>
 En este apartado, se mostrarán todas las entrevistas realizadas a nuestro estimado público objetivo respectivamente. En caso gusten visualizar con mayor detalle las entrevistas, se recomienda que vaya al apartado de "Anexos" para obtener más información. 
 
 ### Entrevista 1:
-<div align="center">
 
-<img  src="https://i.ibb.co/mJxy99m/Entrevista-1.png"  alt="Entrevista_#1" width="500"  height="700">
-
+<p><strong>Nombre:</strong> José Leandro</p>
+<p><strong>Apellido:</strong> Machaca Soloaga</p>
+<p><strong>Edad:</strong> 19</p>
+<p><strong>Distrito:</strong> Santiago de Surco - Lima, Perú</p>
+<div align="left">
+<p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
 </div>
+<p><strong>Timing:</strong> 03:00 min</p>
+<p><strong>Duración:</strong> 13:51 min</p>
+
+<div align="center">
+<img  src="https://media.discordapp.net/attachments/892430247042105427/1154133496395202630/image.png?width=1182&height=564"  alt="Entrevista_#1" style="width:500px;height:auto;">
+</div>
+
+<br>
+
+<strong>Resumen:</strong> 
+<p>A lo largo de la entrevista realizada a Leandro Machaca, una persona de gran carísma y con un gran interés a visitar bares, nos comenta que cuenta con un dispositivo <em>Android</em> y en sus momentos de descanso, accede al navegador <em>Google</em> o red social <em>Instagram</em> para indagar información y ubicaciones de más bares para ir a visitar con sus amigos. Hace unas 2 semanas atrás, tuvo una gran experiencia visitando un bar, donde literalmente hubo un show con gente disfrazada y harta buena música que hasta le provocaba bailar aunque él no sea un bailarín experto. Además, nos comenta que lo que más le llamo la atención en el lugar, muy aparte de los disfraces, fue la manera en como se desarrollaba los pedidos y como se recogían, ya que lo único que él tenia que hacer es solicitar la bebida que gusta, le dan un aparato pequeño y cuando su pedido estaba listo, el aparato suena para que vaya a recogerlo.
+
+En relación al tema de nuestro Startup, destacó mucho en su opinión la idea de que halla un sistema de acumulación de puntos el cual le pareció excelente; le gustaría que, por medios plataformas digitales, le avise la cantidad de puntos que tenga y le indique si lo quiere canjear o no en su próxima compra que vaya a realizar. Por consiguiente, él resaltó también que no nos olvidemos incluir un apartado de soporte y ayuda, para que ante cualquier reclamo o problema, este pueda ser registrado y le pueda brindar una solución rápida.
+
+Al ser consultado acerca de lo que está buscando en nuestra pagina Web, él nos explica que hay que tener una buena experiencia de usuario, combinando el fácil uso con interacciones agradables y llamativas para las personas (generar impactó). Por otra parte, y como una idea complementaria, nos sugiere que logremos implementar un mapa de ubicaciones, el cual logre indicarle cuales son los bares más cercanos a su localidad que tengan nuestro sistema implementado, para que no solo logre visitar una sola residencial sino pueda ir conociendo otras nuevas.
+</p>
 
 <br>
 
 ### Entrevista 2:
+
+<p><strong>Nombre:</strong> Patrizio Leonardo</p>
+<p><strong>Apellido:</strong> Risco Chero</p>
+<p><strong>Edad:</strong> 20</p>
+<p><strong>Distrito:</strong> Chorrillos - Lima, Perú</p>
+<div align="left">
+<p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
+</div>
+<p><strong>Timing:</strong> 13:52 min</p>
+<p><strong>Duración:</strong> 13:30 min</p>
+
 <div align="center">
-<img  src="https://i.ibb.co/KhZMr2d/Entrevista-2.png" alt="Entrevista_#2" width="500"  height="700">
+<img  src="https://media.discordapp.net/attachments/892430247042105427/1154148116199649351/image.png?width=1063&height=564" alt="Entrevista_#2" style="width:500px;height:auto;">
 </div>
 
 <br>
 
+<strong>Resumen:</strong> 
+<p>En la entrevista realizada a Patrizio Risco,  una persona muy carismatica y muy sociable con las personas, nos comenta que en diciembre del año pasado tuvo al oportunidad de asistir a un “Restobar” ubicado dentro de un hotel en motivo a la celebración del cumpleaños de su hermana, lo cual, allí lo paso de la mejor manera, teniendo una de las mas gratas experiencias. El único inconveniente que presentó dentro del lugar a sido de que al haber tantas personas, era un poco difícil de movilizarse (no cabía ningún alfiler; así lo logro expresar de manera sabia).
+
+Patrizio ha expresado que dentro lugar, no ha logrado visualizar una plataforma digital, de lo cual le parecía un tanto extraño que careciera de este respectivamente; pero, lo que si se pudo percatar es de que el catálogo de métodos de pagos era muy amplio - incluso Yape estaba en la lista -, este último método le causo poco de gracia.
+
+Cuando le mencionamos acerca de lo que opina de nuestro Startup, expresó que le parecía genial la idea de implementar un sistema de acumulación de puntos, del cual le gustaría que estos lo puedas recibir en tu <em>email</em>, vía <em>SMS</em> o <em>WhatsApp</em>, ya que son los medios sociales donde suele usarlo con mayor frecuencia en su dispositivo celular <em>Android</em> de marca <em>Xiaomi</em>. Asimismo, aportó como una sugerencia de que esos puntos que vaya acumulando, le gustaría que no solo sirvan como descuentos, sino que les briden ciertas promociones llamativas que logren incentivar el uso de estos.
+
+Al ser consultado acerca de lo que estaría buscando dentro de nuestro sitio Web, él logra comentar una idea super importante, el cual es la <strong>interactividad</strong>,  y  <strong>diseño de interfaces llamativas dentro del sitio</strong>, ya que esto permite marcar una gran diferenciación entre el resto de competidores y estaríamos focalizando una nueva perspectiva hacia donde nosotros nos proyectamos dirigir.
+</p>
+
+<br>
+
 ### Entrevista 3:
-<div align="center">
-<img  src="https://i.ibb.co/ZYz33Jz/Entrevista-3.png" alt="Entrevista_#3" width="500"  height="700">
+
+<p><strong>Nombre:</strong> Fiorella Camila</p>
+<p><strong>Apellido:</strong> Ninasivincha Gonzáles</p>
+<p><strong>Edad:</strong> 19</p>
+<p><strong>Distrito:</strong> Santiago de Surco - Lima, Perú</p>
+<div align="left">
+<p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
 </div>
+<p><strong>Timing:</strong> 27:22 min</p>
+<p><strong>Duración:</strong> 12:52 min</p>
+
+<div align="center">
+<img  src="https://media.discordapp.net/attachments/892430247042105427/1154164102994870402/image.png?width=1084&height=564" alt="Entrevista_#3" style="width:500px;height:auto;">
+</div>
+
+<br>
+
+<strong>Resumen:</strong> 
+<p>Durante la  entrevista realizada a Fiorella Ninasivincha, una chica muy alegra y con grandes conocimientos del area financiera y marketing, nos pudo comentar que en su negocio de bares, realiza diversas técnicas para promocionar su negocio tales como <em>digital marketing</em> - mayormente en la redes sociales tales como Facebook, Twitter e Instagram - tomando como cierto impulso y guía a grandes exponentes de locales de bares más conocidos en el Perú, como lo son <em>Perroquet</em> y <em>Carnaval Bar</em> respectivamente; promoviendo el tema de las ofertas de las bebidas y gestión de promociones el cual vayan muy ligadas a las fechas especiales o cumpleaños (convirtiendo la estancia de los comensales en algo totalmente único). A su vez, nos comenta que estaría muy interesada en obtener un sistema de gestión de inventarios para que así se pueda tener una mejor organización de los productos que se tengan dentro del lugar.
+
+Respecto a su opinión sobre nuestro <em>Startup</em>, le pareció algo gratificante poder oír una idea que se relacione mucho a la contribución de ayuda en el rubro de negocio de bares, por lo que, como una “muy buena” idea de <em>marketing</em>, nos recomendó que agreguemos en un apartado del sitio web que, si se registran, por las primeras compras en el lugar les promocionará un gran promoción par así generar el tan famoso “enganche” - término muy ligado a traer la atención del usuario en ámbitos de negocios -.  Cuando se le pregunto si había utilizado un sistema de acumulación de puntos, ella expresó que por el momento no lo había utilizado, pero le interesa mucho esa idea que se pueda llevar a cabo para que, de forma implícita, se pueda llegar a muchos más usuarios para que de esta forma, se puedan establecer lazos más cercanos, solidos y leales con ellos.
+
+Como sugerencias en correspondencia a nuestro sitio web, nos recomienda que el sistema de gestión de inventarios sea fácil y dinámico de usar para evitar confusiones en su manipulación; por otra parte, también hizo hincapié a que logremos hacer que dicho sitio sea multiplataforma para que pueda adaptarse a los diversos dispositivos  - tanto Desktop como móviles -  y, si en caso el usuario presentará algunos inconveniente, ya sea en el establecimiento o en el sitio, que añadamos un apartado de soporte para resolver dichos inconvenientes.
+</p>
 
 <br>
 
