@@ -2556,13 +2556,7 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
 En esta apartado, se podrá observar como las entidades y atributos mencionados anteriormente se establecen dentro de nuestro diagrama de base de datos mediante tablas; por lo que, en base a ello, se realizó las relaciones equivalentes que se tiene entre cada una de ellas para definir más el contexto accionario que tiene cada una de ellas. 
 
 <div  align='center'>
-<img  src="https://i.ibb.co/ypLfmcB/imagen-2023-09-09-124331796.png"  alt="Database_Diagram"  width="900"  height="500">
-
-<center><p>Link del diagrama de base de datos: <a  href="https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS">https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS</a></p>
-</div>
-
-<div  align='center'>
-<img  src="https://i.ibb.co/g3x5s9F/DB-Point-Bar-UPC-Open-Source-2023-08-31-10-05.png"  alt="Database_Diagram"  width="900"  height="500">
+<img  src="https://i.ibb.co/XDHVKSy/DB-Point-Bar-UPC-Open-Source-2023-09-21-10-22.png"  alt="Database_Diagram"  width="900"  height="500">
 
 <center><p>Link del diagrama de base de datos: <a  href="https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS">https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS</a></p>
 </div>
