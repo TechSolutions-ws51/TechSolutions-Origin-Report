@@ -315,15 +315,11 @@ Todo este proceso logra tener un auge basado en 3 principios fundamentales: "Dis
 #### 1.2.2.1. Lean UX Problem Statements.
 <div align="justify">
 <b>1. Problem Statement:</b>
-<p>Nuestro entorno evidencia que los clientes 
+<p>Nuestro entorno evidencia que los clientes presentan cierto tipo de molestia e incomodidades al momento de ir a un bar y no encontrar una mesa disponible para realizar su pedido; por lo que, suelen quedarse esperando por largos minutos afuera del recinto - malogrando su experiencia y su estancia -.
 
-Hemos observado que un factor crítico que afecta a  
+Hemos observado que un factor crítico que afecta a clientes es la falta de información acerca de la disponibilidad de espacio que se tiene del lugar, conllevando a que afuera de las inmediaciones se logren aglomerar las personas y algunas de ellas se terminen retirando por la falta de paciencia.</p>
 
-Los clientes tienen la preocupación de no encontrar un espacio o una mesa dentro del lugar para realizar sus pedidos - conllevando a tener que esperar en las afueras del lugar por un buen rato hasta que haya una disponible -, o simplemente se dan con la sorpresa que los precios de las bebidas están un tanto fuera del presupuesto de la persona o grupo de personas. Estos desperfectos pueden generar una valoración o punto de vista analítico desfavorable hacia el lugar (limitando el crecimiento del negocio como limitando las ventas)
-
-Nos hemos percatado que existe ciertas limitaciones al momento de contabilizar y registrar pedidos entre los clientes y los mozos debido a una mala gestión que se tiene ante estos procesos. Los mozos presentan dificultades al momento de registrar y contabilizar los insumos, conllevando a confundirse en el precio al momento de llevar la cuenta o llevar productos que no solicitaran los comensales - ocasionando altercados y demoras -; por otra parte, los comensales se sienten fastidiados dicha la demora tanto en la entrega de sus bebidas así como la entrega de la cuenta a pagar - conllevando a que tengan una muy mala experiencia en el recinto y a no volver ni recomendarlo a nadie -. </p>
-
-<b>¿Cómo podemos mejorar la gestión de solicitudes de registros y contabilizaciones de pedidos para que tanto los mozos como los clientes se sientan a gusto con la experiencia?</b>
+<b>¿Cómo hacer para que los clientes sepan la disponibilidad de espacio que tiene un bar en una determinada hora para que así ellos puedan asistir y no afectar su tiempo en la espera?</b>
  
 <br>
 
@@ -332,7 +328,7 @@ Nos hemos percatado que existe ciertas limitaciones al momento de contabilizar y
 
 Hemos observado que un factor crítico que afecta a los empresarios de los bares, mayormente viene a ser tanto el desconocimiento como la desconfianza del uso de medios digitalizados para automatizar sus procesos dentro del lugar.</p>
 
-<b>¿Cómo podemos mejorar la experiencia de uso de un sistema de control de registros para que posea utilidades significativas, didácticas, seguras y fáciles de manipular por la persona encargada y así evitar las inconsistencias tanto al contabilizar las bebidas como los insumos que se alojan en el inventario?</b>
+<b>¿Cómo podemos mejorar la experiencia de uso de un sistema de control de registros para que posea utilidades significativas, didácticas, seguras y fáciles de manipular por la persona encargada?</b>
 </div>
 
 <br>
