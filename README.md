@@ -2344,23 +2344,23 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
 <b>Atributes:</b>
 
 <b>- Entity customers:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key |
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
 |--- |--- |--- |--- |
-| id_customer | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
 | first_name | <center>NVARCHAR(20)</center> | <center>YES</center> | <center>NO</center> |
 | last_name | <center>NVARCHAR(30)</center> | <center>YES</center> | <center>NO</center> |
 | birthdate | <center>DATE</center> | <center>YES</center> | <center>NO</center> |
 | email | <center>NVARCHAR(70)</center> | <center>YES</center> | <center>NO</center> |
 | phone_number | <center>NVARCHAR(9)</center> | <center>YES</center> |  <center>NO</center> |
-| forums_id_forum | <center>INTENRGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
-| admins_id_admin | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+| forums_id | <center>INTENRGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+| admins_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
 
 <br>
 
 <b>- Entity admins;</b>
-| Attribute | Type | Is mandatory? | Is Primary Key |
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
 |--- |--- |--- |--- |
-| id_admin|  <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| id |  <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
 | admin_name | <center>NVARCHAR(60)</center> | <center>YES</center> | <center>NO</center> |
 | admin_last_name | <center>NVARCHAR(30)</center> | <center>YES</center> | <center>NO</center> |
 | email | <center>NVARCHAR(70)</center> | <center>YES</center> | <center>NO</center> |
@@ -2369,9 +2369,9 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
 <br>
 
 <b>- Entity forums:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key |
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
 |--- |--- |--- |--- |
-| id_forum | <center>INTENGER</center> | <center>YES</center>  | <center>YES</center> |
+| id | <center>INTENGER</center> | <center>YES</center>  | <center>YES</center> |
 | title | <center>NVARCHAR(40)</center> | <center>YES</center>  | <center>NO</center> |
 | description | <center>NVARCHAR(100)</center> | <center>YES</center>  | <center>NO</center> |
 | publication_date | <center>DATE</center> | <center>YES</center>  | <center>NO</center> |
@@ -2379,41 +2379,41 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
 <br>
 
 <b>- Entity customer_support:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key |
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
 |--- |--- |--- |--- |
-| admins_id_admin | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
-| forums_id_forum | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
+| admins_id | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
+| forums_id | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
 
 <br>
 
 <b>- Entity reservations:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
 |--- |--- |--- |--- |
-| id_reservation | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
 | amount_people | <center>INTENGER</center> | <center>YES</center> | <center>NO</center> |
 | reason_meeting | <center>NVARCHAR(30)</center>| <center>YES</center> | <center>NO</center> |
 | date_reservation | <center>DATE</center> | <center>YES</center> | <center>NO</center> |
 | hour | <center>TIME</center> | <center>YES</center> | <center>NO</center> |
 | extra_time | <center>TIME</center> | <center>YES</center> | <center>NO</center> |
-| customers_id_customer | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center>|
+| customers_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center>|
 
 <br>
 
 <b>- Entity tables:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
 |--- |--- |--- |--- |
-| id_mesa | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
 | name | <center>NVARCHAR(6)</center> | <center>YES</center> | <center>NO</center> |
 | capacity |<center>INTENGER</center>| <center>YES</center> | <center>NO</center> |
-| waiters_id_waiter | <center>INTENGER</center>| <center>YES</center> | <center>NO</center> |
-| reservations_id_reservation | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center>  |
+| waiters_id | <center>INTENGER</center>| <center>YES</center> | <center>NO</center> |
+| reservations_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center>  |
 
 <br>
 
 <b>- Entity waiters:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
 |--- |--- |--- |--- |
-| id_waiter | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
 | first_name | <center>NVARCHAR(20)</center> | <center>YES</center> | <center>NO</center> |
 | last_name| <center>NVARCHAR(30)</center> | <center>YES</center> | <center>NO</center> |
 | antry_time | <center>TIME</center> | <center>YES</center> | <center>NO</center> |
@@ -2422,31 +2422,31 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
 <br>
 
 <b>- Entity bills:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
 |--- |--- |--- |--- |
-| id_bill | <center>INTENGER</center> | <center>YES</center> | <center>YES</center>|
-| waiters_id_waiter | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
-| drinks_id_frink | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
-| drinks_offers_drinks_id_drink | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
-| drinks_offers_offers_id_offer | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center>|
+| id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center>|
+| waiters_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+| drinks_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+| drinks_offers_drinks_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+| drinks_offers_offers_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center>|
 
 <br>
 
 <b>- Entity payments_methods:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
 |--- |--- |--- |--- |
-| id_pay_method | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
 | name| <center>NVARCHAR(20)</center> | <center>YES</center> | <center>NO</center> |
 | description | <center>NVARCHAR(30)</center> | <center>YES</center> | <center>NO</center> |
-| card_data_id_card_data | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
-| bills_id_bill | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+| card_data_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+| bills_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
 
 <br>
 
 <b>- Entity card_data:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
 |--- |--- |--- |--- |
-| id_card_data | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
 | card_numbers | <center>BIGINT</center> | <center>YES</center> | <center>NO</center> |
 | date | <center>SMALLINT</center> | <center>YES</center> | <center>NO</center> |
 | CVV | <center>SMALLINT</center> | <center>YES</center> |<center>NO</center> |
@@ -2454,29 +2454,29 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
 <br>
 
 <b>- Entity drinks:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
 |--- |--- |--- |--- |
-| id_drink | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
 | drink_name | NVARCHAR(35) | <center>YES</center> | <center>NO</center> |
 | brand | <center>NVARCHAR(20)</center> | <center>YES</center> | <center>NO</center> |
 | number_liters | <center>INTENGER</center> | <center>YES</center> | <center>NO</center> |
 | cost | <center>FLOAT</center> | <center>YES</center> | <center>NO</center> |
-| providers_id_provider | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+| providers_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
 
 <br>
 
 <b>- Entity drinks_offers:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
 |--- |--- |--- |--- |
-| drinks_id_drink | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
-| offers_id_offer | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
+| drinks_id | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
+| offers_id | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
 
 <br>
 
 <b>- Entity offers:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
 |--- |--- |--- |--- |
-| id_offer | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
 | discount | <center>FLOAT</center> | <center>YES</center> | <center>NO</center>|
 | start_date | <center>DATE</center> | <center>YES</center> | <center>NO</center> |
 | finish_date | <center>DATE</center> | <center>YES</center> | <center>NO</center> |
@@ -2485,18 +2485,18 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
 <br>
 
 <b>- Entity logs:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
 |--- |--- |--- |--- |
-| id_sale | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| sales_id_sale | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
-| drinks_id_drink | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+| id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| sales_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+| drinks_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
 
 <br>
 
 <b>- Entity sales:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
 |--- |--- |--- |--- |
-| id_sale | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
 | sale_date | <center>DATE</center> | <center>YES</center> | <center>NO</center> |
 | quantity | <center>INTENGER</center> | <center>YES</center> |  <center>NO</center>|
 | business_name | <center>INTENGER</center> | <center>YES</center> | <center>NO</center> |
@@ -2505,26 +2505,26 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
 <br>
 
 <b>- Entity promotion_drinks:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
 |--- |--- |--- |--- |
-| drinks_id_drink | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
-| promotions_id_promotion | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
+| drinks_id | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
+| promotions_id | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
 
 <br>
 
 <b>- Entity promotions:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key? </center>|
 |--- |--- |--- |--- |
-| id_promotion | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
 | price | <center>FLOAT</center> | <center>YES</center> | <center>NO</center> |
 | desription | <center>NVARCHAR(100)</center>| <center>YES</center> | <center>NO</center> |
 
 <br>
 
 <b>- Entity providers:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key? </center>|
 |--- |--- |--- |--- |
-| id_provider | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
 | first_name | <center>NVARCHAR(20)</center> | <center>YES</center> | <center>NO</center> |
 | last_name | <center>NVARCHAR(30)</center> | <center>YES</center> | <center>NO</center> |
 | address | <center>NVARCHAR(70)</center> | <center>YES</center> | <center>NO</center> |
@@ -2535,17 +2535,17 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
 <br>
 
 <b>- Entity warehouses:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key </center>|
 |--- |--- |--- |--- |
-| inventories_id_inventor | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
-| providers_id_provider | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
+| inventories_id | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
+| providers_id | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
 
 <br>
 
 <b>- Entity inventories:</b>
-| Attribute | Type | Is mandatory? | Is Primary Key|
+| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key </center>|
 |--- |--- |--- |--- |
-| id_inventory | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
+| id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
 | stock | <center>TINYINT</center> | <center>YES</center> | <center>NO</center> |
 | desription | <center>NVARCHAR(100)</center> | <center>YES</center> | <center>NO</center> |
 | total | <center>BIGINT</center> | <center>YES</center> | <center>NO</center> |
