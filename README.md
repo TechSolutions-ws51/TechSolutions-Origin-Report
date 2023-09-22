@@ -916,7 +916,7 @@ Esta herramiente conocida como To-be Scenario Mapping nos permitió definir las 
 ### Usuario (Cliente): 
 
 <div align='center'>
-<img src="https://media.discordapp.net/attachments/1145898392631918606/1154673174961717328/to-be_-_cliente.png?width=1402&height=625" alt="LEAN-UX-Canvas" width="750" height="550">
+<img src="https://media.discordapp.net/attachments/1145898392631918606/1154673174961717328/to-be_-_cliente.png?width=1402&height=625" width="" height="">
 </div><br>
 
 Link para ver el [diagrama](https://miro.com/app/board/uXjVO8jKyt8=/?share_link_id=663854831408)
@@ -926,7 +926,7 @@ Link para ver el [diagrama](https://miro.com/app/board/uXjVO8jKyt8=/?share_link_
 ### Empresa (Dueño del Bar):
 
 <div align='center'>
-<img src="https://media.discordapp.net/attachments/1145898392631918606/1154673174710071327/to-be_-_empresa.png?width=1409&height=613" alt="LEAN-UX-Canvas" width="750" height="550">
+<img src="https://media.discordapp.net/attachments/1145898392631918606/1154673174710071327/to-be_-_empresa.png?width=1409&height=613" width="" height="">
 </div><br>
 
 Link para ver el [diagrama](https://miro.com/app/board/uXjVO8jKyt8=/?share_link_id=663854831408)
@@ -1194,10 +1194,11 @@ Realizamos el impact Mapping para el usuario Bar, que representa a los dueños b
 <br>
 Hemos llevado a cabo un proceso de Impact Mapping dirigido al usuario llamado "cliente", quien representa a los clientes que consumen en bares. A partir de las historias de usuario generadas por nuestro equipo, hemos elaborado diferentes opciones para abordar y satisfacer sus requerimientos. 
 
+<br>
 
-Link de Miro y Uxpressiar -> https://miro.com/welcomeonboard/Mk5wZzhZdGppbjl0Y0VZWllDeWtlZ3g3emt6R1NvTHhqdDJ5dUt6MGNoYWRORm5GTHpyNTZOa3paSVRpZ1hJeXwzMDc0NDU3MzU3MTA0ODcyOTA0fDI=?share_link_id=659519633230  
+Link de [Miro](https://miro.com/welcomeonboard/Mk5wZzhZdGppbjl0Y0VZWllDeWtlZ3g3emt6R1NvTHhqdDJ5dUt6MGNoYWRORm5GTHpyNTZOa3paSVRpZ1hJeXwzMDc0NDU3MzU3MTA0ODcyOTA0fDI=?share_link_id=659519633230)  
 
-https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc 
+Link de [Uxpressia](https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc) 
 
 ## 3.4. Product Backlog.
 
@@ -1405,7 +1406,8 @@ Para la elaboración de los wireframes de la Landing Page tanto en el sector de 
     </td>
   </tr>
 <br>
-Link del apartado móvil: https://www.figma.com/file/N8EmdAUWapHigf4Lk8sGHr/Web-Application-Wireframes?type=design&node-id=0%3A1&mode=design&t=DfFWWAqT7hgXSXLE-1 
+
+Link del [Diseño Movil](https://www.figma.com/file/N8EmdAUWapHigf4Lk8sGHr/Web-Application-Wireframes?type=design&node-id=0%3A1&mode=design&t=DfFWWAqT7hgXSXLE-1) 
 
 <br>
 
@@ -1420,7 +1422,7 @@ Link del apartado móvil: https://www.figma.com/file/N8EmdAUWapHigf4Lk8sGHr/Web-
   </tr>
 <br>
 
-El link del apartado de escritorio: <a href="https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=397%3A3611&mode=design&t=jL9xPnI96j5KRImq-1">https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=397%3A3611&mode=design&t=jL9xPnI96j5KRImq-1</a>
+El link del [diseño de escritorio](https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=397%3A3611&mode=design&t=jL9xPnI96j5KRImq-1)
 
 Para la elaboración de los Wireframes de la Landing page, se tomó en cuenta los elementos y principios de diseño, esto se puede apreciar para la creación de formas usando los elementos de dirección y línea, las cuales lo usamos para difenciar tanto las imágenes como los componentes que forman parte del landing page.
 
@@ -1479,7 +1481,7 @@ Para la elaboración del Mock-up del Landing page tanto para el apartado de escr
 
 <br>
 
-Link del figma móvil: https://www.figma.com/file/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?type=design&node-id=0%3A1&mode=design&t=qizxCWqTKyWhjUIy-1 
+Link del [figma móvil](https://www.figma.com/file/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?type=design&node-id=0%3A1&mode=design&t=qizxCWqTKyWhjUIy-1) 
 
 ---
 
@@ -1495,7 +1497,7 @@ Link del figma móvil: https://www.figma.com/file/vE2mliJXJbycAVSDC0Tn3g/Landing
 
   <br>
 
-  ##### Link del figma de escritorio: https://www.figma.com/file/WvBHU5rWPbgabHex3Er6jj/Landing-Page---LoyalSips?type=design&node-id=0%3A1&mode=design&t=E225PHq1IOJ3VIcx-1 
+Link del [figma de escritorio](https://www.figma.com/file/WvBHU5rWPbgabHex3Er6jj/Landing-Page---LoyalSips?type=design&node-id=0%3A1&mode=design&t=E225PHq1IOJ3VIcx-1) 
 
 Para su diseño se aplicaron los 5 principios del diseño:
 
@@ -1745,8 +1747,9 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
     </td>
   </tr>
 </div>  
+<br>
 
-##### Link para visualizar los wireframes diagrams: https://overflow.io/s/O6IYMWFP 
+Link para visualizar los [wireframes diagrams](https://overflow.io/s/O6IYMWFP) 
 
 ---
 
@@ -1829,7 +1832,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
   </tr>
   <br><br>
 
-##### Link para visualizar los wireframes diagrams: https://overflow.io/s/O6IYMWFP 
+Link para visualizar los [wireframes diagrams](https://overflow.io/s/O6IYMWFP)
 
 ---
 
@@ -2020,7 +2023,7 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 ### 4.4.4. Web Applications User Flow Diagrams.
 En esta sección se muestra los user flows diagrams de los Mock-ups previamente creados anteriormente. A continuación, se mostrarán los flujos de la aplicación para el mayor entendimiento de todos.
 
-##### El link del user Flow diagrams es el siguiente: https://overflow.io/s/RV6NU7NK 
+Link del [User Flow diagrams](https://overflow.io/s/RV6NU7NK) 
 
 ### Segmento objetivo Empresarios:
 
@@ -2086,7 +2089,8 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
   <br><br>
 
 ### Segmento objetivo Usuarios:
-##### Link para visualizar los wireframes diagrams: https://overflow.io/s/T9LJPXN7
+
+Link para visualizar los [wireframes diagrams](https://overflow.io/s/T9LJPXN7)
 
 ***User Goal: Como soy cliente consumidor, quiero elegir el sector de cliente y poder registrarme como cliente.***
 
@@ -2162,11 +2166,8 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 ## 4.5. Web Applications Prototyping.
 
-<div align='justify'>
+  Link del [prototipo en Figma](https://www.figma.com/proto/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?page-id=0%3A1&type=design&node-id=18-31&viewport=482%2C573%2C0.23&t=fF9wq2WzqPvgenwU-1&scaling=scale-down&starting-point-node-id=18%3A31&mode=design) 
 
-  ##### Link del prototipo en Figma:
-  https://www.figma.com/proto/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?page-id=0%3A1&type=design&node-id=18-31&viewport=482%2C573%2C0.23&t=fF9wq2WzqPvgenwU-1&scaling=scale-down&starting-point-node-id=18%3A31&mode=design 
-</div>
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
@@ -2238,9 +2239,9 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
 <div align='center'>
 <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148778810737696829/image.png" width="750" height="350">
 </div>
-<b>Link del diagrama:</b>  
-<p>https://lucid.app/lucidchart/daf95998-1760-461d-abfe-2fd30bc0bc28/edit?viewport_loc=-1193%2C-1766%2C2720%2C1316%2C0_0&invitationId=inv_8697997e-4a61-48df-a95e-8ec0a8e8f9bf
-</p>
+<br>
+
+Link del [diagrama de clases](https://lucid.app/lucidchart/daf95998-1760-461d-abfe-2fd30bc0bc28/edit?viewport_loc=-1193%2C-1766%2C2720%2C1316%2C0_0&invitationId=inv_8697997e-4a61-48df-a95e-8ec0a8e8f9bf)
 
 ### 4.7.2. Class Dictionary.
 <div align="justify">
@@ -2511,9 +2512,11 @@ En esta apartado, se podrá observar como las entidades y atributos mencionados 
 
 <div  align='center'>
 <img  src="https://i.ibb.co/XDHVKSy/DB-Point-Bar-UPC-Open-Source-2023-09-21-10-22.png"  alt="Database_Diagram"  width="900"  height="500">
-
-<center><p>Link del diagrama de base de datos: <a  href="https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS">https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS</a></p>
 </div>
+<br>
+
+Link del [diagrama de base de datos](https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS)
+
 
 <br><br>
 
