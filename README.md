@@ -115,7 +115,7 @@
     - [5.1.3 Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4 Software Deployment Configuration](#514-software-deployment-configuration)
 - [5.2 Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1 Sprint n](#52x-sprint-n)
+    - [5.2.1 Sprint 1](#52x-sprint-n)
         - [5.2.1.1 Sprint Planning n](#52x1-sprint-planning-n)
         - [5.2.1.2 Sprint Backlog n](#52x2-sprint-backlog-n)
         - [5.2.1.3 Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)
@@ -697,6 +697,8 @@ CPC entre $0,10 y $1,5. </td>
 
 En este apartado, se mostrarán todas las entrevistas realizadas a nuestro estimado público objetivo respectivamente. En caso gusten visualizar con mayor detalle las entrevistas, se recomienda que vaya al apartado de "Anexos" para obtener más información. 
 
+### Segmento 1: Clientes que suelen ir a frecuentar un bar
+
 ### Entrevista 1:
 
 <p><strong>Nombre:</strong> José Leandro</p>
@@ -755,6 +757,8 @@ Al ser consultado acerca de lo que estaría buscando dentro de nuestro sitio Web
 
 <br>
 
+### Segmento 2: Empresarios del manejo bares
+
 ### Entrevista 3:
 
 <p><strong>Nombre:</strong> Fiorella Camila</p>
@@ -774,7 +778,7 @@ Al ser consultado acerca de lo que estaría buscando dentro de nuestro sitio Web
 <br>
 
 <strong>Resumen:</strong> 
-<p>Durante la  entrevista realizada a Fiorella Ninasivincha, una chica muy alegra y con grandes conocimientos del area financiera y marketing, nos pudo comentar que en su negocio de bares, realiza diversas técnicas para promocionar su negocio tales como <em>digital marketing</em> - mayormente en la redes sociales tales como Facebook, Twitter e Instagram - tomando como cierto impulso y guía a grandes exponentes de locales de bares más conocidos en el Perú, como lo son <em>Perroquet</em> y <em>Carnaval Bar</em> respectivamente; promoviendo el tema de las ofertas de las bebidas y gestión de promociones el cual vayan muy ligadas a las fechas especiales o cumpleaños (convirtiendo la estancia de los comensales en algo totalmente único). A su vez, nos comenta que estaría muy interesada en obtener un sistema de gestión de inventarios para que así se pueda tener una mejor organización de los productos que se tengan dentro del lugar.
+<p>Durante la  entrevista realizada a Fiorella Ninasivincha, una chica muy alegra y con grandes conocimientos del área financiera y marketing, nos pudo comentar que en su negocio de bares, realiza diversas técnicas para promocionar su negocio tales como <em>digital marketing</em> - mayormente en la redes sociales tales como Facebook, Twitter e Instagram - tomando como cierto impulso y guía a grandes exponentes de locales de bares más conocidos en el Perú, como lo son <em>Perroquet</em> y <em>Carnaval Bar</em> respectivamente; promoviendo el tema de las ofertas de las bebidas y gestión de promociones el cual vayan muy ligadas a las fechas especiales o cumpleaños (convirtiendo la estancia de los comensales en algo totalmente único). A su vez, nos comenta que estaría muy interesada en obtener un sistema de gestión de inventarios para que así se pueda tener una mejor organización de los productos que se tengan dentro del lugar.
 
 Respecto a su opinión sobre nuestro <em>Startup</em>, le pareció algo gratificante poder oír una idea que se relacione mucho a la contribución de ayuda en el rubro de negocio de bares, por lo que, como una “muy buena” idea de <em>marketing</em>, nos recomendó que agreguemos en un apartado del sitio web que, si se registran, por las primeras compras en el lugar les promocionará un gran promoción par así generar el tan famoso “enganche” - término muy ligado a traer la atención del usuario en ámbitos de negocios -.  Cuando se le pregunto si había utilizado un sistema de acumulación de puntos, ella expresó que por el momento no lo había utilizado, pero le interesa mucho esa idea que se pueda llevar a cabo para que, de forma implícita, se pueda llegar a muchos más usuarios para que de esta forma, se puedan establecer lazos más cercanos, solidos y leales con ellos.
 
