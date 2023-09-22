@@ -790,41 +790,114 @@ Como sugerencias en correspondencia a nuestro sitio web, nos recomienda que el s
 ### 2.2.3. Análisis de entrevistas.
 
 <div align="justify">
-Primeramente, el 71.9% de los entrevistados cuentan con experiencia en la compra de bebidas en un bar (ver Figura #1). Adicional a ello, si nos ubicamos en la figura #, el 100% de dichos entrevistados ha visitado entre 1 o más veces un bar. En correspondencia a las estadísticas registradas, todos están de acuerdo en que siga impulsando mas ideas innovadoras que beneficien tanto a la parte de los clientes como del negocio (un ganar ganar para ambos respectivamente).
-</div>
-
-<b>Figura 1:</b>
-
-<div align='center'>
-<img src="https://i.ibb.co/vz9gKXz/imagen-2023-09-03-000423780.png" width="700" height="400">
-<p><i>Nota: </i>Dicho gráfico representa la cantidad de entrevistados que han visitado por lo menos una vez un bar.</p>
+Despues de acontecer y describir los registros de los entrevistados, en esta sección, se desarrollará una estrategia conjunta que permitirá al equipo identificar ciertos aspectos y/o puntos en commún que se tuvo como respuesta ante cada pregunta realizada al entrevistado. Esto mismo, nos sirve a nosotros para tener una visión más analítica y concreta acerca de como se deberá desarrollar la aplicación.
 </div>
 
 <br>
 
-<b>Figura 2:</b>
+<strong>Puntos en común:</strong>
 
-<div align='center'>
-<img src="https://i.ibb.co/bRkHJD2/imagen-2023-09-07-113341335.png" width="700" height="400">
-<p><i>Nota: </i>Dicho gráfico representa la cantidad de entrevistados que han visitado por lo menos una vez un bar.</p>
-</div>
+<h3>Segmento 1: Clientes que suelen ir a frecuentar un bar</h3>
+
+<strong>¿Cuáles son los principales motivos que impulsan a nuestros clientes a visitar bares con regularidad?</strong>
+
+<p>Según los entrevistados, nos comentan que el 80% de ellos suelen ir a visitar bares con regularidad por el hecho de que les gusta pasar un grato momento conociendo nuevas personas o simplemente para divertirse con amigos cercanos o familiares - generando en ellos un momento de <em>relax</em> después de una larga jornada de estudio o trabajo.</p>
 
 <br>
 
-<div align="justify">
-En cuanto a la visita de bares, la gran mayoría de entrevistados ha tenido una muy grata experiencia a excepción de una de ellos la cual es dueña de un establecimiento de bar.
+<strong>¿Qué factores influyen en la elección de un bar en particular por parte de nuestros clientes?</strong>
 
-En retrospectiva del aspecto de sugerencias, se logró identificar algunas un tanto repetitivas que se vinieron dando en el transcurso de las entrevistas; esta vienen a ser las siguientes: varios entrevistados sugieren que la interfaz de la plataforma Web sea lo mas interactiva y llamativa posible para que facilite la navegación y el uso que la persona misma le venga a estar dando. Adicional a ello, sugieren que apliquemos ciertas técnicas de marketing para ayudar a incentivar a que más personas conozcan el <i>Startup</i> y pueda generar ingresos - beneficioso para seguir creciendo diferenciarnos del resto de competidores -.
+<p>El 100% de ellos (haciendo inferencia en los entrevistados) concuerdan que el tener una buena organzación, una atención muy agradable y que los precios de las bebidas no estén tan excesivamente caros, son unos de los <em>points</em> que más destacan en sus elecciones al momento de visitar, conocer o frecuentar un bar. </p>
 
-En conclusión, nos podemos percatar de que cada entrevistado tiene diferentes preferencias; por lo que, un 82.1% esta a favor de la optima e interactiva usabilidad y el 17.9% restante esta más que interesado en todo lo que respecta al área de marketing y financiación.
-</div>
+<br>
 
-<b>Figura 3:</b>
+<strong>¿Cuál es la frecuencia de visita promedio de nuestros clientes a bares y qué segmentos de clientes visitan con mayor frecuencia?</strong>
 
-<div align='center'>
-<img src="https://i.ibb.co/BgWQSbH/imagen-2023-09-03-003450592.png" width="700" height="400">
-<p><i>Nota: </i>La representación del gráfico nos da a entender el margen porcentual entre la los entrevistados que prefieren un fácil uso e interacción en la plataforma y los que prefieren cubrir los aspectos de negocios.</p>
-</div>
+<p>En base subjetiva a las entrevistas desarrolladas, los clientes que mayormente frecuentan los bares suelen ser jóvenes estudiantes universitarios entre edades de 19 y 20 años; de lo cuales, un 45% de ellos suelen visitarlo los días viernes y sábado en la noche después de una larga jornada de clases y/o trabajos.</p>
+
+<br>
+
+<strong>¿Cómo afecta la ubicación geográfica de un bar a la afluencia de clientes y al gasto promedio?</strong>
+
+<p>Principalmente, el 90% de los entrevistados suelen vivir en distritos no tan cercanos a dichos establecimientos, conllevando a que se gasté un 6% de lo que tienen para consumir en bebidas, en medio de transporte.</p>
+
+<br>
+
+<strong>¿Cuáles son los eventos o promociones que tienen un mayor impacto en la asistencia de clientes a nuestros bares?</strong>
+
+<p>Usualmente, un 67% de lo entrevistados prefieren las promociones 2x1 en bebidas alcohólicas heladas en la temporada de verano, ya que hay las olas de calor nocturnas suelen ser un tanto abrumadores para algunos, por lo que, algo refrescante ayuda a mantener tanto el cuerpo como la mente fresca.</p>
+
+<br>
+
+<strong>¿Existe una relación entre la edad de nuestros clientes y sus preferencias de bebida, horarios de visita o gasto?</strong>
+
+<p>Entre la relación de edades de las personas entrevistas, el 70% de ellos suelen estar dentro de un margen entre los 19 a 20 años de edad; en correspondecia a la preferencia de las bebidas, el 45% le gusta beber un trago de la bebida <cite>CubaLibre</cite> cuando suele frecuentar un bar; sin embargo, en tema de horarios de visita y/o gastos, el 20% de ellos no suele gastar más de 350 soles o no suelen quedarse hasta más de las 2 a.m.</p>
+
+<br>
+
+<h3>Análisis general de las entrevistas del Segmento Objetivo:</h3>
+
+<strong>Clientes que suelen frecuentar un bar</strong>
+
+<p></p>
+
+
+<br>
+
+
+<h3>Segmento 2: Empresarios de manejo de bares</h3>
+
+<strong>¿Cuáles son las tendencias actuales en la industria de bares y cómo están afectando a los empresarios del sector?</strong>
+
+<p></p>
+
+<br>
+
+<strong>¿Cuáles son las estrategias de marketing y promoción más efectivas para atraer y retener clientes en bares en la actualidad?</strong>
+
+<p></p>
+
+<br>
+
+<strong>¿Cómo se compara la satisfacción del cliente en nuestros bares con la de la competencia y qué áreas podríamos mejorar para retener a nuestros clientes?</strong>
+
+<p></p>
+
+<br>
+
+<strong>¿Cómo varía el comportamiento de gasto de los clientes en función de la hora del día en que visitan el bar?</strong>
+
+<p></p>
+
+<br>
+
+<strong>¿Cuáles son las preferencias de bebida más comunes entre nuestros clientes y cómo han evolucionado con el tiempo?</strong>
+
+<p></p>
+
+<br>
+
+<strong>¿Cuál es la frecuencia de visita promedio de nuestros clientes a bares y qué segmentos de clientes visitan con mayor frecuencia?</strong>
+
+<p></p>
+
+<br>
+
+
+<strong>¿Cómo se compara la satisfacción del cliente en nuestros bares con la de la competencia y qué áreas podríamos mejorar para retener a nuestros clientes?</strong>
+
+<p></p>
+
+<br>
+
+<h3>Análisis general de las entrevistas del Segmento Objetivo:</h3>
+
+<strong>Clientes que suelen frecuentar un bar</strong>
+
+<p></p>
+
+
+<br>
 
 ## 2.3. Needfinding.
 
