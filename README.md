@@ -221,6 +221,8 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <td><strong>Ampudia, José</strong><br>
           <strong>TB1:</strong><br>
           Se realizaron reuniones para una mejor organización del trabajo, de tal forma facilitar la asignación de puntos que cada integrante del equipo le corresponda desarrollar.<br><br>
+          <strong>TP:</strong><br>
+          Para la entrega del Trabajo parcial, se presenta la implementación del Sprint 2, por lo que engloba los procesos de desarrollo y los insights realizados para el desarrollo de dicho Sprint.<br><br>
           <strong>Morin, Jean</strong><br>
           <strong>TB1:</strong><br>
           A medida que se realizaba el avance de nuestro proyecto, se mantuvo una comunicación constante para facilitar tiempos,de tal forma que si algún integrante del equipo necesitaba ayuda, podía avisar y apoyarnos entre todos.<br><br>
@@ -234,15 +236,16 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <strong>TB1:</strong><br>
           Para la elaboración del informe, se comunicó las herramientas a utilizar por interno, para que de este modo se eviten errores y poder realizar un trabajo de manera óptima.
         </td>
-        <td><strong>TB1:</strong><br>
+        <td><strong></strong><br>
         Se alanzó elaborar un trabajo parcialmente bueno, con algunos errores, pero que para las siguientes entregas dichos errores encontrados en esta entrega serán corregidos de tal modo que se presente un trabajo sobresaliente.</td>
   </tr>
   <tr>
     <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
     <td><strong>Ampudia, José</strong><br>
     <strong>TB1:</strong><br>
-          Los diseños elaborados para el prototipo de nuestro proyecto fue pieza fundamental para el mejor entendimiento de los usuarios, en el que incluye ambos segmentos objetivos, por lo que la realización es un alcance a la versión final de nuestro proyecto.
-          <br><br>
+          Los diseños elaborados para el prototipo de nuestro proyecto fue pieza fundamental para el mejor entendimiento de los usuarios, en el que incluye ambos segmentos objetivos, por lo que la realización es un alcance a la versión final de nuestro proyecto.<br><br>
+          <strong>TP:</strong><br>
+          Para la entrega del Trabajo parcial, se mantuvo comunicación constante para la implementación de los puntos que faltaban corregir, dentro de ellos el Report Collaboration Insights, de este modo se muestra el trabajo en equipo que emplea el desarrollo de nuestro proyecto, por lo que es importante presentar los avances a los stakeholders.<br><br>
           <strong>Morin, Jean</strong><br>
           <strong>TB1</strong><br>
           Para mantener un orden de las nuevas características al proyecto que fue desarrollándose durante las semanas, se usaron los "commits" usando el "conventional commits" que son básicamente un lenguaje convencional para mantener un orden y buena organización.
@@ -259,7 +262,7 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <strong>TB1</strong><br>
           Para finalizar, se realizaron materiales de exposición para explicar los detalles de nuestro proyecto, dentro de estos materiales resaltan el video de exposición y la diapositiva, además, explicamos el alcance exacto de nuestro proyecto para un mejor entendimiento de los segmentos objetivos involucrados.
     </td>
-    <td><strong>TB1:</strong><br>La capacidad de poder comunicarnos es muy importante para este tipo de trabajos, nos ayudan a optimizar los tiempos, es por ello que se usaron algunas herramientas como Discord y WhatsApp, de tal forma que cada integrante del equipo realice su asignacion correspondiente de manera óptima y pueda comunicarse con el grupo.</td>
+    <td><strong></strong><br>La capacidad de poder comunicarnos es muy importante para este tipo de trabajos, nos ayudan a optimizar los tiempos, es por ello que se usaron algunas herramientas como Discord y WhatsApp, de tal forma que cada integrante del equipo realice su asignacion correspondiente de manera óptima y pueda comunicarse con el grupo.</td>
   </tr>
 </table>
 
