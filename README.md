@@ -194,15 +194,15 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
     - [5.1.3 Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4 Software Deployment Configuration](#514-software-deployment-configuration)
 - [5.2 Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1 Sprint 1](#52x-sprint-n)
-        - [5.2.1.1 Sprint Planning ](#52x1-sprint-planning-n)
-        - [5.2.1.2 Sprint Backlog n](#52x2-sprint-backlog-n)
-        - [5.2.1.3 Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)
-        - [5.2.1.4 Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)
-        - [5.2.1.5 Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)
-        - [5.2.1.6 Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)
-        - [5.2.1.7 Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)
-        - [5.2.1.8 Team Collaboration Insights during Sprint](52x8-team-collaboration-insights-during-sprint)
+    - [5.2.1 Sprint 1](#521-sprint-1)
+        - [5.2.1.1 Sprint Planning ](#5211-sprint-planning-1)
+        - [5.2.1.2 Sprint Backlog 1](#5212-sprint-backlog-1)
+        - [5.2.1.3 Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+        - [5.2.1.4 Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+        - [5.2.1.5 Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+        - [5.2.1.6 Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+        - [5.2.1.7 Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+        - [5.2.1.8 Team Collaboration Insights during Sprint](5218-team-collaboration-insights-during-sprint)
 
 
 
@@ -414,14 +414,7 @@ Hemos observado que un factor crítico que afecta a los empresarios de los bares
 
 #### 1.2.2.2. Lean UX Assumptions.
 
-##### ***<u>FEATURES</u>***
--	Registro de los clientes hacia la website para tener la facilidad de poder supervisar los puntos acumulados, además de visualizar el catálogo de productos con los que pueden ser canjeados.
--	Bonificar a los clientes de un respectivo bar a través de puntos que los clientes irán ganando por cada cierta compra de productos al bar, este acuerdo lo define el bar.
--	Los clientes tendrán la facilidad de recibir correos electrónicos para que se mantengan informados sobre los puntos que van acumulando u ofertas.
--	Existirá un área donde el cliente podrá calificar nuestro website, esto nos ayudará a mejorar nuestro servicio.
--	El servicio también proporcionará al bar un sistema de control de inventario que podrá controlar que productos están agotándose, de tal manera que el encargado solicite nuevos productos por medio de la revisión del website que nosotros implementemos.
-
-##### ***<u>BUSINESS OUTCOMES</u>***
+##### <u>BUSINESS OUTCOMES</u>
 1.	**¿Qué estamos tratando de lograr?**
 
 Incrementar las ganancias de los bares por medio de que los clientes sean más fieles al bar, de tal forma que las ventas del bar sean mayores.
@@ -434,11 +427,23 @@ El objetivo principal es facilitar al bar a incrementar sus ganancias y de la mi
 
 Nuestros usuarios serán los empresarios de los bares, e indirectamente los clientes de los bares, que consumirán nuestro servicio.
 
-##### ***<u>USER BENEFITS</u>***
+##### <u>USER BENEFITS</u>
 -	Facilidad y flexibilidad del sitio web para el beneficio del usuario.
 -	Notificar por medio de correo electrónico al usuario sobre sus puntos ganados y posibles canjes.
 
-##### ***<u>SUPUESTOS DEL NEGOCIO</u>***
+##### <u>FEATURES</u>
+
+- Elección de bar en el que el cliente se encuentra.
+
+-	Bonificar a los clientes de un respectivo bar a través de puntos que los clientes irán ganando por cada cierta compra de productos al bar, este acuerdo lo define el bar.
+
+-	Los clientes tendrán la facilidad de recibir correos electrónicos para que se mantengan informados sobre los puntos que van acumulando u ofertas.
+
+-	Sección de ofertas y promociones que el bar desee publicar.
+
+-	El servicio también proporcionará al bar un sistema de control de inventario, en el que el encargado podrá registrar y buscar un producto que esté por agotarse, de tal forma que pueda controlar que productos mostrándose el stock de cada uno de ellos
+
+##### <u>SUPUESTOS DEL NEGOCIO</u>
 
 1.	**Creemos que nuestros clientes necesitan:** Recibir ofertas o eventos que se realizarán en el bar para que puedan motivarse a ir.
 
@@ -459,7 +464,7 @@ Nuestros usuarios serán los empresarios de los bares, e indirectamente los clie
 
 10.	**Creemos que:** Nuestro servicio será de gran ayuda en generar más ganancias a las empresas de licorería, como son los bares, lo cual motivará a los clientes a consumir más en dicho bar. 
 
-##### ***<u>SUPUESTOS DEL USUARIO</u>***
+##### <u>SUPUESTOS DEL USUARIO</u>
 1.	**¿Dónde encaja nuestro producto en su trabajo o vida?**
 
 Creemos que nuestro proyecto aporta de manera esencial a las empresas de licorería que deseen generar más ganancias por medio de que los clientes preferirán el bar por el sitio web de puntos de bonificación.
@@ -469,7 +474,7 @@ Creemos que nuestro proyecto aporta de manera esencial a las empresas de licorer
 Un problema de nuestro proyecto es que en algún momento exista una saturación por exceso de usuarios usando la aplicación en simultáneo, lo cual lo resolveremos aumentando nuestro servicio cloud en los meses de uso más frecuentes.
 
 
-##### ***<u>USUARIO</u>***
+##### <u>USUARIO</u>
 
 1.	**¿Quién es el usuario?**
 
@@ -479,7 +484,7 @@ Los empresarios de los bares, y todas las personas mayores de 18 años.
 
 Nuestro producto será usado diariamente, porque es cierto que los bares tienen clientes de manera diaria, es por eso que mientras el bar esté en funcionamiento, por ende, estarán usando nuestro servicio, de tal forma que el usuario podrá visualizar en el sitio web sus puntos y poder ver qué productos pueden ser canjeados por dichos puntos.
 
-##### ***<u>CARACTERÍSITCAS</u>***
+##### <u>CARACTERÍSITCAS</u>
 
 1.	**¿Qué características son importantes?**
 
@@ -493,26 +498,52 @@ Debe tener un diseño minimalista, pero a la vez atractivo, con colores que comb
 
 **Hipótesis 1:**
 
-**Creemos que** implementando un sitio web, este podrá ser usado tanto en dispositivos Android como IOS, sin la necesidad de crear una aplicación para cada sistema operativo. Por parte de las empresas tendrán la misma facilidad con el control de inventario.
+**Creemos que** que la elección del bar en el que el cliente se encuentra, le facilitará ubicarse en en el sitio web, de modo que pueda observar las ofertas y los puntos que va acumulando en dicho bar.
 
 **Sabremos que** hemos tenido éxito.
 
-Cuando en el primer trimestre de ser lanzado nuestro servicio, la empresa obtenga mejoras considerables en las ganancias.
+Cuando en el primer año que nuestro producto sea lanzado, el 80% de los clientes que usen nuestro servicio, se sientan cómodos con la elección del bar en el que se encuentran.
 
 
 **Hipótesis 2:**
-**Creemos que** implementar un sistema de control de inventario para la empresa, ayudará a esta misma a facilitar el trabajo de los encargados, de tal forma que sea más fácil llevar un control.
+
+**Creemos que** que el servicio de puntos que se le brindará al cliente, le motivará a seguir comprando en el bar, de tal forma que el bar obtenga más ganancias.
 
 **Sabremos que** hemos tenido éxito.
 
-Cuando en el primer año que nuestro producto sea lanzado, sea solicitado por más empresas de licorería, de tal forma que sea un producto que favorezca al incremento de ganancias para muchos bares y no solo a uno.
+Cuando en el primer año que nuestro producto sea lanzado, el 70% de los clientes que usen nuestro servicio, se sientan motivados a seguir comprando en el bar, de tal forma que el bar obtenga más ganancias.
+
+**Hipótesis 3:**
+
+**Creemos que** el sistema de notificaciones por correos electrónicos, le facilitará al cliente estar al tanto de sus puntos y ofertas que se le brindan.
+
+**Sabremos que** hemos tenido éxito.
+
+Cuando en el primer año que nuestro producto sea lanzado, el 60% de los clientes que usen nuestro servicio, se sientan informados sobre sus puntos y ofertas que se le brindan.
+
+**Hipótesis 4:**
+
+**Creemos que** la implementación de ofertas y promociones que el bar publicite, le facilitará al cliente estar al tanto de las ofertas que se le brindan, de tal forma que el bar obtenga más ganancias.
+
+**Sabremos que** hemos tenido éxito.
+
+Cuando en el primer año que nuestro producto sea lanzado, el 50% de los clientes que usen nuestro servicio, estén informados y el bar capte más clientes por medio de las ofertas y promociones que se publiciten.
+
+**Hipótesis 5:**
+
+**Creemos que** el servicio de control de inventario, le facilitará al bar el control de sus productos, de tal forma que el bar pueda tener un mejor control de sus productos, y llevar un mejor control de sus ventas.
+
+**Sabremos que** hemos tenido éxito.
+
+Cuando en el primer año que nuestro producto sea lanzado, el 60% de los empresarios de los bares que usen nuestro servicio, puedan mejorar la administración de sus productos, y llevar un mejor control de sus ventas.
 
 #### 1.2.2.4. Lean UX Canvas.
 
 <div align='center'>
-<img src="https://media.discordapp.net/attachments/1145898392631918606/1147441096566255687/image.png?width=1150&height=646" alt="LEAN-UX-Canvas" width="750" height="550">
-</div>
-Link del Canvas: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1
+<img src="https://media.discordapp.net/attachments/1145898392631918606/1147441096566255687/image.png?width=1150&height=646" alt="LEAN-UX-Canvas" width="" height="">
+</div><br>
+
+Link del [Canvas](https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1)
 
 
 ## 1.3. Segmentos objetivo.
@@ -733,19 +764,113 @@ CPC entre $0,10 y $1,5. </td>
  
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
--	Nosotros superaremos a la competencia al tener un completo grupo de profesionales que estarán constantemente actualizando productos con los que pueden ser canjeados por puntos.
+Teniendo como base el análisis competitivo realizado, se ha podido identificar las fortalezas y debilidades de nuestros competidores, lo cual nos ayudará a identificar que estrategias tomar para posicionarnos dentro del mercado y como diferenciarnos de ellos.
 
--	Nuestro servicio permitirá que los clientes acumulen puntos, además, simultáneamente brindaremos un servicio de control de inventario de los productos del bar, con la finalidad de facilitar el trabajo a los encargados de ese rubro.
+**Fortalezas de los competidores:**
 
--	Se implementarán actualizaciones cada cierto plazo, de manera que se solucione todos los inconvenientes y quejas con respecto a nuestros usuarios. 
+- Agiliza procesos y brinda recompensas al cliente.
 
--	Seremos un servicio mucho más completo, ofrecemos más funciones que la competencia para el uso de nuestros usuarios y por parte del empresario. 
+- Sistema de ventas en linea, y control del negocio.
 
--	Nuestro servicio será mucho más accesible al estar disponible en todos los dispositivos ya que será un sitio web responsive.
+- Localizacion de bares y restaurantes y conocer promociones.
 
--	Tendremos mucho más alcance con nuestra publicidad y alianzas estratégicas. 
+**Nuestras fortalezas:**
 
--	Implementaremos un sector en el que los usuarios puedan comentar algunas sugerencias con respecto a la aplicación, es decir, podrán comentar o calificar con un rango de estrellas, el cual sea de su preferencia, para mantenernos informados y realizar mejoras a nuestro servicio.
+- Facilidad y flexibilidad del sitio web para el beneficio del usuario.
+
+- Bonificar a los clientes de un respectivo bar a través de puntos que los clientes irán ganando por cada cierta compra de productos al bar, este acuerdo lo define el bar.
+
+- Gestión de inventario para el bar, en el que facilitemos el trabajo de los encargados en dicho rubro.
+
+Habiendo identificado las fortalezas de nuestros competidores y las nuestras, presentamos las estraegias y tácticas que tomaremos para posicionarnos en el mercado:
+
+**Estrategias para superar a nuestros competidores:**
+
+- Actualizacion constante de la aplicacion para mejorar la experiencia de usuario.
+
+- Implementacion de nuevas funcionalidades para el beneficio de los usuarios y de los bares.
+
+**Tácticas para superar a nuestros competidores:**
+
+- Implementacion de un sistema entretenido para que los usuarios puedan ganar puntos, y canjearlos por recompensas, de este modo los usuarios se sentirán motivados a usar nuestra aplicacion.
+
+**Debilidades de los competidores:**
+
+- Baja tasa de interacion de los usuarios en Perú.
+
+- Soporte bajo nivel de asistencia.
+
+- No disponible en Perú.
+
+**Nuestras debilidades:**
+
+- Sistema de filtrado de busquedas.
+
+Por ende, para poder diferenciarnos de nuestros competidores, presentamos las estrategias y tácticas que tomaremos:
+
+**Estrategias para diferenciarnos de nuestros competidores:**
+
+- Mantener una comunicacion constante con los usuarios para conocer sus necesidades y mejorar la experiencia de usuario.
+
+- Mantener soportes y actualizaciones constantes para mejorar la experiencia de usuario.
+
+**Tácticas para diferenciarnos de nuestros competidores:**
+
+- Implementar un agente de soporte para que los usuarios puedan comunicarse con nosotros y resolver sus dudas.
+
+- Implementar actualizaciones constantes para mejorar la experiencia de usuario.
+
+- Implementar un sistema de filtrado de busquedas para que los usuarios puedan encontrar los bares de su preferencia.
+
+**Oportunidades de los competidores:**
+
+- Integracion de mayor funcionalidades de publicidad para los bares.
+
+- Incrementar el numero de usuarios en su plataforma.
+
+- Crecimiento de personas interesadas en conocer nuevos lugares en Perú.
+
+**Nuestras oportunidades:**
+
+- Crecimiento de publico objetivo interesados en la aplicacion.
+
+- Fácil entendimiento de la aplicacion para los usuarios.
+
+- Los competidores no presentan fortalezas completas como los servicios que brindamos.
+
+**Estraegias para aprovechar las oportunidades:**
+
+- Desarrolo de una aplicacion que sea facil de entender y usar para los usuarios, brindandoles comodidad y facilidad.
+
+**Tácticas para aprovechar las oportunidades:**
+
+- Implementar un diseño minimalista, pero a la vez atractivo, con colores que combinen con el propósito del servicio, el comportamiento debe ser sencillo y eficaz, sin tanto rodeo, para evitar confundir al cliente.
+
+- Captar la atencion de los usuarios por medio de campañas publicitarias en redes sociales.
+
+**Amenazas de los competidores:**
+
+- Solo contar con el movil para interactuar con la aplicacion.
+
+- Soporte rápido para personas que sean de Brasil.
+
+- Sotware con problemas de mantenimiento.
+
+**Nuestras amenazas:**
+
+- Tiempo de respuesta del servidor.
+
+**Estrategias para contrarrestar nuestras amenazas:**
+
+- Desarrollar un tiempo de respuesta del servidor rapido para que los usuarios puedan usar la aplicacion sin problemas.
+
+**Tácticas para contrarrestar nuestras amenazas:**
+
+- Implementar un servicio cloud para que los usuarios puedan usar la aplicacion sin problemas.
+
+- Implementar mantenimientos constantes para que los usuarios puedan usar la aplicacion sin problemas.
+
+- Manejo de la aplicación tanto en el móvil como en la web.
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
@@ -921,20 +1046,16 @@ en el análisis de entrevistas y de la competencia.
 #### 2.3.1.1 Segmento Objetivo 1: Cliente
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1154956350456090753/Carlos_P_Foner.png?width=418&height=593"width="" height="">
       </div>
-    </td>
   </tr>
 
 #### 2.3.1.2 Segmento Objetivo 1: Empresario
   <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1154956350170865715/Carmen_R._Greco.png?width=380&height=593"width="" height="">
       </div>
-    </td>
   </tr>
 
 ### 2.3.2. User Task Matrix.
