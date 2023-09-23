@@ -839,8 +839,7 @@ Despues de acontecer y describir los registros de los entrevistados, en esta sec
 
 <strong>Clientes que suelen frecuentar un bar</strong>
 
-<p></p>
-
+<p>Efectuando un análisis general respecto a las entrevistas podemos constatar lo siguiente: el 80% de los entrevistados visitan bares regularmente para socializar y relajarse después del trabajo o estudios; asimismo,todos valoran la organización, la atención amable y precios razonables en los bares. Mayoritariamente, los clientes, son jóvenes universitarios de 19-20 años (donde el 45% de ellos frecuentan los bares entre los días viernes y sábados). Por consiguiente, el 90% vive lejos de los bares (teniendo compo punto de residencia diferentes distritos), gastando un 6% de su dinero en transporte. Por otra parte, el 67% de ellos prefiere promociones 2x1 en bebidas heladas en verano con un 45% de preferencia en el trago <cite>Cuba Libre</cite>. Finalmente, el 20% no gasta más de 350 soles y se va antes de las 2 a.m. al visitar bares.</p>
 
 <br>
 
@@ -849,50 +848,43 @@ Despues de acontecer y describir los registros de los entrevistados, en esta sec
 
 <strong>¿Cuáles son las tendencias actuales en la industria de bares y cómo están afectando a los empresarios del sector?</strong>
 
-<p></p>
+<p>El 50% de las personas entrevistadas afirman que la tendencia entre lo <em>vintage</em> y lo moderno logra generar un mayor impacto en la presencia del ambiente de un bar, conllevando a que un 25% de los clientes se fijen en ello y tengan la satisfacción de visitarlo y conocerlo más.</p>
 
 <br>
 
 <strong>¿Cuáles son las estrategias de marketing y promoción más efectivas para atraer y retener clientes en bares en la actualidad?</strong>
 
-<p></p>
+<p>Principalmente, según nuestros entrevistados, nos comentan que un 45% debe estar ligado en todo lo abarque la publicidad y el marketing pero en medios digitales; esto, porque la gran mayoría de personas logra utilizarlo. Y, en correspondencia a las promociones, este debe abarcar el 55% restante, logrando generar ofertas de bebidas o <em>packs</em> más acorde a la fecha estacionaria del año.</p>
 
 <br>
 
 <strong>¿Cómo se compara la satisfacción del cliente en nuestros bares con la de la competencia y qué áreas podríamos mejorar para retener a nuestros clientes?</strong>
 
-<p></p>
+<p>En base al veredicto de nuestros entrevistados, nos comunican que han tenido un aumento de 12.8% de comentarios positivos y satisfacción por parte de los clientes en comparación a la competencia - un 7.6% mayor -. Pero, como no todo es color de rosas, en los aspectos que tenemos que mejorar, un 6.4% de los clientes nos comenta que debemos mejorar un poco más el proceso de tomar pedidos.</p>
 
 <br>
 
 <strong>¿Cómo varía el comportamiento de gasto de los clientes en función de la hora del día en que visitan el bar?</strong>
 
-<p></p>
+<p>Un 22.3% del comportamiento de las ganancias dentro del bar se ven perjudicadas en referencia al gasto que tienen los clientes; y, si ese porcentaje lo dividimos en segmentos en base al dia y la hora, los viernes hay una varianza del 7.9%, los sábados la varianza consta de un 5.8% y los domingos de un 8.6%.</p>
 
 <br>
 
-<strong>¿Cuáles son las preferencias de bebida más comunes entre nuestros clientes y cómo han evolucionado con el tiempo?</strong>
+<strong>¿Cuáles son las preferencias de bebidas más comunes entre nuestros clientes y cómo han evolucionado con el tiempo?</strong>
 
-<p></p>
+<p>En base a lo que nos pudieron comunicar los entrevistados, un 45% de los clientes prefiere pedirse un <cite>cubalibre</cite> hoy en día en los bares; aunque, el que poco a poco también se va a estar haciendo tendencia son las bebidas <cite>hielo en las rocas</cite> y <cite>machu picchu</cite> - ya que el porentaje de personas que piden dichas bebidas estan en una varianza porcentual del 13.9% -.</p>
 
 <br>
 
 <strong>¿Cuál es la frecuencia de visita promedio de nuestros clientes a bares y qué segmentos de clientes visitan con mayor frecuencia?</strong>
 
-<p></p>
-
-<br>
-
-
-<strong>¿Cómo se compara la satisfacción del cliente en nuestros bares con la de la competencia y qué áreas podríamos mejorar para retener a nuestros clientes?</strong>
-
-<p></p>
+<p>Según los entrevistados, eL margen de visitas promedio por cliente a un bar se da en un 32% los viernes, 37% los días sábados y un 31% los domingos, de los cuales, el 78% de clientes están conformados por jóvenes estudiantes y adultos entre edades de 19 a 45 años.</p>
 
 <br>
 
 <h3>Análisis general de las entrevistas del Segmento Objetivo:</h3>
 
-<strong>Clientes que suelen frecuentar un bar</strong>
+<strong>Empresarios de manejo de bares</strong>
 
 <p></p>
 
