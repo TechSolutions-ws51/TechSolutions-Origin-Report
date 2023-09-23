@@ -841,19 +841,19 @@ en el análisis de entrevistas y de la competencia.
 
 #### 2.3.1.1 Segmento Objetivo 1: Cliente
 
-  <tr>
+<tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1147987398639235173/User_Person_Cliente.png?width=419&height=592"width="403" height="569">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1154956350456090753/Carlos_P_Foner.png?width=418&height=593"width="" height="">
       </div>
     </td>
   </tr>
 
 #### 2.3.1.2 Segmento Objetivo 1: Empresario
-<tr>
+  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1147997558657007706/User_Person_Empresario.png?width=419&height=592"width="403" height="569">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1154956350170865715/Carmen_R._Greco.png?width=380&height=593"width="" height="">
       </div>
     </td>
   </tr>
