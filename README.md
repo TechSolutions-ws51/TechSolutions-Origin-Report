@@ -1241,14 +1241,14 @@ Link para ver el [diagrama](https://miro.com/app/board/uXjVO8jKyt8=/?share_link_
 
 | Epic ID   | User Story ID | Título                                  | Descripción                                                   | Criterios de Aceptación                                                                                                                              |
 |-----------|---------------|-----------------------------------------|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| EPIC-001  | US-001        | Página Principal Atractiva              | Como usuario, quiero ver una página principal atractiva sobre Greenhouse. | 1. Dado que Carlos P. visita la página principal, cuando carga la página, debe ver imágenes de alta calidad. 2. Dado que Carlos P. accede a la página, cuando navega por ella, la información debe ser clara y concisa. 3. Dado que Carlos P. abre la página en su dispositivo móvil, cuando la visualiza, debe ser responsive y ajustarse a su pantalla. |
+| EPIC-001  | US-001        | Página Principal Atractiva              | Como usuario, quiero ver una página principal atractiva sobre LOYALSIPS. | 1. Dado que Carlos P. visita la página principal, cuando carga la página, debe ver imágenes de alta calidad. 2. Dado que Carlos P. accede a la página, cuando navega por ella, la información debe ser clara y concisa. 3. Dado que Carlos P. abre la página en su dispositivo móvil, cuando la visualiza, debe ser responsive y ajustarse a su pantalla. |
 | EPIC-002  | US-002        | Promociones y Ofertas                  | Como usuario, deseo encontrar información actualizada sobre promociones. | 1. Dado que Carlos P. busca promociones, cuando accede a la sección de promociones, debe ver las promociones vigentes con imágenes y detalles. 2. Dado que Carlos P. busca promociones, cuando visualiza las fechas de las promociones, estas deben ser visibles y actualizadas regularmente. 3. Dado que Carlos P. busca promociones, cuando consulta los precios de las bebidas en promoción, estos deben ser claros. |
 | EPIC-003  | US-003        | Registro de Usuarios Nuevos            | Como usuario nuevo, quiero registrarme y obtener un descuento. | 1. Dado que Carlos P. se registra como nuevo usuario, cuando completa el registro, debe obtener un descuento que se aplica automáticamente. 2. Dado que Carlos P. completa el registro, cuando verifica su correo electrónico, debe recibir un correo de confirmación con el código de descuento. 3. Dado que Carlos P. se registra como nuevo usuario, cuando verifica su correo electrónico, debe recibir un correo de confirmación con el código de descuento. |
 | EPIC-004  | US-004        | Exploración de Eventos Pasados          | Como usuario interesado en eventos, quiero ver imágenes de eventos pasados. | 1. Dado que Carlos P. explora eventos pasados, cuando accede a la sección de eventos anteriores, debe ver imágenes atractivas de eventos pasados. 2. Dado que Carlos P. busca eventos anteriores, cuando consulta los eventos, debe encontrar descripciones detalladas de los eventos. 3. Dado que Carlos P. explora eventos pasados, cuando visualiza los eventos, estos deben estar categorizados. |
-| EPIC-005  | US-005        | Testimonios de Clientes                | Como usuario, deseo leer testimonios de clientes satisfechos. | 1. Dado que Carlos P. busca testimonios de clientes satisfechos, cuando accede a la sección de testimonios, debe ver testimonios reales con nombres y fechas. 2. Dado que Carlos P. lee testimonios, cuando revisa los comentarios, debe encontrar comentarios positivos sobre la experiencia en Greenhouse. 3. Dado que Carlos P. accede a testimonios, cuando visualiza los testimonios, estos deben permitir que los clientes califiquen si son útiles o no. |
+| EPIC-005  | US-005        | Testimonios de Clientes                | Como usuario, deseo leer testimonios de clientes satisfechos. | 1. Dado que Carlos P. busca testimonios de clientes satisfechos, cuando accede a la sección de testimonios, debe ver testimonios reales con nombres y fechas. 2. Dado que Carlos P. lee testimonios, cuando revisa los comentarios, debe encontrar comentarios positivos sobre la experiencia en LOYALSIPS. 3. Dado que Carlos P. accede a testimonios, cuando visualiza los testimonios, estos deben permitir que los clientes califiquen si son útiles o no. |
 | EPIC-006  | US-006        | Información de Contacto                | Como usuario, quiero encontrar información de contacto clara. | 1. Dado que Carlos P. busca información de contacto, cuando accede a la sección de contacto, debe encontrar un formulario de contacto y un número de teléfono visible. 2. Dado que Carlos P. envía un mensaje desde el formulario de contacto, cuando completa el formulario, debe recibir una confirmación por correo electrónico. 3. Dado que Carlos P. hace clic en el número de teléfono, cuando realiza la acción, debe poder realizar llamadas directas. |
 | EPIC-007  | US-007        | Exploración del Menú                   | Como usuario, deseo ver el menú de bebidas y alimentos.       | 1. Dado que Carlos P. explora el menú, cuando accede a la sección de menú, debe ver una sección de menú con imágenes atractivas. 2. Dado que Carlos P. busca el menú, cuando visualiza los precios y opciones de bebidas y alimentos, estos deben ser claramente visibles. 3. Dado que Carlos P. filtra los elementos del menú, cuando realiza la acción, debe poder hacerlo por categorías (bebidas, alimentos, postres, etc.). |
-| EPIC-008  | US-008        | Ubicación en el Mapa                  | Como usuario, quiero un mapa interactivo para encontrar Greenhouse. | 1. Dado que Carlos P. busca la ubicación, cuando accede a la sección de ubicación, debe ver un mapa con la ubicación exacta de Greenhouse. 2. Dado que Carlos P. busca direcciones, cuando realiza la acción, debe poder obtenerlas desde su ubicación actual. 3. Dado que Carlos P. accede al mapa, cuando visualiza la ubicación de Greenhouse, esta debe actualizarse automáticamente si hay cambios. |
+| EPIC-008  | US-008        | Ubicación en el Mapa                  | Como usuario, quiero un mapa interactivo para encontrar LOYALSIPS. | 1. Dado que Carlos P. busca la ubicación, cuando accede a la sección de ubicación, debe ver un mapa con la ubicación exacta de LOYALSIPS. 2. Dado que Carlos P. busca direcciones, cuando realiza la acción, debe poder obtenerlas desde su ubicación actual. 3. Dado que Carlos P. accede al mapa, cuando visualiza la ubicación de LOYALSIPS, esta debe actualizarse automáticamente si hay cambios. |
 | EPIC-009  | US-009        | Noticias y Eventos Futuros            | Como usuario, quiero ver noticias y eventos futuros.         | 1. Dado que Carlos P. busca noticias y eventos, cuando accede a la sección de noticias y eventos, debe encontrar una sección actualizada regularmente. 2. Dado que Carlos P. hace clic en una noticia, cuando realiza la acción, debe poder obtener más detalles sobre ella. 3. Dado que Carlos P. explora eventos futuros, cuando visualiza los eventos, estos deben estar marcados con fechas y descripciones. |
 | EPIC-010  | US-010        | Accesibilidad Móvil                    | Como usuario de dispositivos móviles, quiero una página responsive. | 1. Dado que Carlos P. accede desde su dispositivo móvil, cuando carga la página, esta se adapta a su pantalla. 2. Dado que Carlos P. visita la página desde su móvil, cuando navega por ella, todos los elementos son interactuables. 3. Dado que Carlos P. navega desde su tablet, cuando realiza acciones táctiles, la experiencia es intuitiva y cómoda. |
 | EPIC-011  | US-011        | Exploración de Fechas Especiales        | Como usuario, deseo encontrar información sobre ofertas en fechas especiales. | 1. Dado que Carlos P. busca ofertas en fechas especiales, cuando accede a la sección de ofertas especiales, debe ver promociones específicas con imágenes y detalles. 2. Dado que Carlos P. busca promociones para eventos especiales, cuando consulta las fechas y detalles, estos se actualizan automáticamente según la temporada o evento. 3. Dado que Carlos P. encuentra una promoción especial, cuando la visualiza, debe poder compartirla en redes sociales. |
@@ -1283,14 +1283,14 @@ Link para ver el [diagrama](https://miro.com/app/board/uXjVO8jKyt8=/?share_link_
 | Epic ID   | User Story ID | Título                                | Descripción                                                 | Criterios de Aceptación                                                                                                              |
 |-----------|---------------|---------------------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | EPIC-016  | US-016        | Navegación Intuitiva                  | Como visitante del sitio web, quiero una navegación intuitiva. | 1. Dado que soy un visitante, cuando accedo al sitio web, debo encontrar un menú de navegación claro y fácil de entender. 2. Dado que soy un visitante, cuando hago clic en una sección del menú, debo ser redirigido a la página correspondiente de manera rápida y sin problemas. 3. Dado que soy un visitante, cuando desplazo la página hacia abajo, debo encontrar un botón de "Volver arriba" para facilitar la navegación. |
-| EPIC-017  | US-017        | Contenido Atractivo                   | Como visitante del sitio web, quiero contenido atractivo y relevante. | 1. Dado que soy un visitante, cuando accedo a la Landing Page, debo ver imágenes y gráficos atractivos relacionados con Greenhouse. 2. Dado que soy un visitante, cuando leo el contenido, este debe ser informativo y relevante para entender la propuesta de Greenhouse. 3. Dado que soy un visitante, cuando navego por la Landing Page, debo encontrar un llamado a la acción (CTA) claro que me invite a aprender más o registrarme. |
-| EPIC-018  | US-018        | Información de Contacto                | Como visitante del sitio web, quiero encontrar información de contacto. | 1. Dado que soy un visitante, cuando busco información de contacto, debo encontrar un enlace o sección con datos de contacto, como dirección, número de teléfono y correo electrónico. 2. Dado que soy un visitante, cuando hago clic en el enlace de contacto, debo ver un formulario de contacto y un mapa con la ubicación de Greenhouse. 3. Dado que soy un visitante, cuando lleno el formulario de contacto y lo envío, debo recibir una confirmación de que mi mensaje fue enviado correctamente. |
-| EPIC-019  | US-019        | Testimonios y Reseñas                 | Como visitante del sitio web, quiero leer testimonios y reseñas de clientes satisfechos. | 1. Dado que soy un visitante, cuando accedo a la sección de testimonios, debo ver testimonios verificables de clientes con comentarios positivos sobre su experiencia en Greenhouse. 2. Dado que soy un visitante, cuando leo los testimonios, debo encontrar testimonios con nombres y fechas para autenticidad. 3. Dado que soy un visitante, cuando hago clic en un testimonio, debo poder ver más detalles sobre la experiencia del cliente. |
+| EPIC-017  | US-017        | Contenido Atractivo                   | Como visitante del sitio web, quiero contenido atractivo y relevante. | 1. Dado que soy un visitante, cuando accedo a la Landing Page, debo ver imágenes y gráficos atractivos relacionados con LOYALSIPS. 2. Dado que soy un visitante, cuando leo el contenido, este debe ser informativo y relevante para entender la propuesta de LOYALSIPS. 3. Dado que soy un visitante, cuando navego por la Landing Page, debo encontrar un llamado a la acción (CTA) claro que me invite a aprender más o registrarme. |
+| EPIC-018  | US-018        | Información de Contacto                | Como visitante del sitio web, quiero encontrar información de contacto. | 1. Dado que soy un visitante, cuando busco información de contacto, debo encontrar un enlace o sección con datos de contacto, como dirección, número de teléfono y correo electrónico. 2. Dado que soy un visitante, cuando hago clic en el enlace de contacto, debo ver un formulario de contacto y un mapa con la ubicación de LOYALSIPS. 3. Dado que soy un visitante, cuando lleno el formulario de contacto y lo envío, debo recibir una confirmación de que mi mensaje fue enviado correctamente. |
+| EPIC-019  | US-019        | Testimonios y Reseñas                 | Como visitante del sitio web, quiero leer testimonios y reseñas de clientes satisfechos. | 1. Dado que soy un visitante, cuando accedo a la sección de testimonios, debo ver testimonios verificables de clientes con comentarios positivos sobre su experiencia en LOYALSIPS. 2. Dado que soy un visitante, cuando leo los testimonios, debo encontrar testimonios con nombres y fechas para autenticidad. 3. Dado que soy un visitante, cuando hago clic en un testimonio, debo poder ver más detalles sobre la experiencia del cliente. |
 | EPIC-020  | US-020        | Promociones y Ofertas                | Como visitante del sitio web, quiero ver promociones y ofertas especiales. | 1. Dado que soy un visitante, cuando accedo a la sección de promociones, debo ver las promociones vigentes con imágenes y detalles atractivos. 2. Dado que soy un visitante, cuando consulto las promociones, debo encontrar las fechas de vigencia claramente indicadas. 3. Dado que soy un visitante, cuando hago clic en una promoción, debo poder obtener más información y detalles sobre la oferta. |
-| EPIC-021  | US-021        | Acceso a Redes Sociales               | Como visitante del sitio web, quiero acceso a las redes sociales de Greenhouse. | 1. Dado que soy un visitante, cuando deseo seguir a Greenhouse en redes sociales, debo encontrar enlaces claros a las redes sociales (Facebook, Twitter, Instagram, etc.). 2. Dado que soy un visitante, cuando hago clic en un enlace de redes sociales, debo ser redirigido a las páginas correspondientes de Greenhouse en esas plataformas. 3. Dado que soy un visitante, cuando accedo a las redes sociales de Greenhouse, debo encontrar contenido actualizado y atractivo. |
+| EPIC-021  | US-021        | Acceso a Redes Sociales               | Como visitante del sitio web, quiero acceso a las redes sociales de LOYALSIPS. | 1. Dado que soy un visitante, cuando deseo seguir a LOYALSIPS en redes sociales, debo encontrar enlaces claros a las redes sociales (Facebook, Twitter, Instagram, etc.). 2. Dado que soy un visitante, cuando hago clic en un enlace de redes sociales, debo ser redirigido a las páginas correspondientes de LOYALSIPS en esas plataformas. 3. Dado que soy un visitante, cuando accedo a las redes sociales de LOYALSIPS, debo encontrar contenido actualizado y atractivo. |
 | EPIC-022  | US-022        | Experiencia Responsiva                | Como visitante del sitio web desde dispositivos móviles, quiero una experiencia responsiva. | 1. Dado que soy un visitante desde un dispositivo móvil, cuando accedo a la Landing Page, esta debe ajustarse de manera adecuada a la pantalla de mi dispositivo. 2. Dado que soy un visitante desde un dispositivo móvil, cuando interactúo con los elementos del sitio, estos deben ser fácilmente seleccionables y legibles. 3. Dado que soy un visitante desde un dispositivo móvil, cuando navego por la página, la experiencia debe ser fluida y sin problemas de rendimiento. |
 | EPIC-023  | US-023        | Idiomas Adicionales                   | Como visitante del sitio web, quiero la opción de cambiar el idioma. | 1. Dado que soy un visitante, cuando deseo cambiar el idioma, debo encontrar un menú desplegable con opciones de idioma. 2. Dado que soy un visitante, cuando selecciono un idioma diferente, el contenido del sitio debe cambiar al idioma seleccionado. 3. Dado que soy un visitante, cuando cambio el idioma, la navegación y las secciones del sitio deben mantenerse coherentes en el nuevo idioma. |
-| EPIC-024  | US-024        | Política de Privacidad                | Como visitante del sitio web, quiero acceder a la política de privacidad. | 1. Dado que soy un visitante, cuando deseo revisar la política de privacidad, debo encontrar un enlace a la página de política de privacidad en el pie de página o en una sección relevante. 2. Dado que soy un visitante, cuando hago clic en el enlace de política de privacidad, debo ser redirigido a la página de política de privacidad donde se describe claramente la política de recopilación y uso de datos. 3. Dado que soy un visitante, cuando accedo a la política de privacidad, debo encontrar información sobre cómo optar por no participar en la recopilación de datos y cómo contactar al equipo de Greenhouse para preguntas sobre privacidad. |
+| EPIC-024  | US-024        | Política de Privacidad                | Como visitante del sitio web, quiero acceder a la política de privacidad. | 1. Dado que soy un visitante, cuando deseo revisar la política de privacidad, debo encontrar un enlace a la página de política de privacidad en el pie de página o en una sección relevante. 2. Dado que soy un visitante, cuando hago clic en el enlace de política de privacidad, debo ser redirigido a la página de política de privacidad donde se describe claramente la política de recopilación y uso de datos. 3. Dado que soy un visitante, cuando accedo a la política de privacidad, debo encontrar información sobre cómo optar por no participar en la recopilación de datos y cómo contactar al equipo de LOYALSIPS para preguntas sobre privacidad. |
 
 
 ## 3.3. Impact Mapping.
@@ -3108,86 +3108,9 @@ Es asi como nosotros verificamos el cambio en la linea de trabajo:
 <br>
 
 
-<table>
-<tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint #</th>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 1</td>
-</tr>
-<tr>
- <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">User Story</th>
- <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Work Item / Task</th>
-</tr>
-<tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ID</th>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Title</th>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ID</th>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Title</th>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Description</th>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Estimation (hours)</th>
-   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Assigned To</th>
-   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Status (To Do / In - process / To - review / Done)</th>
-</tr>
-<tr>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA01</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Implementación de la sección <em>header</em></td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se añadirá las secciones y botones de creación de cuenta y <em>login</em> para acceder a la plataforma web.</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
-       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA02</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Implementación de la sección sobre el <em>about us</em> del startup</em></td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se añadirá la descripción representativa del <em>about us</em>; además, se adjuntará uso slogans representativos y la imagen del logo de <em>LoyalSips</em></td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
-       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">HU02</td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Entrar a la página como invitado</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA03</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Implementación de la sección de <em>services</em> para describir a quienes va dirigido el <em>startup</em></td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se añadirá la descripción e información adicional en relación al segmento objetivo el cual va dirigido</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
-       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA04</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Implementación de la sección de <em>Customer`s Review</em></td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se añadirá la muestra de algunos comentarios que dejan los <em>customers</em></td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
-       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA05</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Implementación de la sección de <EM>Contacts</EM></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se añadirá un apartado para que el <em>user</em> añada sus datos y pueda escribir mensajes para ponerse en contacto con el grupo de soporte</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA06</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Implementación de la sección <em>footer</em></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se añadirá el pie de página para que cada sección logre dirigir al <em>user</em> a la sección que quiere visualizar.</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-</table>
+<div align="center">
+<img src="https://i.ibb.co/2djwC4n/Documento-A4-para-escribir-formas-org-nicas-bordes-de-hojas-plantas-minimalista-ilustracion-dibujo-v.png" alt="Sprint-Backlog1-Image" style="width:400px;height:auto;">
+</div>
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
