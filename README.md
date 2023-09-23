@@ -506,6 +506,7 @@ Cuando en el primer año que nuestro producto sea lanzado, el 80% de los cliente
 
 
 **Hipótesis 2:**
+
 **Creemos que** que el servicio de puntos que se le brindará al cliente, le motivará a seguir comprando en el bar, de tal forma que el bar obtenga más ganancias.
 
 **Sabremos que** hemos tenido éxito.
@@ -513,6 +514,7 @@ Cuando en el primer año que nuestro producto sea lanzado, el 80% de los cliente
 Cuando en el primer año que nuestro producto sea lanzado, el 70% de los clientes que usen nuestro servicio, se sientan motivados a seguir comprando en el bar, de tal forma que el bar obtenga más ganancias.
 
 **Hipótesis 3:**
+
 **Creemos que** el sistema de notificaciones por correos electrónicos, le facilitará al cliente estar al tanto de sus puntos y ofertas que se le brindan.
 
 **Sabremos que** hemos tenido éxito.
@@ -520,6 +522,7 @@ Cuando en el primer año que nuestro producto sea lanzado, el 70% de los cliente
 Cuando en el primer año que nuestro producto sea lanzado, el 60% de los clientes que usen nuestro servicio, se sientan informados sobre sus puntos y ofertas que se le brindan.
 
 **Hipótesis 4:**
+
 **Creemos que** la implementación de ofertas y promociones que el bar publicite, le facilitará al cliente estar al tanto de las ofertas que se le brindan, de tal forma que el bar obtenga más ganancias.
 
 **Sabremos que** hemos tenido éxito.
@@ -527,6 +530,7 @@ Cuando en el primer año que nuestro producto sea lanzado, el 60% de los cliente
 Cuando en el primer año que nuestro producto sea lanzado, el 50% de los clientes que usen nuestro servicio, estén informados y el bar capte más clientes por medio de las ofertas y promociones que se publiciten.
 
 **Hipótesis 5:**
+
 **Creemos que** el servicio de control de inventario, le facilitará al bar el control de sus productos, de tal forma que el bar pueda tener un mejor control de sus productos, y llevar un mejor control de sus ventas.
 
 **Sabremos que** hemos tenido éxito.
@@ -760,19 +764,113 @@ CPC entre $0,10 y $1,5. </td>
  
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
--	Nosotros superaremos a la competencia al tener un completo grupo de profesionales que estarán constantemente actualizando productos con los que pueden ser canjeados por puntos.
+Teniendo como base el análisis competitivo realizado, se ha podido identificar las fortalezas y debilidades de nuestros competidores, lo cual nos ayudará a identificar que estrategias tomar para posicionarnos dentro del mercado y como diferenciarnos de ellos.
 
--	Nuestro servicio permitirá que los clientes acumulen puntos, además, simultáneamente brindaremos un servicio de control de inventario de los productos del bar, con la finalidad de facilitar el trabajo a los encargados de ese rubro.
+**Fortalezas de los competidores:**
 
--	Se implementarán actualizaciones cada cierto plazo, de manera que se solucione todos los inconvenientes y quejas con respecto a nuestros usuarios. 
+- Agiliza procesos y brinda recompensas al cliente.
 
--	Seremos un servicio mucho más completo, ofrecemos más funciones que la competencia para el uso de nuestros usuarios y por parte del empresario. 
+- Sistema de ventas en linea, y control del negocio.
 
--	Nuestro servicio será mucho más accesible al estar disponible en todos los dispositivos ya que será un sitio web responsive.
+- Localizacion de bares y restaurantes y conocer promociones.
 
--	Tendremos mucho más alcance con nuestra publicidad y alianzas estratégicas. 
+**Nuestras fortalezas:**
 
--	Implementaremos un sector en el que los usuarios puedan comentar algunas sugerencias con respecto a la aplicación, es decir, podrán comentar o calificar con un rango de estrellas, el cual sea de su preferencia, para mantenernos informados y realizar mejoras a nuestro servicio.
+- Facilidad y flexibilidad del sitio web para el beneficio del usuario.
+
+- Bonificar a los clientes de un respectivo bar a través de puntos que los clientes irán ganando por cada cierta compra de productos al bar, este acuerdo lo define el bar.
+
+- Gestión de inventario para el bar, en el que facilitemos el trabajo de los encargados en dicho rubro.
+
+Habiendo identificado las fortalezas de nuestros competidores y las nuestras, presentamos las estraegias y tácticas que tomaremos para posicionarnos en el mercado:
+
+**Estrategias para superar a nuestros competidores:**
+
+- Actualizacion constante de la aplicacion para mejorar la experiencia de usuario.
+
+- Implementacion de nuevas funcionalidades para el beneficio de los usuarios y de los bares.
+
+**Tácticas para superar a nuestros competidores:**
+
+- Implementacion de un sistema entretenido para que los usuarios puedan ganar puntos, y canjearlos por recompensas, de este modo los usuarios se sentirán motivados a usar nuestra aplicacion.
+
+**Debilidades de los competidores:**
+
+- Baja tasa de interacion de los usuarios en Perú.
+
+- Soporte bajo nivel de asistencia.
+
+- No disponible en Perú.
+
+**Nuestras debilidades:**
+
+- Sistema de filtrado de busquedas.
+
+Por ende, para poder diferenciarnos de nuestros competidores, presentamos las estrategias y tácticas que tomaremos:
+
+**Estrategias para diferenciarnos de nuestros competidores:**
+
+- Mantener una comunicacion constante con los usuarios para conocer sus necesidades y mejorar la experiencia de usuario.
+
+- Mantener soportes y actualizaciones constantes para mejorar la experiencia de usuario.
+
+**Tácticas para diferenciarnos de nuestros competidores:**
+
+- Implementar un agente de soporte para que los usuarios puedan comunicarse con nosotros y resolver sus dudas.
+
+- Implementar actualizaciones constantes para mejorar la experiencia de usuario.
+
+- Implementar un sistema de filtrado de busquedas para que los usuarios puedan encontrar los bares de su preferencia.
+
+**Oportunidades de los competidores:**
+
+- Integracion de mayor funcionalidades de publicidad para los bares.
+
+- Incrementar el numero de usuarios en su plataforma.
+
+- Crecimiento de personas interesadas en conocer nuevos lugares en Perú.
+
+**Nuestras oportunidades:**
+
+- Crecimiento de publico objetivo interesados en la aplicacion.
+
+- Fácil entendimiento de la aplicacion para los usuarios.
+
+- Los competidores no presentan fortalezas completas como los servicios que brindamos.
+
+**Estraegias para aprovechar las oportunidades:**
+
+- Desarrolo de una aplicacion que sea facil de entender y usar para los usuarios, brindandoles comodidad y facilidad.
+
+**Tácticas para aprovechar las oportunidades:**
+
+- Implementar un diseño minimalista, pero a la vez atractivo, con colores que combinen con el propósito del servicio, el comportamiento debe ser sencillo y eficaz, sin tanto rodeo, para evitar confundir al cliente.
+
+- Captar la atencion de los usuarios por medio de campañas publicitarias en redes sociales.
+
+**Amenazas de los competidores:**
+
+- Solo contar con el movil para interactuar con la aplicacion.
+
+- Soporte rápido para personas que sean de Brasil.
+
+- Sotware con problemas de mantenimiento.
+
+**Nuestras amenazas:**
+
+- Tiempo de respuesta del servidor.
+
+**Estrategias para contrarrestar nuestras amenazas:**
+
+- Desarrollar un tiempo de respuesta del servidor rapido para que los usuarios puedan usar la aplicacion sin problemas.
+
+**Tácticas para contrarrestar nuestras amenazas:**
+
+- Implementar un servicio cloud para que los usuarios puedan usar la aplicacion sin problemas.
+
+- Implementar mantenimientos constantes para que los usuarios puedan usar la aplicacion sin problemas.
+
+- Manejo de la aplicación tanto en el móvil como en la web.
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
