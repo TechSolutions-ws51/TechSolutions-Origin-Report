@@ -1292,6 +1292,22 @@ Link para ver el [diagrama](https://miro.com/app/board/uXjVO8jKyt8=/?share_link_
 | EPIC-023  | US-023        | Idiomas Adicionales                   | Como visitante del sitio web, quiero la opción de cambiar el idioma. | 1. Dado que soy un visitante, cuando deseo cambiar el idioma, debo encontrar un menú desplegable con opciones de idioma. 2. Dado que soy un visitante, cuando selecciono un idioma diferente, el contenido del sitio debe cambiar al idioma seleccionado. 3. Dado que soy un visitante, cuando cambio el idioma, la navegación y las secciones del sitio deben mantenerse coherentes en el nuevo idioma. |
 | EPIC-024  | US-024        | Política de Privacidad                | Como visitante del sitio web, quiero acceder a la política de privacidad. | 1. Dado que soy un visitante, cuando deseo revisar la política de privacidad, debo encontrar un enlace a la página de política de privacidad en el pie de página o en una sección relevante. 2. Dado que soy un visitante, cuando hago clic en el enlace de política de privacidad, debo ser redirigido a la página de política de privacidad donde se describe claramente la política de recopilación y uso de datos. 3. Dado que soy un visitante, cuando accedo a la política de privacidad, debo encontrar información sobre cómo optar por no participar en la recopilación de datos y cómo contactar al equipo de LOYALSIPS para preguntas sobre privacidad. |
 
+### Technical Story ID
+
+| Technical Story ID | Título                                      | Descripción                                                |
+|--------------------|---------------------------------------------|------------------------------------------------------------|
+| Technical Story 1  | Configuración del Entorno de Desarrollo     | Como desarrollador, necesito configurar un entorno de desarrollo adecuado para trabajar en el proyecto del RESTful API de LOYALSIPS. |
+| Technical Story 2  | Implementación de la Ruta de Registro de Usuarios | Como desarrollador, debo implementar una ruta de API que permita a los usuarios registrarse en LOYALSIPS y obtener un código de descuento automáticamente. |
+| Technical Story 3  | Desarrollo de la Ruta para Consultar Testimonios de Clientes | Como desarrollador, necesito desarrollar una ruta de API que permita a los clientes consultar testimonios verificables de clientes satisfechos en LOYALSIPS. |
+| Technical Story 4  | Implementación de la Ruta para Obtener Imágenes de Eventos Pasados | Como desarrollador, debo implementar una ruta de API que permita a los clientes obtener imágenes de eventos pasados en LOYALSIPS. |
+| Technical Story 5  | Creación de la Ruta para Obtener Testimonios de Clientes | Como desarrollador, necesito crear una ruta de API para obtener testimonios de clientes satisfechos en LOYALSIPS. |
+| Technical Story 6  | Configuración del Entorno de Pruebas Automatizadas | Como desarrollador, debo configurar un entorno de pruebas automatizadas para garantizar la calidad del código del RESTful API de LOYALSIPS. |
+| Technical Story 7  | Implementación de Autenticación de Usuarios | Como desarrollador, debo implementar la autenticación de usuarios para permitir el acceso a rutas protegidas en LOYALSIPS. |
+| Technical Story 8  | Diseño de la Base de Datos para Usuarios y Testimonios | Como desarrollador, necesito diseñar la estructura de la base de datos para gestionar usuarios y testimonios en LOYALSIPS. |
+| Technical Story 9  | Implementación del Sistema de Notificaciones por Correo Electrónico | Como desarrollador, debo implementar un sistema de notificaciones por correo electrónico para enviar confirmaciones y alertas a los usuarios de LOYALSIPS. |
+| Technical Story 10 | Configuración de Seguridad y Encriptación de Datos Sensibles | Como desarrollador, debo configurar medidas de seguridad y encriptación para proteger los datos sensibles manejados por el RESTful API de LOYALSIPS. |
+
+
 
 ## 3.3. Impact Mapping.
 
