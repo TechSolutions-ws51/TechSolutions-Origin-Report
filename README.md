@@ -872,13 +872,13 @@ Despues de acontecer y describir los registros de los entrevistados, en esta sec
 
 <strong>¿Cuáles son las preferencias de bebidas más comunes entre nuestros clientes y cómo han evolucionado con el tiempo?</strong>
 
-<p>En base a lo que nos pudieron comunicar los entrevistados, un 45% de los clientes prefiere pedirse un <cite>cubalibre</cite> hoy en día en los bares; aunque, el que poco a poco también se va a estar haciendo tendencia son las bebidas <cite>hielo en las rocas</cite> y <cite>machu picchu</cite> - ya que el porentaje de personas que piden dichas bebidas estan en una varianza porcentual del 13.9% -.</p>
+<p>En base a lo que nos pudieron comunicar los entrevistados, un 45% de los clientes prefiere pedirse un <cite>cubalibre</cite> hoy en día en los bares; aunque, el que poco a poco también se va a estar haciendo tendencia son las bebidas <cite>hielo en las rocas</cite> y <cite>machu picchu</cite> - ya que el porcentaje de personas que piden dichas bebidas están en una varianza porcentual del 13.9% -.</p>
 
 <br>
 
 <strong>¿Cuál es la frecuencia de visita promedio de nuestros clientes a bares y qué segmentos de clientes visitan con mayor frecuencia?</strong>
 
-<p>Según los entrevistados, eL margen de visitas promedio por cliente a un bar se da en un 32% los viernes, 37% los días sábados y un 31% los domingos, de los cuales, el 78% de clientes están conformados por jóvenes estudiantes y adultos entre edades de 19 a 45 años.</p>
+<p>Según los entrevistados, el margen de visitas promedio por cliente a un bar se da en un 32% los viernes, 37% los días sábados y un 31% los domingos, de los cuales, el 78% de clientes están conformados por jóvenes estudiantes y adultos entre edades de 19 a 45 años.</p>
 
 <br>
 
@@ -886,7 +886,7 @@ Despues de acontecer y describir los registros de los entrevistados, en esta sec
 
 <strong>Empresarios de manejo de bares</strong>
 
-<p></p>
+<p>Efectuando un análisis general respecto a las entrevistas podemos constatar lo siguiente:  la estética que combina lo vintage con lo moderno influye significativamente en la atracción de un bar, impactando en un 25% de los clientes. La publicidad digital es esencial para el 45% de los entrevistados, mientras que el 55% valora promociones estacionales. La satisfacción del cliente ha aumentado en un 12.8% en comparación con la competencia, aunque se señala un área de mejora en el proceso de toma de pedidos (6.4% de los clientes). Las ganancias del bar se ven afectadas en un 22.3%, variando según el día de la semana. La bebida preferida es el "Cuba Libre" (45%), pero las bebidas "Hielo en las Rocas" y "Machu Picchu" están ganando popularidad (13.9% de variación). El promedio de visitas por cliente se distribuye en un 32% los viernes, 37% los sábados y 31% los domingos, con un 78% de clientes en edades de 19 a 45 años, principalmente estudiantes y adultos.</p>
 
 
 <br>
