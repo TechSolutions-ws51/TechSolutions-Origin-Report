@@ -38,6 +38,85 @@
 
 <br><br>
 
+### Project Report Colaborations Insights
+
+---
+
+Para la entrega del informe, se ha utilizado el siguiente repositorio de GitHub, en el cual se ha trabajado de manera colaborativa para la elaboración del informe.
+
+| Link del repositorio | https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report.git |
+|--|--|
+
+A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe.
+
+<table style="margin: 0 auto;">
+  <tr>
+    <th>Miembro</th>
+    <th>Responsabilidad</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Jose Ampudia</td>
+    <td style="text-align: justify;">Lean UX ssumptions, Lean UX Hypothesys Statements, Estrategias y tácticas frente a competidores Diseño de entrevistas, To-Be Scenario Mapping, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Alarcon Rondon</td>
+    <td style="text-align: justify;">Implementó el Startup Profile, Descripcion del Startup, Perfiles de integrantes del equipo, Competidores y Análisis competitivo, Impact Mapping, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Software Development Environment Configuration, Source Code Management.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Morin Fuentes</td>
+    <td style="text-align: justify;">Solution Profile, Needfinding, User Personas, User Tax Matrix, User Stories, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, Avance de Conclusiones, Bibliografía y Anexos.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Huamani Sánchez</td>
+    <td style="text-align: justify;">Lean UX Proccess, Lean UX Problem Statements, Registro de entrevistas, Análisis de entrevistas, Class Dictionary, Database Design, Database Diagram, Sprint Planning 1, Sprint Backlog 1, Development Evidence for Sprint Review.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Ballona Blas</td>
+    <td style="text-align: justify;">Lean UX Canvas, Segmento Objetivo, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping, Product Backlog, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Software Object-Oriented Design, Class Diagrams, Source Code Style Guide & Conventions, Software Deployment Configuration, Landing Page, Services & Applications Implementation.</td>
+  </tr>
+</table>
+<br>
+
+
+<div align='justify'>
+Para el desarrollo del informe, se realizaron commits respectivos a la tarea asignada para cada integrante del equipo. A continuacón, se muestran los usuarios de github que corresponden a cada integrante del equipo.
+
+Miembros:
+
+- Jose Ampudia (IsaacAmp24)
+- Alarcon Rondon (Alarsandro)
+- Morin Fuentes (Jeanpi-MF)
+- Huamani Sánchez (ProgramadorHuamani)
+- Ballona Blas (NaggitBallona)
+</div>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918606/1155030983230365757/git_commits_image.png?width=697&height=625" width="" height="">
+</div>
+<br>
+
+
+<div align='justify'>
+En el siguiente gráfico se muestra la cantidad de commits realizados por cada integrante del equipo.
+</div>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918606/1155033005778272318/cantidad_de_commits.png" width="" height="">
+</div>
+<br>
+
+<div align='justify'>
+Gracias a GitHub, se puede visualizar las ramas creadas para la implementación del proyecto. Tomando en cuenta lo investigado sobre el uso de GitFlow, se ha creado una rama principal llamada "main" y de esta rama se han creado las ramas "develop" y "feature", que cada feature creado, correspondía a alguna característica añadida, es decir a cada capítulo añadido por cada integrante del equipo, esto con el fin de poder mantener un orden a la hora de ralizar los commits. 
+<br><br>
+La rama "develop" sirvió para actualizar las ultimas versiones de cada feature, y la rama "main" sirvió para la entrega final del informe, A continuación, se muestra el gráfico de las ramas creadas para el proyecto.
+</div>
+<br>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918606/1155035277639823420/Network.png" width="" height="">
+</div>
+<br>
+
 # Índice
 
 ## 1. Capítulo I: Introducción
