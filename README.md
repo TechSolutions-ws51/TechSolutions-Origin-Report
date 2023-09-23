@@ -394,11 +394,11 @@ Todo este proceso logra tener un auge basado en 3 principios fundamentales: "Dis
 #### 1.2.2.1. Lean UX Problem Statements.
 <div align="justify">
 <b>1. Problem Statement:</b>
-<p>Nuestro entorno evidencia que los clientes presentan cierto tipo de molestia e incomodidades al momento de ir a un bar y no encontrar una mesa disponible para realizar su pedido; por lo que, suelen quedarse esperando por largos minutos afuera del recinto - malogrando su experiencia y su estancia -.
+<p>Nuestro entorno evidencia que los clientes presentan cierto tipo de molestia e incomodidades al momento de ir a un bar y no encontrar un sistema de fidelización que los mantenga enganchados; por lo que, eso mismo logra desanimarlos e influye a que busquen otros bares que les brinde ese beneficio que se merecen por excelencia.
 
-Hemos observado que un factor crítico que afecta a clientes es la falta de información acerca de la disponibilidad de espacio que se tiene del lugar, conllevando a que afuera de las inmediaciones se logren aglomerar las personas y algunas de ellas se terminen retirando por la falta de paciencia.</p>
+Hemos observado que un factor crítico que afecta a los clientes es la carencia de medios de fidelización en los bares en los que asiste, lo cual conlleva a que se sientan desmerecidos de su atención y, no tan cómodos en el lugar, terminan retirándose en busca de mejores opciones.</p>
 
-<b>¿Cómo hacer para que los clientes sepan la disponibilidad de espacio que tiene un bar en una determinada hora para que así ellos puedan asistir y no afectar su tiempo en la espera?</b>
+<b>¿Cómo hacer para que al implementar un sistema de fidelización en el bar, este tenga algo resaltante que nos permita seguir enganchando y manteniendo a nuestros clientes y nos diferencie de la competencia?</b>
  
 <br>
 
