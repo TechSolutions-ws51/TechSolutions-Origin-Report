@@ -3130,9 +3130,48 @@ Es asi como nosotros verificamos el cambio en la linea de trabajo:
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
-<div align='center'>
-<img src="https://i.ibb.co/5BPDkcZ/Documento-A4-para-escribir-formas-org-nicas-bordes-de-hojas-plantas-minimalista-ilustracion-dibujo-v.png" alt="sprint-planning-image" style="width:400px;height:auto;">
-</div>
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Repository</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Branch</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit ID</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit Message</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit Message Body</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commited on (Date)</th>
+</tr>
+<tr>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Main</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">53dbf63</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">First commit</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se creó el proyecto</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">09/09/23 02:34:33 AM</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Feature/TS-LadingPage-Complete</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2efc62ea98b24baaf464b47c28c056b8c343cf17</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat-home-section add</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se creo el apartado _home_ con la primera vista del <strong>“Landing page”</strong></td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">09/09/23 02:47:54 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/IsaacAmp24/LoyalSips-LandingPage">https://github.com/IsaacAmp24/LoyalSips-LandingPage</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Feature/TS-LadingPage-Complete</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">bd4d5c722a94c87960fb8c0bee8915689200f2da</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">LandingPage-Complete add</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se desarrollo el apartado del <em>footer</em>, apartado de comentarios y cambios en la paleta de colores para la muestra del <strong>“Landing page”</strong></td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">09/09/23 15:54:46 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Develop</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">5fb19f51a13a24c872b936b5b76599e72f357daf</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">This is develop</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se desarrolló el <em>merge</em> para unir todas las <em>branches</em>.</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">09/09/23 15:55:32 PM</td>
+</tr>
+</table>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 Para la entrega del Sprint 1, se tuvo pensado alcanzar el desarrollo completo del despliegue del Landing page. En esta sección presentamos la implementación del Landing page, tratando de alcanzar el diseño original que se realizó en Figma, de tal modo que el usuario tenga una buena experiencia de usuario.
