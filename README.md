@@ -116,7 +116,7 @@
     - [5.1.4 Software Deployment Configuration](#514-software-deployment-configuration)
 - [5.2 Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
     - [5.2.1 Sprint 1](#52x-sprint-n)
-        - [5.2.1.1 Sprint Planning n](#52x1-sprint-planning-n)
+        - [5.2.1.1 Sprint Planning ](#52x1-sprint-planning-n)
         - [5.2.1.2 Sprint Backlog n](#52x2-sprint-backlog-n)
         - [5.2.1.3 Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)
         - [5.2.1.4 Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)
@@ -2226,7 +2226,7 @@ En la seccion de Software Architecture Context Diagram, es una representación v
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150047809362468984/structurizr-SystemContext-001_1.png?width=865&height=423"width="775" height="592"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150047809362468984/structurizr-SystemContext-001_1.png?width=865&height=423"></div>
     </td>
   </tr>
 
@@ -2237,7 +2237,7 @@ Sobre Software Architecture Container Diagrams, son representaciones visuales qu
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150053277724053534/structurizr-Container-001_2.png?width=211&height=423"width="375" height="692"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150053277724053534/structurizr-Container-001_2.png?"></div>
     </td>
   </tr>
 
@@ -2250,18 +2250,22 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150098538810847333/structurizr-Component-001_1.png?width=413&height=423"width="475" height="592"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150098538810847333/structurizr-Component-001_1.png?"></div>
     </td>
   </tr>
 <br>
 <br>
+
+  **Landing Page:** 
+  
+  **Mobile App:** 
 
   **Web Aplication:**  
 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150102558770212994/structurizr-Component-001_2.png?width=277&height=423"width="475" height="592"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150102558770212994/structurizr-Component-001_2.png"></div>
     </td>
   </tr>
 
@@ -2272,7 +2276,7 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
 ### 4.7.1. Class Diagrams.
 
 <div align='center'>
-<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148778810737696829/image.png" width="750" height="350">
+<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148778810737696829/image.png" >
 </div>
 <br>
 
