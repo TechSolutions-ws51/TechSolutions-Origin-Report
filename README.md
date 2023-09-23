@@ -3108,9 +3108,86 @@ Es asi como nosotros verificamos el cambio en la linea de trabajo:
 <br>
 
 
-<div align="center">
-<img src="https://i.ibb.co/2djwC4n/Documento-A4-para-escribir-formas-org-nicas-bordes-de-hojas-plantas-minimalista-ilustracion-dibujo-v.png" alt="Sprint-Backlog1-Image" style="width:400px;height:auto;">
-</div>
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint #</th>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 1</td>
+</tr>
+<tr>
+ <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">User Story</th>
+ <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Work Item / Task</th>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ID</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Title</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ID</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Title</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Description</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Estimation (hours)</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Assigned To</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Status (To Do / In - process / To - review / Done)</th>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA01</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Implementación de la sección <em>header</em></td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se añadirá las secciones y botones de creación de cuenta y <em>login</em> para acceder a la plataforma web.</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA02</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Implementación de la sección sobre el <em>about us</em> del startup</em></td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se añadirá la descripción representativa del <em>about us</em>; además, se adjuntará uso slogans representativos y la imagen del logo de <em>LoyalSips</em></td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">HU02</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Entrar a la página como invitado</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA03</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Implementación de la sección de <em>services</em> para describir a quienes va dirigido el <em>startup</em></td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se añadirá la descripción e información adicional en relación al segmento objetivo el cual va dirigido</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA04</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Implementación de la sección de <em>Customer`s Review</em></td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se añadirá la muestra de algunos comentarios que dejan los <em>customers</em></td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA05</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Implementación de la sección de <EM>Contacts</EM></td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se añadirá un apartado para que el <em>user</em> añada sus datos y pueda escribir mensajes para ponerse en contacto con el grupo de soporte</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA06</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Implementación de la sección <em>footer</em></td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se añadirá el pie de página para que cada sección logre dirigir al <em>user</em> a la sección que quiere visualizar.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+</table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
