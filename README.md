@@ -3014,9 +3014,59 @@ Es asi como nosotros verificamos el cambio en la linea de trabajo:
 
 #### 5.2.1.1. Sprint Planning 1.
 
-<div align='center'>
-<img src="https://i.ibb.co/Pj68PSr/Documento-A4-para-escribir-formas-org-nicas-bordes-de-hojas-plantas-minimalista-ilustracion-dibujo-v.png" alt="sprint-planning-image" style="width:400px;height:auto;">
-</div>
+<table align="center">
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint #</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 1</th>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Planning Background</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Date</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2023-08-30</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Time</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">20:03 PM</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Location</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se llevo una reunión virtual para conversar en relación a los deberes que cada uno debe desarrollar – acordado todo ello en la plataforma de videoconferencia “Google Meet” -.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Prepared By</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Huamani Sánchez, José Diego</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Attendees (to planning meeting)</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / Ballona Blas, Naggit German / Huamani Sánchez, José Diego</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 1 - Review Summary</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Desarrollamos la primera versión de nuestro “Landing page” - representativo de nuestro startup -, asemejando las ideas y sugerencias que nuestros entrevistados nos sugirieron para adecuar tanto los colores, como las dimensiones e interacciones que tendrá dentro su proceso de interacción. No hemos recibido “feedbacks”, pero para el siguiente “sprint” nos estaremos comunicando con ellos para que nos brinden unas sugerencias de como se ve este primer boceto y en que podemos mejorar para las siguientes entregas.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 1 - Retrospective Summary</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Con respecto a las opiniones que enmarcamos cada uno de nosotros, sentimos que este primer boceto del “Lading page”, a quedado de lo mejor. Claramente, nos faltaría arreglar algunos cuantos iconos y añadir nuevas funcionalidades; pero, prácticamente eso sería lo único en lo cual hemos diferido un poco entre todos.</td>
+</tr>
+<tr>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Goal  & User Stories</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 1 Goal</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">El objetivo que se tuvo para este sprint mayormente fue abarcando el lado visual que tendrá el invitado al momento de observar el “Lading page” así como la sección de comentarios para que los usuarios puedan dejar los comentarios o valoraciones en el bar que han visitado.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 1 Velocity</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este _sprint,_ el equipo de desarrollo llegó a un acuerdo en aceptar sin ningún altercado un enfoque de 3 “story points” para este Sprint 1.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para esta oportunidad, solo hemos abarcado en este _sprint_ el _User Story_ con identificador “HU03” el cual equivale 3 puntos.</td>
+</tr>
+</table>
+
 
 #### 5.2.1.2. Sprint Backlog 1.
 
