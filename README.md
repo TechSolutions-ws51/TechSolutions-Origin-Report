@@ -1618,7 +1618,7 @@ Segmento Empresarial:
 
  <tr>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155267065691770971/Section_1.png">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155321467970539520/Section_1.png?">
       </div>
   </tr>
   <br>
@@ -1627,7 +1627,7 @@ Segmento Empresarial:
 
    <tr>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155269121613766787/Section_2.png">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155269121613766787/Section_2.png?">
       </div>
     </td>
   </tr>
