@@ -1602,9 +1602,8 @@ Para la elaboración del Mock-up del Landing page tanto para el apartado de escr
 
   <tr>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155264285488975942/Section_1.png?width=189&height=670"width="" height="">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155264285488975942/Section_1.png">
       </div>
-    </td>
   </tr>
 
 <br>
@@ -1619,9 +1618,8 @@ Segmento Empresarial:
 
  <tr>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155267065691770971/Section_1.png?width=401&height=671"width="" height="">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155267065691770971/Section_1.png">
       </div>
-    </td>
   </tr>
   <br>
 
@@ -1629,7 +1627,7 @@ Segmento Empresarial:
 
    <tr>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155269121613766787/Section_2.png?width=527&height=671"width="" height="">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155269121613766787/Section_2.png">
       </div>
     </td>
   </tr>
@@ -1849,7 +1847,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 <div align='center'>
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149817454575493150/Captura_de_pantalla_2023-09-08_055016.png?width=688&height=276"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149817454575493150/Captura_de_pantalla_2023-09-08_055016.png">
     </td>
   </tr>
 
@@ -1859,7 +1857,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818179695165563/Captura_de_pantalla_2023-09-08_055353.png?width=688&height=567"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818179695165563/Captura_de_pantalla_2023-09-08_055353.png">
     </td>
   </tr>
   <br><br>
@@ -1867,7 +1865,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 **User Goal:** Como empresario, ver mis datos en la aplicación.
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818555605454919/Captura_de_pantalla_2023-09-08_055535.png?width=688&height=607"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818555605454919/Captura_de_pantalla_2023-09-08_055535.png">
     </td>
   </tr>
   <br><br>
@@ -1875,7 +1873,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 **User Goal:** Como empresario, deseo buscar al cliente con un respectivo puntaje.
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818876222255214/Captura_de_pantalla_2023-09-08_055850.png?width=688&height=300"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818876222255214/Captura_de_pantalla_2023-09-08_055850.png">
     </td>
   </tr>
   <br><br>
@@ -1883,7 +1881,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 **User Goal:** Como empresario, deseo registrar un producto en el sistema para poder llevar un control del stock.
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818771037491200/Captura_de_pantalla_2023-09-08_060509.png?width=688&height=294"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818771037491200/Captura_de_pantalla_2023-09-08_060509.png">
     </td>
   </tr>
   <br><br>
@@ -1891,7 +1889,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 **User Goal:** Como empresario, deseo buscar un producto en el sistema para poder saber el stock y llevar un control seguro.
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149819610011533372/Captura_de_pantalla_2023-09-08_060832.png?width=688&height=294"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149819610011533372/Captura_de_pantalla_2023-09-08_060832.png">
     </td>
   </tr>
 </div>  
@@ -1907,7 +1905,7 @@ Link para visualizar los [wireframes diagrams](https://overflow.io/s/O6IYMWFP)
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820520892747868/Captura_de_pantalla_2023-09-08_061524.png?width=688&height=280"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820520892747868/Captura_de_pantalla_2023-09-08_061524.png">
       </div>
     </td>
   </tr>
@@ -1918,7 +1916,7 @@ Link para visualizar los [wireframes diagrams](https://overflow.io/s/O6IYMWFP)
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820740019949578/Captura_de_pantalla_2023-09-08_062053.png?width=666&height=617"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820740019949578/Captura_de_pantalla_2023-09-08_062053.png">
       </div>
     </td>
   </tr>
@@ -1929,7 +1927,7 @@ Link para visualizar los [wireframes diagrams](https://overflow.io/s/O6IYMWFP)
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820940545437706/Captura_de_pantalla_2023-09-08_062432.png?width=688&height=606"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820940545437706/Captura_de_pantalla_2023-09-08_062432.png">
       </div>
     </td>
   </tr>
@@ -1940,7 +1938,7 @@ Link para visualizar los [wireframes diagrams](https://overflow.io/s/O6IYMWFP)
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821221635112970/Captura_de_pantalla_2023-09-08_063007.png?width=671&height=618"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821221635112970/Captura_de_pantalla_2023-09-08_063007.png">
       </div>
     </td>
   </tr>
@@ -1951,7 +1949,7 @@ Link para visualizar los [wireframes diagrams](https://overflow.io/s/O6IYMWFP)
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821517945917500/Captura_de_pantalla_2023-09-08_063350.png?width=644&height=618"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821517945917500/Captura_de_pantalla_2023-09-08_063350.png">
       </div>
     </td>
   </tr>
@@ -1962,7 +1960,7 @@ Link para visualizar los [wireframes diagrams](https://overflow.io/s/O6IYMWFP)
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821817746362549/Captura_de_pantalla_2023-09-08_064205.png?width=688&height=330"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821817746362549/Captura_de_pantalla_2023-09-08_064205.png">
       </div>
     </td>
   </tr>
@@ -1974,7 +1972,7 @@ Link para visualizar los [wireframes diagrams](https://overflow.io/s/O6IYMWFP)
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149822088157339790/Captura_de_pantalla_2023-09-08_064743.png"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149822088157339790/Captura_de_pantalla_2023-09-08_064743.png">
       </div>
     </td>
   </tr>
@@ -2007,7 +2005,7 @@ Para el **sector Empresarial** se realizó el diseño que se muestra a continuac
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149822816519196702/Captura_de_pantalla_2023-09-08_070404.png?width=688&height=560"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149822816519196702/Captura_de_pantalla_2023-09-08_070404.png">
       </div>
     </td>
   </tr>
@@ -2018,7 +2016,7 @@ Para el **sector Empresarial** se realizó el diseño que se muestra a continuac
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823111554928670/Captura_de_pantalla_2023-09-08_070707.png?width=688&height=241"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823111554928670/Captura_de_pantalla_2023-09-08_070707.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2028,7 +2026,7 @@ Para el **sector Empresarial** se realizó el diseño que se muestra a continuac
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823420104704181/Captura_de_pantalla_2023-09-08_071758.png?width=590&height=618"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823420104704181/Captura_de_pantalla_2023-09-08_071758.png">
       </div>
     </td>
   </tr>
@@ -2040,7 +2038,7 @@ Para el **sector Empresarial** se realizó el diseño que se muestra a continuac
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823995579990066/Captura_de_pantalla_2023-09-08_164949.png?width=287&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823995579990066/Captura_de_pantalla_2023-09-08_164949.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2050,7 +2048,7 @@ Para el **sector Empresarial** se realizó el diseño que se muestra a continuac
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824239642349708/Captura_de_pantalla_2023-09-08_072014.png?width=283&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824239642349708/Captura_de_pantalla_2023-09-08_072014.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2060,7 +2058,7 @@ Para el **sector Empresarial** se realizó el diseño que se muestra a continuac
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824395406233640/Captura_de_pantalla_2023-09-08_072222.png?width=688&height=477"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824395406233640/Captura_de_pantalla_2023-09-08_072222.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2070,7 +2068,7 @@ Para el **sector Empresarial** se realizó el diseño que se muestra a continuac
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824550851321856/Captura_de_pantalla_2023-09-08_072353.png?width=600&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824550851321856/Captura_de_pantalla_2023-09-08_072353.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2081,7 +2079,7 @@ Para el **sector Empresarial** se realizó el diseño que se muestra a continuac
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824704320909482/Captura_de_pantalla_2023-09-08_072607.png?width=688&height=357"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824704320909482/Captura_de_pantalla_2023-09-08_072607.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2091,7 +2089,7 @@ Para el **sector Empresarial** se realizó el diseño que se muestra a continuac
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824887649747054/Captura_de_pantalla_2023-09-08_072804.png?width=688&height=481"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824887649747054/Captura_de_pantalla_2023-09-08_072804.png"></div>
     </td>
   </tr>
 
@@ -2103,7 +2101,7 @@ Para el sector del **Cliente** se realizó el diseño que se muestra a continuac
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825424222847066/Captura_de_pantalla_2023-09-08_073410.png?width=688&height=274"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825424222847066/Captura_de_pantalla_2023-09-08_073410.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2114,7 +2112,7 @@ Para el sector del **Cliente** se realizó el diseño que se muestra a continuac
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825569119272970/Captura_de_pantalla_2023-09-08_073610.png?width=607&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825569119272970/Captura_de_pantalla_2023-09-08_073610.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2125,7 +2123,7 @@ Para el sector del **Cliente** se realizó el diseño que se muestra a continuac
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825726229512343/Captura_de_pantalla_2023-09-08_073759.png?width=289&height=617"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825726229512343/Captura_de_pantalla_2023-09-08_073759.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2135,7 +2133,7 @@ Para el sector del **Cliente** se realizó el diseño que se muestra a continuac
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826008367771678/Captura_de_pantalla_2023-09-08_073849.png?width=289&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826008367771678/Captura_de_pantalla_2023-09-08_073849.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2145,7 +2143,7 @@ Para el sector del **Cliente** se realizó el diseño que se muestra a continuac
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826364703256627/Captura_de_pantalla_2023-09-08_074057.png?width=688&height=454"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826364703256627/Captura_de_pantalla_2023-09-08_074057.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2155,7 +2153,7 @@ Para el sector del **Cliente** se realizó el diseño que se muestra a continuac
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826517245906954/Captura_de_pantalla_2023-09-08_074233.png?width=610&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826517245906954/Captura_de_pantalla_2023-09-08_074233.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2165,7 +2163,7 @@ Para el sector del **Cliente** se realizó el diseño que se muestra a continuac
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826780568498216/Captura_de_pantalla_2023-09-08_074435.png?width=688&height=348"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826780568498216/Captura_de_pantalla_2023-09-08_074435.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2175,7 +2173,7 @@ Para el sector del **Cliente** se realizó el diseño que se muestra a continuac
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149827250842259530/Captura_de_pantalla_2023-09-08_074806.png?width=615&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149827250842259530/Captura_de_pantalla_2023-09-08_074806.png"></div>
     </td>
   </tr>
 
@@ -2195,7 +2193,7 @@ Explicación: El usuario empresario ingresa a la aplicación y elige el sector d
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828110045429851/Captura_de_pantalla_2023-09-08_081316.png?width=688&height=222"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828110045429851/Captura_de_pantalla_2023-09-08_081316.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2207,7 +2205,7 @@ Explicación: En caso el usuario ya se haya registrado a nuestro aplicativo, el 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828260415422474/Captura_de_pantalla_2023-09-08_081915.png?width=659&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828260415422474/Captura_de_pantalla_2023-09-08_081915.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2219,7 +2217,7 @@ Explicación: Entendemos que el usuario empresario desea ver sus datos en la apl
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828409493557329/Captura_de_pantalla_2023-09-08_082048.png?width=665&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828409493557329/Captura_de_pantalla_2023-09-08_082048.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2231,7 +2229,7 @@ Explicación: El usuario empresario deberá hacer click en el boton de ver punto
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828670345723974/Captura_de_pantalla_2023-09-08_082603.png?width=688&height=294"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828670345723974/Captura_de_pantalla_2023-09-08_082603.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2244,7 +2242,7 @@ Explicación: Para registrar un producto, el usuario deberá hacer click en el b
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149829025880080424/Captura_de_pantalla_2023-09-08_083350.png?width=688&height=293"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149829025880080424/Captura_de_pantalla_2023-09-08_083350.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2256,7 +2254,7 @@ Explicación: Para buscar un producto, el usuario deberá hacer click en el bot�
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149829280671481936/Captura_de_pantalla_2023-09-08_083841.png?width=688&height=288"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149829280671481936/Captura_de_pantalla_2023-09-08_083841.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2272,7 +2270,7 @@ Explicación: Si el usuario es cliente de un bar, ingresa a la aplicación y eli
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830044420677802/Captura_de_pantalla_2023-09-08_085230.png?width=688&height=292"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830044420677802/Captura_de_pantalla_2023-09-08_085230.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2284,7 +2282,7 @@ Explicación: En caso el usuario ya se haya registrado a nuestro aplicativo, el 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830239761997968/Captura_de_pantalla_2023-09-08_085338.png?width=655&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830239761997968/Captura_de_pantalla_2023-09-08_085338.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2296,7 +2294,7 @@ Explicación: Entendemos que el usuario cliente desea ver sus datos en la aplica
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830398713532426/Captura_de_pantalla_2023-09-08_085432.png?width=636&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830398713532426/Captura_de_pantalla_2023-09-08_085432.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2308,7 +2306,7 @@ Explicación: Se mostrará la pantalla principal para que el usuario tenga la li
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830572672299048/Captura_de_pantalla_2023-09-08_085716.png?width=686&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830572672299048/Captura_de_pantalla_2023-09-08_085716.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2321,7 +2319,7 @@ Explicación: Se muestra la pantalla principal del usuario en el bar respectivo 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830844194766988/Captura_de_pantalla_2023-09-08_085943.png?width=679&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830844194766988/Captura_de_pantalla_2023-09-08_085943.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2333,7 +2331,7 @@ Explicación: Cuando el cliente se encuentre en la sección canjear productos, s
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149831496916541470/Captura_de_pantalla_2023-09-08_090557.png?width=688&height=248"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149831496916541470/Captura_de_pantalla_2023-09-08_090557.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2345,7 +2343,7 @@ Explicación: Para ver las ofertas, se mostrará en la pantalla principal, un bo
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149831610284376064/Captura_de_pantalla_2023-09-08_090645.png?width=658&height=617"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149831610284376064/Captura_de_pantalla_2023-09-08_090645.png"></div>
     </td>
   </tr>
   <br><br>
@@ -2357,7 +2355,7 @@ Explicación: Para ver las ofertas, se mostrará en la pantalla principal, un bo
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149832165748654200/Captura_de_pantalla_2023-09-08_172204.png?width=688&height=435"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149832165748654200/Captura_de_pantalla_2023-09-08_172204.png"></div>
     </td>
   </tr><br>
 
@@ -2379,7 +2377,7 @@ En la seccion de Software Architecture Context Diagram, es una representación v
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150047809362468984/structurizr-SystemContext-001_1.png?width=865&height=423"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150047809362468984/structurizr-SystemContext-001_1.png"></div>
     </td>
   </tr>
 
@@ -2390,7 +2388,7 @@ Sobre Software Architecture Container Diagrams, son representaciones visuales qu
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150053277724053534/structurizr-Container-001_2.png?"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150053277724053534/structurizr-Container-001_2.png"></div>
     </td>
   </tr>
 
@@ -2403,7 +2401,7 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150098538810847333/structurizr-Component-001_1.png?"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150098538810847333/structurizr-Component-001_1.png"></div>
     </td>
   </tr>
 <br>
