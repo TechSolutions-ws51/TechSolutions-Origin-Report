@@ -1583,12 +1583,13 @@ El link del [diseño de escritorio](https://www.figma.com/file/xDKLEzeKlPV6A8uBf
 
 **Landing Page Wireframes - Mobile**
 
-  <tr>
-    <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155314365663293440/Section_1.png?width=312&height=625">
-      </div>
-  </tr>
+<tr>
+  <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1155314365663293440/Section_1.png">
+  </div>
+</tr>
 <br>
+
 
 Link del [Diseño Movil](https://www.figma.com/file/N8EmdAUWapHigf4Lk8sGHr/Web-Application-Wireframes?type=design&node-id=0%3A1&mode=design&t=DfFWWAqT7hgXSXLE-1) 
 
