@@ -1312,35 +1312,35 @@ Link para ver el [diagrama](https://miro.com/app/board/uXjVO8jKyt8=/?share_link_
 ## 3.3. Impact Mapping.
 
 La herramienta Impact Mapping representa de forma visual las metas que nos planteamos para llegar a cada sector de nuestro publico. 
-### User Bar:
+### User Cliente:<br>
+Hemos llevado a cabo un proceso de Impact Mapping dirigido al usuario llamado "cliente", quien representa a los clientes que consumen en bares. A partir de las historias de usuario generadas por nuestro equipo, hemos elaborado diferentes opciones para abordar y satisfacer sus requerimientos. 
+### User Cliente:
+<br>
 <tr>
     <td>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149524347619389551/image.png?width=289&height=423"width="403" height="569">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155294187726586016/user.png">
       </div>
     </td>
 </tr>
-<br>
+
+### User Bar:<br>
 Realizamos el impact Mapping para el usuario Bar, que representa a los dueños bares, y según los User Stories realizadas por nuestro equipo, desarrollamos alternivas para solucionar y satisfacer sus necesidades. 
 <br>
-<br>
+
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149524152261283901/image.png?width=401&height=423"width="403" height="569">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155293546316824616/2.png">
       </div>
     </td>
 </tr>
-<br>
-Hemos llevado a cabo un proceso de Impact Mapping dirigido al usuario llamado "cliente", quien representa a los clientes que consumen en bares. A partir de las historias de usuario generadas por nuestro equipo, hemos elaborado diferentes opciones para abordar y satisfacer sus requerimientos. 
+ 
 
-<br>
+Link de Cliente [Uxpressia](https://media.discordapp.net/attachments/1145898392631918606/1155294187726586016/user.png) 
 
-Link de [Miro](https://miro.com/welcomeonboard/Mk5wZzhZdGppbjl0Y0VZWllDeWtlZ3g3emt6R1NvTHhqdDJ5dUt6MGNoYWRORm5GTHpyNTZOa3paSVRpZ1hJeXwzMDc0NDU3MzU3MTA0ODcyOTA0fDI=?share_link_id=659519633230)  
-
-Link de [Uxpressia](https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc) 
-
+Link de Administrador [Uxpressia](https://media.discordapp.net/attachments/1145898392631918606/1155293546316824616/2.png) 
 ## 3.4. Product Backlog.
 
 <br><br>
@@ -2709,31 +2709,39 @@ Para el proyecto no hemos utilizado un software que gestione el proyecto.
 
 Es la fase que diseña la apariencia y la interacción del software para garantizar una experiencia de usuario atractiva y eficiente. 
 
-Uxpressia es una herramienta eficiente que nos ha ayudado en el diseño del Impact Mapping de nuestro proyecto. Uxpressia: https://uxpressia.com/  
+Uxpressia es una herramienta eficiente que nos ha ayudado en el diseño del Impact Mapping de nuestro proyecto. Uxpressia: [Uxpressia](https://uxpressia.com/)
 
-Para ello, hemos utilizado Miro, el cual nos ayuda a diseñar la estructura de la interfaz para nuestro proyecto. Miro: https://miro.com/app/dashboard/  
+Para ello, hemos utilizado Miro, el cual nos ayuda a diseñar la estructura de la interfaz para nuestro proyecto. Miro: [Miro](https://miro.com/app/dashboard/)
 
-Para este propósito, hemos empleado Figma, una herramienta que nos permite diseñar la estructura de la interfaz de nuestro proyecto de manera efectiva. Figma: https://www.figma.com/ 
+Para este propósito, hemos empleado Figma, una herramienta que nos permite diseñar la estructura de la interfaz de nuestro proyecto de manera efectiva. Figma: [Figma](https://www.figma.com/)
 
-Lucid Chart es una herramienta eficiente con respecto al desarrollo del diseño de modelados. Lucid Chart : https://www.lucidchart.com/  
+Lucid Chart es una herramienta eficiente con respecto al desarrollo del diseño de modelados. Lucid Chart:  [Lucid Chart](https://www.lucidchart.com/)
 
 
 #### Software Development 
 
 Con respecto a Software Development, el cual nos permite tener un entorno adecuado para desarrollar el proyecto en código. 
 
-Para el desarrollo de continuo de nuestro equipo y mantener los avances del proyecto utilizamos Github. Github: https://github.com/  
+Para el desarrollo de continuo de nuestro equipo y mantener los avances del proyecto utilizamos Github. [Github:](https://github.com/)
 
-Visual Studio Code es un editor de código gratuito y altamente extensible de Microsoft, multiplataforma, con depuración integrada y soporte para múltiples lenguajes de programación. Visual Studio Code: https://code.visualstudio.com/  
+Visual Studio Code es un editor de código gratuito y altamente extensible de Microsoft, multiplataforma, con depuración integrada y soporte para múltiples lenguajes de programación. Visual Studio Code: [VSC](https://code.visualstudio.com/) 
 
 WebStorm es un IDE  de JetBrains especializado en desarrollo web. 
-Ofrece herramientas avanzadas para escribir, depurar y administrar proyectos web en lenguajes como JavaScript, HTML y CSS. WebStorm: https://www.jetbrains.com/webstorm/promo/?source=google&medium=cpc&campaign=9641686239&term=webstorm&content=523833970754&gad=1&gclid=CjwKCAjwo9unBhBTEiwAipC115R9P8mt3UWuHjEycEIKW2WnOgU7I5V0Wq2Xg3PHMHUtD6VGXCwBkxoCuZgQAvD_BwE  
+Ofrece herramientas avanzadas para escribir, depurar y administrar proyectos web en lenguajes como JavaScript, HTML y CSS. WebStorm: [WebStorm](https://www.jetbrains.com/webstorm/promo/?source=google&medium=cpc&campaign=9641686239&term=webstorm&content=523833970754&gad=1&gclid=CjwKCAjwo9unBhBTEiwAipC115R9P8mt3UWuHjEycEIKW2WnOgU7I5V0Wq2Xg3PHMHUtD6VGXCwBkxoCuZgQAvD_BwE)
 
-El lenguaje de programacion JavaScript implica utilizar frameworks, bibliotecas y herramientas para crear aplicaciones web. JavaScript: https://support.microsoft.com/es-es/topic/c%C3%B3mo-habilitar-javascript-en-windows-88d27b37-6484-7fc0-17df-872f65168279  
 
-CSS, da estilo y diseño a páginas web, controlando colores, fuentes, márgenes y la apariencia de elementos HTML para mejorar la presentación visual. CSS: https://developer.mozilla.org/es/docs/Web/CSS  
+CSS, da estilo y diseño a páginas web, controlando colores, fuentes, márgenes y la apariencia de elementos HTML para mejorar la presentación visual. CSS: [CSS](https://developer.mozilla.org/es/docs/Web/CSS  )
 
-HTML es el lenguaje de marcado utilizado para crear y estructurar contenido en la web, definiendo elementos y su función en una página, como títulos, párrafos e imágenes. HTML: https://developer.mozilla.org/es/docs/Web/HTML  
+HTML es el lenguaje de marcado utilizado para crear y estructurar contenido en la web, definiendo elementos y su función en una página, como títulos, párrafos e imágenes.: 
+[HTML ](https://developer.mozilla.org/es/docs/Web/HTML).
+
+JavaScript es un lenguaje de programación utilizado para agregar interactividad y funcionalidad a las páginas web. Con JavaScript, puedes realizar acciones como validar formularios, crear efectos visuales dinámicos y realizar solicitudes a servidores para cargar datos en tiempo real. Aquí tienes una referencia de JavaScript: [JavaScript - MDN Web Docs](https://developer.mozilla.org/es/docs/Web/JavaScript).
+
+TypeScript es un lenguaje de programación que extiende JavaScript al agregarle tipos estáticos. Permite a los desarrolladores definir tipos de datos para variables, parámetros de funciones y objetos, lo que proporciona un mejor control sobre el código y ayuda a prevenir errores comunes durante el desarrollo. La documentación oficial de TypeScript: [TypeScript - Documentación oficial](https://www.typescriptlang.org/docs/).
+
+Java es un lenguaje de programación ampliamente utilizado en el desarrollo de aplicaciones de software. Java es conocido por su portabilidad, lo que significa que el código escrito en Java puede ejecutarse en diferentes plataformas sin necesidad de modificaciones. Es un lenguaje orientado a objetos y ofrece un alto nivel de seguridad y rendimiento. Documentación oficial de Oracle: [Java - Oracle Documentation](https://docs.oracle.com/en/java/)
+
+Al igual que con JavaScript, TypeScript se utiliza en el desarrollo web para crear aplicaciones más robustas y escalables, especialmente en proyectos grandes y complejos.
 
  
 #### Software Testing 
