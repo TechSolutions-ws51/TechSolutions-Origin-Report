@@ -1113,14 +1113,14 @@ en el análisis de entrevistas y de la competencia.
 
 <tr>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1154956350456090753/Carlos_P_Foner.png?width=418&height=593"width="" height="">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1154956350456090753/Carlos_P_Foner.png">
       </div>
   </tr>
 
 #### 2.3.1.2 Segmento Objetivo 1: Empresario
   <tr>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1154956350170865715/Carmen_R._Greco.png?width=380&height=593"width="" height="">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1154956350170865715/Carmen_R._Greco.png">
       </div>
   </tr>
 
@@ -1618,7 +1618,7 @@ Segmento Empresarial:
 
  <tr>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155321467970539520/Section_1.png?">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155323529294778378/empresa-mobile-mock-up.png?">
       </div>
   </tr>
   <br>
@@ -1627,13 +1627,13 @@ Segmento Empresarial:
 
    <tr>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155269121613766787/Section_2.png?">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155323548945092650/cliente-mobile-mock-up.png?">
       </div>
     </td>
   </tr>
   <br>
 
-Link del [figma móvil](https://www.figma.com/file/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?type=design&node-id=0%3A1&mode=design&t=qizxCWqTKyWhjUIy-1) 
+Link del [figma móvil](https://www.figma.com/file/T8vhVw6cu3LuuV1K3KXdwR/Section-Mobile-Mock-up?type=design&node-id=0%3A1&mode=design&t=263fweJAWpHGIleT-1) 
 
 Para su diseño se aplicaron los 5 principios del diseño:
 
