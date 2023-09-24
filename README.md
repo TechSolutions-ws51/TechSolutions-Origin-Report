@@ -1537,108 +1537,104 @@ Esta sección tendrá un enfoque sobre el diseño de nuestra Landing Page utiliz
 ### 4.3.1. Landing Page Wireframe.
 Para la elaboración de los wireframes de la Landing Page tanto en el sector de móvil como para escritorio se usaron los principios, elementos de diseño, en el que engloba la arquitectura de información y el diseño inclusivo.
 
-***Vista previa del wireframe para el apartado móvil.***
+Para la elaboración de los Wireframes de la Landing page, se tomó en cuenta los elementos y principios de diseño, esto se puede apreciar para la creación de formas usando los elementos de dirección y línea, las cuales lo usamos para difenciar tanto las imágenes como los componentes que forman parte del landing page.
+
+En este caso, se puede observar los distintos elementos que se usaron para diferenciar un componente de otro, así como las fuentes de las letras, sobre todo, detalle muy importante, que los colores están en escala de grises dado que es un boceto, lo cual puede cambiar para la elaboración del Mock-up.
+
+**Landing Page Wireframes - Desktop**
 
   <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149741296244772864/Imagen1.png?width=623&height=207"width="1000" height="250">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155250239272398968/1.jpg?width=1032&height=671"width="" height="">
       </div>
-    </td>
+  </tr>
+<br>
+  <tr>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155251603817889832/3.jpg?width=934&height=671"width="" height="">
+      </div>
+  </tr>
+<br>
+  <tr>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155251493444784218/2.jpg?width=934&height=671"width="" height="">
+      </div>
+  </tr>
+<br>
+  <tr>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155257632530112542/AABOUT.jpg?width=934&height=671"width="" height="">
+      </div>
+  </tr>
+<br>
+  <tr>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155254341305901108/9.jpg?width=934&height=671"width="" height="">
+      </div>
+  </tr>
+<br>
+
+
+El link del [diseño de escritorio](https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=397%3A3611&mode=design&t=jL9xPnI96j5KRImq-1)
+
+
+
+<br>
+
+**Landing Page Wireframes - Mobile**
+
+  <tr>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155261221919014932/Mobile.jpg?width=335&height=671"width="" height="">
+      </div>
   </tr>
 <br>
 
 Link del [Diseño Movil](https://www.figma.com/file/N8EmdAUWapHigf4Lk8sGHr/Web-Application-Wireframes?type=design&node-id=0%3A1&mode=design&t=DfFWWAqT7hgXSXLE-1) 
 
-<br>
-
----
-***Vista previa del wireframe para el apartado de escritorio.***
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <div align="center">
-      <img src="https://media.discordapp.net/attachments/892430247042105427/1150134263858069654/image.png?width=253&height=564" width="300" height="700">
-      </div>
-    </td>
-  </tr>
-<br>
-
-El link del [diseño de escritorio](https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=397%3A3611&mode=design&t=jL9xPnI96j5KRImq-1)
-
-Para la elaboración de los Wireframes de la Landing page, se tomó en cuenta los elementos y principios de diseño, esto se puede apreciar para la creación de formas usando los elementos de dirección y línea, las cuales lo usamos para difenciar tanto las imágenes como los componentes que forman parte del landing page.
-
-En este caso, se puede observar los distintos elementos que se usaron para diferenciar un componente de otro, así como las fuentes de las letras, sobre todo, detalle muy importante, que los colores están en escala de grises dado que es un boceto, lo cual puede cambiar para la elaboración del Mock-up.
-
-   <tr>
-        <div align='center'>
-      <img  src="https://media.discordapp.net/attachments/892430247042105427/1150135122641834084/image.png?width=831&height=564" width="600" height="400">
-      </div>
-    </td>
-  </tr>
-
-<br>
-
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <div align='center'>
-      <img  src="https://media.discordapp.net/attachments/892430247042105427/1150136506795688127/image.png?width=759&height=564" width="600" height="400">
-      </div>
-    </td>
-  </tr>
-
-  <br>
-
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <div align='center'>
-      </div>
-    </td>
-  </tr>
-
-  <br>
-
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <div align='center'>
-      <img  src="https://media.discordapp.net/attachments/892430247042105427/1150137459896762539/image.png?width=750&height=564" width="600" height="400">
-      </div>
-    <td>
-  <tr>
-<br>
 
 
 ### 4.3.2. Landing Page Mock-up.
 Para la elaboración del Mock-up del Landing page tanto para el apartado de escritorio como para móvil se usaron principios, elementos de diseño, diseño inclusivo y arquitectura de información que se planteó en puntos anteriores.
 
-***Vista previa del Mock-up para el apartado móvil.***
+**Landing Page Desktop Mock-up.**
 
   <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149745161811800064/Imagen4.png?width=455&height=625"width="500" height="720">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155264285488975942/Section_1.png?width=189&height=670"width="" height="">
       </div>
     </td>
   </tr>
 
 <br>
 
-Link del [figma móvil](https://www.figma.com/file/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?type=design&node-id=0%3A1&mode=design&t=qizxCWqTKyWhjUIy-1) 
+Link del [figma de escritorio](https://www.figma.com/file/WvBHU5rWPbgabHex3Er6jj/Landing-Page---LoyalSips?type=design&node-id=0%3A1&mode=design&t=E225PHq1IOJ3VIcx-1)
 
 ---
 
-***Vista previa del wireframe para el apartado de escritorio.***
+**Landing Page Mobile Mock-up.**
+
+Segmento Empresarial:
 
  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149745513353183363/Imagen5.png?width=602&height=625"width="480" height="360">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155267065691770971/Section_1.png?width=401&height=671"width="" height="">
       </div>
     </td>
   </tr>
-
   <br>
 
-Link del [figma de escritorio](https://www.figma.com/file/WvBHU5rWPbgabHex3Er6jj/Landing-Page---LoyalSips?type=design&node-id=0%3A1&mode=design&t=E225PHq1IOJ3VIcx-1) 
+  Segmento Cliente:
+
+   <tr>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155269121613766787/Section_2.png?width=527&height=671"width="" height="">
+      </div>
+    </td>
+  </tr>
+  <br>
+
+Link del [figma móvil](https://www.figma.com/file/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?type=design&node-id=0%3A1&mode=design&t=qizxCWqTKyWhjUIy-1) 
 
 Para su diseño se aplicaron los 5 principios del diseño:
 
@@ -1656,12 +1652,19 @@ mejor relación para la vista.
 
 
 ## 4.4. Web Applications UX/UI Design.
+
+En esta sección, presentaré una propuesta visual y de interacción para las aplicaciones que forman parte de la experiencia del usuario en nuestros productos digitales. El objetivo es crear una experiencia atractiva, funcional y eficiente que satisfaga las necesidades de nuestros usuarios y refleje la identidad de nuestra marca.
+
 ### 4.4.1. Web Applications Wireframes.
+
 Se muestra el diseño visual y la interacción que poseen los wireframes en nuestro proyecto digital.
 
-Algunas plantillas generales que poseemos son el sistema de registro:
+A continuación, se muestra el diseño visual y la interacción que poseen los wireframes en nuestro proyecto digital.
 
 <div align='center'>
+
+<b>Sector del Empresarial:</b>
+
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1150000600885501982/Imagen15.jpg?width=1119&height=625"width="700" height="">
@@ -1775,6 +1778,9 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 
 
 <br>
+<b>Sector del cliente:</b>
+<br>
+<br>
 
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
@@ -1835,7 +1841,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 ### 4.4.2. Web Applications Wireflow Diagrams.
 En este apartado se mostrará los flujos de navegación entre pantallas de nuestra aplicación que visualizará tanto el segmento del empresario como el sector del cliente.
 
-### Segmento objetivo Empresa:
+**Segmento objetivo Empresarial:**
 
 **User Goal:** Como soy empresario, quiero elegir el sector de empresa y poder registrarme como empresario.
 
@@ -1978,11 +1984,24 @@ Link para visualizar los [wireframes diagrams](https://overflow.io/s/O6IYMWFP)
 ---
 
 ### 4.4.3. Web Applications Mock-ups.
-A continuación, se muestra el diseño visual de la interacción en formato de mock-ups de nuestra aplicación web.
+Para la implementación de los Mock-ups de las aplicaciones web, se siguieron los principios de diseño, elementos de diseño, diseño inclusivo y arquitectura de información que se planteó en puntos anteriores. El cual implican los siguientes aspectos:
 
-### Sector Empresarial:
+- **Sencillez:** Se utilizó un diseño simple y limpio para que el usuario pueda navegar fácilmente por la aplicación.
 
-***A continuación, se presentan pantallas generales del inicio del programa, registro, etc.***
+- **Consistencia:** Se utilizó un diseño consistente en para mejorar la experiencia de usuario. Esto ayuda a los usuarios a identificar elementos familiares y entender mejor la jerarquía de la información.
+
+- **Jerarquía Visual:** Se utilizó un diseño que permite a los usuarios identificar fácilmente los elementos más importantes de la aplicación. Esto ayuda a los usuarios a comprender mejor la información y a tomar decisiones más rápidas.
+
+- **Feedback:** Se utilizó un diseño que proporciona comentarios visuales a los usuarios para que sepan que sus acciones se han realizado correctamente. Esto ayuda a los usuarios a comprender mejor el sistema y a evitar errores.
+
+- **Diseño Inclusivo:** Se utilizó un diseño que permite a los usuarios personalizar la aplicación según sus necesidades. Esto ayuda a los usuarios a sentirse más cómodos y a disfrutar de una experiencia de usuario más agradable.
+
+- **Accesibilidad:** Se utilizó un diseño que permite a los usuarios acceder a la aplicación desde cualquier dispositivo. Esto ayuda a los usuarios a utilizar la aplicación en cualquier momento y lugar.
+
+
+
+Para el **sector Empresarial** se realizó el diseño que se muestra a continuación:
+
 
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
@@ -2076,7 +2095,7 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
   </tr>
 
 ---
-### Sector CLiente:
+Para el sector del **Cliente** se realizó el diseño que se muestra a continuación:
 
 ***A continuación, se muestra el registro para CLIENTES, con el respectivo código de verificación.***
 
@@ -2166,9 +2185,11 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 Link del [User Flow diagrams](https://overflow.io/s/RV6NU7NK) 
 
-### Segmento objetivo Empresarios:
+**Segmento objetivo Empresarios:**
 
-**User Goal:** Como soy empresario, quiero elegir el sector de empresa y poder registrarme como empresario.
+***User Goal: Como soy empresario, quiero elegir el sector de empresa y poder registrarme como empresario.***
+
+Explicación: El usuario empresario ingresa a la aplicación y elige el sector de empresa, luego se registra como empresario y se le envía un código de verificación para poder ingresar a la aplicación.
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
@@ -2180,6 +2201,8 @@ Link del [User Flow diagrams](https://overflow.io/s/RV6NU7NK)
 
 ***User Goal: Como empresario, quiero iniciar sesión con una cuenta previamente creada.***
 
+Explicación: En caso el usuario ya se haya registrado a nuestro aplicativo, el usuario empresario puede iniciar sesión con su cuenta previamente creada dando click en el botón de iniciar sesión, colocando su correo y contraseña.
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
@@ -2190,6 +2213,8 @@ Link del [User Flow diagrams](https://overflow.io/s/RV6NU7NK)
 
 ***User Goal: Como empresario, ver mis datos en la aplicación.***
 
+Explicación: Entendemos que el usuario empresario desea ver sus datos en la aplicación, por ello, se muestra el nombre del bar, la descripción que el empresario lo haya registrado, la ubicación del bar y el horario de atención.
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
@@ -2199,6 +2224,8 @@ Link del [User Flow diagrams](https://overflow.io/s/RV6NU7NK)
   <br><br>
 
 ***User Goal: Como empresario, deseo buscar al cliente con un respectivo puntaje.***
+
+Explicación: El usuario empresario deberá hacer click en el boton de ver puntos de los clientes, seguidamente, se mostrará una ventana en el que el usuario empresario podrá rellenar los datos de los clientes que desea buscar, por ejemplo, el nombre del cliente, el apellido y el DNI, al hacer click en buscar cliente, se muestra el cliente con su respectivo puntaje. Además, se muestran los productos disponibles que están para dicho cliente, recordemos que los productos disponibles pueden variar de acuerdo a la cantidad de puntos de cada cliente.
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
@@ -2211,6 +2238,8 @@ Link del [User Flow diagrams](https://overflow.io/s/RV6NU7NK)
 
 ***User Goal: Como empresario, deseo registrar un producto en el sistema para poder llevar un control del stock.***
 
+Explicación: Para registrar un producto, el usuario deberá hacer click en el botón de registrar producto, que se encuentra en la parte inferior en el sector de Control de inventario, una vez hecho esto, se mostrará una ventana en la que el usuario deberá rellenar los datos del producto, como por ejemplo, el código del producto, el nombre, la categoría, en caso es Ron, Vino o Whisky, el precio y la cantidad añadida. Al hacer click en registrar producto, se mostrará el producto registrado en el sistema.
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
@@ -2221,6 +2250,8 @@ Link del [User Flow diagrams](https://overflow.io/s/RV6NU7NK)
 
 ***User Goal: Como empresario, deseo buscar un producto en el sistema para poder saber el stock y llevar un control seguro.***
 
+Explicación: Para buscar un producto, el usuario deberá hacer click en el botón de buscar producto, que se encuentra en la parte inferior en el sector de Control de inventario, una vez hecho esto, se mostrará una ventana en la que el usuario deberá rellenar los datos del producto, como por ejemplo, el código del producto, el nombre, la categoría, en caso es Ron, Vino o Whisky, el precio y la cantidad añadida. Al hacer click en buscar producto, se mostrará el producto buscado, con la cantidad en stock, de modo que ayude a llevar un meor control de los productos que se encuentran en el bar.
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
@@ -2229,11 +2260,13 @@ Link del [User Flow diagrams](https://overflow.io/s/RV6NU7NK)
   </tr>
   <br><br>
 
-### Segmento objetivo Usuarios:
+**Segmento objetivo Usuarios:**
 
-Link para visualizar los [wireframes diagrams](https://overflow.io/s/T9LJPXN7)
+Link para visualizar los [Web Application User Flow diagrams.](https://overflow.io/s/T9LJPXN7)
 
 ***User Goal: Como soy cliente consumidor, quiero elegir el sector de cliente y poder registrarme como cliente.***
+
+Explicación: Si el usuario es cliente de un bar, ingresa a la aplicación y elige el sector de cliente, luego se registra como cliente y se le envía un código de verificación para poder ingresar a la aplicación.
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
@@ -2245,6 +2278,8 @@ Link para visualizar los [wireframes diagrams](https://overflow.io/s/T9LJPXN7)
 
 ***User Goal: Como cliente, quiero iniciar sesión con una cuenta previamente creada.***
 
+Explicación: En caso el usuario ya se haya registrado a nuestro aplicativo, el usuario cliente puede iniciar sesión con su cuenta previamente creada dando click en el botón de iniciar sesión, colocando su correo y contraseña, lo que llevará a la pantalla principal del usuario o cliente.
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
@@ -2254,6 +2289,8 @@ Link para visualizar los [wireframes diagrams](https://overflow.io/s/T9LJPXN7)
   <br><br>
 
 ***User Goal: Como cliente, deseo ver mis datos en la aplicación.***
+
+Explicación: Entendemos que el usuario cliente desea ver sus datos en la aplicación, por ello, se muestra el nombre del cliente, el apellido, fecha de nacimiento, el género del cliente y el número de celular. Si el usuario desea cerrar sesión, puede hacerlo dando click en el botón de cerrar sesión, lo que lo llevará a la pantalla de inicio de sesión.
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
@@ -2265,6 +2302,8 @@ Link para visualizar los [wireframes diagrams](https://overflow.io/s/T9LJPXN7)
   
 ***User Goal: Como cliente, deseo elegir en que bar me encuentro para conocer sus ofertas y mi puntaje.***
 
+Explicación: Se mostrará la pantalla principal para que el usuario tenga la libertad de elegir en qué bar se encuentra, en caso seleccione un respectivo bar, lo lleva a otra sección en el que el usuario podrá ver sus puntos y las ofertas de la semana del bar en el que se encuentra. Además, se muestra un botón de canjear productos, en el que el usuario puede canjear los productos que desee de acuerdo a su puntaje acumulado y un boron de ver productos en oferta, en el que podrá ver las ofertas de la semana. En caso el usuario desee cambiar de bar, puede hacerlo dando click en el boton regresar, lo que lo llevará a la pantalla principal para que el usuario pueda elegir otro bar en el que se encuentre.
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
@@ -2274,6 +2313,9 @@ Link para visualizar los [wireframes diagrams](https://overflow.io/s/T9LJPXN7)
   <br><br>
 
 ***User Goal: Como cliente, deseo ver qué productos puedo canjear con respecto a mi puntaje acumulado.***
+
+Explicación: Se muestra la pantalla principal del usuario en el bar respectivo en el que se encuentra, también se muestra una barra, que representa el puntaje acumulado que va teniendo el usuario cliente, en caso el usuario desee canjear un producto, deberá hacer click en el botón de canjear productos, lo que lo llevará a la sección de canjear productos, en el que el usuario podrá ver los productos que puede canjear con respecto a su puntaje acumulado.
+
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
@@ -2285,6 +2327,8 @@ Link para visualizar los [wireframes diagrams](https://overflow.io/s/T9LJPXN7)
 
 ***User Goal: Como cliente, quiero elegir un producto que me guste para canjearlo.***
 
+Explicación: Cuando el cliente se encuentre en la sección canjear productos, se podrá ver los productos que puede canjear con respecto a su puntaje acumulado. Para canjear un producto, deberá hacer click en el producto de su agrado, seguidamente se mostrará el producto con una imagen grande y sus detalles, seguidamente se muestran mensajes de alerta el cual explican al usuario que deberá acercarse al personal del bar para verificar que el canje del producto sea válido, una vez verificado el canje, el usuario puede reclamar su producto, y el puntaje acumulado se reducirá de acuerdo al producto canjeado. Una vez el producto sea canjeado, se mostrará la sección principal del aplicativo.
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
@@ -2294,6 +2338,8 @@ Link para visualizar los [wireframes diagrams](https://overflow.io/s/T9LJPXN7)
   <br><br>
 
 ***User Goal: Como cliente, deseo poder ver las ofertas de la semana del bar.***
+
+Explicación: Para ver las ofertas, se mostrará en la pantalla principal, un botón de ver productos en oferta, en el que el usuario podrá ver las ofertas de la semana del bar en el que se encuentra, al hacer click en el botón de ver productos en oferta, se dirigirá a una sección en el que se muestran los productos en ofertas con su respectivo descuento que el bar ofrece.
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
@@ -2307,16 +2353,16 @@ Link para visualizar los [wireframes diagrams](https://overflow.io/s/T9LJPXN7)
 
 ## 4.5. Web Applications Prototyping.
 
-  Link del [prototipo en Figma](https://www.figma.com/proto/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?page-id=0%3A1&type=design&node-id=18-31&viewport=482%2C573%2C0.23&t=fF9wq2WzqPvgenwU-1&scaling=scale-down&starting-point-node-id=18%3A31&mode=design) 
-
-
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1149832165748654200/Captura_de_pantalla_2023-09-08_172204.png?width=688&height=435"600="" height=""></div>
     </td>
-  </tr>
-  <br><br>
+  </tr><br>
+
+Link del [prototipo en Figma](https://www.figma.com/proto/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?page-id=0%3A1&type=design&node-id=18-31&viewport=482%2C573%2C0.23&t=fF9wq2WzqPvgenwU-1&scaling=scale-down&starting-point-node-id=18%3A31&mode=design)   
+
+Link del video de explicación del [prototipo en Figma](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/ETCf0pqiD-dAisJ0yxKBQSYBlSeYgXx3HWFYcxpUxUMSAw?e=eoQ4LJ)
 
 ## 4.6. Domain-Driven Software Architecture.  
 <div align='justify'>
