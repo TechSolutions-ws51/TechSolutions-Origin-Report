@@ -1585,7 +1585,7 @@ El link del [diseño de escritorio](https://www.figma.com/file/xDKLEzeKlPV6A8uBf
 
   <tr>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155261221919014932/Mobile.jpg?width=335&height=671"width="" height="">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155314365663293440/Section_1.png?width=312&height=625">
       </div>
   </tr>
 <br>
