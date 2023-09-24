@@ -1602,7 +1602,7 @@ Para la elaboración del Mock-up del Landing page tanto para el apartado de escr
 
   <tr>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155264285488975942/Section_1.png">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155322587421888532/desktop-mock-up.png?">
       </div>
   </tr>
 
