@@ -1197,18 +1197,24 @@ tareas para los User Personas previamente definidos.
 <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148291301012414515/image.png">
 </div>
 
-### 2.3.5. As-is Scenario Mapping.
-
+ ### 2.3.5. As-is Scenario Mapping
 <p> En esta sección nuestro equipo elaboró pasos, acciones, pensamiento y sentimientos que los usuarios experimentan al llevar a cabo una tarea. Debido a este As-is Scenario Mapping podremos plantear diversas soluciones a las dudas e inseguridades de la página web. </p>
  
+<p><b>USER:</b></p>
+
 <div align='center'>
-<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148300021247250452/image.png">
+<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148300021247250452/image.png" width="750" height="450">
 </div>
-<br>
 
-Link para ver el [diagrama](https://miro.com/welcomeonboard/U3NQUjU0akhxTDFWSEpQQWhnOTJrbGI3SmZ5WHhJMkRZdk9TYVhEUWt4clV2c1Y1Q1dCNENnZm4ydnVZU1ljN3wzMDc0NDU3MzQ5ODU5ODYyMDI0fDI=?share_link_id=801721059275)
+<p><b>Business:</b></p>
 
-<br><br>
+<div align='center'>
+<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1155109301040468038/image.png" width="750" height="450">
+</div>
+
+<b>Link del diagrama:</b>  
+<p>https://miro.com/app/board/uXjVMiV73GU=/?share_link_id=284038922247
+</p>
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
