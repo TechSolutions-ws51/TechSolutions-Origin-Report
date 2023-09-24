@@ -1,4 +1,12 @@
 # TechSolutions-Origin-Report
+  <tr>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155584159062949959/UPC_logo.png">
+      </div>
+  </tr>
+
+<br>
+
 # Universidad Peruana de Ciencias Aplicadas.
 ### Ingeniería de Software.
 ### Desarrollo de Aplicaciones Open Source.
@@ -1210,11 +1218,10 @@ tareas para los User Personas previamente definidos.
 
 <div align='center'>
 <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1155109301040468038/image.png" width="750" height="450">
-</div>
+</div><br>
 
-<b>Link del diagrama:</b>  
-<p>https://miro.com/app/board/uXjVMiV73GU=/?share_link_id=284038922247
-</p>
+Link del [diagrama](https://miro.com/app/board/uXjVMiV73GU=/?share_link_id=284038922247)
+
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
@@ -1608,13 +1615,14 @@ Para la elaboración del Mock-up del Landing page tanto para el apartado de escr
 
   <tr>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155322587421888532/desktop-mock-up.png?">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155582671615963136/Landing-Page-Mock-up.png">
       </div>
   </tr>
 
 <br>
 
-Link del [figma de escritorio](https://www.figma.com/file/WvBHU5rWPbgabHex3Er6jj/Landing-Page---LoyalSips?type=design&node-id=0%3A1&mode=design&t=E225PHq1IOJ3VIcx-1)
+Link del [figma de escritorio](https://www.figma.com/file/E9eMnYI5CSVV8spAwLQYZq/Landing-Page?type=design&node-id=0%3A1&mode=design&t=WYpKs88LfehNolkz-1)
+
 
 ---
 
@@ -2003,7 +2011,19 @@ Para la implementación de los Mock-ups de las aplicaciones web, se siguieron lo
 
 - **Accesibilidad:** Se utilizó un diseño que permite a los usuarios acceder a la aplicación desde cualquier dispositivo. Esto ayuda a los usuarios a utilizar la aplicación en cualquier momento y lugar.
 
+**Web Application Mock-up para Desktop**
 
+  <tr>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155322587421888532/desktop-mock-up.png?">
+      </div>
+  </tr>
+
+<br>
+
+Link del [figma de escritorio](https://www.figma.com/file/WvBHU5rWPbgabHex3Er6jj/Landing-Page---LoyalSips?type=design&node-id=0%3A1&mode=design&t=E225PHq1IOJ3VIcx-1)
+
+**Web Application Mock-up para Mobile**
 
 Para el **sector Empresarial** se realizó el diseño que se muestra a continuación:
 
@@ -2821,11 +2841,14 @@ Frontend Web Applications.
 ### Gitflow 
 
 Es modelo para la creación de ramas en Git, el cual cumple una función importante el desarrollo del proyecto. Mediante un control de versiones ultilizamos las ramas. Una muestra en imagen de lo mencionado para entender mejor. 
+<br>
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://expressus.io/uploads/beautiful-gitflow-workflow-diagram.png" height="500">
-    </td>
-</tr>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1155394538358186104/gitflow.png">
+    </td></div>
+</tr><br><br>
+
 Entonces, al tener en cuenta el desarrollo del trabajo manteniendo un control de versiones con Gitflow 
 
  
