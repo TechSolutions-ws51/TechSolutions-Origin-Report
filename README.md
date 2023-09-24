@@ -1175,13 +1175,13 @@ tareas para los User Personas previamente definidos.
 <p><b>USER:</b></p>
 
 <div align='center'>
-<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148255516917760000/image.png" alt="LEAN-UX-Canvas" width="750" height="550">
+<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148255516917760000/image.png">
 </div>
 
 <p><b>Business:</b></p>
 
 <div align='center'>
-<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148268084533153792/image.png" alt="LEAN-UX-Canvas" width="750" height="550">
+<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148268084533153792/image.png">
 </div>
 
 
@@ -1190,11 +1190,11 @@ tareas para los User Personas previamente definidos.
 <p> En esta sección el equipo logró elaborar un Empathy Mapping de nuestros usuarios y de los gerentes de los bares. Este análisis nos ayudará a profundizar en la necesidad de los clientes y nuestros gerentes de bares para enfocarnos en nuestros desenfoques y sus necesidades con el aplicativo.</p>
 <p><b>USER:</b></p>
 <div align='center'>
-<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148290909172154368/image.png" width="750" height="550">
+<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148290909172154368/image.png">
 </div>
 <p><b>Business:</b></p>
 <div align='center'>
-<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148291301012414515/image.png" width="750" height="550">
+<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148291301012414515/image.png">
 </div>
 
 ### 2.3.5. As-is Scenario Mapping.
@@ -1202,7 +1202,7 @@ tareas para los User Personas previamente definidos.
 <p> En esta sección nuestro equipo elaboró pasos, acciones, pensamiento y sentimientos que los usuarios experimentan al llevar a cabo una tarea. Debido a este As-is Scenario Mapping podremos plantear diversas soluciones a las dudas e inseguridades de la página web. </p>
  
 <div align='center'>
-<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148300021247250452/image.png" width="750" height="450">
+<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148300021247250452/image.png">
 </div>
 <br>
 
@@ -1217,7 +1217,7 @@ Esta herramiente conocida como To-be Scenario Mapping nos permitió definir las 
 ### Usuario (Cliente): 
 
 <div align='center'>
-<img src="https://media.discordapp.net/attachments/1145898392631918606/1154673174961717328/to-be_-_cliente.png?width=1402&height=625" width="" height="">
+<img src="https://media.discordapp.net/attachments/1145898392631918606/1154673174961717328/to-be_-_cliente.png?">
 </div><br>
 
 Link para ver el [diagrama](https://miro.com/app/board/uXjVO8jKyt8=/?share_link_id=663854831408)
@@ -1227,7 +1227,7 @@ Link para ver el [diagrama](https://miro.com/app/board/uXjVO8jKyt8=/?share_link_
 ### Empresa (Dueño del Bar):
 
 <div align='center'>
-<img src="https://media.discordapp.net/attachments/1145898392631918606/1154673174710071327/to-be_-_empresa.png?width=1409&height=613" width="" height="">
+<img src="https://media.discordapp.net/attachments/1145898392631918606/1154673174710071327/to-be_-_empresa.png?">
 </div><br>
 
 Link para ver el [diagrama](https://miro.com/app/board/uXjVO8jKyt8=/?share_link_id=663854831408)
