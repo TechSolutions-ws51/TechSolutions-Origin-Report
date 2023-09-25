@@ -3460,6 +3460,21 @@ Es un nicho que no cuenta con demasiados competidores que enfoquen a mejorar la 
 
 
 ## Bibliografía
+
+- Drink Go: Pide y paga sin cola - Aplicaciones en Google Play. (n.d.). Retrieved from https://play.google.com/store/apps/details?id=com.ingencode.drinkgo&hl=es&gl=US&pli=1
+
+- TPV con Control de Ventas e Inventario: App y PC. (n.d.). Retrieved from https://www.appkyte.com/
+
+- (N.d.). Retrieved from https://www.yelp.com/
+
+- Java Documentation - Get Started. (2023). Retrieved from https://docs.oracle.com/en/java/
+ 
+- MozDevNet. (n.d.). JavaScript. Retrieved from https://developer.mozilla.org/es/docs/Web/J
+
+- The starting point for learning TypeScript. (n.d.). Retrieved from https://www.typescriptlang.org/docs/
+
+- Java Documentation - Get Started. (2023). Retrieved from https://docs.oracle.com/en/java/
+
 ## Anexos
 <div align="center">Anexos A: Historial de vinculos</div>
 <br>
