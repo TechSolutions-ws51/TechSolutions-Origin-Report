@@ -3522,5 +3522,26 @@ Uxpressiar: https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc
 <a href="https://youtu.be/4NOoDO7oZMk">https://youtu.be/4NOoDO7oZMk</a>
 
 <br>
+
+## Conclusiones
+
+- El equipo ha establecido un sólido sistema de control de versiones utilizando GitHub y ha implementado el flujo de trabajo Gitflow para el desarrollo del proyecto, lo que garantiza a futuro un seguimiento eficiente de las modificaciones.
+
+- Las convenciones de compromisos (commits) con Compromisos Convencionales (Conventional Commits) se han adoptado para mantener una estructura coherente en los registros de cambios.
+
+- Se han establecido pautas y convenciones claras para el desarrollo de código, lo que facilita la colaboración y el mantenimiento del mismo.
+ 
+- La implementación de medidas de seguridad, como la validación de entrada y la prevención de ataques de inyección, es una medida de protección de los datos de los usuarios.
+
+- La automatización del proceso de Deployment con GitHub Actions y la configuración de seguridad en la nube demuestran un despliegue eficiente y seguro de la aplicación. 
+ 
+- Las reuniones de planificación del Sprint y la revisión retrospectiva reflejan una comunicación sólida y una colaboración efectiva dentro del equipo.
+
+- La implementación gradual de la Landing Page y otras secciones de la aplicación en sprints sucesivos muestra un enfoque centrado en la entrega incremental de funcionalidades.
+
+- El desarrollo de secciones como "About Us," "Services," "Reviews," y "Contacts" demuestra un compromiso con proporcionar una experiencia de usuario completa y atractiva.
+
+
+
 </div>
 </div>
