@@ -2414,7 +2414,7 @@ Sobre Software Architecture Container Diagrams, son representaciones visuales qu
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150053277724053534/structurizr-Container-001_2.png"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155988320766136320/Container.png"></div>
     </td>
   </tr>
 
@@ -2422,27 +2422,38 @@ Sobre Software Architecture Container Diagrams, son representaciones visuales qu
 
 Con respecto a Software Architecture Components Diagrams, son representaciones visuales que ilustran cómo los sistemas de software se componen en diferentes módulos o componentes, mostrando las relaciones y dependencias entre ellos. 
 
-**Api Aplication:**  
 
-  <tr>
+  **Payment Bounded Context:** 
+    <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150098538810847333/structurizr-Component-001_1.png"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155988320183140362/Payment_Bounded_Context.png"></div>
     </td>
   </tr>
-<br>
-<br>
 
-  **Landing Page:** 
-  
-  **Mobile App:** 
+  **Personal Data Bounded Context:** 
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155988320451571762/Personal_Data_Bounded_Context.png"></div>
+    </td>
+  </tr>
 
-  **Web Aplication:**  
+  **Access Bounded Context:**  
 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150102558770212994/structurizr-Component-001_2.png"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155988321118466149/Access_Content_Bounded_Context_1.png"></div>
+    </td>
+  </tr>
+
+  **User Operation Bounded Context:**  
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155988321420447825/Access_Content_Bounded_Context_2.png"></div>
     </td>
   </tr>
 
