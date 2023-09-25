@@ -3479,17 +3479,26 @@ Es un nicho que no cuenta con demasiados competidores que enfoquen a mejorar la 
 <div align="center">Anexos A: Historial de vinculos</div>
 <br>
 
-1. Github: https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report.git 
-2. Link del Canvas: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1 
-3. Link del Lean Ux Canva: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1
-4. Link de Miro: https://miro.com/welcomeonboard/Mk5wZzhZdGppbjl0Y0VZWllDeWtlZ3g3emt6R1NvTHhqdDJ5dUt6MGNoYWRORm5GTHpyNTZOa3paSVRpZ1hJeXwzMDc0NDU3MzU3MTA0ODcyOTA0fDI=?share_link_id=659519633230 
+- Github: https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report.git 
+- Link del Canvas: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1 
+
+- Link del Lean Ux Canva: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1
+- Link de Miro: https://miro.com/welcomeonboard/Mk5wZzhZdGppbjl0Y0VZWllDeWtlZ3g3emt6R1NvTHhqdDJ5dUt6MGNoYWRORm5GTHpyNTZOa3paSVRpZ1hJeXwzMDc0NDU3MzU3MTA0ODcyOTA0fDI=?share_link_id=659519633230 
 Uxpressiar: https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc 
-5. El link del apartado de escritorio: https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=317-2245&mode=design&t=V3E4RrnPyXstUB4s-0 
-6. Link del figma móvil: https://www.figma.com/file/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?type=design&node-id=0%3A1&mode=design&t=qizxCWqTKyWhjUIy-1 
-7. Link del figma de escritorio: https://www.figma.com/file/WvBHU5rWPbgabHex3Er6jj/Landing-Page---LoyalSips?type=design&node-id=0%3A1&mode=design&t=E225PHq1IOJ3VIcx-1
-8. Link para visualizar los wireframes diagrams: https://overflow.io/s/O6IYMWFP
-9. El link del user Flow diagrams es el siguiente: https://overflow.io/s/RV6NU7NK 
-10. Link del prototipo en Figma: https://www.figma.com/proto/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?page-id=0%3A1&type=design&node-id=18-31&viewport=482%2C573%2C0.23&t=fF9wq2WzqPvgenwU-1&scaling=scale-down&starting-point-node-id=18%3A31&mode=design 
+- Link del As-is Scenario Mapping: https://miro.com/app/board/uXjVMiV73GU=/?share_link_id=284038922247
+- Link para ver el To-Be Scenario Mapping Usuario : https://miro.com/app/board/uXjVO8jKyt8=/?share_link_id=663854831408
+- Link para ver el To-Be Scenario Mapping Empresa: https://miro.com/app/board/uXjVO8jKyt8=/?share_link_id=663854831408
+- Link de Cliente Uxpressia: https://media.discordapp.net/attachments/1145898392631918606/1155294187726586016/user.png
+- Link de Administrador Uxpressia: https://media.discordapp.net/attachments/1145898392631918606/1155293546316824616/2.png
+- El link del diseño de Landing Page Wireframes escritorio: https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?- type=design&node-id=397%3A3611&mode=design&t=jL9xPnI96j5KRImq-1
+- Link del Diseño Movil: https://www.figma.com/file/N8EmdAUWapHigf4Lk8sGHr/Web-Application-Wireframes?type=design&node-id=0%3A1&mode=design&- t=DfFWWAqT7hgXSXLE-1
+- Link para visualizar los wireframes diagrams: https://overflow.io/s/O6IYMWFP
+- Link del User Flow diagrams: https://overflow.io/s/RV6NU7NK
+- Link para visualizar los Web Application User Flow diagrams: https://overflow.io/s/T9LJPXN7
+- Link del prototipo en Figma: https://www.figma.com/proto/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?page-id=0%3A1&type=design&node-id=18-31&viewport=482%2C573%2C0.23&t=fF9wq2WzqPvgenwU-1&scaling=scale-down&starting-point-node-id=18%3A31&mode=design 
+- Link del video de explicación del prototipo en Figma: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/ETCf0pqiD-dAisJ0yxKBQSYBlSeYgXx3HWFYcxpUxUMSAw?e=eoQ4LJ
+- Link del diagrama de clases: https://lucid.app/lucidchart/daf95998-1760-461d-abfe-2fd30bc0bc28/edit?viewport_loc=-1193%2C-1766%2C2720%2C1316%2C0_0&invitationId=inv_8697997e-4a61-48df-a95e-8ec0a8e8f9bf
+- Link del diagrama de base de datos : https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS
 
 <br> 
 
