@@ -3776,6 +3776,53 @@ Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Lan
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 
+En el sprint 2, se logró implementar la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales, este apartado se realizó respetando los principios de diseño que se presentaron en el Diseño de Figma, además se tuvo en cuenta la experiencia de usuario para que el usuario pueda interactuar de manera intuitiva con el Web Application. A continuación se muestran algunas evidencias de lo mencionado.
+
+1. Se muestra la sección de **Home**, en el cual el usuario podrá observar el menú de opciones y podrá interactuar con ello.
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+    </td>
+  </tr><br>
+
+  2. Se muestra la sección de **About**, en el cual el usuario podrá observar la información acerca de la empresa.
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+    </td>
+  </tr><br>
+
+  3. Se muestra la sección de **Contact**, en el cual el usuario podrá observar la información de contacto de la empresa.
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+    </td>
+</tr><br>
+
+4. Se muestra la sección de **Services**, en el cual el usuario podrá observar los servicios que ofrece la empresa.
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+    </td>
+</tr><br>
+
+5. Se muestra la sección de **Support**, en el cual el usuario podrá observar los servicios de soporte que ofrece la empresa.
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+    </td>
+</tr><br>
+
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
