@@ -3406,6 +3406,13 @@ Para la entrega del Sprint 1, se tuvo pensado alcanzar el desarrollo completo de
 | Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
 | [LoyalSips-LandingPage](https://github.com/IsaacAmp24/LoyalSips-LandingPage.git) | Feature/TS-LandingPage | feature:home-section add     | Initial commit | Se creó el proyecto | 08/09/2023|
+
+<br>
+
+| Landing Page Desplegada                                          |[Landing Page Loyal Sips](https://isaacamp24.github.io/LoyalSips-LandingPage/Archivos/)                | 
+|---------------------|---------------------|
+
+
 <br>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
@@ -3563,7 +3570,7 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 </tr>
 </table>
 
-#### 5.2.2.1. Sprint Backlog 2
+#### 5.2.2.2. Sprint Backlog 2
 
 <div align='justify'>
 <p>Para el caso de lo que se llevó a cabo en el desarrollo de la aplicación web de “LilSyps”, se optó por fraccionar el proyecto en 4 <em>sprints</em>, de los cuales, en esta oportunidad, nos logramos ubicar en el <em>sprint 2</em>. Este mismo tuvo una duración de 2 semanas de lo cual comenzó el día 20 de septiembre del año 2023 y, como principal objetivo, se planteó elaborar una actualización al <em>landing page</em> para que logré ser más vistosa y ofrezca de manera más clarividente los servicios que nuestro <strong>“startup”</strong> ofrece. Aparte de eso, se estableció el comienzo de la elaboración de nuestra aplicación web para que cumpla tanto con los puntos de funcionalidad y atractividad visual – logrando cumplir con las perspectivas de nuestros clientes y stakeholders interesados -.</p>
@@ -3749,6 +3756,22 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
 </tr>
 </table>
+
+#### 5.2.2.3.Development Evidence for Sprint Review.
+
+
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+#### 
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
