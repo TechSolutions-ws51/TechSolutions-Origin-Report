@@ -3261,15 +3261,17 @@ Es asi como nosotros verificamos el cambio en la linea de trabajo:
 #### 5.2.1.2. Sprint Backlog 1.
 
 <div align='justify'> 
-<p>En esta sección, se mostrará como evidencia fotográfica y, mediante una visón más panoramica, se mostrará de forma estrucural un cuadro donde se detallará más aprofundidad de lo que se desarrolló para este primer entregable <em>(Sprint)</em> que se tuvo previsto para esta entrega.</p>
+<p>Para el desarrollo de este primer <em>sprint</em>, el <strong>Scrum Team</strong> comenzó a elaborar la primera versión del <em>Landing Page</em>; por lo que, para gestionar las actividades que cada uno le correspondería desarrollar, se elaboró un tablero <strong>Kanban</strong> mediante la herramienta <em>Trello</em>, permitiendonos conocer como iba el avace a través del sprint. Principalmente el enfoque principal, era mostrar el aspecto funcional y atractividad visual para lograr transmitir a nuestros <em>customers</em> el verdadero enfoque del rumbo que toma nuestro <strong>Startup</strong>; sin embargo, debido al tiempo en el cual nos veniamos encontrando, se elaboró solo algunos aspectos y puntos prioritarios para al menos lograr presentar este primer avance.</p>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://media.discordapp.net/attachments/892430247042105427/1156296611106918471/473158b9-a4e2-4485-a43d-6bd732f0d521.png?ex=651474a3&is=65132323&hm=2bab0d6f54ab45db2db0a6f9e19ab46ac4c6108eab3e74a914ec8b73614d9d32&=&width=1242&height=564" alt="Sprint-Backlog1-Image" style="width:600px;height:auto;">
 </div>
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/892430247042105427/1153807855690973314/image.png?width=1266&height=564" alt="Sprint-Backlog1-Image" style="width:600px;height:auto;">
-</div>
-
-<div align="center">
-<p><strong>Link del Jira - Modelo Kanban:</strong> <a href="https://loya1sips.atlassian.net/jira/software/projects/EXPOINTBAR/boards/1">https://loya1sips.atlassian.net/jira/software/projects/EXPOINTBAR/boards/1</a></p>
+<p><strong>Link del Trello:</strong> <a href="https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps">https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps</a></p>
 </div>
 
 <br>
