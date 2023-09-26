@@ -1385,19 +1385,49 @@ Link de Administrador [Uxpressia](https://media.discordapp.net/attachments/11458
 ## 3.4. Product Backlog.
 
 <br><br>
-| <div align='center'> Orden | <div align='center'> User Story ID | <div align='center'> Descripción | <div align='center'> Story Points |
-|-------|--------------|-------------|--------------|
-| 3     | HU03         | Entrar a la página como invitado: Como usuario del servicio web, quiero una sección de entrar como invitado para la que no sea necesario la creación de cuenta. | <div align='center'> 3 |
-| 7     | HU07         | Eliminar mi Bar: Como usuario del servicio web, quiero eliminar mi bar registrado para que los clientes ya no miren el servicio. | <div align='center'> 3 |
-| 1     | HU01         | Crear cuenta común: Como usuario del servicio web, quiero una sección de creación de cuenta para tener y acceder con una cuenta propia. |<div align='center'> 5 |
-| 2     | HU02         | Crear cuenta con otras plataformas: Como usuario del servicio web, quiero una sección de diversos métodos para la creación de cuenta. | <div align='center'>5 |
-| 5     | HU05         | Añadir bar: Como usuario del servicio web, quiero registrar mi bar para que los clientes puedan interactuar con él. |<div align='center'> 5 |
-| 6     | HU06         | Modificar mi Bar: Como usuario del servicio web, quiero modificar datos de su bar para que los clientes puedan tener los datos actualizados. | <div align='center'>5 |
-| 8     | HU08         | Mostrar mesas disponibles: Como usuario del servicio web, quiero ver las mesas disponibles en los bares para poder reservar y no perder tiempo en la espera de alguna. | <div align='center'>5 |
-| 9     | HU09         | Reservar mesas: Como usuario del servicio web, quiero reservar el bar vía online y rápido para no perder tanto tiempo. | <div align='center'>5 |
-| 4     | HU04         | Catálogo de Bares: Como usuario del servicio web, quiero una sección de catálogos de bares que cuentan con diversos filtros para poder seleccionar con facilidad los bares cercanos, por el costo u otros. | <div align='center'>8 |
-| 10    | HU10         | Almacén de los productos: Como usuario del servicio web, quiero tener un centro de datos de mis productos del bar en tiempo real para mantener los stock de todos los productos y poder organizarlo mejor. | <div align='center'>8 |
-| 11    | HU11         | Administrar los productos: Como usuario del servicio web, quiero administrar todos los movimientos de mis productos para así poder supervisar mejor y más rápido la parte administrativa. | <div align='center'>8 |
+| <div align='center'> Orden | <div align='center'> User Story ID | <div align='center'> Descripción | <div align='center'> Story Points | 
+|---------|---------------|--------------------------------------------------------|------------------------|
+| 1       | US-002        | Promociones y Ofertas                                  | <div align='center'> 3 |
+| 2       | US-003        | Registro de Usuarios Nuevos                            | <div align='center'> 3 |
+| 3       | US-004        | Exploración de Eventos Pasados                         | <div align='center'> 3 |
+| 4       | US-005        | Testimonios de Clientes                                | <div align='center'> 3 |
+| 5       | US-006        | Información de Contacto                                | <div align='center'> 3 |
+| 6       | US-008        | Ubicación en el Mapa                                   | <div align='center'> 3 |
+| 7       | US-014        | Exploración de Testimonios                             | <div align='center'> 3 |
+| 8       | US01          | Combinación de Estilos en la Estética                  | <div align='center'> 3 |
+| 9       | US02          | Estrategia de Marketing Digital                        | <div align='center'> 3 |
+| 10      | US13          | Tendencias Actuales en la Industria                    | <div align='center'> 3 |
+| 11      | US-010        | Accesibilidad Móvil                                    | <div align='center'> 3 |
+| 12      | EPIC-018      | Información de Contacto                                | <div align='center'> 3 |
+| 13      | EPIC-019      | Testimonios y Reseñas                                  | <div align='center'> 3 |
+| 14      | US03          | Promociones para Clientes Registrados                  | <div align='center'> 3 |
+| 15      | US04          | Sistema de Acumulación de Puntos                       | <div align='center'> 5 |
+| 16      | US05          | Mejora del Proceso de Toma de Pedidos                  | <div align='center'> 5 |
+| 17      | US08          | Seguimiento de la Satisfacción del Cliente             | <div align='center'> 5 |
+| 18      | US11          | Segmentación de Clientes                               | <div align='center'> 5 |
+| 19      | US12          | Programa de Fidelización de Clientes                   | <div align='center'> 5 |
+| 20      | EPIC-016      | Navegación Intuitiva                                   | <div align='center'> 5 |
+| 21      | EPIC-017      | Contenido Atractivo                                    | <div align='center'> 5 |
+| 22      | US09          | Análisis del Comportamiento de Gasto                   | <div align='center'> 5 |
+| 23      | US10          | Adaptación del Menú y Oferta de Bebidas                | <div align='center'> 5 |
+| 24      | EPIC-022      | Experiencia Responsiva                                 | <div align='center'> 5 |
+| 25      | US-001        | Página Principal Atractiva                             | <div align='center'> 5 |
+| 26      | US-007        | Exploración del Menú                                   | <div align='center'> 5 |
+| 27      | US-009        | Noticias y Eventos Futuros                             | <div align='center'> 5 |
+| 28      | US-013        | Experiencia en Dispositivos Móviles                    | <div align='center'> 5 |
+| 29      | EPIC-020      | Mejora de la Experiencia del Cliente                   | <div align='center'> 8 |
+| 30      | EPIC-021      | Acceso a Redes Sociales                                | <div align='center'> 8 |
+| 31      | EPIC-023      | Idiomas Adicionales                                    | <div align='center'> 8 |
+| 32      | EPIC-024      | Política de Privacidad                                 | <div align='center'> 8 |
+| 33      | US-015        | Información de Reservas                                | <div align='center'> 5 |
+| 34      | EPIC02        | Mejora de la Experiencia del Cliente                   | <div align='center'> 8 |
+| 35      | US06          | Sistema de Gestión de Inventarios                      | <div align='center'> 8 |
+| 36      | EPIC03        | Análisis y Seguimiento                                 | <div align='center'> 8 |
+| 37      | EPIC04        | Fidelización de Clientes y Segmentación                | <div align='center'> 8 |
+| 38      | US-012        | Sistema de Gestión de Inventarios                      | <div align='center'> 8 |
+| 39      | EPIC01        | Estrategias de Marketing y Promoción                   | <div align='center'> 8 |
+ 
+
 
 <br><br>
 
