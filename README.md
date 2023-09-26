@@ -3563,6 +3563,193 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 </tr>
 </table>
 
+#### 5.2.2.1. Sprint Backlog 2
+
+<div align='justify'>
+<p>Para el caso de lo que se llevó a cabo en el desarrollo de la aplicación web de “LilSyps”, se optó por fraccionar el proyecto en 4 <em>sprints</em>, de los cuales, en esta oportunidad, nos logramos ubicar en el <em>sprint 2</em>. Este mismo tuvo una duración de 2 semanas de lo cual comenzó el día 20 de septiembre del año 2023 y, como principal objetivo, se planteó elaborar una actualización al <em>landing page</em> para que logré ser más vistosa y ofrezca de manera más clarividente los servicios que nuestro <strong>“startup”</strong> ofrece. Aparte de eso, se estableció el comienzo de la elaboración de nuestra aplicación web para que cumpla tanto con los puntos de funcionalidad y atractividad visual – logrando cumplir con las perspectivas de nuestros clientes y stakeholders interesados -.</p>
+</div>
+
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint #</th>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 2</td>
+</tr>
+<tr>
+ <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">User Story</th>
+ <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Work Item / Task</th>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ID</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Title</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ID</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Title</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Description</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Estimation (hours)</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Assigned To</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Status (To Do / In - process / To - review / Done)</th>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US10</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Accesibilidad Móvil</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA01</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Visualización responsive del landing page en dispositivos móviles<em>header</em></td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Permite acoplar de manera adecuada el contenido del landing page en dispositivos móviles</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US13</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Experiencia en dispositivos Móviles</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA02</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Adecuación de elementos del landing page para móviles</em></td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Acoplar el tamaño adecuado para dispositivos móviles</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Huamani Sánchez, José Diego</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US14</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Exploración de testimonios</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA03</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Apartado de visualización de los comentarios de las personas</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Permitirá a los usuarios verificar los comentarios que dejen los clientes en referencia a la atención de nuestro startup</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US16</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Navegación intuitiva</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA04</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Menú de navegación</em></td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Permitirá a los usuarios interactuar con el menú de navegación</em></td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA05</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Redacción del encabezado y el slogan</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Define el propósito de lo que ofrecerá nuestro startup</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA06</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Botón de interacción</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Iniciará las interacciones para que conozca de todos los servicios que logra ofrecer nuestra página web</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA07</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Creación de los cards para adecuar el contenido</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Espacios donde se acomodará la información e imágenes</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Huamani Sánchez, José Diego</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA08</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripción acerca del startup</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Narra la descripción del propósito que logra ofrecer nuestro startup con los clientes</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Huamani Sánchez, José Diego</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA09</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Creación del header</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Espacio de interacción con los elementos para direccionarse a otra parte de la página</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US17</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Contenido Atractivo</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA10</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Agregación de interacciones</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Permite que los elementos que se proyecten tengan una visibilidad más agradable ante cada acción</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA11</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Colocación de imágenes representativas al startup</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ejemplificación de los sucesos representativos de nuestro startup</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA12</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Agregación de los colores representativos al startup</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Adecuar los colores representativos del startup para una mejor visibilidad</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US18</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Información de contacto</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA13</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripción del apartado de “contacto”</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Narrar el contenido de lo que ofrece el apartado de contacto</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA14</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Generar formularios para digitar datos del usuario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Espacios para que los usuarios logren concretar sus datos y soliciten ayuda de alguien de soporte para los ayude</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA15</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Botón de confirmación de datos</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Valida la confirmación de sus datos y procede a enviarlos</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US22</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Experiencia Responsiva</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA16</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Adecuación de los elementos a dispositivos móviles</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Enfoca de manera más óptima los elementos en el Web Application</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+</table>
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 
