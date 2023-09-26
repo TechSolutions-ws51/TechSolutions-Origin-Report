@@ -1510,24 +1510,32 @@ fácil identificación para los usuarios. Tenemos:
     <th style="text-align: justify;"><strong>Abrir el sitio Web</strong></th>
   </tr>
   <tr>
+    <td style="text-align: justify;"><strong>Home</strong></td>
+    <td style="text-align: justify;">Dicha etiqueta, permite al usuario tener la facilidad de retornar a la interfaz principal de nuestro <em>“Landing Page”</em> – convirtiéndolo en una experiencia dinámica y agradable -.</td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Services</strong></td>
+    <td style="text-align: justify;">Dicha etiqueta, permite a los usuarios indagar un poco más acerca de los servicios que ofrecemos en relación a los que se registran tanto como <strong>“customers”</strong> o como <strong>“Bars”</strong>; dando así un panorama mayor acerca de los beneficios y funcionalidades que uno tendrá cada uno según el rol en el cual se registre.</td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Contact</strong></td>
+    <td style="text-align: justify;">Tiene como finalidad ofrecer la funcionalidad de brindar apoyo a cada uno de nuestros usuarios por medio de un miembro soporte que lo contactará para resolver la problemática que este presentando en la navegación.</td>
+  </tr>
+    <tr>
+    <td style="text-align: justify;"><strong>About us</strong></td>
+    <td style="text-align: justify;">Apartado enfocado en la descripción de nuestro startup así como especificación de la funcionalidad y propósitos que queremos lograr a futuro con nuestros usuarios. </td>
+  </tr>
+    <tr>
+    <td style="text-align: justify;"><strong>Review</strong></td>
+    <td style="text-align: justify;">Apartado donde el usuario podrá visualizar las valoraciones y comentarios que dejan otros usuarios en relación a nuestro startup.</td>
+  </tr>
+  <tr>
     <td style="text-align: justify;"><strong>Login</strong></td>
-    <td style="text-align: justify;">El empresario se registra como empresario y se muestra una interfaz distinta a la del usuario</td>
+    <td style="text-align: justify;">Es la etiqueta que permite al usuario solicitar sus datos – principalmente su correo electrónico y su respectiva contraseña – para su posterior navegación.</td>
   </tr>
   <tr>
-    <td style="text-align: justify;"><strong>Reservacion de mesas</strong></td>
-    <td style="text-align: justify;">“Que satisfacción ingresar a un sitio web de manera rápida”</td>
-  </tr>
-  <tr>
-    <td style="text-align: justify;"><strong>Ofertas de bebidas</strong></td>
-    <td style="text-align: justify;">Siente satisfacción porque puede observar los clientes asociados al sitio web de forma entendible. </td>
-  </tr>
-    <tr>
-    <td style="text-align: justify;"><strong>Bebidas mas compradas</strong></td>
-    <td style="text-align: justify;">Siente satisfacción porque puede observar los clientes asociados al sitio web de forma entendible. </td>
-  </tr>
-    <tr>
-    <td style="text-align: justify;"><strong>Registro de compras</strong></td>
-    <td style="text-align: justify;">Siente satisfacción porque puede observar los clientes asociados al sitio web de forma entendible. </td>
+    <td style="text-align: justify;"><strong>Sign up</strong></td>
+    <td style="text-align: justify;">Permite solicitar la información relevante del usuario que se va registrar; principalmente, estos vendrían a ser: nombre, apellido, email, fecha de nacimiento, genero, teléfono y DNI.</td>
   </tr>
 </table>
 
