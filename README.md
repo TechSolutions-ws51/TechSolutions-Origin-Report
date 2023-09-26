@@ -3762,7 +3762,20 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
+Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se tuvo pensado la creación de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop.
+
+| Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
+| [LoyalSips-Web-Application](https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips.git) | Feature/TS-Web-Application | feature:home-section add     | Initial commit | Se creó el proyecto | 25/09/2023|
+
+<br>
+
+| Web Application Desplegada                                          |[Web Application Loyal-Sips]()                | 
+|---------------------|---------------------|
+
+
 #### 5.2.2.5.Execution Evidence for Sprint Review.
+
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
