@@ -3261,7 +3261,7 @@ Es asi como nosotros verificamos el cambio en la linea de trabajo:
 #### 5.2.1.2. Sprint Backlog 1.
 
 <div align='justify'> 
-<p>Para el desarrollo de este primer <em>sprint</em>, el <strong>Scrum Team</strong> comenzó a elaborar la primera versión del <em>Landing Page</em>; por lo que, para gestionar las actividades que cada uno le correspondería desarrollar, se elaboró un tablero <strong>Kanban</strong> mediante la herramienta <em>Trello</em>, permitiendonos conocer como iba el avace a través del sprint. Principalmente el enfoque principal, era mostrar el aspecto funcional y atractividad visual para lograr transmitir a nuestros <em>customers</em> el verdadero enfoque del rumbo que toma nuestro <strong>Startup</strong>; sin embargo, debido al tiempo en el cual nos veniamos encontrando, se elaboró solo algunos aspectos y puntos prioritarios para al menos lograr presentar este primer avance.</p>
+<p>Para el desarrollo de este primer <em>sprint</em>, el <strong>Scrum Team</strong>, comenzó a elaborar la primera versión del <em>Landing Page</em>; por lo que, para gestionar las actividades que cada uno le correspondería desarrollar, se elaboró un tablero <strong>Kanban</strong> mediante la herramienta <em>Trello</em>, permitiendonos conocer como iba el avace a través del sprint. Principalmente el enfoque principal, era mostrar el aspecto funcional y atractividad visual para lograr transmitir a nuestros <em>customers</em> el verdadero enfoque del rumbo que toma nuestro <strong>Startup</strong>; sin embargo, debido al tiempo en el cual nos veniamos encontrando, se elaboró solo algunos aspectos y puntos prioritarios para al menos lograr presentar este primer avance.</p>
 </div>
 
 <br>
