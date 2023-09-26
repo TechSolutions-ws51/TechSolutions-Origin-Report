@@ -1309,16 +1309,44 @@ Link para ver el [diagrama](https://miro.com/app/board/uXjVO8jKyt8=/?share_link_
 
 | Technical Story ID | Título                                      | Descripción                                                |
 |--------------------|---------------------------------------------|------------------------------------------------------------|
-| Technical Story 1  | Configuración del Entorno de Desarrollo     | Como desarrollador, necesito configurar un entorno de desarrollo adecuado para trabajar en el proyecto del RESTful API de LOYALSIPS. |
-| Technical Story 2  | Implementación de la Ruta de Registro de Usuarios | Como desarrollador, debo implementar una ruta de API que permita a los usuarios registrarse en LOYALSIPS y obtener un código de descuento automáticamente. |
-| Technical Story 3  | Desarrollo de la Ruta para Consultar Testimonios de Clientes | Como desarrollador, necesito desarrollar una ruta de API que permita a los clientes consultar testimonios verificables de clientes satisfechos en LOYALSIPS. |
-| Technical Story 4  | Implementación de la Ruta para Obtener Imágenes de Eventos Pasados | Como desarrollador, debo implementar una ruta de API que permita a los clientes obtener imágenes de eventos pasados en LOYALSIPS. |
-| Technical Story 5  | Creación de la Ruta para Obtener Testimonios de Clientes | Como desarrollador, necesito crear una ruta de API para obtener testimonios de clientes satisfechos en LOYALSIPS. |
-| Technical Story 6  | Configuración del Entorno de Pruebas Automatizadas | Como desarrollador, debo configurar un entorno de pruebas automatizadas para garantizar la calidad del código del RESTful API de LOYALSIPS. |
-| Technical Story 7  | Implementación de Autenticación de Usuarios | Como desarrollador, debo implementar la autenticación de usuarios para permitir el acceso a rutas protegidas en LOYALSIPS. |
-| Technical Story 8  | Diseño de la Base de Datos para Usuarios y Testimonios | Como desarrollador, necesito diseñar la estructura de la base de datos para gestionar usuarios y testimonios en LOYALSIPS. |
-| Technical Story 9  | Implementación del Sistema de Notificaciones por Correo Electrónico | Como desarrollador, debo implementar un sistema de notificaciones por correo electrónico para enviar confirmaciones y alertas a los usuarios de LOYALSIPS. |
-| Technical Story 10 | Configuración de Seguridad y Encriptación de Datos Sensibles | Como desarrollador, debo configurar medidas de seguridad y encriptación para proteger los datos sensibles manejados por el RESTful API de LOYALSIPS. |
+| Technical Story 1  | Configuración de Imágenes de Alta Calidad | Configurar imágenes de alta calidad en la página principal. |
+| Technical Story 2  | Diseño Responsivo | Hacer que la página principal sea responsive y se ajuste a diferentes tamaños de pantalla. |
+| Technical Story 3  | Registro de Usuarios	 | Implementar el registro de usuarios y la generación automática de códigos de descuento. |
+| Technical Story 4  | Exploración de Eventos Pasados	 | Configurar la sección de eventos pasados con imágenes atractivas y descripciones detalladas.|
+| Technical Story 5  | Implementación de Testimonios	 | Crear un sistema para mostrar testimonios verificables y permitir a los clientes enviar sus propios testimonios.|
+| Technical Story 6  | Configuración de Información de Contacto	 | Agregar un formulario de contacto y un número de teléfono con funcionalidad de llamada directa. |
+| Technical Story 7  | Menú de Bebidas y Alimentos	 | Configurar la sección de menú con imágenes atractivas y opciones de filtrado. |
+| Technical Story 8  | Integración de Mapa	 | Incorporar un mapa interactivo con la ubicación exacta de LOYALSIPS. |
+| Technical Story 9  | Noticias y Eventos Futuros	 | Configurar la sección de noticias y eventos futuros con fechas y descripciones. |
+| Technical Story 10 | Experiencia Móvil Fluida	 | Optimizar la experiencia en dispositivos móviles y tabletas. | 
+| Technical Story 11 | Ofertas en Fechas Especiales	 | Configurar la sección de ofertas especiales con detalles actualizados según la temporada o evento. | 
+| Technical Story 12 | Sistema de Gestión de Inventarios	 | Desarrollar un sistema de gestión de inventarios en tiempo real. | 
+| Technical Story 13 | Navegación Intuitiva	 | Asegurarse de que la navegación sea clara y rápida en todo el sitio web. | 
+| Technical Story 14 | Contenido Atractivo	 | Crear contenido atractivo y relevante en la Landing Page. | 
+| Technical Story 15 | Enlace de Contacto	 | Configurar el enlace de contacto para llevar a la página de contacto con formulario y mapa. | 
+| Technical Story 16 | Visualización de Testimonios	 | Configurar la sección de testimonios para mostrar testimonios con nombres y fechas. | 
+| Technical Story 17 | Sección de Promociones	 | Configurar la sección de promociones para mostrar detalles y enlaces a ofertas. | 
+| Technical Story 18 | Enlaces a Redes Sociales	 | Agregar enlaces claros a las redes sociales de LOYALSIPS. | 
+| Technical Story 19 | Experiencia Responsiva	 | Asegurarse de que la Landing Page sea completamente responsiva. | 
+| Technical Story 20 | Opción de Cambio de Idioma	 | Agregar un menú desplegable para cambiar el idioma del sitio web. |  
+| Technical Story 21 | Acceso a Política de Privacidad	 | Configurar un enlace a la página de política de privacidad y describir la política de recopilación de datos. |  
+| Technical Story 22 | Estrategias de Marketing	 | Desarrollar estrategias de marketing y promoción para atraer y retener clientes en el bar. |  
+| Technical Story 23 | Combinación de Estilos en la Estética	 | Implementar estrategias de marketing que combinen elementos vintage y modernos en la estética del bar. |  
+| Technical Story 24 | Estrategia de Marketing Digital	 | Crear una estrategia de marketing digital centrada en las redes sociales. |  
+| Technical Story 25 | Promociones para Clientes Registrados	 | Agregar un apartado en el sitio web que ofrezca promociones especiales a los clientes registrados. |  
+| Technical Story 26 | Mejora de la Experiencia del Cliente	 | Mejorar la experiencia del cliente en el bar, basado en los comentarios y sugerencias recopilados. |  
+| Technical Story 27 | Sistema de Acumulación de Puntos	 | Implementar un sistema de acumulación de puntos para fomentar la lealtad de los clientes. |  
+| Technical Story 28 | Mejora del Proceso de Toma de Pedidos	 | Mejorar el proceso de toma de pedidos en el establecimiento. |  
+| Technical Story 29 | Sistema de Gestión de Inventarios	 | Desarrollar un sistema de gestión de inventarios fácil y dinámico de usar. |  
+| Technical Story 30 | Sitio Web Multiplataforma y Soporte	 | Hacer que el sitio web sea multiplataforma y añadir un apartado de soporte para resolver problemas de los usuarios. |    
+| Technical Story 31 | Análisis y Seguimiento	 | Realizar análisis y seguimiento de la operación del bar, incluyendo satisfacción del cliente, comportamiento de gasto y preferencias de bebidas. |  
+| Technical Story 32 | Seguimiento de la Satisfacción del Cliente	 | Necesito realizar un seguimiento de la satisfacción del cliente y lograr un aumento del 12.8% en comentarios positivos en comparación con la competencia. |  
+| Technical Story 33 | Análisis del Comportamiento de Gasto	 | Analizar el comportamiento de gasto de los clientes en función de la hora del día y los días de la semana. |  
+| Technical Story 34 | Adaptación del Menú y Oferta de Bebidas	 | Adaptar el menú y la oferta de bebidas en función de las preferencias de los clientes. |  
+| Technical Story 35 | Segmentación de Clientes	 | Segmentar a los clientes por frecuencia de visita y preferencias de bebidas para personalizar promociones. |  
+| Technical Story 36 | Programa de Fidelización de Clientes	 | Implementar un programa de fidelización de clientes a través de acumulación de puntos. |  
+| Technical Story 37 | Tendencias Actuales en la Industria	 | Estar al tanto de las tendencias actuales en la industria de bares, especialmente en la combinación de elementos vintage y modernos, para mantenerse competitivos. |
+ 
 
 
 
