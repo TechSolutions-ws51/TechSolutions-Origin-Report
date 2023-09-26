@@ -3555,11 +3555,11 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 2 Velocity</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este <em>sprint</em>, el <strong>“Scrum Developer Team”</strong> llegó a un acuerdo en aceptar sin ningún altercado un enfoque de 26 <em>story points</em> para este <em>Sprint 2.</em></td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este <em>sprint</em>, el <strong>“Scrum Developer Team”</strong> llegó a un acuerdo en aceptar sin ningún altercado un enfoque de 34 <em>story points</em> para este <em>Sprint 2.</em></td>
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para esta oportunidad, hemos abarcado en este sprint los <em>User Story</em> con identificadores <strong>“US07”</strong> el cual equivale 3 puntos, <strong>“US10”</strong> equivale 4 puntos, <strong>“US13”</strong> equivale 3 puntos, <strong>“US14”</strong> 2 puntos, <strong>“US16”</strong> el cual equivale 4 puntos, el <strong>“US17”</strong> que equivale 4 puntos, el <strong>“US18”</strong> que equivale 3 puntos y el <strong>“US22”</strong> que equivale 3 puntos.</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para esta oportunidad, hemos abarcado en este sprint los <em>User Story</em> con identificadores <strong>“US07”</strong> el cual equivale 5 puntos, <strong>“US10”</strong> equivale 3 puntos, <strong>“US13”</strong> equivale 5 puntos, <strong>“US14”</strong> 3 puntos, <strong>“US16”</strong> el cual equivale 5 puntos, el <strong>“US17”</strong> que equivale 5 puntos, el <strong>“US18”</strong> que equivale 3 puntos y el <strong>“US22”</strong> que equivale 5 puntos.</td>
 </tr>
 </table>
 
@@ -3567,6 +3567,14 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 
 <div align='justify'>
 <p>Para el caso de lo que se llevó a cabo en el desarrollo de la aplicación web de “LilSyps”, se optó por fraccionar el proyecto en 4 <em>sprints</em>, de los cuales, en esta oportunidad, nos logramos ubicar en el <em>sprint 2</em>. Este mismo tuvo una duración de 2 semanas de lo cual comenzó el día 20 de septiembre del año 2023 y, como principal objetivo, se planteó elaborar una actualización al <em>landing page</em> para que logré ser más vistosa y ofrezca de manera más clarividente los servicios que nuestro <strong>“startup”</strong> ofrece. Aparte de eso, se estableció el comienzo de la elaboración de nuestra aplicación web para que cumpla tanto con los puntos de funcionalidad y atractividad visual – logrando cumplir con las perspectivas de nuestros clientes y stakeholders interesados -.</p>
+</div>
+
+<div align="center">
+<img src="https://media.discordapp.net/attachments/892430247042105427/1156287781182652467/5f045d4a-0baa-4ae5-ab28-e434a7dc311c.png?ex=65146c69&is=65131ae9&hm=091245fd6ce0e257fb538f482500f38df750b8b485a326fdfc06be20a675944e&=&width=1221&height=562" alt="Sprint-Backlog2-Image" style="width:600px;height:auto;">
+</div>
+
+<div align="center">
+<p><strong>Link del Trello:</strong> <a href="https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps">https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps</a></p>
 </div>
 
 <table>
