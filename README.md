@@ -2570,10 +2570,6 @@ Link del [diagrama de clases](https://lucid.app/lucidchart/daf95998-1760-461d-ab
 <p><b>- Entity customers:</b> Son los datos pertenecientes a los clientes que ingresaran al local.</p>
 <p><b>- Entity admins:</b> Es el equipo de desarrollo, creadores de la aplicación de los cuales administran cualquier eventualidad.</p>
 <p><b>- Entity forums:</b> Repositorio donde están las opiniones de las personas hacia el enfoque de la atención brindada.</p>
-<p><b>- Entity customer_support:</b> Facilita el seguimiento de los problemas o consultas de los usuarios, lo que permite un proceso de resolución mas eficiente y efectivo por parte del equipo de soporte.</p>
-<p><b>- Entity reservations:</b> Apartado de registro de los datos de la persona así como el motivo de la reservación.</p>
-<p><b>- Entity tables:</b> Determina el nombre que recibe dicha mesa y la capacidad de personas que puede alojar.</p>
-<p><b>- Entity waiters:</b> Son los datos pertenecientes a los meseros o meseras que trabajan en el establecimiento.</p>
 <p><b>- Entity bills:</b> Es el registro de la cuenta del usuario donde se contabiliza todo lo que ha consumido en el local.</p>
 <p><b>- Entity payments_methods:</b> Aloja los diversos medios de pago por los cuales el cliente cancelara su cuenta.</p>
 <p><b>- Entity card_data:</b> Proporciona el alojamiento de los datos que contiene una tarjeta para validar el pago. </p>
@@ -2624,48 +2620,6 @@ Link del [diagrama de clases](https://lucid.app/lucidchart/daf95998-1760-461d-ab
 | description | <center>NVARCHAR(100)</center> | <center>YES</center>  | <center>NO</center> |
 | publication_date | <center>DATE</center> | <center>YES</center>  | <center>NO</center> |
 
-<br>
-
-<b>- Entity customer_support:</b>
-| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
-|--- |--- |--- |--- |
-| admins_id | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
-| forums_id | <center>INTENGER</center> | <center>YES</center> | <center>YES (and it`s a FK too)</center> |
-
-<br>
-
-<b>- Entity reservations:</b>
-| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
-|--- |--- |--- |--- |
-| id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| amount_people | <center>INTENGER</center> | <center>YES</center> | <center>NO</center> |
-| reason_meeting | <center>NVARCHAR(30)</center>| <center>YES</center> | <center>NO</center> |
-| date_reservation | <center>DATE</center> | <center>YES</center> | <center>NO</center> |
-| hour | <center>TIME</center> | <center>YES</center> | <center>NO</center> |
-| extra_time | <center>TIME</center> | <center>YES</center> | <center>NO</center> |
-| customers_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center>|
-
-<br>
-
-<b>- Entity tables:</b>
-| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
-|--- |--- |--- |--- |
-| id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| name | <center>NVARCHAR(6)</center> | <center>YES</center> | <center>NO</center> |
-| capacity |<center>INTENGER</center>| <center>YES</center> | <center>NO</center> |
-| waiters_id | <center>INTENGER</center>| <center>YES</center> | <center>NO</center> |
-| reservations_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center>  |
-
-<br>
-
-<b>- Entity waiters:</b>
-| <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
-|--- |--- |--- |--- |
-| id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center> |
-| first_name | <center>NVARCHAR(20)</center> | <center>YES</center> | <center>NO</center> |
-| last_name| <center>NVARCHAR(30)</center> | <center>YES</center> | <center>NO</center> |
-| antry_time | <center>TIME</center> | <center>YES</center> | <center>NO</center> |
-| depature_time | <center>TIME</center> | <center>YES</center> | <center>NO</center> |
 
 <br>
 
@@ -2673,7 +2627,7 @@ Link del [diagrama de clases](https://lucid.app/lucidchart/daf95998-1760-461d-ab
 | <center>Attribute</center> | <center>Type</center> | <center>Is mandatory?</center> | <center>Is Primary Key?</center>|
 |--- |--- |--- |--- |
 | id | <center>INTENGER</center> | <center>YES</center> | <center>YES</center>|
-| waiters_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
+| customers_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
 | drinks_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
 | drinks_offers_drinks_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center> |
 | drinks_offers_offers_id | <center>INTENGER</center> | <center>YES</center> | <center>NO (It`s a FK)</center>|
@@ -2804,7 +2758,7 @@ Link del [diagrama de clases](https://lucid.app/lucidchart/daf95998-1760-461d-ab
 En esta apartado, se podrá observar como las entidades y atributos mencionados anteriormente se establecen dentro de nuestro diagrama de base de datos mediante tablas; por lo que, en base a ello, se realizó las relaciones equivalentes que se tiene entre cada una de ellas para definir más el contexto accionario que tiene cada una de ellas. 
 
 <div  align='center'>
-<img  src="https://i.ibb.co/XDHVKSy/DB-Point-Bar-UPC-Open-Source-2023-09-21-10-22.png"  alt="Database_Diagram"  width="900"  height="500">
+<img  src="https://cdn.discordapp.com/attachments/892430247042105427/1156416264915402782/DB_PointBar_UPC_Open_Source-2023-09-26_19-24.png?ex=6514e412&is=65139292&hm=f7ab8ebbe4bf841e9071a7eb8b4dec4360972de575c7ea702b49d81edaf0157a&"  alt="Database_Diagram"  width="900"  height="500">
 </div>
 <br>
 
