@@ -2530,7 +2530,7 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
 ### 4.7.1. Class Diagrams.
 
 <div align='center'>
-<img src=" https://cdn.discordapp.com/attachments/1145898392631918606/1156326851099238480/image.png?ex=651490cc&is=65133f4c&hm=d864e71a32976d9da99e6cd028247f0b3f6f79bb95e99bb26ce710368fff5a05&" >
+<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1156326851099238480/image.png?ex=6515e24c&is=651490cc&hm=dd00e99578172157b5a0c6a9f7f8fa21d54f6073bc80b3c60edf12caa8b0598f&" >
 </div>
 <br>
 
