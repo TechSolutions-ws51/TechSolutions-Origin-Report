@@ -3356,6 +3356,8 @@ Es asi como nosotros verificamos el cambio en la linea de trabajo:
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
+<p>Para este primer sprint, se registraron todos los <em>commits</em> en referencia al avance de la primera versión de nuestro <strong>Landing Page</strong>, abarcando principalmente la pagina de inicio, las secciones de comentarios, el apartado de soporte, descripcion de los servicios que ofrecemos y, finalmente, una breve descripción acerca del <em>About us</em> de nuestro <strong>startup</strong>; conllevando a que prioricemos más el enfoque de interacción inicial del contenido antes que todo. La descripción de estos <em>commits</em> con su respectiva información, se mostrará más a detalle en la siguiente tabla:
+
 <table>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Repository</th>
@@ -3755,6 +3757,8 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 </table>
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
+
+<p>Como parte de la revisión del segundo sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de <em>commits</em> en diferentes repositorios. Durante este sprint, nos enfocamos en realizar los ajustes de mejora para nuestro <strong>Landing Page</strong> y en el desarrollo de la primera version de nuestro <em>Frontend Web Application</em> respecto a nuestro <strong>Startup</strong>. Los commits registrados en diversos repositorios reflejan el trabajo realizado en estas áreas en específico.</p>
 
 <table>
 <tr>
