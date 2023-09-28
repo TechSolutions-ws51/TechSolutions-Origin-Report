@@ -3530,7 +3530,7 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para esta oportunidad, hemos abarcado en este sprint los <em>User Story</em> con identificadores <strong>“US13”</strong> equivale 5 puntos, <strong>“US14”</strong> 3 puntos, <strong>“US16”</strong> el cual equivale 5 puntos, el <strong>“US17”</strong> que equivale 5 puntos, el <strong>“US18”</strong> que equivale 3 puntos y el <strong>“US22”</strong> que equivale 5 puntos.</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para esta oportunidad, hemos abarcado en este sprint los <em>User Story</em> con identificadores <strong>“US13”</strong> equivale 5 puntos, <strong>“US14”</strong> 3 puntos, <strong>“US16”</strong> el cual equivale 5 puntos, el <strong>“US17”</strong> que equivale 5 puntos, el <strong>“US18”</strong> que equivale 3 puntos y el <strong>“US22”</strong> que equivale 5 puntos respectivamente.</td>
 </tr>
 </table>
 
