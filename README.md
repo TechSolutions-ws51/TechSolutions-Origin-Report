@@ -3738,9 +3738,57 @@ Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Lan
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 
-En el sprint 2, se logró implementar la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales, este apartado se realizó respetando los principios de diseño que se presentaron en el Diseño de Figma, además se tuvo en cuenta la experiencia de usuario para que el usuario pueda interactuar de manera intuitiva con el Web Application. A continuación se muestran algunas evidencias de lo mencionado.
+En el sprint 2, se logró implementar la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales, este apartado se realizó respetando los principios de diseño que se presentaron en el Diseño de Figma, además se tuvo en cuenta la experiencia de usuario para que el usuario pueda interactuar de manera intuitiva con el Web Application. A continuación se muestran algunas evidencias de lo mencionado y la actualización del Landing Page:
 
-1. Se muestra la sección de **Home**, en el cual el usuario podrá observar el menú de opciones y podrá interactuar con ello.
+1. **User Story 01:** Como usuario, quiero ver una página principal atractiva sobre LOYALSIPS.
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156849911153823834/Captura_de_pantalla_2023-09-28_020815.png"></div>
+    </td>
+  </tr><br>
+
+
+2. **User Story 02:** Como usuario quiero poder ver una pequeña descripcion de lo que es LOYALSIPS.
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156850741735067739/image.png"></div>
+    </td>
+  </tr><br>
+
+3. **User Story 03:** Como usuario quiero poder ver los servicios que ofrece LOYALSIPS.
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156851197072920596/image.png"></div>
+    </td>
+  </tr><br>
+
+  4. **User Story 04:** Como usuario quiero poder ver las reseñas de los clientes de LOYALSIPS y poder dar una calificación respectiva.
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156851915150340096/Captura_de_pantalla_2023-09-28_021500.png"></div>
+    </td>
+  </tr><br>
+
+  4. **User Story 05:** Como usuario quiero poder ver la información de contacto de LOYALSIPS, y poder contactarlo.
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156852713934569582/Captura_de_pantalla_2023-09-28_021918.png"></div>
+    </td>
+  </tr><br>
+
+**Para el Web Application:**
+
+1. **User Story 01:** Como usuario, quiero poder apreciar una pagina principal atractiva y sencilla.
 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
@@ -3749,51 +3797,186 @@ En el sprint 2, se logró implementar la primera versión del Web Application, e
     </td>
   </tr><br>
 
-  2. Se muestra la sección de **About**, en el cual el usuario podrá observar la información acerca de la empresa.
+  2. **User Story 02:** Como usuario, quiero encontrar información actualizada de las promociones.
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?"></div>
     </td>
   </tr><br>
 
-  3. Se muestra la sección de **Contact**, en el cual el usuario podrá observar la información de contacto de la empresa.
+  3. **User Story 03:** Como usuario nuevo, quiero registrarme con facilidad.
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156843955216973854/Captura_de_pantalla_2023-09-28_014432.png?"></div>
     </td>
 </tr><br>
 
-4. Se muestra la sección de **Services**, en el cual el usuario podrá observar los servicios que ofrece la empresa.
+4. **User Story 04**: Como usuario, quiero poder ver la información del contacto clara.
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156871535110402048/Captura_de_pantalla_2023-09-28_033351.png"></div>
     </td>
 </tr><br>
 
-5. Se muestra la sección de **Support**, en el cual el usuario podrá observar los servicios de soporte que ofrece la empresa.
+5. **User Story 05:** Como usuario, quiero poder realizar preguntas y generar un ticket de pregunta para que me puedan responder.
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156847998140162080/Captura_de_pantalla_2023-09-28_015610.png"></div>
     </td>
 </tr><br>
 
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se tuvo pensado la creación de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop. Sin embargo, no se alcanzó realizar el funcionamiento del fake-Api. Pero se tiene como objetivo realizarlo para las siguientes entregas.
 
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+Para la entrega del Sprint 2, se alcanzó la actualizacion de la Landing page y la creación de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop. 
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156849911153823834/Captura_de_pantalla_2023-09-28_020815.png"></div>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156850741735067739/image.png"></div>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156851197072920596/image.png"></div>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156851915150340096/Captura_de_pantalla_2023-09-28_021500.png"></div>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156852713934569582/Captura_de_pantalla_2023-09-28_021918.png"></div>
+    </td>
+  </tr><br>
+
+**Para el Web Application:**
+
+Se muestra evidencias de la Web Application desplegada, usando el servicio de Firebase, el cual nos permite desplegar el Web Application de manera gratuita. A continuación se muestran capturas de la Web Application desplegada:
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png"></div>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156881421961527316/Captura_de_pantalla_2023-09-28_041332.png"></div>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156881747238203433/Captura_de_pantalla_2023-09-28_041451.png"></div>
+    </td>
+  </tr>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156847998140162080/Captura_de_pantalla_2023-09-28_015610.png"></div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156871535110402048/Captura_de_pantalla_2023-09-28_033351.png"></div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156882470852120576/Captura_de_pantalla_2023-09-28_041747.png"></div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156843955216973854/Captura_de_pantalla_2023-09-28_014432.png?"></div>
+    </td>
+</tr>
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
-#### 
+|Nombre|Rol|
+|------|---|
+|Alarcón Rondón, Sandro Fourfive|Implementación de la sección Contact del Web Application.|
+|Ampudia Flores, José Carlos Isaac|Implementación de la sección Services, Support, actualización de fondo, corrección de colores. Por parte del Landing Page, actualización del Landing Page, en la sección Review.|
+|Ballona Blas, Naggit German|Actualizacion de colores del Login y otras secciones.|
+|Huamani Sánchez, José Diego|Implementación de la seccion About y diseños.|
+|Morin Fuentes, Jean Pierre|Implementación de la sección Drinks, en el cual se intentó hacer uso del fake-api.|
+
+**Repositorio de Landing Page:**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156885183488872469/Captura_de_pantalla_2023-09-28_042822.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156885634200375316/Captura_de_pantalla_2023-09-28_042943.png"></div>
+    </td>
+</tr><br>
+
+**Repositorio de Web Application:**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156886351678021694/Captura_de_pantalla_2023-09-28_043251.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156886830344573038/Captura_de_pantalla_2023-09-28_043439.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156887023425171486/Captura_de_pantalla_2023-09-28_043548.png"></div>
+    </td>
+</tr><br>
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
@@ -3809,7 +3992,31 @@ En el sprint 2, se logró implementar la primera versión del Web Application, e
 
 ## Video About-the-Team.
 
+## Conclusiones
 
+- El equipo ha establecido un sólido sistema de control de versiones utilizando GitHub y ha implementado el flujo de trabajo Gitflow para el desarrollo del proyecto, lo que garantiza a futuro un seguimiento eficiente de las modificaciones.
+
+- Las convenciones de compromisos (commits) con Compromisos Convencionales (Conventional Commits) se han adoptado para mantener una estructura coherente en los registros de cambios.
+
+- Se han establecido pautas y convenciones claras para el desarrollo de código, lo que facilita la colaboración y el mantenimiento del mismo.
+ 
+- La implementación de medidas de seguridad, como la validación de entrada y la prevención de ataques de inyección, es una medida de protección de los datos de los usuarios.
+
+- La automatización del proceso de Deployment con GitHub Actions y la configuración de seguridad en la nube demuestran un despliegue eficiente y seguro de la aplicación. 
+ 
+- Las reuniones de planificación del Sprint y la revisión retrospectiva reflejan una comunicación sólida y una colaboración efectiva dentro del equipo.
+
+- La implementación gradual de la Landing Page y otras secciones de la aplicación en sprints sucesivos muestra un enfoque centrado en la entrega incremental de funcionalidades.
+
+- El desarrollo de secciones como "About Us," "Services," "Reviews," y "Contacts" demuestra un compromiso con proporcionar una experiencia de usuario completa y atractiva.
+
+- Por medio del proceso de interacción con los entrevistados - mediante en el enfoque de las entrevistas -, nos ha permitido enmarcar y centrar una pequeña muestra acerca de nuestro público objetivo el cual va dirigido nuestro “Startup”, logrando recapitular información valiosa acerca sus intereses, sensaciones, perspectivas y expectativas que esperan tanto los consumidores como los dueños de los diversos bares que hay hoy en día en la ciudad de Lima y en el Perú acerca de lo que vamos a ofrecerles.
+
+- Entendemos y apreciamos la flexibilidad de las metodologías ágiles, por ende estamos dispuestos a adaptarnos rápidamente a los cambios y responder de manera ágil a las necesidades cambiantes de nuestro proyecto.
+
+-  Con respecto al analisis competitivo desarrollado, podemos concluir que las aplicaciones dirigidas para el sector Bares
+
+- Es un nicho que no cuenta con demasiados competidores que enfoquen a mejorar la experiencia de usuario para los clientes y dueños de bares.
 
 ## Bibliografía
 
@@ -3875,31 +4082,7 @@ Uxpressiar: https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc
 
 <br>
 
-## Conclusiones
 
-- El equipo ha establecido un sólido sistema de control de versiones utilizando GitHub y ha implementado el flujo de trabajo Gitflow para el desarrollo del proyecto, lo que garantiza a futuro un seguimiento eficiente de las modificaciones.
-
-- Las convenciones de compromisos (commits) con Compromisos Convencionales (Conventional Commits) se han adoptado para mantener una estructura coherente en los registros de cambios.
-
-- Se han establecido pautas y convenciones claras para el desarrollo de código, lo que facilita la colaboración y el mantenimiento del mismo.
- 
-- La implementación de medidas de seguridad, como la validación de entrada y la prevención de ataques de inyección, es una medida de protección de los datos de los usuarios.
-
-- La automatización del proceso de Deployment con GitHub Actions y la configuración de seguridad en la nube demuestran un despliegue eficiente y seguro de la aplicación. 
- 
-- Las reuniones de planificación del Sprint y la revisión retrospectiva reflejan una comunicación sólida y una colaboración efectiva dentro del equipo.
-
-- La implementación gradual de la Landing Page y otras secciones de la aplicación en sprints sucesivos muestra un enfoque centrado en la entrega incremental de funcionalidades.
-
-- El desarrollo de secciones como "About Us," "Services," "Reviews," y "Contacts" demuestra un compromiso con proporcionar una experiencia de usuario completa y atractiva.
-
-- Por medio del proceso de interacción con los entrevistados - mediante en el enfoque de las entrevistas -, nos ha permitido enmarcar y centrar una pequeña muestra acerca de nuestro público objetivo el cual va dirigido nuestro “Startup”, logrando recapitular información valiosa acerca sus intereses, sensaciones, perspectivas y expectativas que esperan tanto los consumidores como los dueños de los diversos bares que hay hoy en día en la ciudad de Lima y en el Perú acerca de lo que vamos a ofrecerles.
-
-- Entendemos y apreciamos la flexibilidad de las metodologías ágiles, por ende estamos dispuestos a adaptarnos rápidamente a los cambios y responder de manera ágil a las necesidades cambiantes de nuestro proyecto.
-
--  Con respecto al analisis competitivo desarrollado, podemos concluir que las aplicaciones dirigidas para el sector Bares
-
-- Es un nicho que no cuenta con demasiados competidores que enfoquen a mejorar la experiencia de usuario para los clientes y dueños de bares.
 
 
 
