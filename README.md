@@ -36,13 +36,19 @@
 
 ## Registros de versiones del Informe
 
-|   Version     |   Fecha   | Autor                   |   Descripción de la modificación|
-|:-------------:|:---------:|:------------------------|:------------------------|
+|   Version     |   Fecha       | Autor                   |   Descripción de la modificación|
+|:-------------:|:-------------:|:------------------------|:------------------------|
 |1              |  26/08/2023    | Ampudia Flores          |**Capitulo 1** <br> - Implementó el Lean UX Assumptions. <br> - Lean UX Hypothesys  Statements.<br><br>**Capitulo 2**<br>- Estrategias y tácticas frente a competidores.<br> - Diseño de entrevistas.<br><br>**Capitulo 3**<br> - To-Be Scenario Mapping. <br><br>**Capitulo 4**<br>- Landing Page UI Design.<br>- Landing Page Wireframe.<br>- Landing Page Mock-up.<br>- Web Applications UX/UI Design.<br>- Web Applications Wireframes.<br>- Web Applications Wireflow Diagrams.<br>- Web Applications Mock-ups.<br>- Web Applications User Flow Diagrams.<br>- Web Applications Prototyping.<br><br>**Capitulo 5**<br>- Testing Suite Evidence for Sprint Review.<br>- Execution Evidence for Sprint Review.<br>- Services Documentation Evidence for Sprint Review.<br><br> |
+|2              |   18/09/2023  | Ampudia Flores          |**Capitulo 1** <br> - Correccion de detalles en Lean UX Assumptions <br><br>**Capitulo 2**<br>- Corrección de detalles en el apartado de entrevistas. <br><br>**Capitulo 3**<br> - Corrección del To-be Scenario Mapping. <br><br>**Capitulo 4**<br>- Implementacion de Landing Page Mock-up actualizada. <br><br>**Capitulo 5**<br>- Implementacion de Landing Page actualizada, despliegue del Landing Page por Github pages.<br><br> |
 |1              |   29/08/2023   | Alarcon Rondon          |**Capitulo 1** <br> - Implementó el Startup Profile. <br> - Descripcion del Startup.<br>- Perfiles de integrantes del equipo.<br><br>**Capitulo 2**<br>- Competidores.<br> - Análisis competitivo.<br><br>**Capitulo 3**<br> - Impact Mapping. <br><br>**Capitulo 4**<br>- Domain-Driven Software Architecture.<br>- Software Architecture Context Diagram.<br>- Software Architecture Container Diagrams.<br>- Software Architecture Components Diagrams.<br><br>**Capitulo 5**<br>- Software Development Environment Configuration.<br>- Source Code Management.<br><br>|
-|1              |   27/08/2023     | Morin Fuentes           |**Capitulo 1** <br> - Implementó el Solution Profile. <br> - Antecedentes y problematicas.<br><br>**Capitulo 2**<br>- Needfinding.<br> - User Personas.<br>- User Task Matrix.<br><br>**Capitulo 3**<br> - User Stories. <br><br>**Capitulo 4**<br>- General Style Guidelines.<br>- Web Style Guidelines.<br>- Information Architecture.<br>- Organization Systems.<br>- Labeling Systems.<br><br>**Capitulo 5**<br>- Software Deployment Evidence for Sprint Review.<br>- Team Collaboration Insights during Sprint.<br>- Avance de Conclusiones, Bibliografía y Anexos.<br><br>|
-|1              |    01/09/2023  | Huamani Sánchez    |**Capitulo 1** <br> - Implementó el Lean UX Proccess. <br> - Lean UX Problem Statements.<br><br>**Capitulo 2**<br>- Registro de entrevistas.<br> - Análisis de entrevistas.<br><br>**Capitulo 4**<br>- Class Dictionary.<br>- Database Design.<br>- Database Diagram.<br><br>**Capitulo 5**<br>- Sprint Planning 1.<br>- Sprint Backlog 1.<br>- Development Evidence for Sprint Review.<br><br> |
-|1              |     02/09/2023  | Ballona Blas    |**Capitulo 1** <br> - Implementó el Lean UX Canvas. <br> - Segmento Objetivo.<br><br>**Capitulo 2**<br>- User Journey Mapping.<br> - Empathy Mapping.<br>- As-is Scenario Mapping.<br><br>**Capitulo 3**<br> - Product Backlog. <br><br>**Capitulo 4**<br>- SEO Tags and Meta Tags.<br>- Searching Systems. <br>- Navigation Systems.<br>- Software Object-Oriented Design.<br>- Class Diagrams.<br><br>**Capitulo 5**<br>- Source Code Style Guide & Conventions.<br>- Software Deployment Configuration.<br>- Landing Page, Services & Applications Implementation.<br><br> |
+|2              |  21/09/23  | Alarcon Rondon          |**Capitulo 3**<br> - Corrección del Impact mapping y actualización. <br><br>**Capitulo 4**<br>- Corrección de los diagramas de DDD. <br><br>**Capitulo 5**<br>- Implementación de la seccion Contact de la Web Application. <br><br> |
+|1              |   27/08/2023   | Morin Fuentes           |**Capitulo 1** <br> - Implementó el Solution Profile. <br> - Antecedentes y problematicas.<br><br>**Capitulo 2**<br>- Needfinding.<br> - User Personas.<br>- User Task Matrix.<br><br>**Capitulo 3**<br> - User Stories. <br><br>**Capitulo 4**<br>- General Style Guidelines.<br>- Web Style Guidelines.<br>- Information Architecture.<br>- Organization Systems.<br>- Labeling Systems.<br><br>**Capitulo 5**<br>- Software Deployment Evidence for Sprint Review.<br>- Team Collaboration Insights during Sprint.<br>- Avance de Conclusiones, Bibliografía y Anexos.<br><br>|
+|2              |   20/09/2023   | Morin Fuentes           |**Capitulo 2**<br>- Corrección y actualización de Needfinding y User Personas. <br><br>**Capitulo 3**<br> - Corrección y actualización de User Stories. <br><br>**Capitulo 5**<br>- Implementación de la sección Home, Drinks, y creación del repositorio del Web Application. <br><br> |
+|1              |   01/09/2023   | Huamani Sánchez    |**Capitulo 1** <br> - Implementó el Lean UX Proccess. <br> - Lean UX Problem Statements.<br><br>**Capitulo 2**<br>- Registro de entrevistas.<br> - Análisis de entrevistas.<br><br>**Capitulo 4**<br>- Class Dictionary.<br>- Database Design.<br>- Database Diagram.<br><br>**Capitulo 5**<br>- Sprint Planning 1.<br>- Sprint Backlog 1.<br>- Development Evidence for Sprint Review.<br><br> |
+|2              |  23/09/2023 | Huamani Sánchez    |**Capitulo 1** <br> - Corrección y actualización del Problem Statements. <br><br>**Capitulo 2**<br>- Actualización de plantilla de entrevistas. <br><br>**Capitulo 4**<br>- Corrección de nomenclaturas del DataBase Diagram. <br><br>**Capitulo 5**<br>- Implementación de la sección About us del Web Application. <br><br> |
+|1              |   02/09/2023   | Ballona Blas    |**Capitulo 1** <br> - Implementó el Lean UX Canvas. <br> - Segmento Objetivo.<br><br>**Capitulo 2**<br>- User Journey Mapping.<br> - Empathy Mapping.<br>- As-is Scenario Mapping.<br><br>**Capitulo 3**<br> - Product Backlog. <br><br>**Capitulo 4**<br>- SEO Tags and Meta Tags.<br>- Searching Systems. <br>- Navigation Systems.<br>- Software Object-Oriented Design.<br>- Class Diagrams.<br><br>**Capitulo 5**<br>- Source Code Style Guide & Conventions.<br>- Software Deployment Configuration.<br>- Landing Page, Services & Applications Implementation.<br><br> |
+|2              | 23/09/2023 | Ballona Blas    |**Capitulo 2**<br>- Actualización y corrección del As-is Scenario Mapping y otros mapas. <br><br>**Capitulo 3**<br>- Actualización del Product Backlog<br><br>**Capitulo 4**<br>- Actualización del Class Diagrams.<br><br>**Capitulo 5**<br>- Actualización Conclusiones y Anexos.|
+
 
 <br><br>
 
@@ -55,7 +61,7 @@ Para la entrega del informe, se ha utilizado el siguiente repositorio de GitHub,
 | Link del repositorio | https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report.git |
 |--|--|
 
-A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe.
+A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe TB1.
 
 <table style="margin: 0 auto;">
   <tr>
@@ -85,6 +91,35 @@ A continuación, se muestra las tareas asignadas a cada integrante del equipo pa
 </table>
 <br>
 
+A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe TP.
+
+<table style="margin: 0 auto;">
+  <tr>
+    <th>Miembro</th>
+    <th>Responsabilidad</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Jose Ampudia</td>
+    <td style="text-align: justify;">Correccion de detalles en Lean UX Assumptions, Corrección de detalles en el apartado de entrevistas, Corrección del To-be Scenario Mapping, Implementacion de Landing Page Mock-up Desktop actualizada, Implementacion de Landing Page actualizada, despliegue del Landing Page por Github pages.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Alarcon Rondon</td>
+    <td style="text-align: justify;">Corrección del Impact mapping y actualización, Corrección de los diagramas de DDD, Implementación de la seccion Contact de la Web Application. <br><br></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Morin Fuentes</td>
+    <td style="text-align: justify;">Corrección y actualización de Needfinding y User Personas, Corrección y actualización de User Stories, Implementación de la sección Home, Drinks, y creación del repositorio del Web Application.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Huamani Sánchez</td>
+    <td style="text-align: justify;">Corrección y actualización del Problem Statements, Actualización de plantilla de entrevistas, Corrección de nomenclaturas del DataBase Diagram, Implementación de la sección About us del Web Application.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Ballona Blas</td>
+    <td style="text-align: justify;">Actualización y corrección del As-is Scenario Mapping y otros mapas, Actualización del Product Backlog, Actualización del Class Diagrams, Actualización Conclusiones y Anexos.</td>
+  </tr>
+</table>
+<br>
 
 <div align='justify'>
 Para el desarrollo del informe, se realizaron commits respectivos a la tarea asignada para cada integrante del equipo. A continuacón, se muestran los usuarios de github que corresponden a cada integrante del equipo.
