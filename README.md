@@ -245,16 +245,16 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
         - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
         - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-        - [5.2.1.8 Team Collaboration Insights during Sprint](5218-team-collaboration-insights-during-sprint)<br><br>
+        - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)<br><br>
     - [5.2.2. Sprint 2](#522-sprint-2)
         - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-        - [5.2.2.2 Sprint Backlog 2](#5222-sprint-backlog-2)
-        - [5.2.2.3 Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
-        - [5.2.2.4 Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-        - [5.2.2.5 Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
-        - [5.2.2.6 Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
-        - [5.2.2.7 Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-        - [5.2.2.8 Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)
+        - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+        - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)
 
 
 
@@ -3767,7 +3767,7 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 </tr>
 </table>
 
-#### 5.2.2.3.Development Evidence for Sprint Review.
+#### 5.2.2.3. Development Evidence for Sprint Review.
 
 <p>Como parte de la revisión del segundo sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de <em>commits</em> en diferentes repositorios. Durante este sprint, nos enfocamos en realizar los ajustes de mejora para nuestro <strong>Landing Page</strong> y en el desarrollo de la primera version de nuestro <em>Frontend Web Application</em> respecto a nuestro <strong>Startup</strong>. Los commits registrados en diversos repositorios reflejan el trabajo realizado en estas áreas en específico.</p>
 
@@ -3920,7 +3920,7 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 </tr>
 </table>
 
-#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
 Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se tuvo pensado la creación de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop.
 
@@ -3934,7 +3934,7 @@ Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Lan
 |---------------------|---------------------|
 
 
-#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.5. Execution Evidence for Sprint Review.
 
 En el sprint 2, se logró implementar la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales, este apartado se realizó respetando los principios de diseño que se presentaron en el Diseño de Figma, además se tuvo en cuenta la experiencia de usuario para que el usuario pueda interactuar de manera intuitiva con el Web Application. A continuación se muestran algunas evidencias de lo mencionado y la actualización del Landing Page:
 
@@ -4032,11 +4032,11 @@ En el sprint 2, se logró implementar la primera versión del Web Application, e
 </tr><br>
 
 
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se tuvo pensado la creación de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop. Sin embargo, no se alcanzó realizar el funcionamiento del fake-Api. Pero se tiene como objetivo realizarlo para las siguientes entregas.
 
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 Para la entrega del Sprint 2, se alcanzó la actualizacion de la Landing page y la creación de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop. 
 
   <tr>
@@ -4127,7 +4127,7 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
     </td>
 </tr>
 
-#### 5.2.2.8.Team Collaboration Insights during Sprint.
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 |Nombre|Rol|
 |------|---|
@@ -4175,17 +4175,6 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1156887023425171486/Captura_de_pantalla_2023-09-28_043548.png"></div>
     </td>
 </tr><br>
-
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-
-### 5.3.2. Registro de Entrevistas.
-
-### 5.3.3. Evaluaciones según heurísticas.
-
-## 5.4. Video About-the-Product.
-
-
 
 
 ## Video About-the-Team.
