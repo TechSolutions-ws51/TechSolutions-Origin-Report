@@ -4034,7 +4034,14 @@ En el sprint 2, se logró implementar la primera versión del Web Application, e
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
-Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se tuvo pensado la creación de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop. Sin embargo, no se alcanzó realizar el funcionamiento del fake-Api. Pero se tiene como objetivo realizarlo para las siguientes entregas.
+Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se tuvo pensado la creación de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop. Además se logró implementar el uso de una fake-api, la cual nos permite simular el uso de una api real, para poder mostrar los datos de los productos que se ofrecen en la sección de Drinks. A continuación se muestra la documentación de la fake-api:
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1157082694673498183/Captura_de_pantalla_2023-09-28_173255.png"></div>
+    </td>
+</tr><br>
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 Para la entrega del Sprint 2, se alcanzó la actualizacion de la Landing page y la creación de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop. 
