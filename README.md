@@ -242,7 +242,6 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
         - [5.2.1.2 Sprint Backlog 1](#5212-sprint-backlog-1)
         - [5.2.1.3. Development Evidence for Sprint Review.](#5.2.1.3-development-evidence-for-sprint-review)
         - [5.2.1.4. Testing Suite Evidence for Sprint Review.](#5.2.1.4-testing-suite-evidence-for-sprint-review)
-
         - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
         - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
