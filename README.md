@@ -4186,6 +4186,15 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
 
 ## Video About-the-Team.
 
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1157097368458625075/Captura_de_pantalla_2023-09-28_183121.png"></div>
+    </td>
+</tr><br>
+
+Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tp1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EbT3mCj6eoZCp1Jz4YDqA7UBC8-66U2A-8I7z4fRIetL6A?e=JkDnAm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
 ## Conclusiones
 
 - El equipo ha establecido un sólido sistema de control de versiones utilizando GitHub y ha implementado el flujo de trabajo Gitflow para el desarrollo del proyecto, lo que garantiza a futuro un seguimiento eficiente de las modificaciones.
