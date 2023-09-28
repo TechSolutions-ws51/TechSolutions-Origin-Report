@@ -3373,7 +3373,7 @@ Para la entrega del Sprint 1, se tuvo pensado alcanzar el desarrollo completo de
 
 <br>
 
-| Landing Page Desplegada                                          |[Landing Page Loyal Sips](https://isaacamp24.github.io/LoyalSips-LandingPage/Archivos/)                | 
+| Landing Page Desplegada                                          |[Landing Page Loyal Sips](https://techsolutions-ws51.github.io/LoyalSips-LandingPage-Open/)                | 
 |---------------------|---------------------|
 
 
@@ -3816,12 +3816,6 @@ En el sprint 2, se logró implementar la primera versión del Web Application, e
 
 
 
-## Conclusiones y recomendaciones.
-
-1. Por medio del proceso de interacción con los entrevistados - mediante en el enfoque de las entrevistas -, nos ha permitido enmarcar y centrar una pequeña muestra acerca de nuestro público objetivo el cual va dirigido nuestro “Startup”, logrando recapitular información valiosa acerca sus intereses, sensaciones, perspectivas y expectativas que esperan tanto los consumidores como los dueños de los diversos bares que hay hoy en día en la ciudad de Lima y en el Perú acerca de lo que vamos a ofrecerles.
-2. Entendemos y apreciamos la flexibilidad de las metodologías ágiles, por ende estamos dispuestos a adaptarnos rápidamente a los cambios y responder de manera ágil a las necesidades cambiantes de nuestro proyecto.
-3. Con respecto al analisis competitivo desarrollado, podemos concluir que las aplicaciones dirigidas para el sector Bares
-Es un nicho que no cuenta con demasiados competidores que enfoquen a mejorar la experiencia de usuario para los clientes y dueños de bares.
 
 ## Video About-the-Team.
 
@@ -3908,6 +3902,14 @@ Uxpressiar: https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc
 - La implementación gradual de la Landing Page y otras secciones de la aplicación en sprints sucesivos muestra un enfoque centrado en la entrega incremental de funcionalidades.
 
 - El desarrollo de secciones como "About Us," "Services," "Reviews," y "Contacts" demuestra un compromiso con proporcionar una experiencia de usuario completa y atractiva.
+
+- Por medio del proceso de interacción con los entrevistados - mediante en el enfoque de las entrevistas -, nos ha permitido enmarcar y centrar una pequeña muestra acerca de nuestro público objetivo el cual va dirigido nuestro “Startup”, logrando recapitular información valiosa acerca sus intereses, sensaciones, perspectivas y expectativas que esperan tanto los consumidores como los dueños de los diversos bares que hay hoy en día en la ciudad de Lima y en el Perú acerca de lo que vamos a ofrecerles.
+
+- Entendemos y apreciamos la flexibilidad de las metodologías ágiles, por ende estamos dispuestos a adaptarnos rápidamente a los cambios y responder de manera ágil a las necesidades cambiantes de nuestro proyecto.
+
+-  Con respecto al analisis competitivo desarrollado, podemos concluir que las aplicaciones dirigidas para el sector Bares
+
+- Es un nicho que no cuenta con demasiados competidores que enfoquen a mejorar la experiencia de usuario para los clientes y dueños de bares.
 
 
 
