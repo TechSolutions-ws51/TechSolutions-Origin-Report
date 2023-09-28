@@ -3526,11 +3526,11 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 2 Velocity</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este <em>sprint</em>, el <strong>“Scrum Developer Team”</strong> llegó a un acuerdo en aceptar sin ningún altercado un enfoque de 34 <em>story points</em> para este <em>Sprint 2.</em></td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este <em>sprint</em>, el <strong>“Scrum Developer Team”</strong> llegó a un acuerdo en aceptar sin ningún altercado un enfoque de 26 <em>story points</em> para este <em>Sprint 2.</em></td>
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para esta oportunidad, hemos abarcado en este sprint los <em>User Story</em> con identificadores <strong>“US07”</strong> el cual equivale 5 puntos, <strong>“US10”</strong> equivale 3 puntos, <strong>“US13”</strong> equivale 5 puntos, <strong>“US14”</strong> 3 puntos, <strong>“US16”</strong> el cual equivale 5 puntos, el <strong>“US17”</strong> que equivale 5 puntos, el <strong>“US18”</strong> que equivale 3 puntos y el <strong>“US22”</strong> que equivale 5 puntos.</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para esta oportunidad, hemos abarcado en este sprint los <em>User Story</em> con identificadores <strong>“US13”</strong> equivale 5 puntos, <strong>“US14”</strong> 3 puntos, <strong>“US16”</strong> el cual equivale 5 puntos, el <strong>“US17”</strong> que equivale 5 puntos, el <strong>“US18”</strong> que equivale 3 puntos y el <strong>“US22”</strong> que equivale 5 puntos.</td>
 </tr>
 </table>
 
@@ -3566,16 +3566,6 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Estimation (hours)</th>
    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Assigned To</th>
    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Status (To Do / In - process / To - review / Done)</th>
-</tr>
-<tr>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US10</td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Accesibilidad Móvil</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA01</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Visualización responsive del landing page en dispositivos móviles<em>header</em></td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Permite acoplar de manera adecuada el contenido del landing page en dispositivos móviles</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
-       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
 </tr>
 <tr>
 <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US13</td>
