@@ -238,14 +238,24 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
     - [5.1.4 Software Deployment Configuration](#514-software-deployment-configuration)
 - [5.2 Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
     - [5.2.1 Sprint 1](#521-sprint-1)
-        - [5.2.1.1 Sprint Planning ](#5211-sprint-planning-1)
+        - [5.2.1.1 Sprint Planning 1](#5211-sprint-planning-1)
         - [5.2.1.2 Sprint Backlog 1](#5212-sprint-backlog-1)
-        - [5.2.1.3 Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-        - [5.2.1.4 Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-        - [5.2.1.5 Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-        - [5.2.1.6 Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-        - [5.2.1.7 Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-        - [5.2.1.8 Team Collaboration Insights during Sprint](5218-team-collaboration-insights-during-sprint)
+        - [5.2.1.3. Development Evidence for Sprint Review.](#5.2.1.3-development-evidence-for-sprint-review)
+        - [5.2.1.4. Testing Suite Evidence for Sprint Review.](#5.2.1.4-testing-suite-evidence-for-sprint-review)
+
+        - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
+        - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
+        - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+        - [5.2.1.8 Team Collaboration Insights during Sprint](5218-team-collaboration-insights-during-sprint)<br><br>
+    - [5.2.2. Sprint 2](#522-sprint-2)
+        - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+        - [5.2.2.2 Sprint Backlog 2](#5222-sprint-backlog-2)
+        - [5.2.2.3 Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+        - [5.2.2.4 Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+        - [5.2.2.5 Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+        - [5.2.2.6 Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7 Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8 Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)
 
 
 
@@ -314,6 +324,9 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <strong>Huamani, José</strong><br>
           <strong>TB1</strong><br>
           La implementación del Lean UX Problem Statements es la rama más esencial, porque en este apartado, se explica a detalle el propósito de nuestro proyecto, que solución estamos proponiendo para mejorar en este caso el sistema de los Bares, además de ello, el Solution Profile va de la mano, porque explicamos la visión y misión de nuestro proyecto.
+          <br><br>
+          <strong>TP</strong><br>
+          Se implementó el Sprint 2 con éxito, se actualizaron varios segmentos con respecto a la Landing Page que se realizaron de manera conjunta. Por otro lado la elaboración del Web Application para que el usuario tenga mayor interacción con nosotros.
           <br><br>
           <strong>Ballona, Naggit</strong><br>
           <strong>TB1</strong><br>
@@ -3400,6 +3413,7 @@ Es asi como nosotros verificamos el cambio en la linea de trabajo:
 </table>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
 Para la entrega del Sprint 1, se tuvo pensado alcanzar el desarrollo completo del despliegue del Landing page. En esta sección presentamos la implementación del Landing page, tratando de alcanzar el diseño original que se realizó en Figma, de tal modo que el usuario tenga una buena experiencia de usuario.
 
 | Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
