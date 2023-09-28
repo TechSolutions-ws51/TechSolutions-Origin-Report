@@ -988,7 +988,7 @@ En este apartado, se mostrarán todas las entrevistas realizadas a nuestro estim
 <div align="left">
 <p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
 </div>
-<p><strong>Timing:</strong> 03:00 min</p>
+<p><strong>Timing:</strong> 03:00 min - 13:51 min</p>
 <p><strong>Duración:</strong> 13:51 min</p>
 
 <div align="center">
@@ -1016,7 +1016,7 @@ Al ser consultado acerca de lo que está buscando en nuestra pagina Web, él nos
 <div align="left">
 <p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
 </div>
-<p><strong>Timing:</strong> 13:52 min</p>
+<p><strong>Timing:</strong> 13:5 min - 27:21 min</p>
 <p><strong>Duración:</strong> 13:30 min</p>
 
 <div align="center">
@@ -1048,7 +1048,7 @@ Al ser consultado acerca de lo que estaría buscando dentro de nuestro sitio Web
 <div align="left">
 <p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
 </div>
-<p><strong>Timing:</strong> 27:22 min</p>
+<p><strong>Timing:</strong> 27:22 min - 40:13 min</p>
 <p><strong>Duración:</strong> 12:52 min</p>
 
 <div align="center">
@@ -4251,27 +4251,9 @@ Uxpressiar: https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc
 <div align="center">Anexos B: Entrevistas</div>
 <br>
 
-<p>&gt <b>Entrevista N° 1:</b><p>
+<p>&gt <b>Entrevistas con nuestros segmentos objetivos:</b><p>
 
-<a href="https://youtu.be/ZIdgHwiWlko">https://youtu.be/ZIdgHwiWlko</a>
-
-<br>
-
-<p>&gt <b>Entrevista N° 2:</b><p>
-
-<a href="https://youtu.be/4FK0_9jsTe4">https://youtu.be/4FK0_9jsTe4</a>
-
-<br>
-
-<p>&gt <b>Entrevista N° 3:</b><p>
-
-<a href="https://youtu.be/4NOoDO7oZMk">https://youtu.be/4NOoDO7oZMk</a>
-
-<br>
-
-
-
-
+<a href="https://upcedupe-my.sharepoint.com/✌️/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/✌️/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a>
 
 </div>
 </div>
