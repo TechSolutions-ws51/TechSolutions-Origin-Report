@@ -3369,7 +3369,7 @@ Para la entrega del Sprint 1, se tuvo pensado alcanzar el desarrollo completo de
 
 | Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
-| [LoyalSips-LandingPage](https://github.com/IsaacAmp24/LoyalSips-LandingPage.git) | Feature/TS-LandingPage | feature:home-section add     | Initial commit | Se creó el proyecto | 08/09/2023|
+| [LoyalSips-LandingPage](https://github.com/TechSolutions-ws51/LoyalSips-LandingPage-Open.git) | Feature/TS-LandingPage | feature:home-section add     | Initial commit | Se creó el proyecto | 08/09/2023|
 
 <br>
 
