@@ -3930,7 +3930,7 @@ Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Lan
 
 <br>
 
-| Web Application Desplegada                                          |[Web Application Loyal-Sips]()                | 
+| Web Application Desplegada                                          |[Web Application Loyal-Sips](https://loyalsips.web.app)                | 
 |---------------------|---------------------|
 
 
