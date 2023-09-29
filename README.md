@@ -4166,7 +4166,7 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156886351678021694/Captura_de_pantalla_2023-09-28_043251.png"></div>
+      <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1157451411961937980/image.png?ex=6518a821&is=651756a1&hm=1930e7d16f862e19cae2794445c5f37a649dff9efdcb8d101e453b029bd5ce37&"></div>
     </td>
 </tr><br>
 
