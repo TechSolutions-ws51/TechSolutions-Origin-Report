@@ -3616,16 +3616,6 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Status (To Do / In - process / To - review / Done)</th>
 </tr>
 <tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US13</td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Experiencia en dispositivos Móviles</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA02</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Adecuación de elementos del landing page para móviles</em></td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Acoplar el tamaño adecuado para dispositivos móviles</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
-       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Huamani Sánchez, José Diego</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
 <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US14</td>
    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Exploración de testimonios</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA03</td>
@@ -3692,7 +3682,7 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Creación del header</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Espacio de interacción con los elementos para direccionarse a otra parte de la página</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes Jean Pierre</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
 </tr>
 <tr>
@@ -3722,7 +3712,7 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Agregación de los colores representativos al startup</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Adecuar los colores representativos del startup para una mejor visibilidad</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Huamani Sanchez, Jose Diego</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
 </tr>
 <tr>
@@ -3742,7 +3732,7 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Generar formularios para digitar datos del usuario</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Espacios para que los usuarios logren concretar sus datos y soliciten ayuda de alguien de soporte para los ayude</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
 </tr>
 <tr>
@@ -3752,16 +3742,6 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Botón de confirmación de datos</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Valida la confirmación de sus datos y procede a enviarlos</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US22</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Experiencia Responsiva</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA16</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Adecuación de los elementos a dispositivos móviles</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Enfoca de manera más óptima los elementos en el Web Application</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
 </tr>
@@ -4046,6 +4026,27 @@ Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Lan
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 Para la entrega del Sprint 2, se alcanzó la actualizacion de la Landing page y la creación de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop. 
 
+Para el desarrollo del Web Application TechSolution decidió usar algunas herramientas como:
+
+- **Html:** Nos permitió crear la estructura del sitio web.
+
+- **Css:** Nos permitió darle estilos a la estructura del sitio web.
+
+- **Typescript:** Nos permitió darle algunas funcionalidades funcionalidad a la estructura del sitio web.
+
+- **Angular:** Nos permitió crear el Web Application.
+
+Para el despliegue del Web Application TechSolution decidió usar algunas herramientas como:
+
+- **Firebase:** Para el despliegue del Web Application, el cual nos permite desplegar el Web Application de manera gratuita.
+
+- **Fake-api:** Para simular el uso de una api real, para poder mostrar los datos de los productos que se ofrecen en la sección de Drinks.
+
+A continuación se muestran algunas evidencias del despliegue del Web Application y la actualización del Landing Page:
+
+**Para el Landing Page Actualizada:**
+
+  <br>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
