@@ -4184,6 +4184,27 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
     </td>
 </tr><br>
 
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de entrevistas.
+
+ **USUARIOS:**
+
+1.	***¿Qué es lo que piensa a simple vista de nuestra aplicación web?***
+2.	***Profundizando un poco con su opinión anterior, si lo relacionamos con el aspecto emocional, ¿Qué es lo que siente cuando lo ve?***
+3.	***¿Qué es lo que más le llama la atención dentro de la aplicación?***
+4.	***Cuáles siente usted que son algunos puntos negativos que pudo encontrar?***
+5.	***¿De qué manera siente usted que podamos mejorar esos altibajos?***
+
+**EMPRESA:**
+1.	***Comenteme, ¿Qué es lo que en primera instancia de la funcionalidad de la aplicación web le llama más la atención?***
+2.	***¿En relación al aspecto de catálogo de productos, ¿Siente que cumple con los objetivos establecidos?***
+> ***Si es que cumple: ¿De que manera siente usted de que lo esta cumpliendo?***
+<br>
+
+> ***Si no los cumple: ¿Cuáles han sido los principales defectos o particularidades que no se concretaron?***
+3.	***En el aspecto del apartado de registro de clientes, ¿Qué es lo que opina? ¿De qué forma siente usted que podamos mejorar para dar un mejor enfoque a la interacción del usuario?***
+
 
 ## Video About-the-Team.
 
