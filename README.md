@@ -4184,6 +4184,78 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
     </td>
 </tr><br>
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3.
+
+<table align="center">
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint #</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3</th>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Planning Background</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Date</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2023-10-18</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Time</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">19:25 PM</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Location</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">El lugar de reunión fue en la plataforma de videoconferencia virtual <strong>“Google Meet”</strong>, de lo cual se desarrolló para conversar en relación a los deberes que cada uno debe desarrollar para este <em>sprint 3.</em> -.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Prepared By</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Huamani Sánchez, José Diego</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Attendees (to planning meeting)</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / Ballona Blas, Naggit German / Huamani Sánchez, José Diego</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Review Summary</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Retrospective Summary</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+</tr>
+<tr>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Goal  & User Stories</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 Goal</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 Velocity</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+</tr>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3.
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de entrevistas.
@@ -4296,16 +4368,12 @@ Seguiremos trabajando para lograr mejorar dichos aspectos y lograr cada vez más
 
 <br>
 
-## Video About-the-Team.
+### Evaluaciones según heurísticas.
 
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
-    <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1157097368458625075/Captura_de_pantalla_2023-09-28_183121.png"></div>
-    </td>
-</tr><br>
 
-Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tp1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EbT3mCj6eoZCp1Jz4YDqA7UBC8-66U2A-8I7z4fRIetL6A?e=JkDnAm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+## 5.4. Video About-The-Product.
+
+
 
 ## Conclusiones
 
@@ -4332,6 +4400,17 @@ Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tp1](https
 -  Con respecto al analisis competitivo desarrollado, podemos concluir que las aplicaciones dirigidas para el sector Bares
 
 - Es un nicho que no cuenta con demasiados competidores que enfoquen a mejorar la experiencia de usuario para los clientes y dueños de bares.
+
+## Video About-the-Team.
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1157097368458625075/Captura_de_pantalla_2023-09-28_183121.png"></div>
+    </td>
+</tr><br>
+
+Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tp1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EbT3mCj6eoZCp1Jz4YDqA7UBC8-66U2A-8I7z4fRIetL6A?e=JkDnAm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ## Bibliografía
 
@@ -4383,5 +4462,7 @@ Uxpressiar: https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc
 
 <a href="https://upcedupe-my.sharepoint.com/✌️/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/✌️/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a>
 
-</div>
+<p>&gt <b>Entrevistas de valdación con nuestros segmentos objetivos:</b><p>
+
+<p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
 </div>
