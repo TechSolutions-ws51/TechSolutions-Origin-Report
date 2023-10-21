@@ -4199,12 +4199,102 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
 **EMPRESA:**
 1.	***Comenteme, ¿Qué es lo que en primera instancia de la funcionalidad de la aplicación web le llama más la atención?***
 2.	***¿En relación al aspecto de catálogo de productos, ¿Siente que cumple con los objetivos establecidos?***
-> ***Si es que cumple: ¿De que manera siente usted de que lo esta cumpliendo?***
-<br>
+> ***Si es que cumple: ¿De que manera siente usted de que lo esta cumpliendo?*** <br>
 
 > ***Si no los cumple: ¿Cuáles han sido los principales defectos o particularidades que no se concretaron?***
 3.	***En el aspecto del apartado de registro de clientes, ¿Qué es lo que opina? ¿De qué forma siente usted que podamos mejorar para dar un mejor enfoque a la interacción del usuario?***
 
+### 5.3.2. Registro de entrevistas.
+
+En este apartado, se evidenciará todas las entrevistas de validación realizadas a nuestro estimado público objetivo respectivamente. Al igual que la dinámica anterior, se presentará la información del entrevistado, resumen de la entrevista y, si son un tanto más curiosos y gustan tener un poco más de información acerca del mismo, pueden ver la entrevista de cada una de ellas mediante los <strong>links</strong> dejados en en la parte posterior o en la sección de <strong>Anexos B</strong>.
+
+### Segmento 1: Clientes que suelen ir a frecuentar un bar
+
+### Entrevista 1:
+
+<p><strong>Nombre:</strong> José Leandro</p>
+<p><strong>Apellido:</strong> Machaca Soloaga</p>
+<p><strong>Edad:</strong> 19</p>
+<p><strong>Distrito:</strong> Santiago de Surco - Lima, Perú</p>
+<div align="left">
+<p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19"></a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</p>
+</div>
+<p><strong>Timing:</strong> 00:02 min - 09:53 min</p>
+<p><strong>Duración:</strong> 09:53 min</p>
+
+<div align="center">
+<img  src="https://media.discordapp.net/attachments/892430247042105427/1165080235335749763/image.png?ex=65458c86&is=65331786&hm=cb7f69d7b461597d3fa24751a4b0a3c31ef8d9d7c5a433dc258cb067b57f82cd&=&width=1215&height=564"  alt="Entrevista_#1" style="width:500px;height:auto;">
+</div>
+
+<br>
+
+<strong>Resumen:</strong> 
+
+<p>En esta oportunidad, nos hemos vuelto a contactar con nuestro cliente <em>José Leandro Machaca<em> para dialogar con él con respecto al direccionamiento que está teniendo nuestro enfoque de desarrollo del proyecto y que es lo que piensa y siente al momento de apreciar el resultado logrado para esta entrega.
+
+En primeras impresiones, a Leandro le ha logrado impactar el diseño minimalista del cuál destaca mucho el efecto de lo colores en correspondencia al entorno web; asimismo, destaca el fácil manejo y el sencillo dinamismo al interactuar con la página. Pero como no todo es color de rosas, hay algunas observaciones que nos enmarcó y dejó muy en claro; estos, mayormente vienen a ser el tema de la tipografía - que en sí es agradable de ver en combinación con los efectos del color y la estética de la página, parece que tiene un parecido a una tipografía <em>Arial<em> -, y el efecto de visualización de la página - este último, aunque no es molesto, prefiere el típico diseño top-down -.
+
+Pero ante todo ello, cumple con la gran parte de sus expectativas y gusta seguir apoyando ante cualquier revisión o apoyo en el tema de diseño para seguir mejorando más el proyecto y que más personas puedan conocer de su gran impacto que puede generar en la sociedad; de antemano le damos las gracias por el tiempo que se tomó y esperamos volver a comunicarnos pronto.</p>
+
+<br>
+
+### Entrevista 2:
+
+<p><strong>Nombre:</strong> Patrizio Leonardo</p>
+<p><strong>Apellido:</strong> Risco Chero</p>
+<p><strong>Edad:</strong> 20</p>
+<p><strong>Distrito:</strong> Chorrillos - Lima, Perú</p>
+<div align="left">
+<p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
+</div>
+<p><strong>Timing:</strong> 09:55 min - 33:06 min</p>
+<p><strong>Duración:</strong> 23:11 min</p>
+
+<div align="center">
+<img  src="https://media.discordapp.net/attachments/892430247042105427/1165080871842357298/image.png?ex=65458d1e&is=6533181e&hm=d1c921d07bb9f7228e248b1c6dc200894889816db7bc9af06a1a0edad4ac459d&=&width=1213&height=564" alt="Entrevista_#2" style="width:500px;height:auto;">
+</div>
+
+<br>
+
+<strong>Resumen:</strong> 
+
+<p>Después de un largo tiempo, nuestro cliente Patrizio Leonardo Risco Chero se logró comunicar con nosotros para mayormente expresarnos su opinión acerca en como iba el progreso del proyecto, por lo que aprovechando también el motivo de la importancia de la reunión, logramos dialogar con él en referencia a la validación del proyecto en el entorno Web.
+
+En base a sus opiniones, ya que él muy sugestivo ante el tema de diseño, nos comentó que como principal defecto que aprecia es el color de las <strong>Cards</strong> de la sección de <em>Services</em>, ya que no está muy ligado a los colores representativos de nuestro logotipo, entonces, hay un aspecto muy punto crítico que hay que resolver. Por otra parte, con respecto a la pestaña de inicio de nuestro aplicación, le gustaría que en vez de mostrar un celular con la muestra del logo de nuestra <em>startup</em>, haya como un fondo atras que lo resalté, ya que lo ve él como algo forzado que como le que quita el porte a la temática.
+
+Dejando de lado los puntos negativos, nos deja muy en claro que este proyecto tiene mucho potencial, solo corrigiendo esos puntos, pueda dar un mejor aspecto para la presentación de todo lo que ofrece dicha página web. Agradecemos a nuestro crítico en diseño y excelso en aspectos de bares Patrizio Risco y esperamos comunicarnos pronto para cualquier otra mejora que de repente requiera el proyecto.</p>
+
+<br>
+
+### Segmento 2: Empresarios del manejo bares
+
+### Entrevista 3:
+
+<p><strong>Nombre:</strong> Fiorella Camila</p>
+<p><strong>Apellido:</strong> Ninasivincha Gonzáles</p>
+<p><strong>Edad:</strong> 19</p>
+<p><strong>Distrito:</strong> Santiago de Surco - Lima, Perú</p>
+<div align="left">
+<p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
+</div>
+<p><strong>Timing:</strong> 33:08 min - 45:24 min</p>
+<p><strong>Duración:</strong> 12:16 min</p>
+
+<div align="center">
+<img  src="https://media.discordapp.net/attachments/892430247042105427/1165081612397064222/image.png?ex=65458dce&is=653318ce&hm=70509ec2a32e1e3cad6840ae41c2f0daf1bd009686ab95c27ba15c211b80eef4&=&width=1207&height=564" alt="Entrevista_#3" style="width:500px;height:auto;">
+</div>
+
+<br>
+
+<strong>Resumen:</strong>
+
+<p>Para validar la retrospectiva del direccionamiento que tiene el proyecto en entorno a la Web, nos hemos puesto en contacto nuevamente con la gerente del bar Fiorella Camila Ninasivincha, de los cuales por medio de la entrevista realiazada, nos pudo comentar de manera suspicaz las extrensicidades que, a primera vista, pudo apreciar, tales como la estética y la buena interacción para lo usuarios - ya que actualmente, el dinamismo y el aspecto "vintage" son lo que más destaca dentro un página -.
+
+Cuando se le preguntó acerca de que es lo que piensa y siente al momento de validar los aspectos de la sección del catálogo de bebidas, le pareció una presentación muy bonita, pero para que ese sugestivismo "bonito" pueda convertirse en "maravilloso", le gustaría que se agregará un poco más de detalle en la descripción de las bebidas - para que que los clientes sepan cuales son los insumos que contiene -. Pasando al aspecto de previsualización de ingreso y registro de usuarios, le fascinó realmente la interacción simple lo cual ayudará a un desenvolvimiento óptimo por parte de los usuarios dentro del <em>website</em>.
+
+Seguiremos trabajando para lograr mejorar dichos aspectos y lograr cada vez más la satisfacción de nuestros cientes y nuestro segmento empresarial. De antemano, agradecemos la validación correspondiente y agradecemos las buenas vibras para todo lo que resta el resta del proyecto.</p>
+
+<br>
 
 ## Video About-the-Team.
 
