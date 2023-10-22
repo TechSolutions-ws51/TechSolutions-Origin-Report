@@ -4218,26 +4218,26 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Review Summary</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">.</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">En esta oportunidad, se volvió a dar una nueva mejoría y actualización a enfoque del <strong>Landing Page</strong> de lo cual respecta a nuestro <em>startup</em> - acoplando la añadidura de algunos <em>user stories</em> y sobre todo los feedbacks desarrollados por nuestros estimados segmentos objetivos en la entrevista de validación -. En complemento a lo que anteriormente se menciones, se brindó también la nueva actualización del <strong>Web Application</strong>, donde igualmente se incluyeron algunos <em>user stories</em> y levantamos algunos observaciones que teniamos en base a las heuristicas que nos hemso autoevaluado. Finalmente, se tiene previsto para esta presentación, el desarrollo y la entrega de la primera versión de nuestro <em>Backend</em>, lo cual se seguirán de manera muy rigurosa los enfoques de negocio y las buenas práctica para un buen mantenimiento y soporte a futuro.</td>
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Retrospective Summary</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Principalmente en esta sección, los <em>team members</em> llegamos a la conclusión de que las nuevas implementaciones llevadas acabo para asemejar el perfecionamiento del dinamismo tanto en el <strong>Landing Page</strong> así como <strong>Web application</strong>, han sido uno de lo que más nos han logrado impactar, ya que le ha dado otra perspectiva más única y personalizada para lo que van a interactuar nuestros usuarios. Sin embargo, sentimos que uno de los aspectos importantes, que en esta oportunidad vino a ser el <strong>Backend</strong> si necesitamos una buena y sugestiva mejora, ya que nos deja algo que desear.</td>
 </tr>
 <tr>
   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Goal  & User Stories</td>
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 Goal</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">El enfoque objetival que se tiene previsto para esta penúltima entrega, referiendonos al sprint 3, está más que todo centrado en el validar los principios de <strong>UI/UX</strong> que opinan nuestro segmento objetivo (más que todo ligado al pensamiento y sentimiento). En base a sus opiniones, mejorar el dinamismo y funcionalidad que tiene nuestro <strong>Lading Page</strong> y <strong>Web application</strong> respectivamente. Por otra parte, en relevancia al lado <strong>Backend</strong> de nuestro aplicación, más que todo va ligado al enfoque de los procesos internos no visibles que le darán la interactividad funcional ante las diferentes acciones que los usuarios desarrollen dentro de la aplicación.</td>
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 Velocity</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este penúltimo sprint, el <strong>Scrum Developer Team</strong> llegó a un acuerdo en aceptar sin ningún tipo de problemas la cantidad de 21 <em>story points</em> respectivamente.</td>
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para lo que conlleva este sprint 3, estamos abarcando los <em>User Stories</em> con identificadores <em><strong>US10</strong></em> el cual equivale 5 puntos, <em><strong>US06</strong></em>, que equivale a 8 puntos y el <em><strong>US012</strong></em> que tiene como equivalencia l8 puntos.</td>
 </tr>
 </table>
 
