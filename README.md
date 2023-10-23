@@ -4289,7 +4289,7 @@ En este apartado, se evidenciará todas las entrevistas de validación realizada
 <p><strong>Edad:</strong> 19</p>
 <p><strong>Distrito:</strong> Santiago de Surco - Lima, Perú</p>
 <div align="left">
-<p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19"></a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</p>
+<p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
 </div>
 <p><strong>Timing:</strong> 00:02 min - 09:53 min</p>
 <p><strong>Duración:</strong> 09:53 min</p>
@@ -4486,9 +4486,107 @@ frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiem
 </table>
 
 <br>
+
 <strong>DESCRIPCIÓN DE PROBLEMAS:</strong>
+<p><strong>Problema #1:</strong> No se puede denotar el límite definido a lo que respecta el inicio de la sección footer.</p>
 
+<p><strong>Severidad:</strong> 2</p>
 
+<p><strong>Heurística/Principio violada(o):</strong> Usability: Effectiveness. Can users achieve their desired goals on your website?</p>
+
+<strong>Problema:</strong>
+<p>En la presentación del <em>Landing Page</em>, se lográ visualizar todo el contenido de lo que respecta a la información representativa del <em>startup</em> en mención; sin embago, al momento de visualizar la parte final del mismo, no se lográ definir si este pertece aun al cuerpo de la página o ya llegó a su fin, por lo que lográ generar ciertas dudas y confunsiones al momento de la interacción.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166064197843562599/image.png?ex=654920e9&is=6536abe9&hm=7629ca94af814d35e89735d502cff6104f4f82cd58bccc27ffab6534f9949252&=&width=1191&height=564" alt="Problem#1_Footer" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda colocar un color un color diferente al apartado del <em>footer</em> para que se diferencia del resto del cuerpo de la pagina; asimismo, colocar un copyright para darle un enfoque más apropiado.</p>
+
+<hr><br>
+
+<p><strong>Problema #2:</strong> En la sección Home, dicha presentación da un toque de seriedad en vez de llamatividad.</p>
+
+<p><strong>Severidad:</strong> 1</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: Is it delightful?</p>
+
+<strong>Problema:</strong>
+<p>Al momento de apreciar la página principal del <em>Web Application</em>, podemos denotar una presentación con tonalidades un tanto elegantes pero serias a la vez, por lo que si más que todo se está enfocando en temática noche y un ambiente de satisfacción - que es lo que representa un bar -, debe cambiar un tanto la presentación del fondo y adecuarlo a algo que se compacte con un nuevo enfoque visual que impacte sin perder los colores representativos de la marca.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166064732088836136/image.png?ex=65492168&is=6536ac68&hm=921508b0d3c6fee8f1dc1295aa9e38a2ac4a1c573296ed55e85751d63cd92ebc&=&width=1195&height=564" alt="Problem#2_Home" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda quitar ese teléfono de fondo y agregar un fondo atrás más representivo a lo qué tranmitimos a nuestros clientes - un fondo dentro de las instalaciones o un grupo de personas diviertiendose por ejemlo, sería una excelente idea -.</p>
+
+<hr><br>
+
+<p><strong>Problema #3:</strong> En la sección de Support, al momento de obtener las posibles preguntas, estás no proporcionan una preguntas clarivendentes.</p>
+
+<p><strong>Severidad:</strong> 4</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: Is it clear?</p>
+
+<strong>Problema:</strong>
+<p>Al momento de argumentar las posibles dudas que pueda presentar dentro de la página, nos percatamos que también hay una guía de posibles preguntas frecuentes de las cuales ya se puede obtener una respuesta; el problema radíca en que esas preguntas, están en un idioma que la gran mayoría de usuarios desconoce, por lo que genera cierta sensación de confusión y dudas al momento de consultar.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166065262299185294/image.png?ex=654921e6&is=6536ace6&hm=1023c487862ae1b335db5de4543c04d61c4b4683d1b115670b7e2fd3c94aeeaf&=&width=1198&height=564" alt="Problem#3_Support" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda agregar preguntas frecuentes verdaderas en lugar del típico <em>Lorem</em> para así dar un toque más de credibilidad y evitar que los usuarios se confundan.</p>
+
+<hr><br>
+
+<p><strong>Problema #4:</strong> Se desconoce quienes son los miembros del equipo que conforman el startup.</p>
+
+<p><strong>Severidad:</strong> 3</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: Is it communicative?</p>
+
+<strong>Problema:</strong>
+<p>En la sección del <em>About us</em>, nose lográ visualizar con exactitud quienes son los representantes o miembros del equipo de los cuales forman gracias a ellos tenemos esta aplicación, por lo que genera cierta dudosidad al momento de interactuar dentro de él, ya que deja a la mente del usuario de que esto no es algo confiable.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166066476302737468/image.png?ex=65492308&is=6536ae08&hm=5c360290eb034a10f419612239e8cafcd21fe76cbfaaa01c586ff2d09d5c9795&=&width=1194&height=564" alt="Problem#4_AboutUs" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda agregar debajo de la <em>card</em> que describe el <strong>startup</strong> un subtitulo que defina a los integrantes que conforman este equipo para que los usuarios sepan un poco de los autores de los cuales, gracias a ello, se pudo llevar a cabo todo ello. </p>
+
+<hr><br>
+
+<p><strong>Problema #5:</strong> El catálogo de bebidas tiene una escasa descripción. Falta detallar un poco más acerca de lo que contiene cada una de las bebidas.</p>
+
+<p><strong>Severidad:</strong> 3</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Usability: User Satisfaction. Do users like to use your website and recommend it to others?</p>
+
+<strong>Problema:</strong>
+<p>Al momento de visualizar el catálogo de bebidas que se tiene dentro del bar, explica de manea muy sencilla y apreciable a la vez de las bebidas que dentro del lugar sirven; pero, lo que si deja mucho que desear, es el tema de detalle de lo que contiene o de lo que se compone esa bebida, ya que al dejarlo solo así, no impacta o no llama tanto la atención de los nuevos usuarios que tal vbz nunca han ido a visitar un bar.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166067321647943741/image.png?ex=654923d1&is=6536aed1&hm=788e3e5f5edee29b422113edc42334810bd070d96cf567f6775312db05c8b7d1&=&width=1204&height=564" alt="Problem#5_Drinks" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda añadir más información que detalle un poco más de los insumos que contienen tantos dichas bebidas como dichas promociones para dar un mejor panorama en la elección de lo que el mismo usuario desee consumir.</p>
+
+<br>
 
 ## 5.4. Video About-The-Product.
 
