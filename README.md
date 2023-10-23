@@ -4237,7 +4237,7 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para lo que conlleva este sprint 3, estamos abarcando los <em>User Stories</em> con identificadores <em><strong>US10</strong></em> el cual equivale 5 puntos, <em><strong>US06</strong></em>, que equivale a 8 puntos y el <em><strong>US012</strong></em> que tiene como equivalencia l8 puntos.</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para lo que conlleva este sprint 3, estamos abarcando los <em>User Stories</em> con identificadores <em><strong>US10</strong></em> el cual equivale 5 puntos, <em><strong>US06</strong></em>, que equivale a 8 puntos y el <em><strong>US12</strong></em> que tiene como equivalencia 8 puntos.</td>
 </tr>
 </table>
 
@@ -4393,10 +4393,11 @@ Seguiremos trabajando para lograr mejorar dichos aspectos y lograr cada vez más
 
 <ol>
 <li>Cambio de idioma en la página</li>
-<li>Dinamismo e interacciones en las secciones del <em>navbar</em></li>
-<li>Interacción del footer en el <em>Landing Page</em></li>
+<li>Sección del <strong><em>navbar</em></strong> en el <em>Landing Page</em></li>
 <li>Sección de <strong>Support</strong> en el <em>Web Application</em></li>
 <li>Sección <strong>Home</strong> en el <em>Web Application</em></li>
+<li>Descripción de la presentación de la sección del <strong>About us</strong> del <em>startup</em></li>
+<li>Sección <strong>Drinks</strong> en el <em>Web Application</em></li>
 </ol>
 
 <br>
@@ -4454,39 +4455,33 @@ frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiem
 </tr>
 <tr>
    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">No se puede denotar el límite definido a lo que respecta el inicio de la sección <em>footer</em>.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: Effectiveness. Can users achieve their desired goals on your website?</td>
 </tr>
 <tr>
    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">En la sección <strong>Home</strong>, dicha presentación da un toque de seriedad en vez de llamatividad.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: Is it delightful?</td>
 </tr>
 <tr>
    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">En la sección de <strong>Support</strong>, al momento de obtener las posibles preguntas, estás no proporcionan una preguntas clarivendentes.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: Is it clear?</td>
 </tr>
 <tr>
    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Se desconoce quienes son los miembros del equipo que conforman el <strong>startup</strong></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: Is it communicative?</td>
 </tr>
 <tr>
    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">5</td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
-</tr>
-<tr>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">6</td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">El catálogo de bebidas tiene una escasa descripción. Falta detallar un poco más acerca de lo que contiene cada una de las bebidas.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: User Satisfaction. Do users like to use your website and recommend it to others?</td>
 </tr>
 </table>
 
