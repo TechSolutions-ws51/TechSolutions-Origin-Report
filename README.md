@@ -4369,6 +4369,130 @@ Seguiremos trabajando para lograr mejorar dichos aspectos y lograr cada vez más
 <br>
 
 ### Evaluaciones según heurísticas.
+<div align='center'>
+<h2>UX Heuristics & Principles Evaluation</h2>
+<h3>Usability – Inclusive Design – Information Architecture</h3>
+</div>
+
+<p><strong>CARRERA:</strong> Ingenieria de Software</p>
+<p><strong>CURSO:</strong> Desarrollo de Aplicaciones Open Source</p>
+<p><strong>SECCIÓN:</strong> WS51</p>
+<p><strong>PROFESORES:</strong> Todos</p>
+<p><strong>AUDITOR:</strong> TechSolution</p>
+<p><strong>CLIENTE(S):</strong> Ampudia Flores, José Carlos Isaac, Alarcón Rondón, Sandro Fourfive, Morin Fuentes, Jean Pierre, Huamani Sánchez, José Diego, Ballona Blas, Naggit German.</p>
+
+<hr><br>
+
+<strong>SITE O APP A EVALUAR:</strong>
+<P>Landing Page & Web Application of LoyalSips</p>
+
+<br>
+
+<strong>TAREAS A EVALUAR:</strong>
+<p>El alcance de esta evaluación incluye la revisión de las siguientes tareas:</p>
+
+<ol>
+<li>Cambio de idioma en la página</li>
+<li>Dinamismo e interacciones en las secciones del <em>navbar</em></li>
+<li>Interacción del footer en el <em>Landing Page</em></li>
+<li>Sección de <strong>Support</strong> en el <em>Web Application</em></li>
+<li>Sección <strong>Home</strong> en el <em>Web Application</em></li>
+</ol>
+
+<br>
+<p>No están incluidas en esta versión de la evaluación las siguientes tareas:</p>
+
+<ol>
+<li>Ingresar con una cuenta</li>
+<li>Crear una cuenta nuvea</li>
+<li>Redireccionamiento de las cards</li>
+<li>Envió de comentarios a soporte</li>
+</ol>
+
+<br>
+
+<strong>ESCALA DE SEVERIDAD:</strong>
+<p>Los errores serán puntuados tomando en cuenta la siguiente escala de severidad</p>
+
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Nivel</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripción</th>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco
+frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de
+   superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso dela herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+</tr>
+</table>
+
+<br>
+
+<strong>TABLA RESUMEN:</strong>
+
+<br>
+
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">#</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Problema</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Escala de severidad</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Heurística/Principio violada(o)</th>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">5</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">6</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;"></td>
+</tr>
+</table>
+
+<br>
+<strong>DESCRIPCIÓN DE PROBLEMAS:</strong>
+
 
 
 ## 5.4. Video About-The-Product.
