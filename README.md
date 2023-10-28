@@ -121,6 +121,36 @@ A continuación, se muestra las tareas asignadas a cada integrante del equipo pa
 </table>
 <br>
 
+A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe TB2.
+
+<table style="margin: 0 auto;">
+  <tr>
+    <th>Miembro</th>
+    <th>Responsabilidad</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Jose Ampudia</td>
+    <td style="text-align: justify;">Actualización y despliegue de la nueva version del <strong>Landing page</strong>, actualización de la nueva versión del <em>Project Report Colaboration Insights</em>, elaboración de la sección <em>Home</em> para el <strong>Web application</strong>.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Alarcon Rondon</td>
+    <td style="text-align: justify;">Desarrollo de la nueva versión del <em>Testing Suite Evidence for Sprint Review</em> para este sprint, elaboración del <em>Execution Evidence for Sprint Review</em>, actualización de la sección <em>Services</em> del <strong>Web application</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Morin Fuentes</td>
+    <td style="text-align: justify;">Elaboración del <em>Team Colaboration Insights during Sprint</em>, actualización de las conclusiones y anexos, actualización de la sección del apartado de <em>Login</em> en el <strong>Web Application</strong>.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Huamani Sánchez</td>
+    <td style="text-align: justify;">Elaboración del <strong>Sprint planning 3</strong>, desarrolló del <strong>Sprint Backlog 3</strong>, elaboración del <em>Development Evidence for Sprint Review</em>, desarrolló del Diseño de entrevistas, elaboración del registro de entrevistas, implementación de las Evaluaciones según <em>Heúritcas</em>, actualización de la sección <em>Contact</em> en el <strong>Web Application</strong>.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Ballona Blas</td>
+    <td style="text-align: justify;">Elaboración del Video <strong>About-the-Product</strong>, desarrollo del <em>Services Documentation Evidence for Sprint Review</em>, elaboración del <em>Software Deployment Evidence for Sprint Review</em>.</td>
+  </tr>
+</table>
+<br>
+
 <div align='justify'>
 Para el desarrollo del informe, se realizaron commits respectivos a la tarea asignada para cada integrante del equipo. A continuacón, se muestran los usuarios de github que corresponden a cada integrante del equipo.
 
