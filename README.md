@@ -289,7 +289,22 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
         - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
         - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
         - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-        - [5.2.2.8. Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)<br><br>
+    - [5.2.3. Sprint 3](#523-sprint-3)
+        - [5.2.3.1. Sprint Planning 2](#5223-sprint-planning-3)
+        - [5.2.3.2. Sprint Backlog 2](#5223-sprint-backlog-3)
+        - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+        - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint](5238-team-collaboration-insights-during-sprint)<br>
+- [5.3 Validation Interviews](#53-validation-interviews)
+    - [5.3.1 Diseño de entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2 Registro de entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3 Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+- [5.4 Video About-the-Product](#54-video-about-the-product)
+- [Avance de Conclusiones, Bibliografía y Anexos](#54-avance-de-conclusiones-bibliografia-anexos)
 
 
 
@@ -4277,6 +4292,40 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
 </table>
 
 #### 5.2.3.2. Sprint Backlog 3.
+
+<div align='justify'>
+<p>Para lo que respecta a este sprint, se llevó a cabo las suspicaces actualizaciones tanto de nuestro <strong>Landing Page</strong> como nuestro <strong>Web application</strong> - tomando muy en consideración los <em>feeedbacks</em> de nuestros segmentos objetivos y heurísticas recibidas para llevarlos a cabo -. Para este sprint, se tuvo un plazo de concretación estimado de 3 semanas, de lo cual, se dió inicio el día 20 de octubre del año 2023 y, como principal objetivo - muy aparte de las actualizaciones -, es implementar las primeras fases de implementación de nuestro <strong>Backend</strong> para todo lo que se va a denotar en el <em>core</em> funcional de nuestro negocio; por lo que, siguiendo las buenas prácticas de <strong>Clean Code</strong>, damos un riguroso y una mantenible infraestructura para toda la funcionalidad de la lógica del negocio. Dividiendo y dando seguimiento de los tasks correspondientes, tratamos en seguir cumpliendo con las expectativas de todos nuestros usuarios y que esto pueda seguir impulsando más la facilidad de apoyo en sus labores en sus respectivos roles. </p>
+</div>
+
+<div align="center">
+<img src="https://media.discordapp.net/attachments/892430247042105427/1170118520089088090/image.png?ex=6557e0ca&is=65456bca&hm=14724a63117f5fb716758222f6ac92868b98a3829cd4de497f466b4d87125c7b&=&width=1327&height=564" alt="Sprint-Backlog2-Image" style="width:600px;height:auto;">
+</div>
+
+<div align="center">
+<p><strong>Link del Trello:</strong> <a href="https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps">https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps</a></p>
+</div>
+
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint #</th>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3</td>
+</tr>
+<tr>
+ <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">User Story</th>
+ <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Work Item / Task</th>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ID</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Title</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ID</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Title</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Description</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Estimation (hours)</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Assigned To</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Status (To Do / In - process / To - review / Done)</th>
+</tr>
+</table>
+
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
 
