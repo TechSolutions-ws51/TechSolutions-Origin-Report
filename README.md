@@ -179,7 +179,7 @@ En el siguiente gráfico se muestra la cantidad de commits realizados por cada i
 </div>
 
 <div align='center'>
-<img src="https://media.discordapp.net/attachments/1145898392631918606/1155033005778272318/cantidad_de_commits.png" width="" height="">
+<img src="https://media.discordapp.net/attachments/892430247042105427/1170088239718211644/image.png?ex=6557c497&is=65454f97&hm=0af6b550036a542113d8da65284e5654ce7bfbebd24c0cff0b82fd329d2d8142&=&width=1017&height=564" width="" height="">
 </div>
 <br>
 
@@ -191,7 +191,7 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
 <br>
 
 <div align='center'>
-<img src="https://media.discordapp.net/attachments/1145898392631918606/1155035277639823420/Network.png" width="" height="">
+<img src="https://media.discordapp.net/attachments/892430247042105427/1170085429832331314/image.png?ex=6557c1f9&is=65454cf9&hm=f9d8949aa97e0c852b7c7d5efca5b276070c424bb88de2921a8b22877a0ccdce&=&width=1393&height=522" width="" height="">
 </div>
 <br>
 
