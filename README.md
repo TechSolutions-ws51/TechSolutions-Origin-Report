@@ -40,14 +40,19 @@
 |:-------------:|:-------------:|:------------------------|:------------------------|
 |1              |  26/08/2023    | Ampudia Flores          |**Capitulo 1** <br> - Implementó el Lean UX Assumptions. <br> - Lean UX Hypothesys  Statements.<br><br>**Capitulo 2**<br>- Estrategias y tácticas frente a competidores.<br> - Diseño de entrevistas.<br><br>**Capitulo 3**<br> - To-Be Scenario Mapping. <br><br>**Capitulo 4**<br>- Landing Page UI Design.<br>- Landing Page Wireframe.<br>- Landing Page Mock-up.<br>- Web Applications UX/UI Design.<br>- Web Applications Wireframes.<br>- Web Applications Wireflow Diagrams.<br>- Web Applications Mock-ups.<br>- Web Applications User Flow Diagrams.<br>- Web Applications Prototyping.<br><br>**Capitulo 5**<br>- Testing Suite Evidence for Sprint Review.<br>- Execution Evidence for Sprint Review.<br>- Services Documentation Evidence for Sprint Review.<br><br> |
 |2              |   18/09/2023  | Ampudia Flores          |**Capitulo 1** <br> - Correccion de detalles en Lean UX Assumptions <br><br>**Capitulo 2**<br>- Corrección de detalles en el apartado de entrevistas. <br><br>**Capitulo 3**<br> - Corrección del To-be Scenario Mapping. <br><br>**Capitulo 4**<br>- Implementacion de Landing Page Mock-up actualizada. <br><br>**Capitulo 5**<br>- Implementacion de Landing Page actualizada, despliegue del Landing Page por Github pages.<br><br> |
+|3              |   19/10/2023  | Ampudia Flores          |**Capitulo 5**<br>- Despliegue de la nueva versión del <strong>Landing Page</strong>. <br>-Actualización del Project Report Colaboration Insights <br>- Actualización de la sección Home del <strong>Web Application</strong> <br><br> |
 |1              |   29/08/2023   | Alarcon Rondon          |**Capitulo 1** <br> - Implementó el Startup Profile. <br> - Descripcion del Startup.<br>- Perfiles de integrantes del equipo.<br><br>**Capitulo 2**<br>- Competidores.<br> - Análisis competitivo.<br><br>**Capitulo 3**<br> - Impact Mapping. <br><br>**Capitulo 4**<br>- Domain-Driven Software Architecture.<br>- Software Architecture Context Diagram.<br>- Software Architecture Container Diagrams.<br>- Software Architecture Components Diagrams.<br><br>**Capitulo 5**<br>- Software Development Environment Configuration.<br>- Source Code Management.<br><br>|
 |2              |  21/09/23  | Alarcon Rondon          |**Capitulo 3**<br> - Corrección del Impact mapping y actualización. <br><br>**Capitulo 4**<br>- Corrección de los diagramas de DDD. <br><br>**Capitulo 5**<br>- Implementación de la seccion Contact de la Web Application. <br><br> |
+|3              |   22/10/2023  | Alarcon Rondon          |**Capitulo 5**<br>-Testing Suite Evidence for Sprint Review. <br>-Execution Evidence for Sprint Review. -<br> Actualización del apartado del Login en el <strong>Web Application</strong>  <br><br> |
 |1              |   27/08/2023   | Morin Fuentes           |**Capitulo 1** <br> - Implementó el Solution Profile. <br> - Antecedentes y problematicas.<br><br>**Capitulo 2**<br>- Needfinding.<br> - User Personas.<br>- User Task Matrix.<br><br>**Capitulo 3**<br> - User Stories. <br><br>**Capitulo 4**<br>- General Style Guidelines.<br>- Web Style Guidelines.<br>- Information Architecture.<br>- Organization Systems.<br>- Labeling Systems.<br><br>**Capitulo 5**<br>- Software Deployment Evidence for Sprint Review.<br>- Team Collaboration Insights during Sprint.<br>- Avance de Conclusiones, Bibliografía y Anexos.<br><br>|
 |2              |   20/09/2023   | Morin Fuentes           |**Capitulo 2**<br>- Corrección y actualización de Needfinding y User Personas. <br><br>**Capitulo 3**<br> - Corrección y actualización de User Stories. <br><br>**Capitulo 5**<br>- Implementación de la sección Home, Drinks, y creación del repositorio del Web Application. <br><br> |
+|3              |   25/10/2023  | Morin Fuentes         |**Capitulo 5**<br>- Team Colaboration Insights during Sprint. <br>- Actualización de Conclusiones, Bibliografía y Anexos. <br>-actualización de la sección del apartado de Login en el Web Application.<br><br> |
 |1              |   01/09/2023   | Huamani Sánchez    |**Capitulo 1** <br> - Implementó el Lean UX Proccess. <br> - Lean UX Problem Statements.<br><br>**Capitulo 2**<br>- Registro de entrevistas.<br> - Análisis de entrevistas.<br><br>**Capitulo 4**<br>- Class Dictionary.<br>- Database Design.<br>- Database Diagram.<br><br>**Capitulo 5**<br>- Sprint Planning 1.<br>- Sprint Backlog 1.<br>- Development Evidence for Sprint Review.<br><br> |
 |2              |  23/09/2023 | Huamani Sánchez    |**Capitulo 1** <br> - Corrección y actualización del Problem Statements. <br><br>**Capitulo 2**<br>- Actualización de plantilla de entrevistas. <br><br>**Capitulo 4**<br>- Corrección de nomenclaturas del DataBase Diagram. <br><br>**Capitulo 5**<br>- Implementación de la sección About us del Web Application. <br><br> |
+|3              |   15/10/2023  | Huamani Sánchez    |**Capitulo 5**<br>- Sprint Planning 3 <br>- Sprint Backlog 3 <br>- Development Evidence for Sprint Review <br>- Diseño de entrevistas <br>- Registro de entrevistas <br>- Evaluaciones según heurísticas. <br>- implementación de las Evaluaciones según Heúritcas, actualización de la sección Contact en el Web Application.<br><br> |
 |1              |   02/09/2023   | Ballona Blas    |**Capitulo 1** <br> - Implementó el Lean UX Canvas. <br> - Segmento Objetivo.<br><br>**Capitulo 2**<br>- User Journey Mapping.<br> - Empathy Mapping.<br>- As-is Scenario Mapping.<br><br>**Capitulo 3**<br> - Product Backlog. <br><br>**Capitulo 4**<br>- SEO Tags and Meta Tags.<br>- Searching Systems. <br>- Navigation Systems.<br>- Software Object-Oriented Design.<br>- Class Diagrams.<br><br>**Capitulo 5**<br>- Source Code Style Guide & Conventions.<br>- Software Deployment Configuration.<br>- Landing Page, Services & Applications Implementation.<br><br> |
 |2              | 23/09/2023 | Ballona Blas    |**Capitulo 2**<br>- Actualización y corrección del As-is Scenario Mapping y otros mapas. <br><br>**Capitulo 3**<br>- Actualización del Product Backlog<br><br>**Capitulo 4**<br>- Actualización del Class Diagrams.<br><br>**Capitulo 5**<br>- Actualización Conclusiones y Anexos.|
+|3              |   27/10/2023  | Ballona Blas    | **Capitulo 5**<br>- Services Documentation Evidence for Sprint Review. <br>- Software Deployment Evidence for Sprint Review. <br>- Video About-the-Product.<br><br> |
 
 
 <br><br>
@@ -121,6 +126,36 @@ A continuación, se muestra las tareas asignadas a cada integrante del equipo pa
 </table>
 <br>
 
+A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe TB2.
+
+<table style="margin: 0 auto;">
+  <tr>
+    <th>Miembro</th>
+    <th>Responsabilidad</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Jose Ampudia</td>
+    <td style="text-align: justify;">Actualización y despliegue de la nueva version del <strong>Landing page</strong>, actualización de la nueva versión del <em>Project Report Colaboration Insights</em>, Actualización de la sección <em>Home</em> para el <strong>Web application</strong>.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Alarcon Rondon</td>
+    <td style="text-align: justify;">Desarrollo de la nueva versión del <em>Testing Suite Evidence for Sprint Review</em> para este sprint, elaboración del <em>Execution Evidence for Sprint Review</em>, actualización de la sección <em>Services</em> del <strong>Web application</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Morin Fuentes</td>
+    <td style="text-align: justify;">Elaboración del <em>Team Colaboration Insights during Sprint</em>, actualización de las conclusiones y anexos, actualización de la sección del apartado de <em>Login</em> en el <strong>Web Application</strong>.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Huamani Sánchez</td>
+    <td style="text-align: justify;">Elaboración del <strong>Sprint planning 3</strong>, desarrolló del <strong>Sprint Backlog 3</strong>, elaboración del <em>Development Evidence for Sprint Review</em>, desarrolló del Diseño de entrevistas, elaboración del registro de entrevistas, implementación de las Evaluaciones según <em>Heúritcas</em>, actualización de la sección <em>Contact</em> en el <strong>Web Application</strong>.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Ballona Blas</td>
+    <td style="text-align: justify;">Elaboración del Video <strong>About-the-Product</strong>, desarrollo del <em>Services Documentation Evidence for Sprint Review</em>, elaboración del <em>Software Deployment Evidence for Sprint Review</em>.</td>
+  </tr>
+</table>
+<br>
+
 <div align='justify'>
 Para el desarrollo del informe, se realizaron commits respectivos a la tarea asignada para cada integrante del equipo. A continuacón, se muestran los usuarios de github que corresponden a cada integrante del equipo.
 
@@ -144,7 +179,7 @@ En el siguiente gráfico se muestra la cantidad de commits realizados por cada i
 </div>
 
 <div align='center'>
-<img src="https://media.discordapp.net/attachments/1145898392631918606/1155033005778272318/cantidad_de_commits.png" width="" height="">
+<img src="https://media.discordapp.net/attachments/892430247042105427/1170088239718211644/image.png?ex=6557c497&is=65454f97&hm=0af6b550036a542113d8da65284e5654ce7bfbebd24c0cff0b82fd329d2d8142&=&width=1017&height=564" width="" height="">
 </div>
 <br>
 
@@ -156,7 +191,7 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
 <br>
 
 <div align='center'>
-<img src="https://media.discordapp.net/attachments/1145898392631918606/1155035277639823420/Network.png" width="" height="">
+<img src="https://media.discordapp.net/attachments/892430247042105427/1170085429832331314/image.png?ex=6557c1f9&is=65454cf9&hm=f9d8949aa97e0c852b7c7d5efca5b276070c424bb88de2921a8b22877a0ccdce&=&width=1393&height=522" width="" height="">
 </div>
 <br>
 
@@ -254,7 +289,22 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
         - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
         - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
         - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-        - [5.2.2.8. Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)<br><br>
+    - [5.2.3. Sprint 3](#523-sprint-3)
+        - [5.2.3.1. Sprint Planning 2](#5223-sprint-planning-3)
+        - [5.2.3.2. Sprint Backlog 2](#5223-sprint-backlog-3)
+        - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+        - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint](5238-team-collaboration-insights-during-sprint)<br>
+- [5.3 Validation Interviews](#53-validation-interviews)
+    - [5.3.1 Diseño de entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2 Registro de entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3 Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+- [5.4 Video About-the-Product](#54-video-about-the-product)
+- [Avance de Conclusiones, Bibliografía y Anexos](#54-avance-de-conclusiones-bibliografia-anexos)
 
 
 
@@ -4166,7 +4216,7 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156886351678021694/Captura_de_pantalla_2023-09-28_043251.png"></div>
+      <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1157451411961937980/image.png?ex=6518a821&is=651756a1&hm=1930e7d16f862e19cae2794445c5f37a649dff9efdcb8d101e453b029bd5ce37&"></div>
     </td>
 </tr><br>
 
@@ -4184,37 +4234,448 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
     </td>
 </tr><br>
 
+
+<table align="center">
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint #</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3</th>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Planning Background</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Date</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2023-10-18</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Time</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">19:25 PM</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Location</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">El lugar de reunión fue en la plataforma de videoconferencia virtual <strong>“Google Meet”</strong>, de lo cual se desarrolló para conversar en relación a los deberes que cada uno debe desarrollar para este <em>sprint 3.</em> -.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Prepared By</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Huamani Sánchez, José Diego</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Attendees (to planning meeting)</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / Ballona Blas, Naggit German / Huamani Sánchez, José Diego</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Review Summary</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">En esta oportunidad, se volvió a dar una nueva mejoría y actualización a enfoque del <strong>Landing Page</strong> de lo cual respecta a nuestro <em>startup</em> - acoplando la añadidura de algunos <em>user stories</em> y sobre todo los feedbacks desarrollados por nuestros estimados segmentos objetivos en la entrevista de validación -. En complemento a lo que anteriormente se menciones, se brindó también la nueva actualización del <strong>Web Application</strong>, donde igualmente se incluyeron algunos <em>user stories</em> y levantamos algunos observaciones que teniamos en base a las heuristicas que nos hemso autoevaluado. Finalmente, se tiene previsto para esta presentación, el desarrollo y la entrega de la primera versión de nuestro <em>Backend</em>, lo cual se seguirán de manera muy rigurosa los enfoques de negocio y las buenas práctica para un buen mantenimiento y soporte a futuro.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Retrospective Summary</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Principalmente en esta sección, los <em>team members</em> llegamos a la conclusión de que las nuevas implementaciones llevadas acabo para asemejar el perfecionamiento del dinamismo tanto en el <strong>Landing Page</strong> así como <strong>Web application</strong>, han sido uno de lo que más nos han logrado impactar, ya que le ha dado otra perspectiva más única y personalizada para lo que van a interactuar nuestros usuarios. Sin embargo, sentimos que uno de los aspectos importantes, que en esta oportunidad vino a ser el <strong>Backend</strong> si necesitamos una buena y sugestiva mejora, ya que nos deja algo que desear.</td>
+</tr>
+<tr>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Goal  & User Stories</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 Goal</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">El enfoque objetival que se tiene previsto para esta penúltima entrega, referiendonos al sprint 3, está más que todo centrado en el validar los principios de <strong>UI/UX</strong> que opinan nuestro segmento objetivo (más que todo ligado al pensamiento y sentimiento). En base a sus opiniones, mejorar el dinamismo y funcionalidad que tiene nuestro <strong>Lading Page</strong> y <strong>Web application</strong> respectivamente. Por otra parte, en relevancia al lado <strong>Backend</strong> de nuestro aplicación, más que todo va ligado al enfoque de los procesos internos no visibles que le darán la interactividad funcional ante las diferentes acciones que los usuarios desarrollen dentro de la aplicación.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 Velocity</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este penúltimo sprint, el <strong>Scrum Developer Team</strong> llegó a un acuerdo en aceptar sin ningún tipo de problemas la cantidad de 21 <em>story points</em> respectivamente.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para lo que conlleva este sprint 3, estamos abarcando los <em>User Stories</em> con identificadores <em><strong>US10</strong></em> el cual equivale 5 puntos, <em><strong>US06</strong></em>, que equivale a 8 puntos y el <em><strong>US12</strong></em> que tiene como equivalencia 8 puntos.</td>
+</tr>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3.
+
+<div align='justify'>
+<p>Para lo que respecta a este sprint, se llevó a cabo las suspicaces actualizaciones tanto de nuestro <strong>Landing Page</strong> como nuestro <strong>Web application</strong> - tomando muy en consideración los <em>feeedbacks</em> de nuestros segmentos objetivos y heurísticas recibidas para llevarlos a cabo -. Para este sprint, se tuvo un plazo de concretación estimado de 3 semanas, de lo cual, se dió inicio el día 20 de octubre del año 2023 y, como principal objetivo - muy aparte de las actualizaciones -, es implementar las primeras fases de implementación de nuestro <strong>Backend</strong> para todo lo que se va a denotar en el <em>core</em> funcional de nuestro negocio; por lo que, siguiendo las buenas prácticas de <strong>Clean Code</strong>, damos un riguroso y una mantenible infraestructura para toda la funcionalidad de la lógica del negocio. Dividiendo y dando seguimiento de los tasks correspondientes, tratamos en seguir cumpliendo con las expectativas de todos nuestros usuarios y que esto pueda seguir impulsando más la facilidad de apoyo en sus labores en sus respectivos roles. </p>
+</div>
+
+<div align="center">
+<img src="https://media.discordapp.net/attachments/892430247042105427/1170118520089088090/image.png?ex=6557e0ca&is=65456bca&hm=14724a63117f5fb716758222f6ac92868b98a3829cd4de497f466b4d87125c7b&=&width=1327&height=564" alt="Sprint-Backlog2-Image" style="width:600px;height:auto;">
+</div>
+
+<div align="center">
+<p><strong>Link del Trello:</strong> <a href="https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps">https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps</a></p>
+</div>
+
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint #</th>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3</td>
+</tr>
+<tr>
+ <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">User Story</th>
+ <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Work Item / Task</th>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ID</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Title</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ID</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Title</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Description</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Estimation (hours)</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Assigned To</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Status (To Do / In - process / To - review / Done)</th>
+</tr>
+</table>
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+
+<p>Como parte de la revisión del tercer sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de <em>commits</em> en diferentes repositorios. Durante este sprint, nos enfocamos en realizar los ajustes de mejora para nuestro <strong>Landing Page</strong>,  la actualizacion del <em>Frontend Web Application</em> respecto a nuestro <strong>Startup</strong>. Por otro lado, se tuvo como objetivo desarrollar la primera version del <strong>Backend</strong> de nuestra aplicacion, el cual se hizo en el lenguaje de programacion Java, teniendo en cuenta el uso de Domain Driven Design. Los commits registrados en diversos repositorios reflejan el trabajo realizado en estas áreas en específico.</p>
+
+
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
-
-Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se actualizó la version que se tenia inicialmente del Frontend de la aplicacion. Por otro lado, la parte esencial del Sprint 3, consiste en la primera version de la implementacion del Backend del web aplication. Por el momento no se pudo desplegar el Backend de la aplicacion, pero para la siguiente entrega lo tendremos listo.
-
-| Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
-| [LoyalSips-Backend](https://github.com/TechSolutions-ws51/loyalsips.git) | master | chore: initial commit.     | Backend added | Se creó el proyecto | 23/10/2023|
-
-<br>
-
-| Loyal Sips Backend Desplegada                                          |[LoyalSips-Backend-Swagger](https://loyalsips-44e19.web.app/home)                | 
-|---------------------|---------------------|
-
-| Loyal Sips Frontend Actualizada                                          |[LoyalSips-Frontend](https://loyalsips-44e19.web.app)                | 
-|---------------------|---------------------|
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 
+## 5.3. Validation Interviews.
 
-## 5.5 Video About-the-Team.
+### 5.3.1. Diseño de entrevistas.
 
+ **USUARIOS:**
+
+1.	***¿Qué es lo que piensa a simple vista de nuestra aplicación web?***
+2.	***Profundizando un poco con su opinión anterior, si lo relacionamos con el aspecto emocional, ¿Qué es lo que siente cuando lo ve?***
+3.	***¿Qué es lo que más le llama la atención dentro de la aplicación?***
+4.	***Cuáles siente usted que son algunos puntos negativos que pudo encontrar?***
+5.	***¿De qué manera siente usted que podamos mejorar esos altibajos?***
+
+**EMPRESA:**
+1.	***Comenteme, ¿Qué es lo que en primera instancia de la funcionalidad de la aplicación web le llama más la atención?***
+2.	***¿En relación al aspecto de catálogo de productos, ¿Siente que cumple con los objetivos establecidos?***
+> ***Si es que cumple: ¿De que manera siente usted de que lo esta cumpliendo?*** <br>
+
+> ***Si no los cumple: ¿Cuáles han sido los principales defectos o particularidades que no se concretaron?***
+3.	***En el aspecto del apartado de registro de clientes, ¿Qué es lo que opina? ¿De qué forma siente usted que podamos mejorar para dar un mejor enfoque a la interacción del usuario?***
+
+### 5.3.2. Registro de entrevistas.
+
+En este apartado, se evidenciará todas las entrevistas de validación realizadas a nuestro estimado público objetivo respectivamente. Al igual que la dinámica anterior, se presentará la información del entrevistado, resumen de la entrevista y, si son un tanto más curiosos y gustan tener un poco más de información acerca del mismo, pueden ver la entrevista de cada una de ellas mediante los <strong>links</strong> dejados en en la parte posterior o en la sección de <strong>Anexos B</strong>.
+
+### Segmento 1: Clientes que suelen ir a frecuentar un bar
+
+### Entrevista 1:
+
+<p><strong>Nombre:</strong> José Leandro</p>
+<p><strong>Apellido:</strong> Machaca Soloaga</p>
+<p><strong>Edad:</strong> 19</p>
+<p><strong>Distrito:</strong> Santiago de Surco - Lima, Perú</p>
+<div align="left">
+<p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
+</div>
+<p><strong>Timing:</strong> 00:02 min - 09:53 min</p>
+<p><strong>Duración:</strong> 09:53 min</p>
+
+<div align="center">
+<img  src="https://media.discordapp.net/attachments/892430247042105427/1165080235335749763/image.png?ex=65458c86&is=65331786&hm=cb7f69d7b461597d3fa24751a4b0a3c31ef8d9d7c5a433dc258cb067b57f82cd&=&width=1215&height=564"  alt="Entrevista_#1" style="width:500px;height:auto;">
+</div>
+
+<br>
+
+<strong>Resumen:</strong> 
+
+<p>En esta oportunidad, nos hemos vuelto a contactar con nuestro cliente <em>José Leandro Machaca<em> para dialogar con él con respecto al direccionamiento que está teniendo nuestro enfoque de desarrollo del proyecto y que es lo que piensa y siente al momento de apreciar el resultado logrado para esta entrega.
+
+En primeras impresiones, a Leandro le ha logrado impactar el diseño minimalista del cuál destaca mucho el efecto de lo colores en correspondencia al entorno web; asimismo, destaca el fácil manejo y el sencillo dinamismo al interactuar con la página. Pero como no todo es color de rosas, hay algunas observaciones que nos enmarcó y dejó muy en claro; estos, mayormente vienen a ser el tema de la tipografía - que en sí es agradable de ver en combinación con los efectos del color y la estética de la página, parece que tiene un parecido a una tipografía <em>Arial<em> -, y el efecto de visualización de la página - este último, aunque no es molesto, prefiere el típico diseño top-down -.
+
+Pero ante todo ello, cumple con la gran parte de sus expectativas y gusta seguir apoyando ante cualquier revisión o apoyo en el tema de diseño para seguir mejorando más el proyecto y que más personas puedan conocer de su gran impacto que puede generar en la sociedad; de antemano le damos las gracias por el tiempo que se tomó y esperamos volver a comunicarnos pronto.</p>
+
+<br>
+
+### Entrevista 2:
+
+<p><strong>Nombre:</strong> Patrizio Leonardo</p>
+<p><strong>Apellido:</strong> Risco Chero</p>
+<p><strong>Edad:</strong> 20</p>
+<p><strong>Distrito:</strong> Chorrillos - Lima, Perú</p>
+<div align="left">
+<p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
+</div>
+<p><strong>Timing:</strong> 09:55 min - 33:06 min</p>
+<p><strong>Duración:</strong> 23:11 min</p>
+
+<div align="center">
+<img  src="https://media.discordapp.net/attachments/892430247042105427/1165080871842357298/image.png?ex=65458d1e&is=6533181e&hm=d1c921d07bb9f7228e248b1c6dc200894889816db7bc9af06a1a0edad4ac459d&=&width=1213&height=564" alt="Entrevista_#2" style="width:500px;height:auto;">
+</div>
+
+<br>
+
+<strong>Resumen:</strong> 
+
+<p>Después de un largo tiempo, nuestro cliente Patrizio Leonardo Risco Chero se logró comunicar con nosotros para mayormente expresarnos su opinión acerca en como iba el progreso del proyecto, por lo que aprovechando también el motivo de la importancia de la reunión, logramos dialogar con él en referencia a la validación del proyecto en el entorno Web.
+
+En base a sus opiniones, ya que él muy sugestivo ante el tema de diseño, nos comentó que como principal defecto que aprecia es el color de las <strong>Cards</strong> de la sección de <em>Services</em>, ya que no está muy ligado a los colores representativos de nuestro logotipo, entonces, hay un aspecto muy punto crítico que hay que resolver. Por otra parte, con respecto a la pestaña de inicio de nuestro aplicación, le gustaría que en vez de mostrar un celular con la muestra del logo de nuestra <em>startup</em>, haya como un fondo atras que lo resalté, ya que lo ve él como algo forzado que como le que quita el porte a la temática.
+
+Dejando de lado los puntos negativos, nos deja muy en claro que este proyecto tiene mucho potencial, solo corrigiendo esos puntos, pueda dar un mejor aspecto para la presentación de todo lo que ofrece dicha página web. Agradecemos a nuestro crítico en diseño y excelso en aspectos de bares Patrizio Risco y esperamos comunicarnos pronto para cualquier otra mejora que de repente requiera el proyecto.</p>
+
+<br>
+
+### Segmento 2: Empresarios del manejo bares
+
+### Entrevista 3:
+
+<p><strong>Nombre:</strong> Fiorella Camila</p>
+<p><strong>Apellido:</strong> Ninasivincha Gonzáles</p>
+<p><strong>Edad:</strong> 19</p>
+<p><strong>Distrito:</strong> Santiago de Surco - Lima, Perú</p>
+<div align="left">
+<p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
+</div>
+<p><strong>Timing:</strong> 33:08 min - 45:24 min</p>
+<p><strong>Duración:</strong> 12:16 min</p>
+
+<div align="center">
+<img  src="https://media.discordapp.net/attachments/892430247042105427/1165081612397064222/image.png?ex=65458dce&is=653318ce&hm=70509ec2a32e1e3cad6840ae41c2f0daf1bd009686ab95c27ba15c211b80eef4&=&width=1207&height=564" alt="Entrevista_#3" style="width:500px;height:auto;">
+</div>
+
+<br>
+
+<strong>Resumen:</strong>
+
+<p>Para validar la retrospectiva del direccionamiento que tiene el proyecto en entorno a la Web, nos hemos puesto en contacto nuevamente con la gerente del bar Fiorella Camila Ninasivincha, de los cuales por medio de la entrevista realiazada, nos pudo comentar de manera suspicaz las extrensicidades que, a primera vista, pudo apreciar, tales como la estética y la buena interacción para lo usuarios - ya que actualmente, el dinamismo y el aspecto "vintage" son lo que más destaca dentro un página -.
+
+Cuando se le preguntó acerca de que es lo que piensa y siente al momento de validar los aspectos de la sección del catálogo de bebidas, le pareció una presentación muy bonita, pero para que ese sugestivismo "bonito" pueda convertirse en "maravilloso", le gustaría que se agregará un poco más de detalle en la descripción de las bebidas - para que que los clientes sepan cuales son los insumos que contiene -. Pasando al aspecto de previsualización de ingreso y registro de usuarios, le fascinó realmente la interacción simple lo cual ayudará a un desenvolvimiento óptimo por parte de los usuarios dentro del <em>website</em>.
+
+Seguiremos trabajando para lograr mejorar dichos aspectos y lograr cada vez más la satisfacción de nuestros cientes y nuestro segmento empresarial. De antemano, agradecemos la validación correspondiente y agradecemos las buenas vibras para todo lo que resta el resta del proyecto.</p>
+
+<br>
+
+### Evaluaciones según heurísticas.
+<div align='center'>
+<h2>UX Heuristics & Principles Evaluation</h2>
+<h3>Usability – Inclusive Design – Information Architecture</h3>
+</div>
+
+<p><strong>CARRERA:</strong> Ingenieria de Software</p>
+<p><strong>CURSO:</strong> Desarrollo de Aplicaciones Open Source</p>
+<p><strong>SECCIÓN:</strong> WS51</p>
+<p><strong>PROFESORES:</strong> Todos</p>
+<p><strong>AUDITOR:</strong> TechSolution</p>
+<p><strong>CLIENTE(S):</strong> Ampudia Flores, José Carlos Isaac, Alarcón Rondón, Sandro Fourfive, Morin Fuentes, Jean Pierre, Huamani Sánchez, José Diego, Ballona Blas, Naggit German.</p>
+
+<hr><br>
+
+<strong>SITE O APP A EVALUAR:</strong>
+<P>Landing Page & Web Application of LoyalSips</p>
+
+<br>
+
+<strong>TAREAS A EVALUAR:</strong>
+<p>El alcance de esta evaluación incluye la revisión de las siguientes tareas:</p>
+
+<ol>
+<li>Cambio de idioma en la página</li>
+<li>Sección del <strong><em>navbar</em></strong> en el <em>Landing Page</em></li>
+<li>Sección de <strong>Support</strong> en el <em>Web Application</em></li>
+<li>Sección <strong>Home</strong> en el <em>Web Application</em></li>
+<li>Descripción de la presentación de la sección del <strong>About us</strong> del <em>startup</em></li>
+<li>Sección <strong>Drinks</strong> en el <em>Web Application</em></li>
+</ol>
+
+<br>
+<p>No están incluidas en esta versión de la evaluación las siguientes tareas:</p>
+
+<ol>
+<li>Ingresar con una cuenta</li>
+<li>Crear una cuenta nuvea</li>
+<li>Redireccionamiento de las cards</li>
+<li>Envió de comentarios a soporte</li>
+</ol>
+
+<br>
+
+<strong>ESCALA DE SEVERIDAD:</strong>
+<p>Los errores serán puntuados tomando en cuenta la siguiente escala de severidad</p>
+
+<table>
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
-    <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1157097368458625075/Captura_de_pantalla_2023-09-28_183121.png"></div>
-    </td>
-</tr><br>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Nivel</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripción</th>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco
+frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de
+   superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso dela herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+</tr>
+</table>
 
-Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tp1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EbT3mCj6eoZCp1Jz4YDqA7UBC8-66U2A-8I7z4fRIetL6A?e=JkDnAm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+<br>
+
+<strong>TABLA RESUMEN:</strong>
+
+<br>
+
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">#</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Problema</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Escala de severidad</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Heurística/Principio violada(o)</th>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">No se puede denotar el límite definido a lo que respecta el inicio de la sección <em>footer</em>.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: Effectiveness. Can users achieve their desired goals on your website?</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">En la sección <strong>Home</strong>, dicha presentación da un toque de seriedad en vez de llamatividad.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: Is it delightful?</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">En la sección de <strong>Support</strong>, al momento de obtener las posibles preguntas, estás no proporcionan una preguntas clarivendentes.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: Is it clear?</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Se desconoce quienes son los miembros del equipo que conforman el <strong>startup</strong></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: Is it communicative?</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">5</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">El catálogo de bebidas tiene una escasa descripción. Falta detallar un poco más acerca de lo que contiene cada una de las bebidas.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: User Satisfaction. Do users like to use your website and recommend it to others?</td>
+</tr>
+</table>
+
+<br>
+
+<strong>DESCRIPCIÓN DE PROBLEMAS:</strong>
+<p><strong>Problema #1:</strong> No se puede denotar el límite definido a lo que respecta el inicio de la sección footer.</p>
+
+<p><strong>Severidad:</strong> 2</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Usability: Effectiveness. Can users achieve their desired goals on your website?</p>
+
+<strong>Problema:</strong>
+<p>En la presentación del <em>Landing Page</em>, se lográ visualizar todo el contenido de lo que respecta a la información representativa del <em>startup</em> en mención; sin embago, al momento de visualizar la parte final del mismo, no se lográ definir si este pertece aun al cuerpo de la página o ya llegó a su fin, por lo que lográ generar ciertas dudas y confunsiones al momento de la interacción.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166064197843562599/image.png?ex=654920e9&is=6536abe9&hm=7629ca94af814d35e89735d502cff6104f4f82cd58bccc27ffab6534f9949252&=&width=1191&height=564" alt="Problem#1_Footer" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda colocar un color un color diferente al apartado del <em>footer</em> para que se diferencia del resto del cuerpo de la pagina; asimismo, colocar un copyright para darle un enfoque más apropiado.</p>
+
+<hr><br>
+
+<p><strong>Problema #2:</strong> En la sección Home, dicha presentación da un toque de seriedad en vez de llamatividad.</p>
+
+<p><strong>Severidad:</strong> 1</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: Is it delightful?</p>
+
+<strong>Problema:</strong>
+<p>Al momento de apreciar la página principal del <em>Web Application</em>, podemos denotar una presentación con tonalidades un tanto elegantes pero serias a la vez, por lo que si más que todo se está enfocando en temática noche y un ambiente de satisfacción - que es lo que representa un bar -, debe cambiar un tanto la presentación del fondo y adecuarlo a algo que se compacte con un nuevo enfoque visual que impacte sin perder los colores representativos de la marca.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166064732088836136/image.png?ex=65492168&is=6536ac68&hm=921508b0d3c6fee8f1dc1295aa9e38a2ac4a1c573296ed55e85751d63cd92ebc&=&width=1195&height=564" alt="Problem#2_Home" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda quitar ese teléfono de fondo y agregar un fondo atrás más representivo a lo qué tranmitimos a nuestros clientes - un fondo dentro de las instalaciones o un grupo de personas diviertiendose por ejemlo, sería una excelente idea -.</p>
+
+<hr><br>
+
+<p><strong>Problema #3:</strong> En la sección de Support, al momento de obtener las posibles preguntas, estás no proporcionan una preguntas clarivendentes.</p>
+
+<p><strong>Severidad:</strong> 4</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: Is it clear?</p>
+
+<strong>Problema:</strong>
+<p>Al momento de argumentar las posibles dudas que pueda presentar dentro de la página, nos percatamos que también hay una guía de posibles preguntas frecuentes de las cuales ya se puede obtener una respuesta; el problema radíca en que esas preguntas, están en un idioma que la gran mayoría de usuarios desconoce, por lo que genera cierta sensación de confusión y dudas al momento de consultar.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166065262299185294/image.png?ex=654921e6&is=6536ace6&hm=1023c487862ae1b335db5de4543c04d61c4b4683d1b115670b7e2fd3c94aeeaf&=&width=1198&height=564" alt="Problem#3_Support" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda agregar preguntas frecuentes verdaderas en lugar del típico <em>Lorem</em> para así dar un toque más de credibilidad y evitar que los usuarios se confundan.</p>
+
+<hr><br>
+
+<p><strong>Problema #4:</strong> Se desconoce quienes son los miembros del equipo que conforman el startup.</p>
+
+<p><strong>Severidad:</strong> 3</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: Is it communicative?</p>
+
+<strong>Problema:</strong>
+<p>En la sección del <em>About us</em>, nose lográ visualizar con exactitud quienes son los representantes o miembros del equipo de los cuales forman gracias a ellos tenemos esta aplicación, por lo que genera cierta dudosidad al momento de interactuar dentro de él, ya que deja a la mente del usuario de que esto no es algo confiable.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166066476302737468/image.png?ex=65492308&is=6536ae08&hm=5c360290eb034a10f419612239e8cafcd21fe76cbfaaa01c586ff2d09d5c9795&=&width=1194&height=564" alt="Problem#4_AboutUs" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda agregar debajo de la <em>card</em> que describe el <strong>startup</strong> un subtitulo que defina a los integrantes que conforman este equipo para que los usuarios sepan un poco de los autores de los cuales, gracias a ello, se pudo llevar a cabo todo ello. </p>
+
+<hr><br>
+
+<p><strong>Problema #5:</strong> El catálogo de bebidas tiene una escasa descripción. Falta detallar un poco más acerca de lo que contiene cada una de las bebidas.</p>
+
+<p><strong>Severidad:</strong> 3</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Usability: User Satisfaction. Do users like to use your website and recommend it to others?</p>
+
+<strong>Problema:</strong>
+<p>Al momento de visualizar el catálogo de bebidas que se tiene dentro del bar, explica de manea muy sencilla y apreciable a la vez de las bebidas que dentro del lugar sirven; pero, lo que si deja mucho que desear, es el tema de detalle de lo que contiene o de lo que se compone esa bebida, ya que al dejarlo solo así, no impacta o no llama tanto la atención de los nuevos usuarios que tal vbz nunca han ido a visitar un bar.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166067321647943741/image.png?ex=654923d1&is=6536aed1&hm=788e3e5f5edee29b422113edc42334810bd070d96cf567f6775312db05c8b7d1&=&width=1204&height=564" alt="Problem#5_Drinks" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda añadir más información que detalle un poco más de los insumos que contienen tantos dichas bebidas como dichas promociones para dar un mejor panorama en la elección de lo que el mismo usuario desee consumir.</p>
+
+<br>
+
+## 5.4. Video About-The-Product.
+
+
 
 ## Conclusiones
 
@@ -4241,6 +4702,17 @@ Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tp1](https
 -  Con respecto al analisis competitivo desarrollado, podemos concluir que las aplicaciones dirigidas para el sector Bares
 
 - Es un nicho que no cuenta con demasiados competidores que enfoquen a mejorar la experiencia de usuario para los clientes y dueños de bares.
+
+## Video About-the-Team.
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1157097368458625075/Captura_de_pantalla_2023-09-28_183121.png"></div>
+    </td>
+</tr><br>
+
+Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tp1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EbT3mCj6eoZCp1Jz4YDqA7UBC8-66U2A-8I7z4fRIetL6A?e=JkDnAm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ## Bibliografía
 
@@ -4292,5 +4764,7 @@ Uxpressiar: https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc
 
 <a href="https://upcedupe-my.sharepoint.com/✌️/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/✌️/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a>
 
-</div>
+<p>&gt <b>Entrevistas de valdación con nuestros segmentos objetivos:</b><p>
+
+<p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
 </div>
