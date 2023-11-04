@@ -4329,6 +4329,10 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
 
+<p>Como parte de la revisión del tercer sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de <em>commits</em> en diferentes repositorios. Durante este sprint, nos enfocamos en realizar los ajustes de mejora para nuestro <strong>Landing Page</strong>,  la actualizacion del <em>Frontend Web Application</em> respecto a nuestro <strong>Startup</strong>. Por otro lado, se tuvo como objetivo desarrollar la primera version del <strong>Backend</strong> de nuestra aplicacion, el cual se hizo en el lenguaje de programacion Java, teniendo en cuenta el uso de Domain Driven Design. Los commits registrados en diversos repositorios reflejan el trabajo realizado en estas áreas en específico.</p>
+
+
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
