@@ -4200,6 +4200,10 @@ Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Lan
 | Loyal Sips Frontend Actualizada                                          |[LoyalSips-Frontend](https://loyalsips-44e19.web.app)                | 
 |---------------------|---------------------|
 
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+
+
 
 ## 5.5 Video About-the-Team.
 
