@@ -4594,18 +4594,21 @@ Link del repositorio:
 
 https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report
 
-- Web service commit details
+- Web service commit details.
+
+<br>
+
 |Repository|Branch|Commit Id|Commit Message|Commited on (Date)|
-|-|-|-|-|-|-|  
+|-|-|-|-|-| 
 | https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |105618f | chore: initial commit.| 3/11/2023| 
 | https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips  |f696b5b| doc: added readme. | 3/11/2023| 
 | https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |1d78e47 |  feat: AuditableModel|3/11/2023 | 
-| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | feat: Open Api Configuration in Java1d78e47408123820aabd5140a0e6578c3905d2ec| | 3/11/2023|
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | 1d78e47408123820aabd5140a0e6578c3905d2ec|feat: Open Api Configuration in Java | 3/11/2023|
 | https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |44bf30401685f9fe409e2c63901f6e29bff07b83 | feat: Update pom.xml, implementacion the Snake Case and Application| 3/11/2023| 
-| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| feat: Implemetacion .. Impl, Services, NotFound,Command and Query7752186dee294db575097f290156899108b183f4| | 3/11/2023| 
-| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | feat: structure of what was implemented93712b1397ecf7ba73fadbb36189c2fda8895495| | 3/11/2023| 
-| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | feat: More structure of what was implemented0ffe7e0c9325f3aa42ac13bcdd8a1daa070e4ec0| |3/11/2023 |
-| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | 126951287e35dda21cc0bc8481cc308c0da9a153| |4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|7752186dee294db575097f290156899108b183f4| feat: Implemetacion .. Impl, Services, NotFound,Command and Query | 3/11/2023| 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | 93712b1397ecf7ba73fadbb36189c2fda8895495|feat: structure of what was implemented | 3/11/2023| 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | 0ffe7e0c9325f3aa42ac13bcdd8a1daa070e4ec0| feat: More structure of what was implemented|3/11/2023 |
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | 126951287e35dda21cc0bc8481cc308c0da9a153|update |4/11/2023  | 
 | https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 126951287e35dda21cc0bc8481cc308c0da9a153|feature/BarComandService add |4/11/2023   | 
 | https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |745152c908e604b34e994f1a55b0f0d5718656df |Merge pull request #1 from TechSolutions-ws51/feature/BarComandService | 4/11/2023  | 
 | https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | e707486d2e76dcf28f9e41b5ff623fc8107e5922|feature/CustomerComandService add |4/11/2023  | 
