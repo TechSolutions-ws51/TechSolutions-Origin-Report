@@ -4650,7 +4650,7 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
 </td>
      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/BarComandService add
 </td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:35:57 PM</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:35:57 AM</td>
 </tr>
 <tr>
 <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
@@ -4660,17 +4660,327 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
 </td>
      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerComandService  add
 </td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:44:45 PM</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:44:45 AM</td>
 </tr>
 <tr>
 <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/customerCommandService</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">e707486</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerComandService  add
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/pointCommandService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">cdbd4e0</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Update PointCommandServiceImpl.java
 </td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerComandService  add
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Update PointCommandServiceImpl.java
 </td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:44:45 PM</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:50:43 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/externalProfileService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">8c59b6f</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/ExternalProfileService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/ExternalProfileService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:53:20 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/barQueryService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">6d0952a</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/BarQueryService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/BarQueryService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:56:18 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/customerQueryService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">8442b93</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> feature/CustomerQueryService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> feature/CustomerQueryService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:59:45 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/pointQueryService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3200bb9</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/PointQueryService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/PointQueryService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 11:07:12 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/barQueryService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">b113a36</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> feature/BarCommandService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> feature/BarCommandService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 11:17:42 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/customerCommandServiceUpdate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">9f9b5ab</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerCommandService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerCommandService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 11:24:03 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/pointCommandServiceUpdate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">5174c94</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/PointCommandService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/PointCommandService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 11:28:55 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/externalProfileServiceUpdate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4d59dc4</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/ExternalProfileService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/ExternalProfileService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 11:32:49 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/customerRepository</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4d59dc4</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerRepository add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerRepository add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 11:39:15 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/profilesUpdate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">59eb786</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Update profiles
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Update profiles
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 15:39:44 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/profilesRepository</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">7c5980c</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Profiles Repository
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Profiles Repository
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 15:47:24 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/interfacesRepository</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">fdb7a07</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Interces Profiles
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Interces Profiles
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 15:53:44 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/servicesProfile</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">9b78f75</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Services Profiles
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Services Profiles
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 15:58:19 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/completedProfiles</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">e6e78c4</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Completed Profiles
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Completed Profiles
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 16:08:05 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/barAggregate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">b5e1a6a</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(aggregates): Bar added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(aggregates): Bar added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:08:33 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/customerAggregate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">b86d631</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(aggregates): Customer added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(aggregates): Customer added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:12:06 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/pointAggregate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">16a76d4</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(aggregates): Point added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(aggregates): Point added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:16:46 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/cancelPointCommand</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">c370fdf</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): CancelPointCommand added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): CancelPointCommand added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:20:36 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/confirmPointCommand</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">b6310e4</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): ConfirmPointCommand added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): ConfirmPointCommand added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:23:54 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/createBarCommand</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">93bf990</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): CreateBarCommand added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): CreateBarCommand added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:26:12 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/createCustomerCommand</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">13804c0</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): CreateCustomerCommand added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): CreateCustomerCommand added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:28:39 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/deleteBarCommand</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">28c8698</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): DeleteBarCommand added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): DeleteBarCommand added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:31:43 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/rejectPointCommand</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">141cde1</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): RejectPointCommand added
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): RejectPointCommand added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:33:49 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/requestPointCommand</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ffc6969</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): RequestPointCommand added
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): RequestPointCommand added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:36:01 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/updateBarCommand</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2e956e0</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): UpdateBarCommand added
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): UpdateBarCommand added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:38:04 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/loyalSipsPathItemEntitity</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">75592fb</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(entities): LoyalSipsPathItem added
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(entities): LoyalSipsPathItem added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:41:11 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/offerEntitity</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">67d8223</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(entities): Offer added
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(entities): Offer added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:43:20 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/progressRecordItemEntitity</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">fd32131</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(entities): ProgressRecordItem added
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(entities): ProgressRecordItem added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:45:45 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/barRepository</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2d5d564</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">BarRepository-added
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">BarRepository-added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 19:45:46 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/resources</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">d29d88d</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/Resources
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/Resources
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 20:03:28 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/valueObjects</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">8f0e8d6</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/ValueObjects
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/ValueObjects
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 20:08:44 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/events</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3f47ba3</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/events
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/events
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 20:31:49 PM</td>
 </tr>
 </table>
 
