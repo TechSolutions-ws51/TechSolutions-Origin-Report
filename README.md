@@ -4348,6 +4348,176 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
 
 <p>Como parte de la revisión del tercer sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de <em>commits</em> en diferentes repositorios. Durante este sprint, nos enfocamos en realizar los ajustes de mejora para nuestro <strong>Landing Page</strong>,  la actualizacion del <em>Frontend Web Application</em> respecto a nuestro <strong>Startup</strong>. Por otro lado, se tuvo como objetivo desarrollar la primera version del <strong>Backend</strong> de nuestra aplicacion, el cual se hizo en el lenguaje de programacion Java, teniendo en cuenta el uso de Domain Driven Design. Los commits registrados en diversos repositorios reflejan el trabajo realizado en estas áreas en específico.</p>
 
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Repository</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Branch</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit ID</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit Message</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit Message Body</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commited on (Date)</th>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/updateStyles_WebApp</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">b307e21</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Styles): estilos actualizados parte 1
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Styles): estilos actualizados parte 1
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">15/10/23 16:09:37 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/sectionBar</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3193176</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Bares): Section Bares implemented.
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Bares): Section Bares implemented.
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">15/10/23 18:24:23 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/loginWebSection</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">33ec981</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login): files login created
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login): files login created
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 20:09:27 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/loginRegisterSection</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">447cdf5</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login-register): sector election login added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login-register): sector election login added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 20:45:39 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/loginRegisterRoutes</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">736a12c</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login-register): routes login client & empresario implemented
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login-register): routes login client & empresario implemented
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 21:05:06 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/loginUpdate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">98546b</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login): login of 2 sectors implemented
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login): login of 2 sectors implemented
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">05/11/23 00:13:01 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/initialCommit</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">105618</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: initial commit.
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: initial commit.
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 14:58:55 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/initialReadme</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">f696b5b</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">doc: added readme.
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">doc: added readme.
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:09:41 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/AuditableModel</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1d78e47</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: AuditableModel
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: AuditableModel
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:16:44 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/APIConfiguration</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4e43ec6</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Open Api Configuration in Java
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Open Api Configuration in Java
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:18:54 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/pomXMLUpdate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">44bf304</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Update pom.xml, implementacion the Snake Case and Application Properties
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Update pom.xml, implementacion the Snake Case and Application Properties
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:27:08 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/servicesImplementation</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">7752186</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Implemetacion .. Impl, Services, NotFound,Command and Query
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Implemetacion .. Impl, Services, NotFound,Command and Query
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:34:31 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/implementStructure</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">93712b1</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: structure of what was implemented
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: structure of what was implemented
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:56:29 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/BarCommandService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1269512</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/BarComandService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/BarComandService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:35:57 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/customerCommandService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">e707486</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerComandService  add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerComandService  add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:44:45 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/customerCommandService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">e707486</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerComandService  add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerComandService  add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:44:45 PM</td>
+</tr>
+</table>
 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
@@ -4448,6 +4618,222 @@ En el sprint 3, se logró implementar la primera versión del Backend de la apli
 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+Para el sprint 3 como equipo planificamos que el sprint abarcaría el front-end y back-end. Inicialmente nosotros trabajamos con una json server de forma local y luego pasamos a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. 
+
+Web Service:
+
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="14">Crops</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/crops</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/tunnels</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/tunnels</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/preparation-areas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/preparation-areas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}, {cropPhase}</td>
+            <td>api/v1/crops/{cropId}/grow-rooms/{cropPhase}</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}, {cropPhase}</td>
+            <td>api/v1/crops/{cropId}/grow-rooms/{cropPhase}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/formulas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/formulas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/bunker</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/bunker</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/company/{companyId}</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Companies</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/companies</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{companyId}</td>
+            <td>api/v1/companies/{companyId}</td>
+        </tr>
+        <tr>
+            <td rowspan="4">Employees</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/employees</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{employeesId}</td>
+            <td>api/v1/employees/{employeesId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/employees/{companyId}</td>
+        </tr>
+    </tbody>
+</table>
+
+- Web service images
+
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170543461146046464/image.png?ex=65596c8c&is=6546f78c&hm=2a13b7254b99210e40791f321f81dce80d0a875254ed1d1c1c3aaa30db1eca25&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170543505572106320/image.png?ex=65596c97&is=6546f797&hm=6de8d5dfc0a8557078e40a614ab58e889e77f6807d6835c11f619b6548596947&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170544254901293147/image.png?ex=65596d4a&is=6546f84a&hm=d18e2b9afab6cd83011bfd99d7d8db6527bfa3844ac493df993110cddcddcbf1&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170544306885492746/image.png?ex=65596d56&is=6546f856&hm=71ab7154ead2dd77cb97f39387b1626569157ea1f9c5bda88e220e3dd16203df&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170544550561992826/image.png?ex=65596d90&is=6546f890&hm=5e59cf31d401ea52c9f4193ef2c4c48c536e2586f9b202fa001630764a91b92e&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545352231886979/image.png?ex=65596e4f&is=6546f94f&hm=6fbba0ba3c2d7ecb054571062b7f5f460b3d27852ea885bd61bfbed96a9b509b&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545395336757398/image.png?ex=65596e59&is=6546f959&hm=f82f6238d5563a75bdcf843768cf029a34a72132253f8b7c0129d09897a0fe88&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545595807707176/image.png?ex=65596e89&is=6546f989&hm=64c7f37cec52b7ad773ecf275e08d19aad84c71f5656ebb56ae650383c3ef9e6&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545639629795418/image.png?ex=65596e94&is=6546f994&hm=a4e13659d331fbfec63e1eb18b499b589bcdf3d8de734fb93e4d0591f4116881&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545718864396328/image.png?ex=65596ea7&is=6546f9a7&hm=80b0476a622303de713367ad823db2147d4779def6697a78af1a1cf64b00bf61&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545749952569374/image.png?ex=65596eae&is=6546f9ae&hm=cac819acb4e8e5f1ff9f15506eb9b0b66c4b235318b2afe1c968d4c09d901b99&"></div> 
+
+Link del repositorio:
+
+https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report
+
+- Web service commit details.
+
+<br>
+
+|Repository|Branch|Commit Id|Commit Message|Commited on (Date)|
+|-|-|-|-|-| 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |105618f | chore: initial commit.| 3/11/2023| 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips  |f696b5b| doc: added readme. | 3/11/2023| 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |1d78e47 |  feat: AuditableModel|3/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | 1d78e47408123820aabd5140a0e6578c3905d2ec|feat: Open Api Configuration in Java | 3/11/2023|
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |44bf30401685f9fe409e2c63901f6e29bff07b83 | feat: Update pom.xml, implementacion the Snake Case and Application| 3/11/2023| 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|7752186dee294db575097f290156899108b183f4| feat: Implemetacion .. Impl, Services, NotFound,Command and Query | 3/11/2023| 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | 93712b1397ecf7ba73fadbb36189c2fda8895495|feat: structure of what was implemented | 3/11/2023| 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | 0ffe7e0c9325f3aa42ac13bcdd8a1daa070e4ec0| feat: More structure of what was implemented|3/11/2023 |
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | 126951287e35dda21cc0bc8481cc308c0da9a153|update |4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 126951287e35dda21cc0bc8481cc308c0da9a153|feature/BarComandService add |4/11/2023   | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |745152c908e604b34e994f1a55b0f0d5718656df |Merge pull request #1 from TechSolutions-ws51/feature/BarComandService | 4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | e707486d2e76dcf28f9e41b5ff623fc8107e5922|feature/CustomerComandService add |4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | cdbd4e0ed6112931095b29b00b93aad500a88a16|Update PointCommandServiceImpl.java | 4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|8c59b6f420390447cd58faf2428612e2ed95e191 |feature/ExternalProfileService add | 4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |6d0952ae879551978b3f1fbb3f9a089ec402ae6f | feature/BarQueryService add | 4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |8442b932c3dd593d47871452364b6ae34f21757f |feature/CustomerQueryService add | 4/11/2023  |
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |3200bb9c95eb0284ef8252ec1705ed19963cb342 |feature/PointQueryService add | 4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|b113a36f9deebb5124ecb9c11949101fd24989c9 |feature/BarCommandService add | 4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |9f9b5abbfdeff60ab131c7ed7c8a8d88558a527c | feature/CustomerCommandService add| 4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |5174c947e0206cc10356597f5ed7a4b22bccdfe4 | feature/PointCommandService add| 4/11/2023  |
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | 4d59dc4c49e25009e1d0151a9ce7225312faf686| feature/ExternalProfileService add|4/11/2023  |
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|a6a2ecc189159ce5166b3d1f7fd23698026f0891 |feature/CustomerRepository add | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 220d1165e699112309c484647dbdce128f323eb5| feature/PointCommandService add| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 758f0355ec6828d7441377d99fcb18ccec910937| Update PointCommandServiceImpl.java| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|128aafcf3699d4d4fc2e08686f265fcc1bbd2d79 |Update ExternalProfileService.java | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|765add6e0865bd4925288772b71f7c4e9621ac5b |Update BarQueryServiceImpl.java | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 085c2df6c7d63cbe14466c972a08b0979793edb7| Update CustomerQueryServiceImpl.java| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| b4887f05b096b380c20525f1b0fe269e2e03815d| Update PointQueryServiceImpl.java| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 59eb786dd2a769f80f59288f7a4ec1f55ad26f86|feat: Update profiles | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|d243bd57b2251c295ce5293865e50480c623e02f | feat: Update profiles| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|7c5980c60c2df13dc963c8ecaedde2a3daacc465 | feat: Profiles Repository| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|fdb7a0777cee8bf2a92e19cb90240a193afe534d |feat: Interces Profiles | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|9b78f75db582a803fc9a55372878019e2e3a5f6b |feat: Services Profiles | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 58c2a98d6739e04fc2226600d29338000abcf96d| feat: Services Profiles| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|e6e78c41ceecf74d79d3653db1e72517f65310d1 | feat: Completed Profiles| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|a9e34ee4c919163e02008458fc15727e3d1d9f7d | feat(services): BarComandService added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 97c69935dd647dad91f5c24b3c926fdf25b7a046| feat(services): BarQueryService added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| c9fefed512daa95f1f8b5ed61400ddd2d950d932| feat(services): CustomerComandService added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|493e47f1ea251eb7ee674793c492bf54b4df7e8c | feat(services): CustomerQueryService added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | 9ae0189275f3e24c6ea386753d6a3df47fac0e59| feat(services): PointComandService added|4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 480e91fb0fb9b7cea7e43ac52c59286981dbc375| feat(services): PointQueryService added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| b5e1a6a2c8e135c421e16101ecc9a13660a3c093| feat(aggregates): Bar added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| b86d631ff6707a7b90aa798c8a50e8fbdbf99051|feat(aggregates): Customer added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 16a76d4ed14f9ef70a19f413bdf6f609926a9a72| feat(aggregates): Point added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|c370fdf6c072bf5fff644d22d082d9f7783f877f | feat(commands): CancelPointCommand added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|b6310e4f888525bafc2e38ba365ed6871c616e06 |feat(commands): ConfirmPointCommand added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 93bf9902f53bb2411ed4b5310ed8a99840677fb5|feat(commands): CreateBarCommand added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|13804c0d5c75f29087d3a5b9549bf822c69a1533 |feat(commands): CreateCustomerCommand added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 28c869838fc2317069e42443b6ac1e95cde35099|feat(commands): DeleteBarCommand added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 141cde19f5e47b3bf94be4350f67abea44c6ecc8| feat(commands): RejectPointCommand added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|ffc6969761662241a0829c98e1617292cc5dae0f |feat(commands): RequestPointCommand added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 2e956e07257b21fb82ef647d868bfaaa3bd4afca| feat(commands): UpdateBarCommand added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|75592fb61ef5e6f5e238ab572a19d75f92ca421f |feat(entities): LoyalSipsPathItem added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 67d82237fcfbb61c7ad56ed773ecba0590eb0936| feat(entities): Offer added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| fd3213124dba0b48f8d3f734eaa09d208de1aa6e| feat(entities): ProgressRecordItem added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|64218f52146ad27736a3d5929bf747620128bb51 | BarcommandService-added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|2d5d564d70bba7871cb4a51aecb4d6fe153f40f9 |BarRepository-added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| ede81f40a43adb470c7b7ac1746265df4f141f78|feature/PointRepository-added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| d29d88d0638e7ea785fd058710a91ff9c33577bf| feature/Resources| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 8f0e8d61ae6a6ba92497b34c510e1bb87333f179|feature/ValueObjects | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 3f47ba3d1afc326b52e763c827f3e8a4146c8104| feature/events| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| f056bcade69918d9fd6dd052c7aff2b79845cf3a|feat: Completed Code | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 143ad9dcf73a1fb4169ff941f33a0ba3f70a95dc|Updated | 5/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|f9ca023df47996e5fa5095f20e89d5214f318eda | feat: Completed Code| 5/11/2023 | 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
