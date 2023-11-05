@@ -40,14 +40,19 @@
 |:-------------:|:-------------:|:------------------------|:------------------------|
 |1              |  26/08/2023    | Ampudia Flores          |**Capitulo 1** <br> - Implementó el Lean UX Assumptions. <br> - Lean UX Hypothesys  Statements.<br><br>**Capitulo 2**<br>- Estrategias y tácticas frente a competidores.<br> - Diseño de entrevistas.<br><br>**Capitulo 3**<br> - To-Be Scenario Mapping. <br><br>**Capitulo 4**<br>- Landing Page UI Design.<br>- Landing Page Wireframe.<br>- Landing Page Mock-up.<br>- Web Applications UX/UI Design.<br>- Web Applications Wireframes.<br>- Web Applications Wireflow Diagrams.<br>- Web Applications Mock-ups.<br>- Web Applications User Flow Diagrams.<br>- Web Applications Prototyping.<br><br>**Capitulo 5**<br>- Testing Suite Evidence for Sprint Review.<br>- Execution Evidence for Sprint Review.<br>- Services Documentation Evidence for Sprint Review.<br><br> |
 |2              |   18/09/2023  | Ampudia Flores          |**Capitulo 1** <br> - Correccion de detalles en Lean UX Assumptions <br><br>**Capitulo 2**<br>- Corrección de detalles en el apartado de entrevistas. <br><br>**Capitulo 3**<br> - Corrección del To-be Scenario Mapping. <br><br>**Capitulo 4**<br>- Implementacion de Landing Page Mock-up actualizada. <br><br>**Capitulo 5**<br>- Implementacion de Landing Page actualizada, despliegue del Landing Page por Github pages.<br><br> |
+|3              |   19/10/2023  | Ampudia Flores          |**Capitulo 5**<br>- Despliegue de la nueva versión del <strong>Web application</strong>. <br>-Actualización del Project Report Colaboration Insights <br>- Implementación de la colección Services del Backend. <br><br> |
 |1              |   29/08/2023   | Alarcon Rondon          |**Capitulo 1** <br> - Implementó el Startup Profile. <br> - Descripcion del Startup.<br>- Perfiles de integrantes del equipo.<br><br>**Capitulo 2**<br>- Competidores.<br> - Análisis competitivo.<br><br>**Capitulo 3**<br> - Impact Mapping. <br><br>**Capitulo 4**<br>- Domain-Driven Software Architecture.<br>- Software Architecture Context Diagram.<br>- Software Architecture Container Diagrams.<br>- Software Architecture Components Diagrams.<br><br>**Capitulo 5**<br>- Software Development Environment Configuration.<br>- Source Code Management.<br><br>|
 |2              |  21/09/23  | Alarcon Rondon          |**Capitulo 3**<br> - Corrección del Impact mapping y actualización. <br><br>**Capitulo 4**<br>- Corrección de los diagramas de DDD. <br><br>**Capitulo 5**<br>- Implementación de la seccion Contact de la Web Application. <br><br> |
+|3              |   22/10/2023  | Alarcon Rondon          |**Capitulo 5**<br>-Testing Suite Evidence for Sprint Review. <br>-Execution Evidence for Sprint Review. -<br> implementación de los value Objects, Queries and Events en el <strong>Backend</strong> <br><br> |
 |1              |   27/08/2023   | Morin Fuentes           |**Capitulo 1** <br> - Implementó el Solution Profile. <br> - Antecedentes y problematicas.<br><br>**Capitulo 2**<br>- Needfinding.<br> - User Personas.<br>- User Task Matrix.<br><br>**Capitulo 3**<br> - User Stories. <br><br>**Capitulo 4**<br>- General Style Guidelines.<br>- Web Style Guidelines.<br>- Information Architecture.<br>- Organization Systems.<br>- Labeling Systems.<br><br>**Capitulo 5**<br>- Software Deployment Evidence for Sprint Review.<br>- Team Collaboration Insights during Sprint.<br>- Avance de Conclusiones, Bibliografía y Anexos.<br><br>|
 |2              |   20/09/2023   | Morin Fuentes           |**Capitulo 2**<br>- Corrección y actualización de Needfinding y User Personas. <br><br>**Capitulo 3**<br> - Corrección y actualización de User Stories. <br><br>**Capitulo 5**<br>- Implementación de la sección Home, Drinks, y creación del repositorio del Web Application. <br><br> |
+|3              |   25/10/2023  | Morin Fuentes         |**Capitulo 5**<br>- Team Colaboration Insights during Sprint. <br>- Actualización de Conclusiones, Bibliografía y Anexos. <br>- Implementación de los apartados de Bars y Clients en el Backend.<br><br> |
 |1              |   01/09/2023   | Huamani Sánchez    |**Capitulo 1** <br> - Implementó el Lean UX Proccess. <br> - Lean UX Problem Statements.<br><br>**Capitulo 2**<br>- Registro de entrevistas.<br> - Análisis de entrevistas.<br><br>**Capitulo 4**<br>- Class Dictionary.<br>- Database Design.<br>- Database Diagram.<br><br>**Capitulo 5**<br>- Sprint Planning 1.<br>- Sprint Backlog 1.<br>- Development Evidence for Sprint Review.<br><br> |
 |2              |  23/09/2023 | Huamani Sánchez    |**Capitulo 1** <br> - Corrección y actualización del Problem Statements. <br><br>**Capitulo 2**<br>- Actualización de plantilla de entrevistas. <br><br>**Capitulo 4**<br>- Corrección de nomenclaturas del DataBase Diagram. <br><br>**Capitulo 5**<br>- Implementación de la sección About us del Web Application. <br><br> |
+|3              |   15/10/2023  | Huamani Sánchez    |**Capitulo 5**<br>- Sprint Planning 3 <br>- Sprint Backlog 3 <br>- Development Evidence for Sprint Review <br>- Diseño de entrevistas <br>- Registro de entrevistas <br>- Evaluaciones según heurísticas. <br>- implementación de las Evaluaciones según Heúritcas <br>- implementación de los aggregates and events del Backend.<br><br> |
 |1              |   02/09/2023   | Ballona Blas    |**Capitulo 1** <br> - Implementó el Lean UX Canvas. <br> - Segmento Objetivo.<br><br>**Capitulo 2**<br>- User Journey Mapping.<br> - Empathy Mapping.<br>- As-is Scenario Mapping.<br><br>**Capitulo 3**<br> - Product Backlog. <br><br>**Capitulo 4**<br>- SEO Tags and Meta Tags.<br>- Searching Systems. <br>- Navigation Systems.<br>- Software Object-Oriented Design.<br>- Class Diagrams.<br><br>**Capitulo 5**<br>- Source Code Style Guide & Conventions.<br>- Software Deployment Configuration.<br>- Landing Page, Services & Applications Implementation.<br><br> |
 |2              | 23/09/2023 | Ballona Blas    |**Capitulo 2**<br>- Actualización y corrección del As-is Scenario Mapping y otros mapas. <br><br>**Capitulo 3**<br>- Actualización del Product Backlog<br><br>**Capitulo 4**<br>- Actualización del Class Diagrams.<br><br>**Capitulo 5**<br>- Actualización Conclusiones y Anexos.|
+|3              |   27/10/2023  | Ballona Blas    | **Capitulo 5**<br>- Services Documentation Evidence for Sprint Review. <br>- Software Deployment Evidence for Sprint Review. <br>- Video About-the-Product.<br>- Implementación de los Aplications/Internal (CommanService, outboundService, QueryService) y Services del Backend.<br><br> |
 
 
 <br><br>
@@ -121,6 +126,37 @@ A continuación, se muestra las tareas asignadas a cada integrante del equipo pa
 </table>
 <br>
 
+A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe TB2.
+
+<table style="margin: 0 auto;">
+  <tr>
+    <th>Miembro</th>
+    <th>Responsabilidad</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Jose Ampudia</td>
+    <td style="text-align: justify;">Actualización de la sección <em>Home</em>,  <em>Support</em>, <em>Login</em>, y despliegue de la nueva version del <strong>Web application</strong>, actualización de la nueva versión del <em>Project Report Colaboration Insights</em>, 
+    elaboración de la colección <em>Services</em> del <strong>Backend</strong> de nuestra aplicación.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Alarcon Rondon</td>
+    <td style="text-align: justify;">Desarrollo de la nueva versión del <em>Testing Suite Evidence for Sprint Review</em> para este sprint, elaboración del <em>Execution Evidence for Sprint Review</em>, implementación de los <em>value Objects, Queries and Events</em> en el <strong>Backend</strong> de nuestra aplicación.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Morin Fuentes</td>
+    <td style="text-align: justify;">Elaboración del <em>Team Colaboration Insights during Sprint</em>, actualización de las conclusiones y anexos, desarrollo de los apartados de <em>Bars</em> y <em>Clients</em> en el <strong>Backend</strong> de nuestra aplicación.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Huamani Sánchez</td>
+    <td style="text-align: justify;">Elaboración del <strong>Sprint planning 3</strong>, desarrolló del <strong>Sprint Backlog 3</strong>, elaboración del <em>Development Evidence for Sprint Review</em>, desarrolló del Diseño de entrevistas, elaboración del registro de entrevistas, implementación de las Evaluaciones según <em>Heúritcas</em> y implementación de los <em>aggregates and events</em> del <strong>Backend</strong> de nuestra aplicación.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Ballona Blas</td>
+    <td style="text-align: justify;">Elaboración del Video <strong>About-the-Product</strong>, desarrollo del <em>Services Documentation Evidence for Sprint Review</em>, elaboración del <em>Software Deployment Evidence for Sprint Review</em> y implementación de los <em>Aplications/Internal</em> (CommanService, outboundService, QueryService) y <em>Services</em> del <strong>Backend</strong> de nuestra aplicación.</td>
+  </tr>
+</table>
+<br>
+
 <div align='justify'>
 Para el desarrollo del informe, se realizaron commits respectivos a la tarea asignada para cada integrante del equipo. A continuacón, se muestran los usuarios de github que corresponden a cada integrante del equipo.
 
@@ -134,7 +170,7 @@ Miembros:
 </div>
 
 <div align='center'>
-<img src="https://media.discordapp.net/attachments/1145898392631918606/1155030983230365757/git_commits_image.png?width=697&height=625" width="" height="">
+<img src="https://media.discordapp.net/attachments/892430247042105427/1170832983201173585/image.png?ex=655a7a30&is=65480530&hm=0e2549699fdf5c1fdb95a84068f4c92ca2ceb1d3a530203c3b0219e22a1c9ef7&=&width=1393&height=535" width="" height="">
 </div>
 <br>
 
@@ -144,7 +180,7 @@ En el siguiente gráfico se muestra la cantidad de commits realizados por cada i
 </div>
 
 <div align='center'>
-<img src="https://media.discordapp.net/attachments/1145898392631918606/1155033005778272318/cantidad_de_commits.png" width="" height="">
+<img src="https://media.discordapp.net/attachments/892430247042105427/1170088239718211644/image.png?ex=6557c497&is=65454f97&hm=0af6b550036a542113d8da65284e5654ce7bfbebd24c0cff0b82fd329d2d8142&=&width=1017&height=564" width="" height="">
 </div>
 <br>
 
@@ -156,7 +192,7 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
 <br>
 
 <div align='center'>
-<img src="https://media.discordapp.net/attachments/1145898392631918606/1155035277639823420/Network.png" width="" height="">
+<img src="https://media.discordapp.net/attachments/892430247042105427/1170085429832331314/image.png?ex=6557c1f9&is=65454cf9&hm=f9d8949aa97e0c852b7c7d5efca5b276070c424bb88de2921a8b22877a0ccdce&=&width=1393&height=522" width="" height="">
 </div>
 <br>
 
@@ -254,7 +290,22 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
         - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
         - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
         - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-        - [5.2.2.8. Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)<br><br>
+    - [5.2.3. Sprint 3](#523-sprint-3)
+        - [5.2.3.1. Sprint Planning 2](#5223-sprint-planning-3)
+        - [5.2.3.2. Sprint Backlog 2](#5223-sprint-backlog-3)
+        - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+        - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint](5238-team-collaboration-insights-during-sprint)<br>
+- [5.3 Validation Interviews](#53-validation-interviews)
+    - [5.3.1 Diseño de entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2 Registro de entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3 Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+- [5.4 Video About-the-Product](#54-video-about-the-product)
+- [Avance de Conclusiones, Bibliografía y Anexos](#54-avance-de-conclusiones-bibliografia-anexos)
 
 
 
@@ -275,31 +326,44 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           Se realizaron reuniones para una mejor organización del trabajo, de tal forma facilitar la asignación de puntos que cada integrante del equipo le corresponda desarrollar.<br><br>
           <strong>TP:</strong><br>
           Para la entrega del Trabajo parcial, se presenta la implementación del Sprint 2, por lo que engloba los procesos de desarrollo y los insights realizados para el desarrollo de dicho Sprint.<br><br>
+          <strong>TB2:</strong><br>
+          A medida que se realizaba el avance de nuestro proyecto, se mantuvo una comunicación constante por la plataforma Discord,de tal forma que si algún integrante del equipo necesitaba ayuda, podía avisar y apoyarnos entre todos.<br><br>
           <strong>Morin, Jean</strong><br>
           <strong>TB1:</strong><br>
           A medida que se realizaba el avance de nuestro proyecto, se mantuvo una comunicación constante para facilitar tiempos,de tal forma que si algún integrante del equipo necesitaba ayuda, podía avisar y apoyarnos entre todos.<br><br>
           <strong>TP:</strong><br>
           Desarrollé la actualización en referencia a las correcciones del <em>Needfinding</em> y <em>User personas</em> respectivamente; asimismo, realicé la mejora de algunos <strong>“User Stories”</strong> que no estaban del todo claros. Finalmente, como último <em>task</em>, colaboré en el desarrollo del <strong>“Web Application”</strong>, teniendo como principal rol la elaboración de la sección <strong>home, Drinks<strong> y la creación del repositorio para alojarlo.<br><br>
+          <strong>TB2:</strong><br>
+          En la presentacion de este trabajo, todos los integrantes aportaron mucho y le pusieron bastante empatia, tambien nos reunimos y logramos desarrollar el backend<br><br>
           <strong>Alarcon, Sandro</strong><br>
           <strong>TB1:</strong><br>
           Para la realización de las entrevistas, se tuvo que implementar un diseño de entrevistas, con preguntas abiertas, de tal forma que permitan al segmento objetivo poder explayarse, y de ese modo, rescatar las ideas brindadas por los entrevistados, de este modo nos ayuda como equipo a seguir innovando nuestro proyecto.<br><br>
           <strong>TP:</strong><br>
           Realicé la actualización del <em>Impact mapping</em>, ya que anteriormente, no estaba del todo clarividente en su semejanza. Póstumo a ello, realicé las correcciones y actualización de los <strong>“Domain Driven Design”</strong> – pertenecientes a nuestro <em>Software Architecture Components</em> -. Como último <em>task</em> que desarrollé, ha sido la implementación de la sección contact para el <strong>“Web Application”</strong>.<br><br>
+             <strong>TB2:</strong><br>
+          Para la entrega de este trabajo, nos repartimos todos los temas para asi tener un mejor control de nuestros tiempo y lograr culminar nuestro proyecto bien<br><br>
           <strong>Huamani, José</strong><br>
           <strong>TB1:</strong><br>
           Se tuvo que realizar entrevistas para conocer el punto de vista de los segmentos objetivos, dado que nuestro proyecto posee 2 segmentos objetivos, por lo que las entrevistas nos facilitaron a encontrar ideas innovadoras para aplicarlas en nuestro proyecto, lo cual nos ayuda bastante como equipo.<br><br>
           <strong>TP:</strong><br>
           Desarrollé las correcciones argumentales, contextuales e incógnitas respectivas pertenecientes al <em>Problem Statement</em> ya que, en la primera presentación del <strong>Sprint</strong> de dicha parte, el evaluador tenía ciertas dudas en algunos aspectos. Póstumo a ello, actualicé el registro de entrevistas siguiendo de manera literal cada aspecto de la rúbrica – conllevando así a una visualización más apropiada y concisa -. En lo que respecta a la “Base de Datos”, tanto los aspectos de diseño como diagrama –, se quitaron ciertas tablas que debido que, al volver a evaluarlo, como que se alejaba de la idea central del startup; además, se definió de forma más concreta los identificadores de cada tabla (solo colocándole “id”). Finalmente, colaboré en el desarrollo e implementación de la sección <em>About us</em> del <strong>“Web Application”</strong>.<br><br>
+          <strong>TB2:</strong><br>
+           Para este entregable, fuimos mucho mas responsables y nos repartimos los temas con un tiempo prudente, asi logramos hacer nuestro trabajo con facilidad<br><br>
           <strong>Ballona, Naggit</strong><br>
           <strong>TB1:</strong><br>
-          Para la elaboración del informe, se comunicó las herramientas a utilizar por interno, para que de este modo se eviten errores y poder realizar un trabajo de manera óptima.
+          Para la elaboración del informe, se comunicó las herramientas a utilizar por interno, para que de este modo se eviten errores y poder realizar un trabajo de manera óptima.<br><br>
           <strong>TP:</strong><br>
           Realicé la actualización del <em>Class Dictionary y Class Diagrams</em>, ya que anteriormente, no estaba del todo clarividente en su semejanza. Póstumo a ello, realicé las correcciones y actualización de los <strong>“As-is Scenario Mapping”</strong> – pertenecientes a como nuestro cliente <em>Hace, Piensa y Siente</em><br><br>
+                                 <strong>TB2:</strong><br>
+          Para realizar nuestro proyecto nos reunimos casi todos los dias para ir coordinando nuestro avance y ayudarnos como grupo<br><br>
         </td>
         <td><strong>TB1:</strong><br>
         Para esta oportunidad, se logró concretar esta primera parte del trabajo de forma parcialmente exitosa, puesto a que cumplimos con todos los requisitos establecidos para este sprint en base a nuestro segmento objetivo de lo cual, nos permitieron lograr un avance significativo.<br><br>
         <strong>TP:</strong><br>
-        Para este segundo sprint y segunda entrega del trabajo, logramos a las justas concretar el trabajo que se tenía previsto para esta entrega ya que, como principal inconveniente del framework SCRUM, el tiempo siempre nos juega en contra. Lamentablemente, aparte de concretar los aspectos de los deliverables esperados para esta entrega, hay algunos tasks que están desarrollados, pero presentan ciertos bugs y de antemano las más sinceras disculpas ante el caso. Para el siguiente sprint, esos tasks que presentan bugs, serán traslados al sprint backlog como alta prioridad para que así pueda concluirse primero y luego ya procederemos al resto de labores que nos correspondería para ese sprint.</td>
+        Para este segundo sprint y segunda entrega del trabajo, logramos a las justas concretar el trabajo que se tenía previsto para esta entrega ya que, como principal inconveniente del framework SCRUM, el tiempo siempre nos juega en contra. Lamentablemente, aparte de concretar los aspectos de los deliverables esperados para esta entrega, hay algunos tasks que están desarrollados, pero presentan ciertos bugs y de antemano las más sinceras disculpas ante el caso. Para el siguiente sprint, esos tasks que presentan bugs, serán traslados al sprint backlog como alta prioridad para que así pueda concluirse primero y luego ya procederemos al resto de labores que nos correspondería para ese sprint.<br><br>
+        <strong>TB2:</strong><br>
+        Para esta penúltima entrega de lo que respecta a nuestro trabajo, el cual viene ligándose al sprint 3, nos abarcamos mayormente en el levantamiento de observaciones con todo lo relacionado al aspecto visual e interactivo del Web application y Landing page basándonos en las opiniones de validación de nuestros segmentos objetivos; con ello, pudimos conocer un poco más acerca de la idea de sus opiniones y pensamiento lo cual nos servirá para la mejora de todo lo mostrado en el sprint anterior. Muy aparte de ello, también logramos implementar la primera versión de nuestro Backend, el cual viene hacer el encargado de la gestión de la lógica de nuestro negocio, y, a pesar de las adversidades con respecto al tiempo, lo logramos desarrollar de la mejor manera (siendo mantenible y escalable en el tiempo).
+        </td>
   </tr>
   <tr>
     <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
@@ -308,33 +372,44 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           Los diseños elaborados para el prototipo de nuestro proyecto fue pieza fundamental para el mejor entendimiento de los usuarios, en el que incluye ambos segmentos objetivos, por lo que la realización es un alcance a la versión final de nuestro proyecto.<br><br>
           <strong>TP:</strong><br>
           Para la entrega del Trabajo parcial, se mantuvo comunicación constante para la implementación de los puntos que faltaban corregir, dentro de ellos el Report Collaboration Insights, de este modo se muestra el trabajo en equipo que emplea el desarrollo de nuestro proyecto, por lo que es importante presentar los avances a los stakeholders.<br><br>
+           <strong>TB2:</strong><br>
+          Implementación de la colección <em>Services</em> en el Backend de la aplicación, actualización del Frontend del <em>Web Application</em> (sección Home, Support y Login) y actualizacion del <em>Project Report Colaboration Insights</em>.<br><br>
           <strong>Morin, Jean</strong><br>
           <strong>TB1</strong><br>
           Para mantener un orden de las nuevas características al proyecto que fue desarrollándose durante las semanas, se usaron los "commits" usando el "conventional commits" que son básicamente un lenguaje convencional para mantener un orden y buena organización.<br><br>
           <strong>TP</strong><br>
           En la TP1, actualice mis partes del primer entregable, y fui el lider de la web application, logrando realizar todo lo pedido en la rubrica, tambien se deplego la pagina web con exito
           <br><br>
+          <strong>TB2:</strong><br>
+          Realice el backend los apartados de los bares, clientes; actualización de las conclusiones y anexos, y desarrollo del <em>Team Colaboration Insights during Sprint</em>.<br><br><br><br>
           <strong>Alarcon, Sandro</strong><br>
           <strong>TB1</strong><br>
           La elaboración de los diagramas C4, nos ayudan a tener la capacidad de captar la idea del proyecto en un alto nivel, dentro de ello engloba el diagrama de contexto, contenedores y componentes, el cual facilita el entendimiento para los stakeholders.<br><br>
           <strong>TP</strong><br>
           Realicé modificaciones con respecto Domain Driven Design, cambiar el Impact Mappig que se había desarrollado, además de mejorar la  calidad de las imagenes. Agregue la seccion de Contact para la Web Aplication e hice modificacion a la pagina Home.
           <br><br>
+         <strong>TB2:</strong><br>
+          Implementacion de <em>Value Objects, queries and events</em> en el Backend, desarrollo del <em>Evidence for Sprint Review</em>, elaboración del <em>Execution Evidence for Sprint Review</em>.
           <strong>Huamani, José</strong><br>
           <strong>TB1</strong><br>
           La implementación del Lean UX Problem Statements es la rama más esencial, porque en este apartado, se explica a detalle el propósito de nuestro proyecto, que solución estamos proponiendo para mejorar en este caso el sistema de los Bares, además de ello, el Solution Profile va de la mano, porque explicamos la visión y misión de nuestro proyecto.
           <br><br>
           <strong>TP</strong><br>
-          Se implementó el Sprint 2 con éxito, se actualizaron varios segmentos con respecto a la Landing Page que se realizaron de manera conjunta. Por otro lado la elaboración del Web Application para que el usuario tenga mayor interacción con nosotros.
-          <br><br>
+          Se implementó el Sprint 2 con éxito, se actualizaron varios segmentos con respecto a la Landing Page que se realizaron de manera conjunta. Por otro lado la elaboración del Web Application para que el usuario tenga mayor interacción con nosotros.<br><br>
+          <strong>TB2:</strong><br>
+          Implementacion de los <em>aggregates and events</em> del Backend, desarrollo del <em>Sprint Planning 3</em>, <em>Sprint Backlog 3</em>, elaboración del <em>Deployment Evidence for Sprint Review</em>, Desarrollo de entrevistas, elaboración del registro de entrevistas e implementación de la <strong>Evaluaciones según Heurísticas</strong>.<br><br>
           <strong>Ballona, Naggit</strong><br>
           <strong>TB1</strong><br>
           Para finalizar, se realizaron materiales de exposición para explicar los detalles de nuestro proyecto, dentro de estos materiales resaltan el video de exposición y la diapositiva, además, explicamos el alcance exacto de nuestro proyecto para un mejor entendimiento de los segmentos objetivos involucrados.<br><br>
           <strong>TP</strong><br>
-          Realicé las respectivas correcciones y mejoras del <em>As-is Scenario Mapping</em> y <em>To-Be Scenario Mapping</em>; esto, porque anteriormente no se utilizaron las herramientas correctas para su elaboración.
+          Realicé las respectivas correcciones y mejoras del <em>As-is Scenario Mapping</em> y <em>To-Be Scenario Mapping</em>; esto, porque anteriormente no se utilizaron las herramientas correctas para su elaboración.<br><br>
+          <strong>TB2:</strong><br>
+          Implementacion de <em>aplication/Internal</em> (ComandService, outbondService, QueryService), </em>Services Documentation Evidence for Sprint Review</em> y la elaboración de la nueva versión del <em>Software Deployment Evidence for Sprint Review</em>.<br><br>
     </td>
     <td><strong>TB1:</strong><br>Primeramente, para que surja las bases sólidas de nuestro startup LolyaSips, tuvimos que analizar el factor comercial y los diversos competidores que encontramos en el mercado. En gracias a ello, que descubrimos un punto crucial en el cual nosotros queríamos abarcarnos, este viene a ser el sector de bares. Cuando comentamos la idea al docente, nos dio la aprobación para proceder con la estructuración, investigación, entrevistas y finalmente ir poco a poco desarrollando los enfoques tecnológicos adecuados para que los usuarios interactúen. Dentro de esas tecnologías abarcan tanto el despliegue funcional de nuestro “Landing Page” (que es lo primero que se desarrolló para esta entrega), “Web Application” y “Web Services” – estos últimos se irán implementando a medida que se pase al siguiente Sprint -. Una vez sujeto todos estos aspectos, procedimos a contactar a nuestros usuarios que forman parte de nuestro segmento objetivo y así como otros públicos en generales para comentarles que es lo que sienten y piensan acerca de la idea, y como se beneficiarán de ello; los comentarios fueron en su gran mayoría alentadores, sin embargo, también hubo ciertas sugerencias como para perfeccionar ciertos aspectos que no estaban del todo claros al momento de presentarles. Es gracias a ello, que procedimos con esta primera entrega del proyecto. De antemano, espero que sea de su agrado.<br><br>
-    <strong>TP:</strong><br>Después de pasar por la fase de validación de la idea propuesta con que la respecta a todo lo que se vino desarrollando anteriormente, el docente nos comentó que tuvimos algunos puntos que mejorar – no graves, pero si eran fundamentales seguir ciertos aspectos de la rubrica para que quede más concreta la idea a expresar -, por lo que, procedimos a levantar las observaciones correspondientes y comenzamos con la elaboración de la primera versión del “Web Application”. Siendo honestos, el equipo trabajo arduamente para concretar estos aspectos fundamentales y, a pesar del tiempo que es uno de los principales enemigos de todo developer, logramos concretar la idea y está a próxima a presentarse en la exposición del día de mañana. Después de la exposición y de las otras actividades que tengamos pendientes desarrollar, se procederá a mostrar dicha versión a nuestro público para saber su opinión y lo más importante los feedback que nos puedan dejar – ya que no hay perfección sin errores -. Esperamos que les pueda hacer de su agrado esta presentación del proyecto y agradecer a todo el equipo por su dedicación y compromiso constante.
+    <strong>TP:</strong><br>Después de pasar por la fase de validación de la idea propuesta con que la respecta a todo lo que se vino desarrollando anteriormente, el docente nos comentó que tuvimos algunos puntos que mejorar – no graves, pero si eran fundamentales seguir ciertos aspectos de la rubrica para que quede más concreta la idea a expresar -, por lo que, procedimos a levantar las observaciones correspondientes y comenzamos con la elaboración de la primera versión del “Web Application”. Siendo honestos, el equipo trabajo arduamente para concretar estos aspectos fundamentales y, a pesar del tiempo que es uno de los principales enemigos de todo developer, logramos concretar la idea y está a próxima a presentarse en la exposición del día de mañana. Después de la exposición y de las otras actividades que tengamos pendientes desarrollar, se procederá a mostrar dicha versión a nuestro público para saber su opinión y lo más importante los feedback que nos puedan dejar – ya que no hay perfección sin errores -. Esperamos que les pueda hacer de su agrado esta presentación del proyecto y agradecer a todo el equipo por su dedicación y compromiso constante.<br><br>
+    <strong>TB2:</strong><br>
+    La importancia de lo que es este proyecto para nuestros segmentos objetivos es inigualable, por el hecho en el que ideas innovadoras para mejorar y ayudar a la acción, y dinamismo continuo humano en sus labores son lo que realmente impacta a más de uno. Por ende, su opinión nos permite seguir mejorando para poco alcanzar esa perfección que todos anhelamos; y, si esto lo relacionamos con el aspecto de desarrollo, buscamos que el ellos se sientan cómodos y a gustos en cada interacción que tengan en el mundo digital.
     </td><br>
   </tr>
 </table>
@@ -3904,7 +3979,7 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 
 Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se tuvo pensado la creación de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop.
 
-| Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| Repository                                | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
 | [LoyalSips-Web-Application](https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips.git) | Feature/TS-Web-Application | feature:home-section add     | Initial commit | Se creó el proyecto | 25/09/2023|
 
@@ -4166,7 +4241,7 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156886351678021694/Captura_de_pantalla_2023-09-28_043251.png"></div>
+      <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1157451411961937980/image.png?ex=6518a821&is=651756a1&hm=1930e7d16f862e19cae2794445c5f37a649dff9efdcb8d101e453b029bd5ce37&"></div>
     </td>
 </tr><br>
 
@@ -4185,92 +4260,1498 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
 </tr><br>
 
 
-## Video About-the-Team.
+<table align="center">
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint #</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3</th>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Planning Background</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Date</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2023-10-18</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Time</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">19:25 PM</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Location</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">El lugar de reunión fue en la plataforma de videoconferencia virtual <strong>“Google Meet”</strong>, de lo cual se desarrolló para conversar en relación a los deberes que cada uno debe desarrollar para este <em>sprint 3.</em> -.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Prepared By</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Huamani Sánchez, José Diego</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Attendees (to planning meeting)</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / Ballona Blas, Naggit German / Huamani Sánchez, José Diego</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Review Summary</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">En esta oportunidad, se volvió a dar una nueva mejoría y actualización a enfoque del <strong>Landing Page</strong> de lo cual respecta a nuestro <em>startup</em> - acoplando la añadidura de algunos <em>user stories</em> y sobre todo los feedbacks desarrollados por nuestros estimados segmentos objetivos en la entrevista de validación -. En complemento a lo que anteriormente se menciones, se brindó también la nueva actualización del <strong>Web Application</strong>, donde igualmente se incluyeron algunos <em>user stories</em> y levantamos algunos observaciones que teniamos en base a las heuristicas que nos hemso autoevaluado. Finalmente, se tiene previsto para esta presentación, el desarrollo y la entrega de la primera versión de nuestro <em>Backend</em>, lo cual se seguirán de manera muy rigurosa los enfoques de negocio y las buenas práctica para un buen mantenimiento y soporte a futuro.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Retrospective Summary</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Principalmente en esta sección, los <em>team members</em> llegamos a la conclusión de que las nuevas implementaciones llevadas acabo para asemejar el perfecionamiento del dinamismo tanto en el <strong>Landing Page</strong> así como <strong>Web application</strong>, han sido uno de lo que más nos han logrado impactar, ya que le ha dado otra perspectiva más única y personalizada para lo que van a interactuar nuestros usuarios. Sin embargo, sentimos que uno de los aspectos importantes, que en esta oportunidad vino a ser el <strong>Backend</strong> si necesitamos una buena y sugestiva mejora, ya que nos deja algo que desear.</td>
+</tr>
+<tr>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Goal  & User Stories</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 Goal</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">El enfoque objetival que se tiene previsto para esta penúltima entrega, referiendonos al sprint 3, está más que todo centrado en el validar los principios de <strong>UI/UX</strong> que opinan nuestro segmento objetivo (más que todo ligado al pensamiento y sentimiento). En base a sus opiniones, mejorar el dinamismo y funcionalidad que tiene nuestro <strong>Lading Page</strong> y <strong>Web application</strong> respectivamente. Por otra parte, en relevancia al lado <strong>Backend</strong> de nuestro aplicación, más que todo va ligado al enfoque de los procesos internos no visibles que le darán la interactividad funcional ante las diferentes acciones que los usuarios desarrollen dentro de la aplicación.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 Velocity</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este penúltimo sprint, el <strong>Scrum Developer Team</strong> llegó a un acuerdo en aceptar sin ningún tipo de problemas la cantidad de 21 <em>story points</em> respectivamente.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para lo que conlleva este sprint 3, estamos abarcando los <em>User Stories</em> con identificadores <em><strong>US18</strong></em> el cual equivale 8 puntos, <em><strong>US03</strong></em>, que equivale a 5 puntos y el <em><strong>US12</strong></em> que tiene como equivalencia 8 puntos.</td>
+</tr>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3.
+
+<div align='justify'>
+<p>Para lo que respecta a este sprint, se llevó a cabo las suspicaces actualizaciones tanto de nuestro <strong>Landing Page</strong> como nuestro <strong>Web application</strong> - tomando muy en consideración los <em>feeedbacks</em> de nuestros segmentos objetivos y heurísticas recibidas para llevarlos a cabo -. Para este sprint, se tuvo un plazo de concretación estimado de 3 semanas, de lo cual, se dió inicio el día 20 de octubre del año 2023 y, como principal objetivo - muy aparte de las actualizaciones -, es implementar las primeras fases de implementación de nuestro <strong>Backend</strong> para todo lo que se va a denotar en el <em>core</em> funcional de nuestro negocio; por lo que, siguiendo las buenas prácticas de <strong>Clean Code</strong>, damos un riguroso y una mantenible infraestructura para toda la funcionalidad de la lógica del negocio. Dividiendo y dando seguimiento de los tasks correspondientes, tratamos en seguir cumpliendo con las expectativas de todos nuestros usuarios y que esto pueda seguir impulsando más la facilidad de apoyo en sus labores en sus respectivos roles. </p>
+</div>
+
+<div align="center">
+<img src="https://media.discordapp.net/attachments/892430247042105427/1170821542310072510/image.png?ex=655a6f88&is=6547fa88&hm=4d6288e41d036a5c6111fde0c8c1856bb6ea1e5ed0d861efeffbe5d795f87bf2&=&width=1213&height=564" alt="Sprint-Backlog3-Image" style="width:600px;height:auto;">
+</div>
+
+<div align="center">
+<p><strong>Link del Trello:</strong> <a href="https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps">https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps</a></p>
+</div>
+
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint #</th>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3</td>
+</tr>
+<tr>
+ <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">User Story</th>
+ <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Work Item / Task</th>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ID</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Title</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ID</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Title</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Description</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Estimation (hours)</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Assigned To</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Status (To Do / In - process / To - review / Done)</th>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US18</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Información de contacto</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA16</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Actualización de Datos de Contacto</em></td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Permite a los usuarios actualizar su información de contacto, incluyendo números de teléfono, direcciones de correo electrónico y otros detalles importantes.</em></td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA17</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Gestión de Información de Contacto</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">mplementa una funcionalidad central que permita a los usuarios administrar y mantener su información de contacto de manera efectiva, incluyendo la capacidad de agregar, editar y eliminar registros.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA18</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Visualización de Datos de Contacto</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Habilita la visualización de la información de contacto actual de un usuario, lo que permite una revisión rápida y fácil de los datos almacenados en el sistema.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA19</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Edición de Información de Contacto</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Permite a los usuarios modificar y corregir su información de contacto existente, asegurando que los datos sean precisos y actualizados.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA20</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Agregado de Nueva Información de Contacto</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ofrecer a los usuarios la capacidad de agregar nuevos contactos o detalles de contacto a su perfil.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Huamani Sanchez, Jose Diego</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA21</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Eliminación de Información de Contacto</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Define el propósito de lo que ofrecerá nuestro startup</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US03</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Registro de nuevos usuarios</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA22</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Creación de Cuenta de Usuario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Implementar la lógica de backend necesaria para permitir a los usuarios registrarse en la aplicación, incluyendo la validación de datos, almacenamiento seguro de información y la generación de credenciales de acceso.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA23</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Proceso de Inscripción</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Recepción de datos del usuario hasta la creación de su cuenta y la respuesta de confirmación.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA24</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Inscripción de Nuevos Miembros</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">desarrollar los componentes backend para permitir la inscripción de nuevos miembros en la aplicación.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA25</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alta de Usuario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Asegurar la verificación de datos y la creación de un perfil único.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA26</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Incorporación de Nuevos Clientes</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Creación de cuentas y la interacción con la base de datos de manera eficiente y segura.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes Jean Pierre</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA27</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Creación de Perfil de Usuario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Asignación de roles y permisos relevantes dentro de la apliación.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Huamani Sanchez, Jose Diego</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US12</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sistema de gestion de inventarios</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA28</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Desarrollo de la Base de Datos de Inventarios</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">P configuración de la base de datos central que almacenará toda la información relacionada con el inventario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA29</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Desarrollo de Funcionalidades de Reportes de Inventario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">implementación de funcionalidades que permiten a los usuarios generar informes detallados sobre el estado del inventario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA30</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Optimización del Proceso de Control de Inventario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">mejorar la eficiencia y la velocidad del proceso de control de inventario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+</table>
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+
+<p>Como parte de la revisión del tercer sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de <em>commits</em> en diferentes repositorios. Durante este sprint, nos enfocamos en realizar los ajustes de mejora para nuestro <strong>Landing Page</strong>,  la actualizacion del <em>Frontend Web Application</em> respecto a nuestro <strong>Startup</strong>. Por otro lado, se tuvo como objetivo desarrollar la primera version del <strong>Backend</strong> de nuestra aplicacion, el cual se hizo en el lenguaje de programacion Java, teniendo en cuenta el uso de Domain Driven Design. Los commits registrados en diversos repositorios reflejan el trabajo realizado en estas áreas en específico.</p>
+
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Repository</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Branch</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit ID</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit Message</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit Message Body</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commited on (Date)</th>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/updateStyles_WebApp</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">b307e21</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Styles): estilos actualizados parte 1
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Styles): estilos actualizados parte 1
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">15/10/23 16:09:37 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/sectionBar</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3193176</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Bares): Section Bares implemented.
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Bares): Section Bares implemented.
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">15/10/23 18:24:23 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/loginWebSection</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">33ec981</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login): files login created
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login): files login created
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 20:09:27 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/loginRegisterSection</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">447cdf5</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login-register): sector election login added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login-register): sector election login added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 20:45:39 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/loginRegisterRoutes</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">736a12c</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login-register): routes login client & empresario implemented
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login-register): routes login client & empresario implemented
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 21:05:06 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/loginUpdate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">98546b</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login): login of 2 sectors implemented
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login): login of 2 sectors implemented
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">05/11/23 00:13:01 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/initialCommit</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">105618</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: initial commit.
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: initial commit.
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 14:58:55 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/initialReadme</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">f696b5b</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">doc: added readme.
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">doc: added readme.
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:09:41 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/AuditableModel</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1d78e47</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: AuditableModel
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: AuditableModel
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:16:44 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/APIConfiguration</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4e43ec6</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Open Api Configuration in Java
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Open Api Configuration in Java
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:18:54 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/pomXMLUpdate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">44bf304</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Update pom.xml, implementacion the Snake Case and Application Properties
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Update pom.xml, implementacion the Snake Case and Application Properties
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:27:08 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/servicesImplementation</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">7752186</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Implemetacion .. Impl, Services, NotFound,Command and Query
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Implemetacion .. Impl, Services, NotFound,Command and Query
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:34:31 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/implementStructure</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">93712b1</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: structure of what was implemented
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: structure of what was implemented
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:56:29 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/BarCommandService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1269512</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/BarComandService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/BarComandService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:35:57 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/customerCommandService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">e707486</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerComandService  add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerComandService  add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:44:45 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/pointCommandService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">cdbd4e0</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Update PointCommandServiceImpl.java
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Update PointCommandServiceImpl.java
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:50:43 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/externalProfileService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">8c59b6f</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/ExternalProfileService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/ExternalProfileService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:53:20 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/barQueryService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">6d0952a</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/BarQueryService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/BarQueryService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:56:18 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/customerQueryService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">8442b93</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> feature/CustomerQueryService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> feature/CustomerQueryService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:59:45 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/pointQueryService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3200bb9</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/PointQueryService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/PointQueryService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 11:07:12 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/barQueryService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">b113a36</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> feature/BarCommandService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> feature/BarCommandService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 11:17:42 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/customerCommandServiceUpdate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">9f9b5ab</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerCommandService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerCommandService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 11:24:03 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/pointCommandServiceUpdate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">5174c94</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/PointCommandService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/PointCommandService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 11:28:55 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/externalProfileServiceUpdate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4d59dc4</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/ExternalProfileService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/ExternalProfileService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 11:32:49 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/customerRepository</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4d59dc4</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerRepository add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerRepository add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 11:39:15 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/profilesUpdate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">59eb786</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Update profiles
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Update profiles
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 15:39:44 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/profilesRepository</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">7c5980c</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Profiles Repository
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Profiles Repository
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 15:47:24 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/interfacesRepository</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">fdb7a07</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Interces Profiles
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Interces Profiles
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 15:53:44 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/servicesProfile</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">9b78f75</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Services Profiles
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Services Profiles
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 15:58:19 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/completedProfiles</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">e6e78c4</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Completed Profiles
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Completed Profiles
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 16:08:05 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/barAggregate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">b5e1a6a</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(aggregates): Bar added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(aggregates): Bar added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:08:33 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/customerAggregate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">b86d631</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(aggregates): Customer added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(aggregates): Customer added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:12:06 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/pointAggregate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">16a76d4</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(aggregates): Point added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(aggregates): Point added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:16:46 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/cancelPointCommand</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">c370fdf</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): CancelPointCommand added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): CancelPointCommand added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:20:36 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/confirmPointCommand</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">b6310e4</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): ConfirmPointCommand added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): ConfirmPointCommand added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:23:54 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/createBarCommand</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">93bf990</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): CreateBarCommand added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): CreateBarCommand added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:26:12 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/createCustomerCommand</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">13804c0</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): CreateCustomerCommand added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): CreateCustomerCommand added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:28:39 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/deleteBarCommand</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">28c8698</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): DeleteBarCommand added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): DeleteBarCommand added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:31:43 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/rejectPointCommand</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">141cde1</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): RejectPointCommand added
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): RejectPointCommand added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:33:49 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/requestPointCommand</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ffc6969</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): RequestPointCommand added
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): RequestPointCommand added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:36:01 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/updateBarCommand</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2e956e0</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): UpdateBarCommand added
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(commands): UpdateBarCommand added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:38:04 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/loyalSipsPathItemEntitity</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">75592fb</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(entities): LoyalSipsPathItem added
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(entities): LoyalSipsPathItem added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:41:11 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/offerEntitity</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">67d8223</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(entities): Offer added
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(entities): Offer added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:43:20 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/progressRecordItemEntitity</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">fd32131</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(entities): ProgressRecordItem added
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(entities): ProgressRecordItem added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 18:45:45 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/barRepository</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2d5d564</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">BarRepository-added
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">BarRepository-added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 19:45:46 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/resources</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">d29d88d</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/Resources
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/Resources
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 20:03:28 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/valueObjects</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">8f0e8d6</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/ValueObjects
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/ValueObjects
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 20:08:44 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/events</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3f47ba3</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/events
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/events
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 20:31:49 PM</td>
+</tr>
+</table>
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+
+Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se actualizó la version que se tenia inicialmente del Frontend de la aplicacion. Por otro lado, la parte esencial del Sprint 3, consiste en la primera version de la implementacion del Backend del web aplication. Por el momento no se pudo desplegar el Backend de la aplicacion, pero para la siguiente entrega lo tendremos listo.
+
+| Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
+| [LoyalSips-Backend](https://github.com/TechSolutions-ws51/loyalsips.git) | master | chore: initial commit.     | Backend added | Se creó el proyecto | 23/10/2023|
+
+<br>
+
+| Loyal Sips Backend Desplegada                                          |[LoyalSips-Backend-Swagger](https://loyalsips.zeabur.app/swagger-ui/index.html#/)                | 
+|---------------------|---------------------|
+
+| Loyal Sips Landing Page Actualizada                                          |[LoyalSips-Frontend](https://techsolutions-ws51.github.io/LoyalSips-LandingPage-Open/index.html)                | 
+|---------------------|---------------------|
+
+| Loyal Sips Frontend Inicial                                          |[LoyalSips-Frontend](https://loyalsips.web.app/home)                | 
+|---------------------|---------------------|
+
+
+| Loyal Sips Frontend Actualizada                                          |[LoyalSips-Frontend](https://loyalsips-44e19.web.app)                | 
+|---------------------|---------------------|
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+En el sprint 3, se logró implementar la primera versión del Backend de la aplicacion, analizando los requisitos, para las colecciones y clases que se tuvo pensado crear, como primera version, hemos cumplido con la creacion de algunas colecciones como Profiles, Customers, Point y Bar, los cuales se muestran a continuacion:
+
+**Evidencia de Backend LoyalSips**
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1157097368458625075/Captura_de_pantalla_2023-09-28_183121.png"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1170543461146046464/image.png"></div>
+      <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1170543505572106320/image.png"></div>
     </td>
 </tr><br>
 
-Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tp1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EbT3mCj6eoZCp1Jz4YDqA7UBC8-66U2A-8I7z4fRIetL6A?e=JkDnAm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+
+**Customers (POST)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170544254901293147/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169530471810617464/image.png"></div>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170544306885492746/image.png"></div>
+    </td>
+
+    
+</tr><br>
+
+**(GET)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170544550561992826/image.png"></div>
+    </td>
+</tr><br>
+
+**BAR**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170545352231886979/image.png"></div>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170545395336757398/image.png"></div>
+    </td>
+</tr><br>
+
+**(PUT)**
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170545595807707176/image.png"></div>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170545639629795418/image.png"></div>
+    </td>
+</tr><br>
+
+**(POST)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170545718864396328/image.png"></div>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170545749952569374/image.png"></div>
+    </td>
+</tr><br>
+
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+Para el sprint 3 como equipo planificamos que el sprint abarcaría el front-end y back-end. Inicialmente nosotros trabajamos con una json server de forma local y luego pasamos a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. 
+
+Web Service:
+
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="14">Crops</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/crops</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/tunnels</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/tunnels</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/preparation-areas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/preparation-areas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}, {cropPhase}</td>
+            <td>api/v1/crops/{cropId}/grow-rooms/{cropPhase}</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}, {cropPhase}</td>
+            <td>api/v1/crops/{cropId}/grow-rooms/{cropPhase}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/formulas</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/formulas</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/bunker</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}/bunker</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{cropId}</td>
+            <td>api/v1/crops/{cropId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/company/{companyId}</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Companies</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/companies</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{companyId}</td>
+            <td>api/v1/companies/{companyId}</td>
+        </tr>
+        <tr>
+            <td rowspan="4">Employees</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/employees</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{employeesId}</td>
+            <td>api/v1/employees/{employeesId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/employees/{companyId}</td>
+        </tr>
+    </tbody>
+</table>
+
+- Web service images
+
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170543461146046464/image.png?ex=65596c8c&is=6546f78c&hm=2a13b7254b99210e40791f321f81dce80d0a875254ed1d1c1c3aaa30db1eca25&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170543505572106320/image.png?ex=65596c97&is=6546f797&hm=6de8d5dfc0a8557078e40a614ab58e889e77f6807d6835c11f619b6548596947&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170544254901293147/image.png?ex=65596d4a&is=6546f84a&hm=d18e2b9afab6cd83011bfd99d7d8db6527bfa3844ac493df993110cddcddcbf1&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170544306885492746/image.png?ex=65596d56&is=6546f856&hm=71ab7154ead2dd77cb97f39387b1626569157ea1f9c5bda88e220e3dd16203df&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170544550561992826/image.png?ex=65596d90&is=6546f890&hm=5e59cf31d401ea52c9f4193ef2c4c48c536e2586f9b202fa001630764a91b92e&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545352231886979/image.png?ex=65596e4f&is=6546f94f&hm=6fbba0ba3c2d7ecb054571062b7f5f460b3d27852ea885bd61bfbed96a9b509b&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545395336757398/image.png?ex=65596e59&is=6546f959&hm=f82f6238d5563a75bdcf843768cf029a34a72132253f8b7c0129d09897a0fe88&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545595807707176/image.png?ex=65596e89&is=6546f989&hm=64c7f37cec52b7ad773ecf275e08d19aad84c71f5656ebb56ae650383c3ef9e6&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545639629795418/image.png?ex=65596e94&is=6546f994&hm=a4e13659d331fbfec63e1eb18b499b589bcdf3d8de734fb93e4d0591f4116881&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545718864396328/image.png?ex=65596ea7&is=6546f9a7&hm=80b0476a622303de713367ad823db2147d4779def6697a78af1a1cf64b00bf61&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545749952569374/image.png?ex=65596eae&is=6546f9ae&hm=cac819acb4e8e5f1ff9f15506eb9b0b66c4b235318b2afe1c968d4c09d901b99&"></div> 
+
+Link del repositorio:
+
+https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report
+
+- Web service commit details.
+
+<br>
+
+|Repository|Branch|Commit Id|Commit Message|Commited on (Date)|
+|-|-|-|-|-| 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |105618f | chore: initial commit.| 3/11/2023| 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips  |f696b5b| doc: added readme. | 3/11/2023| 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |1d78e47 |  feat: AuditableModel|3/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | 1d78e47408123820aabd5140a0e6578c3905d2ec|feat: Open Api Configuration in Java | 3/11/2023|
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |44bf30401685f9fe409e2c63901f6e29bff07b83 | feat: Update pom.xml, implementacion the Snake Case and Application| 3/11/2023| 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|7752186dee294db575097f290156899108b183f4| feat: Implemetacion .. Impl, Services, NotFound,Command and Query | 3/11/2023| 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | 93712b1397ecf7ba73fadbb36189c2fda8895495|feat: structure of what was implemented | 3/11/2023| 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | 0ffe7e0c9325f3aa42ac13bcdd8a1daa070e4ec0| feat: More structure of what was implemented|3/11/2023 |
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | 126951287e35dda21cc0bc8481cc308c0da9a153|update |4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 126951287e35dda21cc0bc8481cc308c0da9a153|feature/BarComandService add |4/11/2023   | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |745152c908e604b34e994f1a55b0f0d5718656df |Merge pull request #1 from TechSolutions-ws51/feature/BarComandService | 4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | e707486d2e76dcf28f9e41b5ff623fc8107e5922|feature/CustomerComandService add |4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | cdbd4e0ed6112931095b29b00b93aad500a88a16|Update PointCommandServiceImpl.java | 4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|8c59b6f420390447cd58faf2428612e2ed95e191 |feature/ExternalProfileService add | 4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |6d0952ae879551978b3f1fbb3f9a089ec402ae6f | feature/BarQueryService add | 4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |8442b932c3dd593d47871452364b6ae34f21757f |feature/CustomerQueryService add | 4/11/2023  |
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |3200bb9c95eb0284ef8252ec1705ed19963cb342 |feature/PointQueryService add | 4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|b113a36f9deebb5124ecb9c11949101fd24989c9 |feature/BarCommandService add | 4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |9f9b5abbfdeff60ab131c7ed7c8a8d88558a527c | feature/CustomerCommandService add| 4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |5174c947e0206cc10356597f5ed7a4b22bccdfe4 | feature/PointCommandService add| 4/11/2023  |
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | 4d59dc4c49e25009e1d0151a9ce7225312faf686| feature/ExternalProfileService add|4/11/2023  |
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|a6a2ecc189159ce5166b3d1f7fd23698026f0891 |feature/CustomerRepository add | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 220d1165e699112309c484647dbdce128f323eb5| feature/PointCommandService add| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 758f0355ec6828d7441377d99fcb18ccec910937| Update PointCommandServiceImpl.java| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|128aafcf3699d4d4fc2e08686f265fcc1bbd2d79 |Update ExternalProfileService.java | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|765add6e0865bd4925288772b71f7c4e9621ac5b |Update BarQueryServiceImpl.java | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 085c2df6c7d63cbe14466c972a08b0979793edb7| Update CustomerQueryServiceImpl.java| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| b4887f05b096b380c20525f1b0fe269e2e03815d| Update PointQueryServiceImpl.java| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 59eb786dd2a769f80f59288f7a4ec1f55ad26f86|feat: Update profiles | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|d243bd57b2251c295ce5293865e50480c623e02f | feat: Update profiles| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|7c5980c60c2df13dc963c8ecaedde2a3daacc465 | feat: Profiles Repository| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|fdb7a0777cee8bf2a92e19cb90240a193afe534d |feat: Interces Profiles | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|9b78f75db582a803fc9a55372878019e2e3a5f6b |feat: Services Profiles | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 58c2a98d6739e04fc2226600d29338000abcf96d| feat: Services Profiles| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|e6e78c41ceecf74d79d3653db1e72517f65310d1 | feat: Completed Profiles| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|a9e34ee4c919163e02008458fc15727e3d1d9f7d | feat(services): BarComandService added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 97c69935dd647dad91f5c24b3c926fdf25b7a046| feat(services): BarQueryService added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| c9fefed512daa95f1f8b5ed61400ddd2d950d932| feat(services): CustomerComandService added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|493e47f1ea251eb7ee674793c492bf54b4df7e8c | feat(services): CustomerQueryService added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips | 9ae0189275f3e24c6ea386753d6a3df47fac0e59| feat(services): PointComandService added|4/11/2023  | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 480e91fb0fb9b7cea7e43ac52c59286981dbc375| feat(services): PointQueryService added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| b5e1a6a2c8e135c421e16101ecc9a13660a3c093| feat(aggregates): Bar added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| b86d631ff6707a7b90aa798c8a50e8fbdbf99051|feat(aggregates): Customer added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 16a76d4ed14f9ef70a19f413bdf6f609926a9a72| feat(aggregates): Point added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|c370fdf6c072bf5fff644d22d082d9f7783f877f | feat(commands): CancelPointCommand added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|b6310e4f888525bafc2e38ba365ed6871c616e06 |feat(commands): ConfirmPointCommand added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 93bf9902f53bb2411ed4b5310ed8a99840677fb5|feat(commands): CreateBarCommand added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|13804c0d5c75f29087d3a5b9549bf822c69a1533 |feat(commands): CreateCustomerCommand added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 28c869838fc2317069e42443b6ac1e95cde35099|feat(commands): DeleteBarCommand added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 141cde19f5e47b3bf94be4350f67abea44c6ecc8| feat(commands): RejectPointCommand added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|ffc6969761662241a0829c98e1617292cc5dae0f |feat(commands): RequestPointCommand added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 2e956e07257b21fb82ef647d868bfaaa3bd4afca| feat(commands): UpdateBarCommand added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|75592fb61ef5e6f5e238ab572a19d75f92ca421f |feat(entities): LoyalSipsPathItem added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 67d82237fcfbb61c7ad56ed773ecba0590eb0936| feat(entities): Offer added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| fd3213124dba0b48f8d3f734eaa09d208de1aa6e| feat(entities): ProgressRecordItem added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|64218f52146ad27736a3d5929bf747620128bb51 | BarcommandService-added| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|2d5d564d70bba7871cb4a51aecb4d6fe153f40f9 |BarRepository-added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| ede81f40a43adb470c7b7ac1746265df4f141f78|feature/PointRepository-added | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| d29d88d0638e7ea785fd058710a91ff9c33577bf| feature/Resources| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 8f0e8d61ae6a6ba92497b34c510e1bb87333f179|feature/ValueObjects | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 3f47ba3d1afc326b52e763c827f3e8a4146c8104| feature/events| 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| f056bcade69918d9fd6dd052c7aff2b79845cf3a|feat: Completed Code | 4/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips| 143ad9dcf73a1fb4169ff941f33a0ba3f70a95dc|Updated | 5/11/2023 | 
+| https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips|f9ca023df47996e5fa5095f20e89d5214f318eda | feat: Completed Code| 5/11/2023 | 
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Para la entrega del tercer sprint, se desplego el landing page completamente funcional. Cumpliendo con todos los user stories correspondientes al entregable. De la misma manera se desplego la web application, pero hemos encontrado detalles que falta perfeccionar y eso lo haremos en el siguiente sprint. Asimismo, se desplego el back-end.
+Landing page:
+El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("master"). Este proceso ha permitido actualizar la implementación de la página de destino.
+
+**•	Capturas de pantalla landing page (Ingles):**
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918603/1170749928960692284/image.png?ex=655a2cd6&is=6547b7d6&hm=8db2142e6973d07da7ebcf46eeaed4bdbae43f9c68b26a2849d054b7f2195746&"></div> 
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918603/1170750154735898654/image.png?ex=655a2d0c&is=6547b80c&hm=2f53c60451e39b363097d31d9c6ca30a4e87cbab209e716c276ff46ae2fe9e70& "></div> 
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918603/1170750232489889972/image.png?ex=655a2d1e&is=6547b81e&hm=89968254f5bc7db18e9cbe0b0e0329c66fdbe4af62da861ccbd0e1a0b04c4e73& "></div> 
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918603/1170750322914893855/image.png?ex=655a2d34&is=6547b834&hm=a2eb9bb28acace38345e7abebadceba337b34bba3699f1a0016aa6182b99d563& "></div> 
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918603/1170750370503479316/image.png?ex=655a2d3f&is=6547b83f&hm=ad2cb67a2cfccba2b5dbd4d6c80ede19d3785ca0fe0b20e904ffa880fbb9514c& "></div><br>
+
+**•	Capturas de pantalla landing page (Español):**
+<br>
+<div align='center'>
+  <img src="https://media.discordapp.net/attachments/1145898392631918603/1170818792801194004/image.png"></div> 
+<div align='center'>
+  <img src="https://media.discordapp.net/attachments/1145898392631918603/1170818899646873691/image.png"></div> 
+<div align='center'>
+  <img src="https://media.discordapp.net/attachments/1145898392631918603/1170818954311250041/image.png"></div> 
+<div align='center'>
+  <img src="https://media.discordapp.net/attachments/1145898392631918603/1170819017435529236/image.png"></div> 
+<div align='center'>
+  <img src="https://media.discordapp.net/attachments/1145898392631918603/1170819064516575253/image.png"></div><br>
+
+
+**•	Capturas de pantalla de web application:**
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918603/1170817261636948049/image.png"></div> 
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918603/1170817398476124160/image.png"></div> 
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918603/1170817565090660473/image.png"></div> 
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918603/1170817622170947677/image.png"></div> 
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918603/1170817678777266327/image.png"></div> 
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918603/1170817717163528222/image.png"></div> 
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918603/1170817766887018516/image.png"></div>
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918603/1170817802660233338/image.png"></div><br>
+
+
+**•	Capturas de pantalla del Backend de la aplicacion:**
+<br>
+
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170543461146046464/image.png?ex=65596c8c&is=6546f78c&hm=2a13b7254b99210e40791f321f81dce80d0a875254ed1d1c1c3aaa30db1eca25&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170543505572106320/image.png?ex=65596c97&is=6546f797&hm=6de8d5dfc0a8557078e40a614ab58e889e77f6807d6835c11f619b6548596947&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170544254901293147/image.png?ex=65596d4a&is=6546f84a&hm=d18e2b9afab6cd83011bfd99d7d8db6527bfa3844ac493df993110cddcddcbf1&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170544306885492746/image.png?ex=65596d56&is=6546f856&hm=71ab7154ead2dd77cb97f39387b1626569157ea1f9c5bda88e220e3dd16203df&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170544550561992826/image.png?ex=65596d90&is=6546f890&hm=5e59cf31d401ea52c9f4193ef2c4c48c536e2586f9b202fa001630764a91b92e&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545352231886979/image.png?ex=65596e4f&is=6546f94f&hm=6fbba0ba3c2d7ecb054571062b7f5f460b3d27852ea885bd61bfbed96a9b509b&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545395336757398/image.png?ex=65596e59&is=6546f959&hm=f82f6238d5563a75bdcf843768cf029a34a72132253f8b7c0129d09897a0fe88&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545595807707176/image.png?ex=65596e89&is=6546f989&hm=64c7f37cec52b7ad773ecf275e08d19aad84c71f5656ebb56ae650383c3ef9e6&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545639629795418/image.png?ex=65596e94&is=6546f994&hm=a4e13659d331fbfec63e1eb18b499b589bcdf3d8de734fb93e4d0591f4116881&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545718864396328/image.png?ex=65596ea7&is=6546f9a7&hm=80b0476a622303de713367ad823db2147d4779def6697a78af1a1cf64b00bf61&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545749952569374/image.png?ex=65596eae&is=6546f9ae&hm=cac819acb4e8e5f1ff9f15506eb9b0b66c4b235318b2afe1c968d4c09d901b99&"></div> 
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+|Alumno|Actividad|
+|-|-|
+|Morin Fuentes, Jean Pierre|Desarrollo del back end, y mejora y reestructuración de componentes del front end|
+|Ampudia Flores, Jose Carlo isaac|Desarrollo del back end e internacionalización del front end|
+|Alarcon Rondon, Sandro Fourfive|Desarrollo del back end, y mejora y reestructuración de componentes del front end|
+|Huamani Sánchez, José Diego|Desarrollo del back end, y mejora de componentes del front end|
+|Ballona Blas, Naggit German|Desarrollo del back end, y creación de nuevos de componentes del front end|
+Repositorio Landing:
+
+![insight_1_open_landing](https://cdn.discordapp.com/attachments/1145898392631918606/1170702896875180032/image.png?ex=655a0109&is=65478c09&hm=6a42ff397db1f9459afa3bfde885038ecafc7ac5d35f8ecebf5b7d76ef596d1f&)
+![insight_2_open_landing](https://media.discordapp.net/attachments/1145898392631918606/1155030983230365757/git_commits_image.png?width=697&height=625)
+Repositorio Web Application:
+![insight_1_open](https://cdn.discordapp.com/attachments/1145898392631918606/1170702896875180032/image.png?ex=655a0109&is=65478c09&hm=6a42ff397db1f9459afa3bfde885038ecafc7ac5d35f8ecebf5b7d76ef596d1f&)
+![insight_2_open](https://cdn.discordapp.com/attachments/1145898392631918606/1170703556110716948/image.png?ex=655a01a6&is=65478ca6&hm=611edf8c73f9808d07d2e7801afb54657affaf4d3c1c1420be6bc8ea095f5353&)
+Repositorio Platform:
+![insight_1_open_platform](https://cdn.discordapp.com/attachments/1145898392631918606/1170704063332094063/image.png?ex=655a021f&is=65478d1f&hm=73bb031bbd6a9bdae766f5e8a1d8f85f5cd5cd386e9e83e5003459b2b9b47f94&)
+![insight_2_open_platform](https://cdn.discordapp.com/attachments/1145898392631918606/1170703902665084979/image.png?ex=655a01f9&is=65478cf9&hm=e1dbd7583c717b587276f986455ff4c8f0b8de65960b83af21c2c1dc7c14b19d&)
+
+## 5.3. Validation Interviews.
+
+Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la website que esta destinada a optimizar la venta de los empresarios de los bares y por parte de los clientes que desean comprar bebidas. Para ello, se realizó una serie de entrevistas a los usuarios que se encuentran en el segmento objetivo, para poder obtener una retroalimentación de la website y poder mejorarla.
+
+### 5.3.1. Diseño de entrevistas.
+
+ **USUARIOS:**
+1.	***¿Qué es lo que piensa a simple vista de nuestra aplicación web?***
+2.	***Profundizando un poco con su opinión anterior, si lo relacionamos con el aspecto emocional, ¿Qué es lo que siente cuando lo ve?***
+3.	***¿Qué es lo que más le llama la atención dentro de la aplicación?***
+4.	***Cuáles siente usted que son algunos puntos negativos que pudo encontrar?***
+5.	***¿De qué manera siente usted que podamos mejorar esos altibajos?***
+**EMPRESA:**
+1.	***Comenteme, ¿Qué es lo que en primera instancia de la funcionalidad de la aplicación web le llama más la atención?***
+2.	***¿En relación al aspecto de catálogo de productos, ¿Siente que cumple con los objetivos establecidos?***
+> ***Si es que cumple: ¿De que manera siente usted de que lo esta cumpliendo?*** <br>
+> ***Si no los cumple: ¿Cuáles han sido los principales defectos o particularidades que no se concretaron?***
+3.	***En el aspecto del apartado de registro de clientes, ¿Qué es lo que opina? ¿De qué forma siente usted que podamos mejorar para dar un mejor enfoque a la interacción del usuario?***
+
+### 5.3.2. Registro de entrevistas.
+
+En este apartado, se evidenciará todas las entrevistas de validación realizadas a nuestro estimado público objetivo respectivamente. Al igual que la dinámica anterior, se presentará la información del entrevistado, resumen de la entrevista y, si son un tanto más curiosos y gustan tener un poco más de información acerca del mismo, pueden ver la entrevista de cada una de ellas mediante los <strong>links</strong> dejados en en la parte posterior o en la sección de <strong>Anexos B</strong>.
+### Segmento 1: Clientes que suelen ir a frecuentar un bar
+### Entrevista 1:
+<p><strong>Nombre:</strong> José Leandro</p>
+<p><strong>Apellido:</strong> Machaca Soloaga</p>
+<p><strong>Edad:</strong> 19</p>
+<p><strong>Distrito:</strong> Santiago de Surco - Lima, Perú</p>
+<div align="left">
+<p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
+</div>
+<p><strong>Timing:</strong> 00:02 min - 09:53 min</p>
+<p><strong>Duración:</strong> 09:53 min</p>
+<div align="center">
+<img  src="https://media.discordapp.net/attachments/892430247042105427/1165080235335749763/image.png?ex=65458c86&is=65331786&hm=cb7f69d7b461597d3fa24751a4b0a3c31ef8d9d7c5a433dc258cb067b57f82cd&=&width=1215&height=564"  alt="Entrevista_#1" style="width:500px;height:auto;">
+</div>
+<br>
+<strong>Resumen:</strong> 
+<p>En esta oportunidad, nos hemos vuelto a contactar con nuestro cliente <em>José Leandro Machaca</em> para dialogar con él con respecto al direccionamiento que está teniendo nuestro enfoque de desarrollo del proyecto y que es lo que piensa y siente al momento de apreciar el resultado logrado para esta entrega.
+En primeras impresiones, a Leandro le ha logrado impactar el diseño minimalista del cuál destaca mucho el efecto de lo colores en correspondencia al entorno web; asimismo, destaca el fácil manejo y el sencillo dinamismo al interactuar con la página. Pero como no todo es color de rosas, hay algunas observaciones que nos enmarcó y dejó muy en claro; estos, mayormente vienen a ser el tema de la tipografía - que en sí es agradable de ver en combinación con los efectos del color y la estética de la página, parece que tiene un parecido a una tipografía <em>Arial</em> -, y el efecto de visualización de la página - este último, aunque no es molesto, prefiere el típico diseño top-down -.
+Pero ante todo ello, cumple con la gran parte de sus expectativas y gusta seguir apoyando ante cualquier revisión o apoyo en el tema de diseño para seguir mejorando más el proyecto y que más personas puedan conocer de su gran impacto que puede generar en la sociedad; de antemano le damos las gracias por el tiempo que se tomó y esperamos volver a comunicarnos pronto.</p>
+<br>
+
+### Entrevista 2:
+<p><strong>Nombre:</strong> Patrizio Leonardo</p>
+<p><strong>Apellido:</strong> Risco Chero</p>
+<p><strong>Edad:</strong> 20</p>
+<p><strong>Distrito:</strong> Chorrillos - Lima, Perú</p>
+<div align="left">
+<p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
+</div>
+<p><strong>Timing:</strong> 09:55 min - 33:06 min</p>
+<p><strong>Duración:</strong> 23:11 min</p>
+<div align="center">
+<img  src="https://media.discordapp.net/attachments/892430247042105427/1165080871842357298/image.png?ex=65458d1e&is=6533181e&hm=d1c921d07bb9f7228e248b1c6dc200894889816db7bc9af06a1a0edad4ac459d&=&width=1213&height=564" alt="Entrevista_#2" style="width:500px;height:auto;">
+</div>
+<br>
+<strong>Resumen:</strong> 
+<p>Después de un largo tiempo, nuestro cliente Patrizio Leonardo Risco Chero se logró comunicar con nosotros para mayormente expresarnos su opinión acerca en como iba el progreso del proyecto, por lo que aprovechando también el motivo de la importancia de la reunión, logramos dialogar con él en referencia a la validación del proyecto en el entorno Web.
+En base a sus opiniones, ya que él muy sugestivo ante el tema de diseño, nos comentó que como principal defecto que aprecia es el color de las <strong>Cards</strong> de la sección de <em>Services</em>, ya que no está muy ligado a los colores representativos de nuestro logotipo, entonces, hay un aspecto muy punto crítico que hay que resolver. Por otra parte, con respecto a la pestaña de inicio de nuestro aplicación, le gustaría que en vez de mostrar un celular con la muestra del logo de nuestra <em>startup</em>, haya como un fondo atras que lo resalté, ya que lo ve él como algo forzado que como le que quita el porte a la temática.
+Dejando de lado los puntos negativos, nos deja muy en claro que este proyecto tiene mucho potencial, solo corrigiendo esos puntos, pueda dar un mejor aspecto para la presentación de todo lo que ofrece dicha página web. Agradecemos a nuestro crítico en diseño y excelso en aspectos de bares Patrizio Risco y esperamos comunicarnos pronto para cualquier otra mejora que de repente requiera el proyecto.</p>
+<br>
+
+### Segmento 2: Empresarios del manejo bares
+### Entrevista 3:
+<p><strong>Nombre:</strong> Fiorella Camila</p>
+<p><strong>Apellido:</strong> Ninasivincha Gonzáles</p>
+<p><strong>Edad:</strong> 19</p>
+<p><strong>Distrito:</strong> Santiago de Surco - Lima, Perú</p>
+<div align="left">
+<p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
+</div>
+<p><strong>Timing:</strong> 33:08 min - 45:24 min</p>
+<p><strong>Duración:</strong> 12:16 min</p>
+<div align="center">
+<img  src="https://media.discordapp.net/attachments/892430247042105427/1165081612397064222/image.png?ex=65458dce&is=653318ce&hm=70509ec2a32e1e3cad6840ae41c2f0daf1bd009686ab95c27ba15c211b80eef4&=&width=1207&height=564" alt="Entrevista_#3" style="width:500px;height:auto;">
+</div>
+<br>
+<strong>Resumen:</strong>
+<p>Para validar la retrospectiva del direccionamiento que tiene el proyecto en entorno a la Web, nos hemos puesto en contacto nuevamente con la gerente del bar Fiorella Camila Ninasivincha, de los cuales por medio de la entrevista realiazada, nos pudo comentar de manera suspicaz las extrensicidades que, a primera vista, pudo apreciar, tales como la estética y la buena interacción para lo usuarios - ya que actualmente, el dinamismo y el aspecto "vintage" son lo que más destaca dentro un página -.
+Cuando se le preguntó acerca de que es lo que piensa y siente al momento de validar los aspectos de la sección del catálogo de bebidas, le pareció una presentación muy bonita, pero para que ese sugestivismo "bonito" pueda convertirse en "maravilloso", le gustaría que se agregará un poco más de detalle en la descripción de las bebidas - para que que los clientes sepan cuales son los insumos que contiene -. Pasando al aspecto de previsualización de ingreso y registro de usuarios, le fascinó realmente la interacción simple lo cual ayudará a un desenvolvimiento óptimo por parte de los usuarios dentro del <em>website</em>.
+Seguiremos trabajando para lograr mejorar dichos aspectos y lograr cada vez más la satisfacción de nuestros cientes y nuestro segmento empresarial. De antemano, agradecemos la validación correspondiente y agradecemos las buenas vibras para todo lo que resta el resta del proyecto.</p>
+<br>
+
+### Evaluaciones según heurísticas.
+<div align='center'>
+<h2>UX Heuristics & Principles Evaluation</h2>
+<h3>Usability – Inclusive Design – Information Architecture</h3>
+</div>
+<p><strong>CARRERA:</strong> Ingenieria de Software</p>
+<p><strong>CURSO:</strong> Desarrollo de Aplicaciones Open Source</p>
+<p><strong>SECCIÓN:</strong> WS51</p>
+<p><strong>PROFESORES:</strong> Todos</p>
+<p><strong>AUDITOR:</strong> TechSolution</p>
+<p><strong>CLIENTE(S):</strong> Ampudia Flores, José Carlos Isaac, Alarcón Rondón, Sandro Fourfive, Morin Fuentes, Jean Pierre, Huamani Sánchez, José Diego, Ballona Blas, Naggit German.</p>
+<hr><br>
+<strong>SITE O APP A EVALUAR:</strong>
+<P>Landing Page & Web Application of LoyalSips</p>
+<br>
+<strong>TAREAS A EVALUAR:</strong>
+<p>El alcance de esta evaluación incluye la revisión de las siguientes tareas:</p>
+<ol>
+<li>Cambio de idioma en la página</li>
+<li>Sección del <strong><em>navbar</em></strong> en el <em>Landing Page</em></li>
+<li>Sección de <strong>Support</strong> en el <em>Web Application</em></li>
+<li>Sección <strong>Home</strong> en el <em>Web Application</em></li>
+<li>Descripción de la presentación de la sección del <strong>About us</strong> del <em>startup</em></li>
+<li>Sección <strong>Drinks</strong> en el <em>Web Application</em></li>
+</ol>
+<br>
+<p>No están incluidas en esta versión de la evaluación las siguientes tareas:</p>
+<ol>
+<li>Ingresar con una cuenta</li>
+<li>Crear una cuenta nuvea</li>
+<li>Redireccionamiento de las cards</li>
+<li>Envió de comentarios a soporte</li>
+</ol>
+<br>
+<strong>ESCALA DE SEVERIDAD:</strong>
+<p>Los errores serán puntuados tomando en cuenta la siguiente escala de severidad</p>
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Nivel</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripción</th>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco
+frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de
+   superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso dela herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+</tr>
+</table>
+<br>
+<strong>TABLA RESUMEN:</strong>
+<br>
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">#</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Problema</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Escala de severidad</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Heurística/Principio violada(o)</th>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">No se puede denotar el límite definido a lo que respecta el inicio de la sección <em>footer</em>.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: Effectiveness. Can users achieve their desired goals on your website?</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">En la sección <strong>Home</strong>, dicha presentación da un toque de seriedad en vez de llamatividad.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: Is it delightful?</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">En la sección de <strong>Support</strong>, al momento de obtener las posibles preguntas, estás no proporcionan una preguntas clarivendentes.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: Is it clear?</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Se desconoce quienes son los miembros del equipo que conforman el <strong>startup</strong></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: Is it communicative?</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">5</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">El catálogo de bebidas tiene una escasa descripción. Falta detallar un poco más acerca de lo que contiene cada una de las bebidas.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: User Satisfaction. Do users like to use your website and recommend it to others?</td>
+</tr>
+</table>
+<br>
+<strong>DESCRIPCIÓN DE PROBLEMAS:</strong>
+<p><strong>Problema #1:</strong> No se puede denotar el límite definido a lo que respecta el inicio de la sección footer.</p>
+<p><strong>Severidad:</strong> 2</p>
+<p><strong>Heurística/Principio violada(o):</strong> Usability: Effectiveness. Can users achieve their desired goals on your website?</p>
+<strong>Problema:</strong>
+<p>En la presentación del <em>Landing Page</em>, se lográ visualizar todo el contenido de lo que respecta a la información representativa del <em>startup</em> en mención; sin embago, al momento de visualizar la parte final del mismo, no se lográ definir si este pertece aun al cuerpo de la página o ya llegó a su fin, por lo que lográ generar ciertas dudas y confunsiones al momento de la interacción.</p>
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166064197843562599/image.png?ex=654920e9&is=6536abe9&hm=7629ca94af814d35e89735d502cff6104f4f82cd58bccc27ffab6534f9949252&=&width=1191&height=564" alt="Problem#1_Footer" style="width:600;height:auto;">
+</div>
+<br>
+<strong>Recomendacion:</strong>
+<p>Se recomienda colocar un color un color diferente al apartado del <em>footer</em> para que se diferencia del resto del cuerpo de la pagina; asimismo, colocar un copyright para darle un enfoque más apropiado.</p>
+<hr><br>
+<p><strong>Problema #2:</strong> En la sección Home, dicha presentación da un toque de seriedad en vez de llamatividad.</p>
+<p><strong>Severidad:</strong> 1</p>
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: Is it delightful?</p>
+<strong>Problema:</strong>
+<p>Al momento de apreciar la página principal del <em>Web Application</em>, podemos denotar una presentación con tonalidades un tanto elegantes pero serias a la vez, por lo que si más que todo se está enfocando en temática noche y un ambiente de satisfacción - que es lo que representa un bar -, debe cambiar un tanto la presentación del fondo y adecuarlo a algo que se compacte con un nuevo enfoque visual que impacte sin perder los colores representativos de la marca.</p>
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166064732088836136/image.png?ex=65492168&is=6536ac68&hm=921508b0d3c6fee8f1dc1295aa9e38a2ac4a1c573296ed55e85751d63cd92ebc&=&width=1195&height=564" alt="Problem#2_Home" style="width:600;height:auto;">
+</div>
+<br>
+<strong>Recomendacion:</strong>
+<p>Se recomienda quitar ese teléfono de fondo y agregar un fondo atrás más representivo a lo qué tranmitimos a nuestros clientes - un fondo dentro de las instalaciones o un grupo de personas diviertiendose por ejemlo, sería una excelente idea -.</p>
+<hr><br>
+<p><strong>Problema #3:</strong> En la sección de Support, al momento de obtener las posibles preguntas, estás no proporcionan una preguntas clarivendentes.</p>
+<p><strong>Severidad:</strong> 4</p>
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: Is it clear?</p>
+<strong>Problema:</strong>
+<p>Al momento de argumentar las posibles dudas que pueda presentar dentro de la página, nos percatamos que también hay una guía de posibles preguntas frecuentes de las cuales ya se puede obtener una respuesta; el problema radíca en que esas preguntas, están en un idioma que la gran mayoría de usuarios desconoce, por lo que genera cierta sensación de confusión y dudas al momento de consultar.</p>
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166065262299185294/image.png?ex=654921e6&is=6536ace6&hm=1023c487862ae1b335db5de4543c04d61c4b4683d1b115670b7e2fd3c94aeeaf&=&width=1198&height=564" alt="Problem#3_Support" style="width:600;height:auto;">
+</div>
+<br>
+<strong>Recomendacion:</strong>
+<p>Se recomienda agregar preguntas frecuentes verdaderas en lugar del típico <em>Lorem</em> para así dar un toque más de credibilidad y evitar que los usuarios se confundan.</p>
+<hr><br>
+<p><strong>Problema #4:</strong> Se desconoce quienes son los miembros del equipo que conforman el startup.</p>
+<p><strong>Severidad:</strong> 3</p>
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: Is it communicative?</p>
+<strong>Problema:</strong>
+<p>En la sección del <em>About us</em>, nose lográ visualizar con exactitud quienes son los representantes o miembros del equipo de los cuales forman gracias a ellos tenemos esta aplicación, por lo que genera cierta dudosidad al momento de interactuar dentro de él, ya que deja a la mente del usuario de que esto no es algo confiable.</p>
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166066476302737468/image.png?ex=65492308&is=6536ae08&hm=5c360290eb034a10f419612239e8cafcd21fe76cbfaaa01c586ff2d09d5c9795&=&width=1194&height=564" alt="Problem#4_AboutUs" style="width:600;height:auto;">
+</div>
+<br>
+<strong>Recomendacion:</strong>
+<p>Se recomienda agregar debajo de la <em>card</em> que describe el <strong>startup</strong> un subtitulo que defina a los integrantes que conforman este equipo para que los usuarios sepan un poco de los autores de los cuales, gracias a ello, se pudo llevar a cabo todo ello. </p>
+<hr><br>
+<p><strong>Problema #5:</strong> El catálogo de bebidas tiene una escasa descripción. Falta detallar un poco más acerca de lo que contiene cada una de las bebidas.</p>
+<p><strong>Severidad:</strong> 3</p>
+<p><strong>Heurística/Principio violada(o):</strong> Usability: User Satisfaction. Do users like to use your website and recommend it to others?</p>
+<strong>Problema:</strong>
+<p>Al momento de visualizar el catálogo de bebidas que se tiene dentro del bar, explica de manea muy sencilla y apreciable a la vez de las bebidas que dentro del lugar sirven; pero, lo que si deja mucho que desear, es el tema de detalle de lo que contiene o de lo que se compone esa bebida, ya que al dejarlo solo así, no impacta o no llama tanto la atención de los nuevos usuarios que tal vbz nunca han ido a visitar un bar.</p>
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166067321647943741/image.png?ex=654923d1&is=6536aed1&hm=788e3e5f5edee29b422113edc42334810bd070d96cf567f6775312db05c8b7d1&=&width=1204&height=564" alt="Problem#5_Drinks" style="width:600;height:auto;">
+</div>
+<br>
+<strong>Recomendacion:</strong>
+<p>Se recomienda añadir más información que detalle un poco más de los insumos que contienen tantos dichas bebidas como dichas promociones para dar un mejor panorama en la elección de lo que el mismo usuario desee consumir.</p>
+<br>
+
+## 5.4. Video About-The-Product.
+
+### Video About-the-Product.
+<tr>
+    <td>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918603/1170829455275597895/image.png"></div>
+    </td>
+</tr><br>
+
+Link para ver el video: [upc-pre202302-si729-ws51-TechSolutions-about-the-product-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVJwW_giVH5AqY5Btli4gGkBoD1B7Wa1Qyvp7IyapWjkoQ?e=TlaB05&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ## Conclusiones
-
 - El equipo ha establecido un sólido sistema de control de versiones utilizando GitHub y ha implementado el flujo de trabajo Gitflow para el desarrollo del proyecto, lo que garantiza a futuro un seguimiento eficiente de las modificaciones.
-
 - Las convenciones de compromisos (commits) con Compromisos Convencionales (Conventional Commits) se han adoptado para mantener una estructura coherente en los registros de cambios.
-
 - Se han establecido pautas y convenciones claras para el desarrollo de código, lo que facilita la colaboración y el mantenimiento del mismo.
  
 - La implementación de medidas de seguridad, como la validación de entrada y la prevención de ataques de inyección, es una medida de protección de los datos de los usuarios.
-
 - La automatización del proceso de Deployment con GitHub Actions y la configuración de seguridad en la nube demuestran un despliegue eficiente y seguro de la aplicación. 
  
 - Las reuniones de planificación del Sprint y la revisión retrospectiva reflejan una comunicación sólida y una colaboración efectiva dentro del equipo.
-
 - La implementación gradual de la Landing Page y otras secciones de la aplicación en sprints sucesivos muestra un enfoque centrado en la entrega incremental de funcionalidades.
-
 - El desarrollo de secciones como "About Us," "Services," "Reviews," y "Contacts" demuestra un compromiso con proporcionar una experiencia de usuario completa y atractiva.
-
 - Por medio del proceso de interacción con los entrevistados - mediante en el enfoque de las entrevistas -, nos ha permitido enmarcar y centrar una pequeña muestra acerca de nuestro público objetivo el cual va dirigido nuestro “Startup”, logrando recapitular información valiosa acerca sus intereses, sensaciones, perspectivas y expectativas que esperan tanto los consumidores como los dueños de los diversos bares que hay hoy en día en la ciudad de Lima y en el Perú acerca de lo que vamos a ofrecerles.
-
 - Entendemos y apreciamos la flexibilidad de las metodologías ágiles, por ende estamos dispuestos a adaptarnos rápidamente a los cambios y responder de manera ágil a las necesidades cambiantes de nuestro proyecto.
-
 -  Con respecto al analisis competitivo desarrollado, podemos concluir que las aplicaciones dirigidas para el sector Bares
-
 - Es un nicho que no cuenta con demasiados competidores que enfoquen a mejorar la experiencia de usuario para los clientes y dueños de bares.
 
+## Video About-the-Team.
+<tr>
+    <td>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918603/1170821775202983966/image.png"></div>
+    </td>
+</tr><br>
+
+Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EeK7mlDo2bJCpZWkqKZLc-8BqUgy7h7qoEncn15eu-FgVw?e=TMSoI7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+
+
+
+
 ## Bibliografía
-
 - Drink Go: Pide y paga sin cola - Aplicaciones en Google Play. (n.d.). Retrieved from https://play.google.com/store/apps/details?id=com.ingencode.drinkgo&hl=es&gl=US&pli=1
-
 - TPV con Control de Ventas e Inventario: App y PC. (n.d.). Retrieved from https://www.appkyte.com/
-
 - (N.d.). Retrieved from https://www.yelp.com/
-
 - Java Documentation - Get Started. (2023). Retrieved from https://docs.oracle.com/en/java/
  
 - MozDevNet. (n.d.). JavaScript. Retrieved from https://developer.mozilla.org/es/docs/Web/J
-
 - The starting point for learning TypeScript. (n.d.). Retrieved from https://www.typescriptlang.org/docs/
-
 - Java Documentation - Get Started. (2023). Retrieved from https://docs.oracle.com/en/java/
-
 ## Anexos
 <div align="center">Anexos A: Historial de vinculos</div>
 <br>
+- Github: https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report.git
 
-- Github: https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report.git 
-- Link del Canvas: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1 
+- Link del Canvas: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1
 
 - Link del Lean Ux Canva: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1
+
 - Link de Miro: https://miro.com/welcomeonboard/Mk5wZzhZdGppbjl0Y0VZWllDeWtlZ3g3emt6R1NvTHhqdDJ5dUt6MGNoYWRORm5GTHpyNTZOa3paSVRpZ1hJeXwzMDc0NDU3MzU3MTA0ODcyOTA0fDI=?share_link_id=659519633230 
-Uxpressiar: https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc 
+
+- Uxpressiar: https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc 
+
 - Link del As-is Scenario Mapping: https://miro.com/app/board/uXjVMiV73GU=/?share_link_id=284038922247
+
 - Link para ver el To-Be Scenario Mapping Usuario : https://miro.com/app/board/uXjVO8jKyt8=/?share_link_id=663854831408
+
 - Link para ver el To-Be Scenario Mapping Empresa: https://miro.com/app/board/uXjVO8jKyt8=/?share_link_id=663854831408
+
 - Link de Cliente Uxpressia: https://media.discordapp.net/attachments/1145898392631918606/1155294187726586016/user.png
+
 - Link de Administrador Uxpressia: https://media.discordapp.net/attachments/1145898392631918606/1155293546316824616/2.png
+
 - El link del diseño de Landing Page Wireframes escritorio: https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?- type=design&node-id=397%3A3611&mode=design&t=jL9xPnI96j5KRImq-1
+
 - Link del Diseño Movil: https://www.figma.com/file/N8EmdAUWapHigf4Lk8sGHr/Web-Application-Wireframes?type=design&node-id=0%3A1&mode=design&- t=DfFWWAqT7hgXSXLE-1
+
 - Link para visualizar los wireframes diagrams: https://overflow.io/s/O6IYMWFP
+
 - Link del User Flow diagrams: https://overflow.io/s/RV6NU7NK
+
 - Link para visualizar los Web Application User Flow diagrams: https://overflow.io/s/T9LJPXN7
-- Link del prototipo en Figma: https://www.figma.com/proto/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?page-id=0%3A1&type=design&node-id=18-31&viewport=482%2C573%2C0.23&t=fF9wq2WzqPvgenwU-1&scaling=scale-down&starting-point-node-id=18%3A31&mode=design 
+
+- Link del prototipo en Figma: https://www.figma.com/proto/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?page-id=0%3A1&type=design&node-id=18-31&viewport=482%2C573%2C0.23&t=fF9wq2WzqPvgenwU-1&scaling=scale-down&starting-point-node-id=18%3A31&mode=design
+
 - Link del video de explicación del prototipo en Figma: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/ETCf0pqiD-dAisJ0yxKBQSYBlSeYgXx3HWFYcxpUxUMSAw?e=eoQ4LJ
+
 - Link del diagrama de clases: https://lucid.app/lucidchart/daf95998-1760-461d-abfe-2fd30bc0bc28/edit?viewport_loc=-1193%2C-1766%2C2720%2C1316%2C0_0&invitationId=inv_8697997e-4a61-48df-a95e-8ec0a8e8f9bf
+
 - Link del diagrama de base de datos : https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS
 
 <br> 
-
 <div align="center">Anexos B: Entrevistas</div>
 <br>
+<p><b>Entrevistas con nuestros segmentos objetivos:</b><p>
 
-<p>&gt <b>Entrevistas con nuestros segmentos objetivos:</b><p>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/✌️/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a>
 
-<a href="https://upcedupe-my.sharepoint.com/✌️/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/✌️/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a>
-
-</div>
+<p><b>Entrevistas de valdación con nuestros segmentos objetivos:</b><p>
+<p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
 </div>
