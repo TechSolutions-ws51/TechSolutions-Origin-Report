@@ -4531,8 +4531,12 @@ Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Lan
 
 <br>
 
-| Loyal Sips Backend Desplegada                                          |[LoyalSips-Backend-Swagger](https://loyalsips-44e19.web.app/home)                | 
+| Loyal Sips Backend Desplegada                                          |[LoyalSips-Backend-Swagger](https://loyalsips.zeabur.app/swagger-ui/index.html#/)                | 
 |---------------------|---------------------|
+
+| Loyal Sips Frontend Inicial                                          |[LoyalSips-Frontend](https://loyalsips.web.app/home)                | 
+|---------------------|---------------------|
+
 
 | Loyal Sips Frontend Actualizada                                          |[LoyalSips-Frontend](https://loyalsips-44e19.web.app)                | 
 |---------------------|---------------------|
