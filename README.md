@@ -4841,6 +4841,82 @@ https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+Para la entrega del tercer sprint, se desplego el landing page completamente funcional. Cumpliendo con todos los user stories correspondientes al entregable. De la misma manera se desplego la web application, pero hemos encontrado detalles que falta perfeccionar y eso lo haremos en el siguiente sprint. Asimismo, se desplego el back-end.
+Landing page:
+El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("master"). Este proceso ha permitido actualizar la implementación de la página de destino.
+
+**•	Capturas de pantalla landing page (Ingles):**
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918603/1170749928960692284/image.png?ex=655a2cd6&is=6547b7d6&hm=8db2142e6973d07da7ebcf46eeaed4bdbae43f9c68b26a2849d054b7f2195746&"></div> 
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918603/1170750154735898654/image.png?ex=655a2d0c&is=6547b80c&hm=2f53c60451e39b363097d31d9c6ca30a4e87cbab209e716c276ff46ae2fe9e70& "></div> 
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918603/1170750232489889972/image.png?ex=655a2d1e&is=6547b81e&hm=89968254f5bc7db18e9cbe0b0e0329c66fdbe4af62da861ccbd0e1a0b04c4e73& "></div> 
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918603/1170750322914893855/image.png?ex=655a2d34&is=6547b834&hm=a2eb9bb28acace38345e7abebadceba337b34bba3699f1a0016aa6182b99d563& "></div> 
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918603/1170750370503479316/image.png?ex=655a2d3f&is=6547b83f&hm=ad2cb67a2cfccba2b5dbd4d6c80ede19d3785ca0fe0b20e904ffa880fbb9514c& "></div><br>
+
+**•	Capturas de pantalla landing page (Español):**
+<br>
+<div align='center'>
+  <img src="https://media.discordapp.net/attachments/1145898392631918603/1170818792801194004/image.png"></div> 
+<div align='center'>
+  <img src="https://media.discordapp.net/attachments/1145898392631918603/1170818899646873691/image.png"></div> 
+<div align='center'>
+  <img src="https://media.discordapp.net/attachments/1145898392631918603/1170818954311250041/image.png"></div> 
+<div align='center'>
+  <img src="https://media.discordapp.net/attachments/1145898392631918603/1170819017435529236/image.png"></div> 
+<div align='center'>
+  <img src="https://media.discordapp.net/attachments/1145898392631918603/1170819064516575253/image.png"></div><br>
+
+
+**•	Capturas de pantalla de web application:**
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918603/1170817261636948049/image.png"></div> 
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918603/1170817398476124160/image.png"></div> 
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918603/1170817565090660473/image.png"></div> 
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918603/1170817622170947677/image.png"></div> 
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918603/1170817678777266327/image.png"></div> 
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918603/1170817717163528222/image.png"></div> 
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918603/1170817766887018516/image.png"></div>
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918603/1170817802660233338/image.png"></div><br>
+
+
+•	Capturas de pantalla del Backend de la aplicacion:
+<br>
+
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170543461146046464/image.png?ex=65596c8c&is=6546f78c&hm=2a13b7254b99210e40791f321f81dce80d0a875254ed1d1c1c3aaa30db1eca25&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170543505572106320/image.png?ex=65596c97&is=6546f797&hm=6de8d5dfc0a8557078e40a614ab58e889e77f6807d6835c11f619b6548596947&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170544254901293147/image.png?ex=65596d4a&is=6546f84a&hm=d18e2b9afab6cd83011bfd99d7d8db6527bfa3844ac493df993110cddcddcbf1&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170544306885492746/image.png?ex=65596d56&is=6546f856&hm=71ab7154ead2dd77cb97f39387b1626569157ea1f9c5bda88e220e3dd16203df&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170544550561992826/image.png?ex=65596d90&is=6546f890&hm=5e59cf31d401ea52c9f4193ef2c4c48c536e2586f9b202fa001630764a91b92e&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545352231886979/image.png?ex=65596e4f&is=6546f94f&hm=6fbba0ba3c2d7ecb054571062b7f5f460b3d27852ea885bd61bfbed96a9b509b&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545395336757398/image.png?ex=65596e59&is=6546f959&hm=f82f6238d5563a75bdcf843768cf029a34a72132253f8b7c0129d09897a0fe88&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545595807707176/image.png?ex=65596e89&is=6546f989&hm=64c7f37cec52b7ad773ecf275e08d19aad84c71f5656ebb56ae650383c3ef9e6&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545639629795418/image.png?ex=65596e94&is=6546f994&hm=a4e13659d331fbfec63e1eb18b499b589bcdf3d8de734fb93e4d0591f4116881&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545718864396328/image.png?ex=65596ea7&is=6546f9a7&hm=80b0476a622303de713367ad823db2147d4779def6697a78af1a1cf64b00bf61&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545749952569374/image.png?ex=65596eae&is=6546f9ae&hm=cac819acb4e8e5f1ff9f15506eb9b0b66c4b235318b2afe1c968d4c09d901b99&"></div> 
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 |Alumno|Actividad|
@@ -4862,6 +4938,8 @@ Repositorio Platform:
 ![insight_2_open_platform](https://cdn.discordapp.com/attachments/1145898392631918606/1170703902665084979/image.png?ex=655a01f9&is=65478cf9&hm=e1dbd7583c717b587276f986455ff4c8f0b8de65960b83af21c2c1dc7c14b19d&)
 
 ## 5.3. Validation Interviews.
+
+Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la website que esta destinada a optimizar la venta de los empresarios de los bares y por parte de los clientes que desean comprar bebidas. Para ello, se realizó una serie de entrevistas a los usuarios que se encuentran en el segmento objetivo, para poder obtener una retroalimentación de la website y poder mejorarla.
 
 ### 5.3.1. Diseño de entrevistas.
 
@@ -4901,6 +4979,7 @@ En este apartado, se evidenciará todas las entrevistas de validación realizada
 En primeras impresiones, a Leandro le ha logrado impactar el diseño minimalista del cuál destaca mucho el efecto de lo colores en correspondencia al entorno web; asimismo, destaca el fácil manejo y el sencillo dinamismo al interactuar con la página. Pero como no todo es color de rosas, hay algunas observaciones que nos enmarcó y dejó muy en claro; estos, mayormente vienen a ser el tema de la tipografía - que en sí es agradable de ver en combinación con los efectos del color y la estética de la página, parece que tiene un parecido a una tipografía <em>Arial<em> -, y el efecto de visualización de la página - este último, aunque no es molesto, prefiere el típico diseño top-down -.
 Pero ante todo ello, cumple con la gran parte de sus expectativas y gusta seguir apoyando ante cualquier revisión o apoyo en el tema de diseño para seguir mejorando más el proyecto y que más personas puedan conocer de su gran impacto que puede generar en la sociedad; de antemano le damos las gracias por el tiempo que se tomó y esperamos volver a comunicarnos pronto.</p>
 <br>
+
 ### Entrevista 2:
 <p><strong>Nombre:</strong> Patrizio Leonardo</p>
 <p><strong>Apellido:</strong> Risco Chero</p>
@@ -4920,6 +4999,7 @@ Pero ante todo ello, cumple con la gran parte de sus expectativas y gusta seguir
 En base a sus opiniones, ya que él muy sugestivo ante el tema de diseño, nos comentó que como principal defecto que aprecia es el color de las <strong>Cards</strong> de la sección de <em>Services</em>, ya que no está muy ligado a los colores representativos de nuestro logotipo, entonces, hay un aspecto muy punto crítico que hay que resolver. Por otra parte, con respecto a la pestaña de inicio de nuestro aplicación, le gustaría que en vez de mostrar un celular con la muestra del logo de nuestra <em>startup</em>, haya como un fondo atras que lo resalté, ya que lo ve él como algo forzado que como le que quita el porte a la temática.
 Dejando de lado los puntos negativos, nos deja muy en claro que este proyecto tiene mucho potencial, solo corrigiendo esos puntos, pueda dar un mejor aspecto para la presentación de todo lo que ofrece dicha página web. Agradecemos a nuestro crítico en diseño y excelso en aspectos de bares Patrizio Risco y esperamos comunicarnos pronto para cualquier otra mejora que de repente requiera el proyecto.</p>
 <br>
+
 ### Segmento 2: Empresarios del manejo bares
 ### Entrevista 3:
 <p><strong>Nombre:</strong> Fiorella Camila</p>
@@ -4940,6 +5020,7 @@ Dejando de lado los puntos negativos, nos deja muy en claro que este proyecto ti
 Cuando se le preguntó acerca de que es lo que piensa y siente al momento de validar los aspectos de la sección del catálogo de bebidas, le pareció una presentación muy bonita, pero para que ese sugestivismo "bonito" pueda convertirse en "maravilloso", le gustaría que se agregará un poco más de detalle en la descripción de las bebidas - para que que los clientes sepan cuales son los insumos que contiene -. Pasando al aspecto de previsualización de ingreso y registro de usuarios, le fascinó realmente la interacción simple lo cual ayudará a un desenvolvimiento óptimo por parte de los usuarios dentro del <em>website</em>.
 Seguiremos trabajando para lograr mejorar dichos aspectos y lograr cada vez más la satisfacción de nuestros cientes y nuestro segmento empresarial. De antemano, agradecemos la validación correspondiente y agradecemos las buenas vibras para todo lo que resta el resta del proyecto.</p>
 <br>
+
 ### Evaluaciones según heurísticas.
 <div align='center'>
 <h2>UX Heuristics & Principles Evaluation</h2>
@@ -5119,14 +5200,29 @@ frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiem
 - Entendemos y apreciamos la flexibilidad de las metodologías ágiles, por ende estamos dispuestos a adaptarnos rápidamente a los cambios y responder de manera ágil a las necesidades cambiantes de nuestro proyecto.
 -  Con respecto al analisis competitivo desarrollado, podemos concluir que las aplicaciones dirigidas para el sector Bares
 - Es un nicho que no cuenta con demasiados competidores que enfoquen a mejorar la experiencia de usuario para los clientes y dueños de bares.
+
 ## Video About-the-Team.
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1157097368458625075/Captura_de_pantalla_2023-09-28_183121.png"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918603/1170821775202983966/image.png"></div>
     </td>
 </tr><br>
-Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tp1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EbT3mCj6eoZCp1Jz4YDqA7UBC8-66U2A-8I7z4fRIetL6A?e=JkDnAm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EeK7mlDo2bJCpZWkqKZLc-8BqUgy7h7qoEncn15eu-FgVw?e=TMSoI7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+
+## Video About-the-Product.
+<tr>
+    <td>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918603/1170821775202983966/image.png"></div>
+    </td>
+</tr><br>
+
+Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EeK7mlDo2bJCpZWkqKZLc-8BqUgy7h7qoEncn15eu-FgVw?e=TMSoI7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+
 ## Bibliografía
 - Drink Go: Pide y paga sin cola - Aplicaciones en Google Play. (n.d.). Retrieved from https://play.google.com/store/apps/details?id=com.ingencode.drinkgo&hl=es&gl=US&pli=1
 - TPV con Control de Ventas e Inventario: App y PC. (n.d.). Retrieved from https://www.appkyte.com/
