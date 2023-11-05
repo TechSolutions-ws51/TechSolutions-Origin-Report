@@ -325,26 +325,36 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           Se realizaron reuniones para una mejor organización del trabajo, de tal forma facilitar la asignación de puntos que cada integrante del equipo le corresponda desarrollar.<br><br>
           <strong>TP:</strong><br>
           Para la entrega del Trabajo parcial, se presenta la implementación del Sprint 2, por lo que engloba los procesos de desarrollo y los insights realizados para el desarrollo de dicho Sprint.<br><br>
+          <strong>TB2:</strong><br>
+          --<br><br>
           <strong>Morin, Jean</strong><br>
           <strong>TB1:</strong><br>
           A medida que se realizaba el avance de nuestro proyecto, se mantuvo una comunicación constante para facilitar tiempos,de tal forma que si algún integrante del equipo necesitaba ayuda, podía avisar y apoyarnos entre todos.<br><br>
           <strong>TP:</strong><br>
           Desarrollé la actualización en referencia a las correcciones del <em>Needfinding</em> y <em>User personas</em> respectivamente; asimismo, realicé la mejora de algunos <strong>“User Stories”</strong> que no estaban del todo claros. Finalmente, como último <em>task</em>, colaboré en el desarrollo del <strong>“Web Application”</strong>, teniendo como principal rol la elaboración de la sección <strong>home, Drinks<strong> y la creación del repositorio para alojarlo.<br><br>
+             <strong>TB2:</strong><br>
+          --<br><br>
           <strong>Alarcon, Sandro</strong><br>
           <strong>TB1:</strong><br>
           Para la realización de las entrevistas, se tuvo que implementar un diseño de entrevistas, con preguntas abiertas, de tal forma que permitan al segmento objetivo poder explayarse, y de ese modo, rescatar las ideas brindadas por los entrevistados, de este modo nos ayuda como equipo a seguir innovando nuestro proyecto.<br><br>
           <strong>TP:</strong><br>
           Realicé la actualización del <em>Impact mapping</em>, ya que anteriormente, no estaba del todo clarividente en su semejanza. Póstumo a ello, realicé las correcciones y actualización de los <strong>“Domain Driven Design”</strong> – pertenecientes a nuestro <em>Software Architecture Components</em> -. Como último <em>task</em> que desarrollé, ha sido la implementación de la sección contact para el <strong>“Web Application”</strong>.<br><br>
+             <strong>TB2:</strong><br>
+          --<br><br>
           <strong>Huamani, José</strong><br>
           <strong>TB1:</strong><br>
           Se tuvo que realizar entrevistas para conocer el punto de vista de los segmentos objetivos, dado que nuestro proyecto posee 2 segmentos objetivos, por lo que las entrevistas nos facilitaron a encontrar ideas innovadoras para aplicarlas en nuestro proyecto, lo cual nos ayuda bastante como equipo.<br><br>
           <strong>TP:</strong><br>
           Desarrollé las correcciones argumentales, contextuales e incógnitas respectivas pertenecientes al <em>Problem Statement</em> ya que, en la primera presentación del <strong>Sprint</strong> de dicha parte, el evaluador tenía ciertas dudas en algunos aspectos. Póstumo a ello, actualicé el registro de entrevistas siguiendo de manera literal cada aspecto de la rúbrica – conllevando así a una visualización más apropiada y concisa -. En lo que respecta a la “Base de Datos”, tanto los aspectos de diseño como diagrama –, se quitaron ciertas tablas que debido que, al volver a evaluarlo, como que se alejaba de la idea central del startup; además, se definió de forma más concreta los identificadores de cada tabla (solo colocándole “id”). Finalmente, colaboré en el desarrollo e implementación de la sección <em>About us</em> del <strong>“Web Application”</strong>.<br><br>
+                       <strong>TB2:</strong><br>
+          --<br><br>
           <strong>Ballona, Naggit</strong><br>
           <strong>TB1:</strong><br>
-          Para la elaboración del informe, se comunicó las herramientas a utilizar por interno, para que de este modo se eviten errores y poder realizar un trabajo de manera óptima.
+          Para la elaboración del informe, se comunicó las herramientas a utilizar por interno, para que de este modo se eviten errores y poder realizar un trabajo de manera óptima.<br><br>
           <strong>TP:</strong><br>
           Realicé la actualización del <em>Class Dictionary y Class Diagrams</em>, ya que anteriormente, no estaba del todo clarividente en su semejanza. Póstumo a ello, realicé las correcciones y actualización de los <strong>“As-is Scenario Mapping”</strong> – pertenecientes a como nuestro cliente <em>Hace, Piensa y Siente</em><br><br>
+                                 <strong>TB2:</strong><br>
+          --<br><br>
         </td>
         <td><strong>TB1:</strong><br>
         Para esta oportunidad, se logró concretar esta primera parte del trabajo de forma parcialmente exitosa, puesto a que cumplimos con todos los requisitos establecidos para este sprint en base a nuestro segmento objetivo de lo cual, nos permitieron lograr un avance significativo.<br><br>
@@ -358,18 +368,24 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           Los diseños elaborados para el prototipo de nuestro proyecto fue pieza fundamental para el mejor entendimiento de los usuarios, en el que incluye ambos segmentos objetivos, por lo que la realización es un alcance a la versión final de nuestro proyecto.<br><br>
           <strong>TP:</strong><br>
           Para la entrega del Trabajo parcial, se mantuvo comunicación constante para la implementación de los puntos que faltaban corregir, dentro de ellos el Report Collaboration Insights, de este modo se muestra el trabajo en equipo que emplea el desarrollo de nuestro proyecto, por lo que es importante presentar los avances a los stakeholders.<br><br>
+           <strong>TB2:</strong><br>
+          --<br><br>
           <strong>Morin, Jean</strong><br>
           <strong>TB1</strong><br>
           Para mantener un orden de las nuevas características al proyecto que fue desarrollándose durante las semanas, se usaron los "commits" usando el "conventional commits" que son básicamente un lenguaje convencional para mantener un orden y buena organización.<br><br>
           <strong>TP</strong><br>
           En la TP1, actualice mis partes del primer entregable, y fui el lider de la web application, logrando realizar todo lo pedido en la rubrica, tambien se deplego la pagina web con exito
           <br><br>
+          <strong>TB2:</strong><br>
+          --<br><br>
           <strong>Alarcon, Sandro</strong><br>
           <strong>TB1</strong><br>
           La elaboración de los diagramas C4, nos ayudan a tener la capacidad de captar la idea del proyecto en un alto nivel, dentro de ello engloba el diagrama de contexto, contenedores y componentes, el cual facilita el entendimiento para los stakeholders.<br><br>
           <strong>TP</strong><br>
           Realicé modificaciones con respecto Domain Driven Design, cambiar el Impact Mappig que se había desarrollado, además de mejorar la  calidad de las imagenes. Agregue la seccion de Contact para la Web Aplication e hice modificacion a la pagina Home.
           <br><br>
+         <strong>TB2:</strong><br>
+          --<br><br>
           <strong>Huamani, José</strong><br>
           <strong>TB1</strong><br>
           La implementación del Lean UX Problem Statements es la rama más esencial, porque en este apartado, se explica a detalle el propósito de nuestro proyecto, que solución estamos proponiendo para mejorar en este caso el sistema de los Bares, además de ello, el Solution Profile va de la mano, porque explicamos la visión y misión de nuestro proyecto.
@@ -377,11 +393,15 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <strong>TP</strong><br>
           Se implementó el Sprint 2 con éxito, se actualizaron varios segmentos con respecto a la Landing Page que se realizaron de manera conjunta. Por otro lado la elaboración del Web Application para que el usuario tenga mayor interacción con nosotros.
           <br><br>
+          <strong>TB2:</strong><br>
+          --<br><br>
           <strong>Ballona, Naggit</strong><br>
           <strong>TB1</strong><br>
           Para finalizar, se realizaron materiales de exposición para explicar los detalles de nuestro proyecto, dentro de estos materiales resaltan el video de exposición y la diapositiva, además, explicamos el alcance exacto de nuestro proyecto para un mejor entendimiento de los segmentos objetivos involucrados.<br><br>
           <strong>TP</strong><br>
-          Realicé las respectivas correcciones y mejoras del <em>As-is Scenario Mapping</em> y <em>To-Be Scenario Mapping</em>; esto, porque anteriormente no se utilizaron las herramientas correctas para su elaboración.
+          Realicé las respectivas correcciones y mejoras del <em>As-is Scenario Mapping</em> y <em>To-Be Scenario Mapping</em>; esto, porque anteriormente no se utilizaron las herramientas correctas para su elaboración.<br><br>
+          <strong>TB2:</strong><br>
+          --<br><br>
     </td>
     <td><strong>TB1:</strong><br>Primeramente, para que surja las bases sólidas de nuestro startup LolyaSips, tuvimos que analizar el factor comercial y los diversos competidores que encontramos en el mercado. En gracias a ello, que descubrimos un punto crucial en el cual nosotros queríamos abarcarnos, este viene a ser el sector de bares. Cuando comentamos la idea al docente, nos dio la aprobación para proceder con la estructuración, investigación, entrevistas y finalmente ir poco a poco desarrollando los enfoques tecnológicos adecuados para que los usuarios interactúen. Dentro de esas tecnologías abarcan tanto el despliegue funcional de nuestro “Landing Page” (que es lo primero que se desarrolló para esta entrega), “Web Application” y “Web Services” – estos últimos se irán implementando a medida que se pase al siguiente Sprint -. Una vez sujeto todos estos aspectos, procedimos a contactar a nuestros usuarios que forman parte de nuestro segmento objetivo y así como otros públicos en generales para comentarles que es lo que sienten y piensan acerca de la idea, y como se beneficiarán de ello; los comentarios fueron en su gran mayoría alentadores, sin embargo, también hubo ciertas sugerencias como para perfeccionar ciertos aspectos que no estaban del todo claros al momento de presentarles. Es gracias a ello, que procedimos con esta primera entrega del proyecto. De antemano, espero que sea de su agrado.<br><br>
     <strong>TP:</strong><br>Después de pasar por la fase de validación de la idea propuesta con que la respecta a todo lo que se vino desarrollando anteriormente, el docente nos comentó que tuvimos algunos puntos que mejorar – no graves, pero si eran fundamentales seguir ciertos aspectos de la rubrica para que quede más concreta la idea a expresar -, por lo que, procedimos a levantar las observaciones correspondientes y comenzamos con la elaboración de la primera versión del “Web Application”. Siendo honestos, el equipo trabajo arduamente para concretar estos aspectos fundamentales y, a pesar del tiempo que es uno de los principales enemigos de todo developer, logramos concretar la idea y está a próxima a presentarse en la exposición del día de mañana. Después de la exposición y de las otras actividades que tengamos pendientes desarrollar, se procederá a mostrar dicha versión a nuestro público para saber su opinión y lo más importante los feedback que nos puedan dejar – ya que no hay perfección sin errores -. Esperamos que les pueda hacer de su agrado esta presentación del proyecto y agradecer a todo el equipo por su dedicación y compromiso constante.
