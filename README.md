@@ -4999,6 +4999,9 @@ Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Lan
 | Loyal Sips Backend Desplegada                                          |[LoyalSips-Backend-Swagger](https://loyalsips.zeabur.app/swagger-ui/index.html#/)                | 
 |---------------------|---------------------|
 
+| Loyal Sips Landing Page Actualizada                                          |[LoyalSips-Frontend](https://techsolutions-ws51.github.io/LoyalSips-LandingPage-Open/index.html)                | 
+|---------------------|---------------------|
+
 | Loyal Sips Frontend Inicial                                          |[LoyalSips-Frontend](https://loyalsips.web.app/home)                | 
 |---------------------|---------------------|
 
@@ -5356,7 +5359,7 @@ El despliegue de la página de destino en GitHub Pages se ha actualizado despué
 <img src="https://media.discordapp.net/attachments/1145898392631918603/1170817802660233338/image.png"></div><br>
 
 
-•	Capturas de pantalla del Backend de la aplicacion:
+**•	Capturas de pantalla del Backend de la aplicacion:**
 <br>
 
 <div align='center'>
@@ -5660,7 +5663,7 @@ frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiem
     </td>
 </tr><br>
 
-Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVJwW_giVH5AqY5Btli4gGkBoD1B7Wa1Qyvp7IyapWjkoQ?e=TlaB05&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Link para ver el video: [upc-pre202302-si729-ws51-TechSolutions-about-the-product-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVJwW_giVH5AqY5Btli4gGkBoD1B7Wa1Qyvp7IyapWjkoQ?e=TlaB05&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ## Conclusiones
 - El equipo ha establecido un sólido sistema de control de versiones utilizando GitHub y ha implementado el flujo de trabajo Gitflow para el desarrollo del proyecto, lo que garantiza a futuro un seguimiento eficiente de las modificaciones.
