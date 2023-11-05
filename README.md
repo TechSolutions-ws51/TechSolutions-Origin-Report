@@ -52,7 +52,7 @@
 |3              |   15/10/2023  | Huamani Sánchez    |**Capitulo 5**<br>- Sprint Planning 3 <br>- Sprint Backlog 3 <br>- Development Evidence for Sprint Review <br>- Diseño de entrevistas <br>- Registro de entrevistas <br>- Evaluaciones según heurísticas. <br>- implementación de las Evaluaciones según Heúritcas <br>- implementación de los aggregates and events del Backend.<br><br> |
 |1              |   02/09/2023   | Ballona Blas    |**Capitulo 1** <br> - Implementó el Lean UX Canvas. <br> - Segmento Objetivo.<br><br>**Capitulo 2**<br>- User Journey Mapping.<br> - Empathy Mapping.<br>- As-is Scenario Mapping.<br><br>**Capitulo 3**<br> - Product Backlog. <br><br>**Capitulo 4**<br>- SEO Tags and Meta Tags.<br>- Searching Systems. <br>- Navigation Systems.<br>- Software Object-Oriented Design.<br>- Class Diagrams.<br><br>**Capitulo 5**<br>- Source Code Style Guide & Conventions.<br>- Software Deployment Configuration.<br>- Landing Page, Services & Applications Implementation.<br><br> |
 |2              | 23/09/2023 | Ballona Blas    |**Capitulo 2**<br>- Actualización y corrección del As-is Scenario Mapping y otros mapas. <br><br>**Capitulo 3**<br>- Actualización del Product Backlog<br><br>**Capitulo 4**<br>- Actualización del Class Diagrams.<br><br>**Capitulo 5**<br>- Actualización Conclusiones y Anexos.|
-|3              |   27/10/2023  | Ballona Blas    | **Capitulo 5**<br>- Services Documentation Evidence for Sprint Review. <br>- Software Deployment Evidence for Sprint Review. <br>- Video About-the-Product.<br>- Implementación de los Aplications/Internal (CommanService, outboundService, QueryService) y Services del Backend.<br><<br> |
+|3              |   27/10/2023  | Ballona Blas    | **Capitulo 5**<br>- Services Documentation Evidence for Sprint Review. <br>- Software Deployment Evidence for Sprint Review. <br>- Video About-the-Product.<br>- Implementación de los Aplications/Internal (CommanService, outboundService, QueryService) y Services del Backend.<br><br> |
 
 
 <br><br>
@@ -170,7 +170,7 @@ Miembros:
 </div>
 
 <div align='center'>
-<img src="https://media.discordapp.net/attachments/1145898392631918606/1155030983230365757/git_commits_image.png?width=697&height=625" width="" height="">
+<img src="https://media.discordapp.net/attachments/892430247042105427/1170832983201173585/image.png?ex=655a7a30&is=65480530&hm=0e2549699fdf5c1fdb95a84068f4c92ca2ceb1d3a530203c3b0219e22a1c9ef7&=&width=1393&height=535" width="" height="">
 </div>
 <br>
 
@@ -4309,7 +4309,7 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para lo que conlleva este sprint 3, estamos abarcando los <em>User Stories</em> con identificadores <em><strong>US10</strong></em> el cual equivale 5 puntos, <em><strong>US06</strong></em>, que equivale a 8 puntos y el <em><strong>US12</strong></em> que tiene como equivalencia 8 puntos.</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para lo que conlleva este sprint 3, estamos abarcando los <em>User Stories</em> con identificadores <em><strong>US18</strong></em> el cual equivale 8 puntos, <em><strong>US03</strong></em>, que equivale a 5 puntos y el <em><strong>US12</strong></em> que tiene como equivalencia 8 puntos.</td>
 </tr>
 </table>
 
@@ -4345,6 +4345,156 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Estimation (hours)</th>
    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Assigned To</th>
    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Status (To Do / In - process / To - review / Done)</th>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US18</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Información de contacto</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA16</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Actualización de Datos de Contacto</em></td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Permite a los usuarios actualizar su información de contacto, incluyendo números de teléfono, direcciones de correo electrónico y otros detalles importantes.</em></td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA17</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Gestión de Información de Contacto</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">mplementa una funcionalidad central que permita a los usuarios administrar y mantener su información de contacto de manera efectiva, incluyendo la capacidad de agregar, editar y eliminar registros.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA18</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Visualización de Datos de Contacto</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Habilita la visualización de la información de contacto actual de un usuario, lo que permite una revisión rápida y fácil de los datos almacenados en el sistema.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA19</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Edición de Información de Contacto</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Permite a los usuarios modificar y corregir su información de contacto existente, asegurando que los datos sean precisos y actualizados.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA20</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Agregado de Nueva Información de Contacto</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ofrecer a los usuarios la capacidad de agregar nuevos contactos o detalles de contacto a su perfil.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Huamani Sanchez, Jose Diego</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA21</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Eliminación de Información de Contacto</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Define el propósito de lo que ofrecerá nuestro startup</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US03</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Registro de nuevos usuarios</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA22</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Creación de Cuenta de Usuario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Implementar la lógica de backend necesaria para permitir a los usuarios registrarse en la aplicación, incluyendo la validación de datos, almacenamiento seguro de información y la generación de credenciales de acceso.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA23</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Proceso de Inscripción</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Recepción de datos del usuario hasta la creación de su cuenta y la respuesta de confirmación.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA24</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Inscripción de Nuevos Miembros</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">desarrollar los componentes backend para permitir la inscripción de nuevos miembros en la aplicación.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA25</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alta de Usuario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Asegurar la verificación de datos y la creación de un perfil único.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA26</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Incorporación de Nuevos Clientes</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Creación de cuentas y la interacción con la base de datos de manera eficiente y segura.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes Jean Pierre</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA27</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Creación de Perfil de Usuario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Asignación de roles y permisos relevantes dentro de la apliación.</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Huamani Sanchez, Jose Diego</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US12</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sistema de gestion de inventarios</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA28</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Desarrollo de la Base de Datos de Inventarios</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">P configuración de la base de datos central que almacenará toda la información relacionada con el inventario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA29</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Desarrollo de Funcionalidades de Reportes de Inventario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">implementación de funcionalidades que permiten a los usuarios generar informes detallados sobre el estado del inventario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA30</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Optimización del Proceso de Control de Inventario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">mejorar la eficiencia y la velocidad del proceso de control de inventario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
 </tr>
 </table>
 
