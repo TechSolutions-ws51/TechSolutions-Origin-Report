@@ -16,7 +16,7 @@
 
 # Proyecto del Curso.
 
-## TP REPORT
+## TB2 REPORT
 
 ### StartUp Name
 
@@ -4999,7 +4999,7 @@ Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Lan
 | Loyal Sips Backend Desplegada                                          |[LoyalSips-Backend-Swagger](https://loyalsips.zeabur.app/swagger-ui/index.html#/)                | 
 |---------------------|---------------------|
 
-| Loyal Sips Landing Page Actualizada                                          |[LoyalSips-Frontend](https://techsolutions-ws51.github.io/LoyalSips-LandingPage-Open/index.html)                | 
+| Loyal Sips Landing Page Actualizada                                          |[LoyalSips-Landing Page](https://techsolutions-ws51.github.io/LoyalSips-LandingPage-Open/index.html)                | 
 |---------------------|---------------------|
 
 | Loyal Sips Frontend Inicial                                          |[LoyalSips-Frontend](https://loyalsips.web.app/home)                | 
