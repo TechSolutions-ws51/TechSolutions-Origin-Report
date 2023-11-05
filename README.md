@@ -4664,6 +4664,65 @@ https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+Para la entrega del tercer sprint, se desplego el landing page completamente funcional. Cumpliendo con todos los user stories correspondientes al entregable. De la misma manera se desplego la web application, pero hemos encontrado detalles que falta perfeccionar y eso lo haremos en el siguiente sprint. Asimismo, se desplego el back-end.
+Landing page:
+El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("master"). Este proceso ha permitido actualizar la implementación de la página de destino.
+•	Capturas de pantalla landing page:
+
+
+<div align='center'>
+  <img src=" https://cdn.discordapp.com/attachments/1145898392631918603/1170749928960692284/image.png?ex=655a2cd6&is=6547b7d6&hm=8db2142e6973d07da7ebcf46eeaed4bdbae43f9c68b26a2849d054b7f2195746& "></div> 
+<div align='center'>
+  <img src=" https://cdn.discordapp.com/attachments/1145898392631918603/1170750154735898654/image.png?ex=655a2d0c&is=6547b80c&hm=2f53c60451e39b363097d31d9c6ca30a4e87cbab209e716c276ff46ae2fe9e70& "></div> 
+<div align='center'>
+  <img src=" https://cdn.discordapp.com/attachments/1145898392631918603/1170750232489889972/image.png?ex=655a2d1e&is=6547b81e&hm=89968254f5bc7db18e9cbe0b0e0329c66fdbe4af62da861ccbd0e1a0b04c4e73& "></div> 
+<div align='center'>
+  <img src=" https://cdn.discordapp.com/attachments/1145898392631918603/1170750322914893855/image.png?ex=655a2d34&is=6547b834&hm=a2eb9bb28acace38345e7abebadceba337b34bba3699f1a0016aa6182b99d563& "></div> 
+<div align='center'>
+  <img src=" https://cdn.discordapp.com/attachments/1145898392631918603/1170750370503479316/image.png?ex=655a2d3f&is=6547b83f&hm=ad2cb67a2cfccba2b5dbd4d6c80ede19d3785ca0fe0b20e904ffa880fbb9514c& "></div> 
+
+•	Capturas de pantalla de web application:
+<div align='center'>
+<img src=" https://cdn.discordapp.com/attachments/1145898392631918606/1156871535110402048/Captura_de_pantalla_2023-09-28_033351.png?ex=6555d413&is=65435f13&hm=5fc98c7af31d896a1021806c690e3a06760ec0b34e801bd3e63f48e669a2efcf& "></div> 
+<div align='center'>
+<img src=" https://cdn.discordapp.com/attachments/1145898392631918606/1156878663518781442/image.png?ex=6555dab7&is=654365b7&hm=daaf0ded1acc6629d69d63c611341e3913e88a858a2e0b12a90293f8cc3e2a87& "></div> 
+<div align='center'>
+<img src=" https://cdn.discordapp.com/attachments/1145898392631918606/1156878705713487893/Captura_de_pantalla_2023-09-28_040227.png?ex=6555dac1&is=654365c1&hm=8c3e180d197ffe73c2c51608724c715f7414675347d1b6afa907f1ccb20255b6& "></div> 
+<div align='center'>
+<img src=" https://cdn.discordapp.com/attachments/1145898392631918606/1156881421961527316/Captura_de_pantalla_2023-09-28_041332.png?ex=6555dd48&is=65436848&hm=9fa1605699ce7a7f825931964518b19cfa692ea90d655102f7ea4141dfcbaab0& "></div> 
+<div align='center'>
+<img src=" https://cdn.discordapp.com/attachments/1145898392631918606/1156881747238203433/Captura_de_pantalla_2023-09-28_041451.png?ex=6555dd96&is=65436896&hm=6249603fe9d9a10cd86d57c44ec61b875fb2c07d7aec2566ef203b454ce74d19& "></div> 
+<div align='center'>
+<img src=" https://cdn.discordapp.com/attachments/1145898392631918606/1156882346386149467/Captura_de_pantalla_2023-09-28_041657.png?ex=6555de25&is=65436925&hm=41e43d81281872356d0030825fd544282245c6e0cf4c64660743ed2310ad285a& "></div> 
+<div align='center'>
+<img src=" https://cdn.discordapp.com/attachments/1145898392631918606/1156882470852120576/Captura_de_pantalla_2023-09-28_041747.png?ex=6555de42&is=65436942&hm=186454a2249ae95dea2968e3a7b5c6573c4446df9aad625e497e6224d608ce8b& "></div> 
+
+•	Capturas de pantalla de web application:
+
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170543461146046464/image.png?ex=65596c8c&is=6546f78c&hm=2a13b7254b99210e40791f321f81dce80d0a875254ed1d1c1c3aaa30db1eca25&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170543505572106320/image.png?ex=65596c97&is=6546f797&hm=6de8d5dfc0a8557078e40a614ab58e889e77f6807d6835c11f619b6548596947&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170544254901293147/image.png?ex=65596d4a&is=6546f84a&hm=d18e2b9afab6cd83011bfd99d7d8db6527bfa3844ac493df993110cddcddcbf1&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170544306885492746/image.png?ex=65596d56&is=6546f856&hm=71ab7154ead2dd77cb97f39387b1626569157ea1f9c5bda88e220e3dd16203df&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170544550561992826/image.png?ex=65596d90&is=6546f890&hm=5e59cf31d401ea52c9f4193ef2c4c48c536e2586f9b202fa001630764a91b92e&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545352231886979/image.png?ex=65596e4f&is=6546f94f&hm=6fbba0ba3c2d7ecb054571062b7f5f460b3d27852ea885bd61bfbed96a9b509b&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545395336757398/image.png?ex=65596e59&is=6546f959&hm=f82f6238d5563a75bdcf843768cf029a34a72132253f8b7c0129d09897a0fe88&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545595807707176/image.png?ex=65596e89&is=6546f989&hm=64c7f37cec52b7ad773ecf275e08d19aad84c71f5656ebb56ae650383c3ef9e6&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545639629795418/image.png?ex=65596e94&is=6546f994&hm=a4e13659d331fbfec63e1eb18b499b589bcdf3d8de734fb93e4d0591f4116881&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545718864396328/image.png?ex=65596ea7&is=6546f9a7&hm=80b0476a622303de713367ad823db2147d4779def6697a78af1a1cf64b00bf61&"></div>
+<div align='center'>
+  <img src="https://cdn.discordapp.com/attachments/1145898392631918606/1170545749952569374/image.png?ex=65596eae&is=6546f9ae&hm=cac819acb4e8e5f1ff9f15506eb9b0b66c4b235318b2afe1c968d4c09d901b99&"></div> 
+
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 |Alumno|Actividad|
 |-|-|
