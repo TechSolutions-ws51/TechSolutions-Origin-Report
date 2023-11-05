@@ -4980,8 +4980,8 @@ En este apartado, se evidenciará todas las entrevistas de validación realizada
 </div>
 <br>
 <strong>Resumen:</strong> 
-<p>En esta oportunidad, nos hemos vuelto a contactar con nuestro cliente <em>José Leandro Machaca<em> para dialogar con él con respecto al direccionamiento que está teniendo nuestro enfoque de desarrollo del proyecto y que es lo que piensa y siente al momento de apreciar el resultado logrado para esta entrega.
-En primeras impresiones, a Leandro le ha logrado impactar el diseño minimalista del cuál destaca mucho el efecto de lo colores en correspondencia al entorno web; asimismo, destaca el fácil manejo y el sencillo dinamismo al interactuar con la página. Pero como no todo es color de rosas, hay algunas observaciones que nos enmarcó y dejó muy en claro; estos, mayormente vienen a ser el tema de la tipografía - que en sí es agradable de ver en combinación con los efectos del color y la estética de la página, parece que tiene un parecido a una tipografía <em>Arial<em> -, y el efecto de visualización de la página - este último, aunque no es molesto, prefiere el típico diseño top-down -.
+<p>En esta oportunidad, nos hemos vuelto a contactar con nuestro cliente <em>José Leandro Machaca</em> para dialogar con él con respecto al direccionamiento que está teniendo nuestro enfoque de desarrollo del proyecto y que es lo que piensa y siente al momento de apreciar el resultado logrado para esta entrega.
+En primeras impresiones, a Leandro le ha logrado impactar el diseño minimalista del cuál destaca mucho el efecto de lo colores en correspondencia al entorno web; asimismo, destaca el fácil manejo y el sencillo dinamismo al interactuar con la página. Pero como no todo es color de rosas, hay algunas observaciones que nos enmarcó y dejó muy en claro; estos, mayormente vienen a ser el tema de la tipografía - que en sí es agradable de ver en combinación con los efectos del color y la estética de la página, parece que tiene un parecido a una tipografía <em>Arial</em> -, y el efecto de visualización de la página - este último, aunque no es molesto, prefiere el típico diseño top-down -.
 Pero ante todo ello, cumple con la gran parte de sus expectativas y gusta seguir apoyando ante cualquier revisión o apoyo en el tema de diseño para seguir mejorando más el proyecto y que más personas puedan conocer de su gran impacto que puede generar en la sociedad; de antemano le damos las gracias por el tiempo que se tomó y esperamos volver a comunicarnos pronto.</p>
 <br>
 
@@ -5189,7 +5189,19 @@ frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiem
 <strong>Recomendacion:</strong>
 <p>Se recomienda añadir más información que detalle un poco más de los insumos que contienen tantos dichas bebidas como dichas promociones para dar un mejor panorama en la elección de lo que el mismo usuario desee consumir.</p>
 <br>
+
 ## 5.4. Video About-The-Product.
+
+### Video About-the-Product.
+<tr>
+    <td>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918603/1170829455275597895/image.png"></div>
+    </td>
+</tr><br>
+
+Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVJwW_giVH5AqY5Btli4gGkBoD1B7Wa1Qyvp7IyapWjkoQ?e=TlaB05&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
 ## Conclusiones
 - El equipo ha establecido un sólido sistema de control de versiones utilizando GitHub y ha implementado el flujo de trabajo Gitflow para el desarrollo del proyecto, lo que garantiza a futuro un seguimiento eficiente de las modificaciones.
 - Las convenciones de compromisos (commits) con Compromisos Convencionales (Conventional Commits) se han adoptado para mantener una estructura coherente en los registros de cambios.
@@ -5217,15 +5229,7 @@ frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiem
 Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EeK7mlDo2bJCpZWkqKZLc-8BqUgy7h7qoEncn15eu-FgVw?e=TMSoI7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 
-## Video About-the-Product.
-<tr>
-    <td>
-    <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918603/1170821775202983966/image.png"></div>
-    </td>
-</tr><br>
 
-Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EeK7mlDo2bJCpZWkqKZLc-8BqUgy7h7qoEncn15eu-FgVw?e=TMSoI7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 
 ## Bibliografía
@@ -5240,30 +5244,51 @@ Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tb2](https
 ## Anexos
 <div align="center">Anexos A: Historial de vinculos</div>
 <br>
-- Github: https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report.git 
-- Link del Canvas: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1 
+- Github: https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report.git
+
+- Link del Canvas: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1
+
 - Link del Lean Ux Canva: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1
+
 - Link de Miro: https://miro.com/welcomeonboard/Mk5wZzhZdGppbjl0Y0VZWllDeWtlZ3g3emt6R1NvTHhqdDJ5dUt6MGNoYWRORm5GTHpyNTZOa3paSVRpZ1hJeXwzMDc0NDU3MzU3MTA0ODcyOTA0fDI=?share_link_id=659519633230 
-Uxpressiar: https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc 
+
+- Uxpressiar: https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc 
+
 - Link del As-is Scenario Mapping: https://miro.com/app/board/uXjVMiV73GU=/?share_link_id=284038922247
+
 - Link para ver el To-Be Scenario Mapping Usuario : https://miro.com/app/board/uXjVO8jKyt8=/?share_link_id=663854831408
+
 - Link para ver el To-Be Scenario Mapping Empresa: https://miro.com/app/board/uXjVO8jKyt8=/?share_link_id=663854831408
+
 - Link de Cliente Uxpressia: https://media.discordapp.net/attachments/1145898392631918606/1155294187726586016/user.png
+
 - Link de Administrador Uxpressia: https://media.discordapp.net/attachments/1145898392631918606/1155293546316824616/2.png
+
 - El link del diseño de Landing Page Wireframes escritorio: https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?- type=design&node-id=397%3A3611&mode=design&t=jL9xPnI96j5KRImq-1
+
 - Link del Diseño Movil: https://www.figma.com/file/N8EmdAUWapHigf4Lk8sGHr/Web-Application-Wireframes?type=design&node-id=0%3A1&mode=design&- t=DfFWWAqT7hgXSXLE-1
+
 - Link para visualizar los wireframes diagrams: https://overflow.io/s/O6IYMWFP
+
 - Link del User Flow diagrams: https://overflow.io/s/RV6NU7NK
+
 - Link para visualizar los Web Application User Flow diagrams: https://overflow.io/s/T9LJPXN7
-- Link del prototipo en Figma: https://www.figma.com/proto/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?page-id=0%3A1&type=design&node-id=18-31&viewport=482%2C573%2C0.23&t=fF9wq2WzqPvgenwU-1&scaling=scale-down&starting-point-node-id=18%3A31&mode=design 
+
+- Link del prototipo en Figma: https://www.figma.com/proto/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?page-id=0%3A1&type=design&node-id=18-31&viewport=482%2C573%2C0.23&t=fF9wq2WzqPvgenwU-1&scaling=scale-down&starting-point-node-id=18%3A31&mode=design
+
 - Link del video de explicación del prototipo en Figma: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/ETCf0pqiD-dAisJ0yxKBQSYBlSeYgXx3HWFYcxpUxUMSAw?e=eoQ4LJ
+
 - Link del diagrama de clases: https://lucid.app/lucidchart/daf95998-1760-461d-abfe-2fd30bc0bc28/edit?viewport_loc=-1193%2C-1766%2C2720%2C1316%2C0_0&invitationId=inv_8697997e-4a61-48df-a95e-8ec0a8e8f9bf
+
 - Link del diagrama de base de datos : https://my.vertabelo.com/doc/rnFl5uF8NckqxD1cMZxb2hImLU6IESSS
+
 <br> 
 <div align="center">Anexos B: Entrevistas</div>
 <br>
-<p>&gt <b>Entrevistas con nuestros segmentos objetivos:</b><p>
-<a href="https://upcedupe-my.sharepoint.com/✌️/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/✌️/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a>
-<p>&gt <b>Entrevistas de valdación con nuestros segmentos objetivos:</b><p>
+<p><b>Entrevistas con nuestros segmentos objetivos:</b><p>
+
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/✌️/g/personal/u202110458_upc_edu_pe/EfmZWFYvxjxOvhRgBGQuIYEBRZjQqgqjHc0HzffLwKguYg?e=eGOvaT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a>
+
+<p><b>Entrevistas de valdación con nuestros segmentos objetivos:</b><p>
 <p><strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EYqIFZEookdEq6JKyah6qJ0BTnW_hHO64B7FTjZz9Wq4Bg?e=dKkhnr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</a></p>
 </div>
