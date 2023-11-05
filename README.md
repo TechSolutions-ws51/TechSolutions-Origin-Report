@@ -4348,6 +4348,176 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
 
 <p>Como parte de la revisión del tercer sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de <em>commits</em> en diferentes repositorios. Durante este sprint, nos enfocamos en realizar los ajustes de mejora para nuestro <strong>Landing Page</strong>,  la actualizacion del <em>Frontend Web Application</em> respecto a nuestro <strong>Startup</strong>. Por otro lado, se tuvo como objetivo desarrollar la primera version del <strong>Backend</strong> de nuestra aplicacion, el cual se hizo en el lenguaje de programacion Java, teniendo en cuenta el uso de Domain Driven Design. Los commits registrados en diversos repositorios reflejan el trabajo realizado en estas áreas en específico.</p>
 
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Repository</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Branch</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit ID</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit Message</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit Message Body</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commited on (Date)</th>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/updateStyles_WebApp</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">b307e21</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Styles): estilos actualizados parte 1
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Styles): estilos actualizados parte 1
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">15/10/23 16:09:37 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/sectionBar</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3193176</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Bares): Section Bares implemented.
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Bares): Section Bares implemented.
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">15/10/23 18:24:23 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/loginWebSection</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">33ec981</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login): files login created
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login): files login created
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 20:09:27 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/loginRegisterSection</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">447cdf5</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login-register): sector election login added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login-register): sector election login added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 20:45:39 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/loginRegisterRoutes</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">736a12c</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login-register): routes login client & empresario implemented
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login-register): routes login client & empresario implemented
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 21:05:06 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/loginUpdate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">98546b</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login): login of 2 sectors implemented
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(login): login of 2 sectors implemented
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">05/11/23 00:13:01 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/initialCommit</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">105618</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: initial commit.
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: initial commit.
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 14:58:55 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/initialReadme</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">f696b5b</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">doc: added readme.
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">doc: added readme.
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:09:41 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/AuditableModel</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1d78e47</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: AuditableModel
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: AuditableModel
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:16:44 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/APIConfiguration</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4e43ec6</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Open Api Configuration in Java
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Open Api Configuration in Java
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:18:54 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/pomXMLUpdate</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">44bf304</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Update pom.xml, implementacion the Snake Case and Application Properties
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Update pom.xml, implementacion the Snake Case and Application Properties
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:27:08 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/servicesImplementation</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">7752186</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Implemetacion .. Impl, Services, NotFound,Command and Query
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Implemetacion .. Impl, Services, NotFound,Command and Query
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:34:31 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/implementStructure</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">93712b1</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: structure of what was implemented
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: structure of what was implemented
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">03/11/23 15:56:29 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/BarCommandService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1269512</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/BarComandService add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/BarComandService add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:35:57 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/customerCommandService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">e707486</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerComandService  add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerComandService  add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:44:45 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/customerCommandService</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">e707486</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerComandService  add
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/CustomerComandService  add
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">04/11/23 10:44:45 PM</td>
+</tr>
+</table>
 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
