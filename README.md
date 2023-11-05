@@ -4594,9 +4594,12 @@ Link del repositorio:
 
 https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report
 
-- Web service commit details
+- Web service commit details.
+
+<br>
+
 |Repository|Branch|Commit Id|Commit Message|Commited on (Date)|
-|-|-|-|-|-|-|  
+|-|-|-|-|-| 
 | https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |105618f | chore: initial commit.| 3/11/2023| 
 | https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips  |f696b5b| doc: added readme. | 3/11/2023| 
 | https://github.com/TechSolutions-ws51/loyalsips|TechSolutions-ws51/loyalsips |1d78e47 |  feat: AuditableModel|3/11/2023 | 
