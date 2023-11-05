@@ -4451,7 +4451,28 @@ En el sprint 3, se logró implementar la primera versión del Backend de la apli
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
+|Alumno|Actividad|
+|-|-|
+|Morin Fuentes, Jean Pierre|Desarrollo del back end, y mejora y reestructuración de componentes del front end|
+|Ampudia Flores, Jose Carlo isaac|Desarrollo del back end e internacionalización del front end|
+|Alarcon Rondon, Sandro Fourfive|Desarrollo del back end, y mejora y reestructuración de componentes del front end|
+|Huamani Sánchez, José Diego|Desarrollo del back end, y mejora de componentes del front end|
+|Ballona Blas, Naggit German|Desarrollo del back end, y creación de nuevos de componentes del front end|
 
+Repositorio Landing:
+
+![insight_1_open_landing](https://cdn.discordapp.com/attachments/1145898392631918606/1170702896875180032/image.png?ex=655a0109&is=65478c09&hm=6a42ff397db1f9459afa3bfde885038ecafc7ac5d35f8ecebf5b7d76ef596d1f&)
+![insight_2_open_landing](https://media.discordapp.net/attachments/1145898392631918606/1155030983230365757/git_commits_image.png?width=697&height=625)
+
+Repositorio Web Application:
+
+![insight_1_open](https://cdn.discordapp.com/attachments/1145898392631918606/1170702896875180032/image.png?ex=655a0109&is=65478c09&hm=6a42ff397db1f9459afa3bfde885038ecafc7ac5d35f8ecebf5b7d76ef596d1f&)
+![insight_2_open](https://cdn.discordapp.com/attachments/1145898392631918606/1170703556110716948/image.png?ex=655a01a6&is=65478ca6&hm=611edf8c73f9808d07d2e7801afb54657affaf4d3c1c1420be6bc8ea095f5353&)
+
+Repositorio Platform:
+
+![insight_1_open_platform](https://cdn.discordapp.com/attachments/1145898392631918606/1170704063332094063/image.png?ex=655a021f&is=65478d1f&hm=73bb031bbd6a9bdae766f5e8a1d8f85f5cd5cd386e9e83e5003459b2b9b47f94&)
+![insight_2_open_platform](https://cdn.discordapp.com/attachments/1145898392631918606/1170703902665084979/image.png?ex=655a01f9&is=65478cf9&hm=e1dbd7583c717b587276f986455ff4c8f0b8de65960b83af21c2c1dc7c14b19d&)
 
 ## 5.3. Validation Interviews.
 
