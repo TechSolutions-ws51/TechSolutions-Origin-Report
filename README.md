@@ -4369,6 +4369,84 @@ Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Lan
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
+En el sprint 3, se logró implementar la primera versión del Backend de la aplicacion, analizando los requisitos, para las colecciones y clases que se tuvo pensado crear, como primera version, hemos cumplido con la creacion de algunas colecciones como Profiles, Customers, Point y Bar, los cuales se muestran a continuacion:
+
+**Evidencia de Backend LoyalSips**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1170543461146046464/image.png"></div>
+      <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1170543505572106320/image.png"></div>
+    </td>
+</tr><br>
+
+
+
+**Customers (POST)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170544254901293147/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169530471810617464/image.png"></div>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170544306885492746/image.png"></div>
+    </td>
+
+    
+</tr><br>
+
+**(GET)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170544550561992826/image.png"></div>
+    </td>
+</tr><br>
+
+**BAR**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170545352231886979/image.png"></div>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170545395336757398/image.png"></div>
+    </td>
+</tr><br>
+
+**(PUT)**
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170545595807707176/image.png"></div>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170545639629795418/image.png"></div>
+    </td>
+</tr><br>
+
+**(POST)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170545718864396328/image.png"></div>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1170545749952569374/image.png"></div>
+    </td>
+</tr><br>
+
+
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
