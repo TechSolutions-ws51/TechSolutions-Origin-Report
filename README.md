@@ -16,7 +16,7 @@
 
 # Proyecto del Curso.
 
-## TB2 REPORT
+## TF REPORT
 
 ### StartUp Name
 
@@ -292,8 +292,8 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
         - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
         - [5.2.2.8. Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)<br><br>
     - [5.2.3. Sprint 3](#523-sprint-3)
-        - [5.2.3.1. Sprint Planning 3](#5223-sprint-planning-3)
-        - [5.2.3.2. Sprint Backlog 3](#5223-sprint-backlog-3)
+        - [5.2.3.1. Sprint Planning 2](#5223-sprint-planning-3)
+        - [5.2.3.2. Sprint Backlog 2](#5223-sprint-backlog-3)
         - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
         - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
         - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
@@ -4259,7 +4259,9 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
     </td>
 </tr><br>
 
+### 5.2.3. Sprint 3
 
+#### 5.2.3.1. Sprint Planning.
 <table align="center">
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint #</th>
@@ -4290,11 +4292,11 @@ Se muestra evidencias de la Web Application desplegada, usando el servicio de Fi
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Review Summary</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">En esta oportunidad, se volvió a dar una nueva mejoría y actualización a enfoque del <strong>Landing Page</strong> de lo cual respecta a nuestro <em>startup</em> - acoplando la añadidura de algunos <em>user stories</em> y sobre todo los feedbacks desarrollados por nuestros estimados segmentos objetivos en la entrevista de validación -. En complemento a lo que anteriormente se menciones, se brindó también la nueva actualización del <strong>Web Application</strong>, donde igualmente se incluyeron algunos <em>user stories</em> y levantamos algunos observaciones que teniamos en base a las heuristicas que nos hemso autoevaluado. Finalmente, se tiene previsto para esta presentación, el desarrollo y la entrega de la primera versión de nuestro <em>Backend</em>, lo cual se seguirán de manera muy rigurosa los enfoques de negocio y las buenas práctica para un buen mantenimiento y soporte a futuro.</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">En esta oportunidad, se volvió a dar una nueva mejoría y actualización a enfoque del <strong>Landing Page</strong> de lo cual respecta a nuestro <em>startup</em> - acoplando la añadidura de algunos <em>user stories</em> y sobre todo los feedbacks desarrollados por nuestros estimados segmentos objetivos en la entrevista de validación -. En complemento a lo que anteriormente se mencionó, se brindó también la nueva actualización del <strong>Web Application</strong>, donde igualmente se incluyeron algunos <em>user stories</em> y levantamos algunos observaciones que teniamos en base a las heuristicas que nos hemos autoevaluado. Finalmente, se tiene previsto para esta presentación, el desarrollo y la entrega de la primera versión de nuestro <em>Backend</em>, lo como <em>feedbacks</em> que hemos recibido, les gustaría este que tenga un buena organización de la funcionalidad al momento de representar el labor que va a estar desempeñando dentro de la apliación.</td>
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Retrospective Summary</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Principalmente en esta sección, los <em>team members</em> llegamos a la conclusión de que las nuevas implementaciones llevadas acabo para asemejar el perfecionamiento del dinamismo tanto en el <strong>Landing Page</strong> así como <strong>Web application</strong>, han sido uno de lo que más nos han logrado impactar, ya que le ha dado otra perspectiva más única y personalizada para lo que van a interactuar nuestros usuarios. Sin embargo, sentimos que uno de los aspectos importantes, que en esta oportunidad vino a ser el <strong>Backend</strong> si necesitamos una buena y sugestiva mejora, ya que nos deja algo que desear.</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Principalmente en esta sección, los <em>team members</em> llegamos a la conclusión de que las nuevas implementaciones llevadas acabo para asemejar el perfecionamiento del dinamismo tanto en el <strong>Landing Page</strong> así como <strong>Web application</strong>, han sido uno de lo que más nos han logrado impactar, ya que le ha dado otra perspectiva más única y personalizada para lo que van a interactuar nuestros usuarios. Sin embargo, sentimos que uno de los aspectos importantes, que en esta oportunidad viene a ser el <strong>Backend</strong>, si necesitamos una buena y sugestiva mejora, ya que hay algunas cosas que se pueden organizar y segmentar de una mejor manera para que se entienda dicha lógica de negocio.</td>
 </tr>
 <tr>
   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Goal  & User Stories</td>
@@ -4999,9 +5001,6 @@ Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Lan
 | Loyal Sips Backend Desplegada                                          |[LoyalSips-Backend-Swagger](https://loyalsips.zeabur.app/swagger-ui/index.html#/)                | 
 |---------------------|---------------------|
 
-| Loyal Sips Landing Page Actualizada                                          |[LoyalSips-Landing Page](https://techsolutions-ws51.github.io/LoyalSips-LandingPage-Open/index.html)                | 
-|---------------------|---------------------|
-
 | Loyal Sips Frontend Inicial                                          |[LoyalSips-Frontend](https://loyalsips.web.app/home)                | 
 |---------------------|---------------------|
 
@@ -5359,7 +5358,7 @@ El despliegue de la página de destino en GitHub Pages se ha actualizado despué
 <img src="https://media.discordapp.net/attachments/1145898392631918603/1170817802660233338/image.png"></div><br>
 
 
-**•	Capturas de pantalla del Backend de la aplicacion:**
+•	Capturas de pantalla del Backend de la aplicacion:
 <br>
 
 <div align='center'>
@@ -5404,6 +5403,76 @@ Repositorio Web Application:
 Repositorio Platform:
 ![insight_1_open_platform](https://cdn.discordapp.com/attachments/1145898392631918606/1170704063332094063/image.png?ex=655a021f&is=65478d1f&hm=73bb031bbd6a9bdae766f5e8a1d8f85f5cd5cd386e9e83e5003459b2b9b47f94&)
 ![insight_2_open_platform](https://cdn.discordapp.com/attachments/1145898392631918606/1170703902665084979/image.png?ex=655a01f9&is=65478cf9&hm=e1dbd7583c717b587276f986455ff4c8f0b8de65960b83af21c2c1dc7c14b19d&)
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning.
+<table align="center">
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint #</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 4</th>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Planning Background</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Date</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2023-11-15</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Time</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">21:32 PM</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Location</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">El lugar de reunión fue en la plataforma de videoconferencia virtual <strong>“Google Meet”</strong>, de lo cual se desarrolló para conversar en relación a los deberes que cada uno debe desarrollar para este <em>sprint 3.</em> -.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Prepared By</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Huamani Sánchez, José Diego</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Attendees (to planning meeting)</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / Ballona Blas, Naggit German / Huamani Sánchez, José Diego</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Review Summary</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">En esta oportunidad, se volvió 
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Retrospective Summary</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Principalmente en esta sección, </td>
+</tr>
+<tr>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Goal  & User Stories</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 Goal</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">El enfoque objetival que se tiene previsto para esta penúltima entrega, referiendonos al sprint 3, está más que todo centrado en el validar los principios de <strong>UI/UX</strong> que opinan nuestro segmento objetivo (más que todo ligado al pensamiento y sentimiento). En base a sus opiniones, mejorar el dinamismo y funcionalidad que tiene nuestro <strong>Lading Page</strong> y <strong>Web application</strong> respectivamente. Por otra parte, en relevancia al lado <strong>Backend</strong> de nuestro aplicación, más que todo va ligado al enfoque de los procesos internos no visibles que le darán la interactividad funcional ante las diferentes acciones que los usuarios desarrollen dentro de la aplicación.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 Velocity</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este penúltimo sprint, el <strong>Scrum Developer Team</strong> llegó a un acuerdo en aceptar sin ningún tipo de problemas la cantidad de 21 <em>story points</em> respectivamente.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para lo que conlleva este sprint 3, estamos abarcando los <em>User Stories</em> con identificadores <em><strong>US18</strong></em> el cual equivale 8 puntos, <em><strong>US03</strong></em>, que equivale a 5 puntos y el <em><strong>US12</strong></em> que tiene como equivalencia 8 puntos.</td>
+</tr>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3.
+
+<div align='justify'>
+<p>Para lo que respecta a este último sprint, se llevó a cabo las últimas actualizaciones tanto de nuestro <strong>Landing Page</strong> como nuestro <strong>Web application</strong> - tomando muy en consideración los <em>feeedbacks</em> de nuestros segmentos objetivos -. Para este sprint, se tuvo un plazo de concretación estimado de 2 semanas, de lo cual, se dió inicio el día 15 de octubre del año 2023 y, como principal objetivo mayormente se centro en refinar lo que ya habiamos presentando en el sprint anterior, el cual viene a ser nuestro <em>Backend</em> del negocio; por lo que, siguiendo las buenas prácticas de <strong>Clean Code</strong>, hemos dado otra rigurosa observación a la infraestructura y así mismo poder poder seguir mejorando la organización de la funcionalidad correspondiente (cumpliendo con las expectativas de todos nuestros usuarios y que pueda facilitar su trabajo cotidiano).</p>
+</div>
+
+<div align="center">
+<img src="https://media.discordapp.net/attachments/892430247042105427/1176720425292681286/image.png?ex=656fe54b&is=655d704b&hm=9d7976d0ed42a32f8ae04c69e0f5a41b8ad40959a498a4180ed5c46e328685ce&=&format=webp&width=1339&height=564" alt="Sprint-Backlog3-Image" style="width:600px;height:auto;">
+</div>
+
+<div align="center">
+<p><strong>Link del Trello:</strong> <a href="https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps">https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps</a></p>
+</div>
 
 ## 5.3. Validation Interviews.
 
@@ -5663,7 +5732,7 @@ frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiem
     </td>
 </tr><br>
 
-Link para ver el video: [upc-pre202302-si729-ws51-TechSolutions-about-the-product-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVJwW_giVH5AqY5Btli4gGkBoD1B7Wa1Qyvp7IyapWjkoQ?e=TlaB05&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVJwW_giVH5AqY5Btli4gGkBoD1B7Wa1Qyvp7IyapWjkoQ?e=TlaB05&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ## Conclusiones
 - El equipo ha establecido un sólido sistema de control de versiones utilizando GitHub y ha implementado el flujo de trabajo Gitflow para el desarrollo del proyecto, lo que garantiza a futuro un seguimiento eficiente de las modificaciones.
