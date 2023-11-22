@@ -3496,7 +3496,7 @@ Para la entrega del Sprint 1, se tuvo pensado alcanzar el desarrollo completo de
 
 <br>
 
-| Landing Page Desplegada                                          |[Landing Page Loyal Sips](https://techsolutions-ws51.github.io/LoyalSips-LandingPage-Open/)                | 
+| Landing Page Desplegada                                          |[Landing Page Loyal Sips](https://techsolutions-ws51.github.io/Landing-Loyal.github.io/)                | 
 |---------------------|---------------------|
 
 
