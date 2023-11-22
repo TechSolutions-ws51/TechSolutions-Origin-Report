@@ -16,7 +16,7 @@
 
 # Proyecto del Curso.
 
-## TP REPORT
+## TB2 REPORT
 
 ### StartUp Name
 
@@ -292,8 +292,8 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
         - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
         - [5.2.2.8. Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)<br><br>
     - [5.2.3. Sprint 3](#523-sprint-3)
-        - [5.2.3.1. Sprint Planning 2](#5223-sprint-planning-3)
-        - [5.2.3.2. Sprint Backlog 2](#5223-sprint-backlog-3)
+        - [5.2.3.1. Sprint Planning 3](#5223-sprint-planning-3)
+        - [5.2.3.2. Sprint Backlog 3](#5223-sprint-backlog-3)
         - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
         - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
         - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
@@ -4999,6 +4999,9 @@ Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Lan
 | Loyal Sips Backend Desplegada                                          |[LoyalSips-Backend-Swagger](https://loyalsips.zeabur.app/swagger-ui/index.html#/)                | 
 |---------------------|---------------------|
 
+| Loyal Sips Landing Page Actualizada                                          |[LoyalSips-Landing Page](https://techsolutions-ws51.github.io/LoyalSips-LandingPage-Open/index.html)                | 
+|---------------------|---------------------|
+
 | Loyal Sips Frontend Inicial                                          |[LoyalSips-Frontend](https://loyalsips.web.app/home)                | 
 |---------------------|---------------------|
 
@@ -5356,7 +5359,7 @@ El despliegue de la página de destino en GitHub Pages se ha actualizado despué
 <img src="https://media.discordapp.net/attachments/1145898392631918603/1170817802660233338/image.png"></div><br>
 
 
-•	Capturas de pantalla del Backend de la aplicacion:
+**•	Capturas de pantalla del Backend de la aplicacion:**
 <br>
 
 <div align='center'>
@@ -5727,7 +5730,7 @@ frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiem
     </td>
 </tr><br>
 
-Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVJwW_giVH5AqY5Btli4gGkBoD1B7Wa1Qyvp7IyapWjkoQ?e=TlaB05&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Link para ver el video: [upc-pre202302-si729-ws51-TechSolutions-about-the-product-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVJwW_giVH5AqY5Btli4gGkBoD1B7Wa1Qyvp7IyapWjkoQ?e=TlaB05&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ## Conclusiones
 - El equipo ha establecido un sólido sistema de control de versiones utilizando GitHub y ha implementado el flujo de trabajo Gitflow para el desarrollo del proyecto, lo que garantiza a futuro un seguimiento eficiente de las modificaciones.
