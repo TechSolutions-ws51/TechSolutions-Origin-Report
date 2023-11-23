@@ -5570,26 +5570,26 @@ Repositorio Platform:
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Review Summary</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">En esta oportunidad, se volvió 
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">En esta oportunidad, se logró presentar al Product Owner las versiones actualizadas tanto de nuestro <strong>Landing Page, Web Application y Backend</strong> en base a los <em>feedbacks</em> que hemos recibido en el Sprint Anterior. De manera breve, para el aspecto de Backend, logramos mejorar la segmentación organizativa de nuestro <strong>Bounded Context</strong> y parte de la lógica de negocio que no estaba muy esclarecida del todo; y tanto para el Landing Page como Web Application, logramos refinar la interacción y aspectos visuales en contraste tanto a las sugerencias que nos brindaron nuestros usuarios - esto, mediante reuniones no registradas, ya que se utilizó el método de desarrollo de Software de <strong>Feature Driven Development (FDD)</strong>. Como es el último sprint, todavía no recibimos validaciones o <em>feedbacks</em>, pero esperamos que los niveles de satisfacción sean los más gratos como se ha venido desarrollando durante todo ese <strong>Project Lifecycle</strong> 
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Retrospective Summary</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Principalmente en esta sección, </td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Respecto al último <strong>retrospective meeting</strong> que nos corciené por este último Sprint, sentimos que estos <em>deliverables</em> entregados, generó en nosotros un nivel de satisfacción alta por el hecho de que se logró cumplir tanto al tiempo estipulado como las features nuevas que tendrán un gran impacto en nuestros segmentos objetivos; sin embargo, sentimos que en el aspecto del Web Application, se pueden seguir mejorando más detalles, como el tema de registro de datos y alojarlos a servicios en la nube - pequeños detalles que pueden seguir mejorando acrecentando aún más el proyecto -.  </td>
 </tr>
 <tr>
   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Goal  & User Stories</td>
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 4 Goal</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">El enfoque objetival que se tiene previsto para esta penúltima entrega, referiendonos al sprint 4, está más que todo centrado en el validar los principios de <strong>UI/UX</strong> que opinan nuestro segmento objetivo (más que todo ligado al pensamiento y sentimiento). En base a sus opiniones, mejorar el dinamismo y funcionalidad que tiene nuestro <strong>Lading Page</strong> y <strong>Web application</strong> respectivamente. Por otra parte, en relevancia al lado <strong>Backend</strong> de nuestro aplicación, más que todo va ligado al enfoque de los procesos internos no visibles que le darán la interactividad funcional ante las diferentes acciones que los usuarios desarrollen dentro de la aplicación.</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Lo que se arraiga más que todo al aspecto con enfoque de <em>Goals</em> de este Sprint, es el hecho de dar nuevas actualizaciones en base a todo lo que se vino presentando al usuario durante cada iteracion de los sprints anteriores - refiriéndonos al Landing Page, Web Application y Backend -. Cada <strong>feature</strong> actualizado, se espera que logre mejorar la funcionalidad que ya se tenía y logre mantener la facilidad de interactividad del usuario en el uso de los mismos.</td>
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 4 Velocity</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este penúltimo sprint, el <strong>Scrum Developer Team</strong> llegó a un acuerdo en aceptar sin ningún tipo de problemas la cantidad de 21 <em>story points</em> respectivamente.</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este penúltimo sprint, el <strong>Scrum Developer Team</strong> llegó a un acuerdo en aceptar sin ningún tipo de problemas la cantidad de 16 <em>story points</em> respectivamente.</td>
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para lo que conlleva este sprint 4, estamos abarcando los <em>User Stories</em> con identificadores <em><strong>US18</strong></em> el cual equivale 8 puntos, <em><strong>US03</strong></em>, que equivale a 5 puntos y el <em><strong>US12</strong></em> que tiene como equivalencia 8 puntos.</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para lo que conlleva este último sprint, estamos abarcando los <em>User Stories</em> con identificadores <em><strong>US11</strong></em> el cual equivale 5 puntos, <em><strong>US13</strong></em>, que equivale a 3 puntos y el <em><strong>US20</strong></em> que tiene como equivalencia 8 puntos.</td>
 </tr>
 </table>
 
@@ -5609,9 +5609,51 @@ Repositorio Platform:
 
 ### 5.2.4.3 Development Evidence for Sprint Review.
 
-Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este tercer sprint. Como se establecio trabajar el frontend y backendde la web application, se muestran commits de diferentes repositorios donde se trabajo.
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este tercer sprint. Como se establecio trabajar el frontend y backend del web application; asimismo, se muestran commits de diferentes repositorios donde se trabajo.
+
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Repository</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Branch</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit ID</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit Message</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit Message Body</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commited on (Date)</th>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="">s</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+</tr>
 
 ### 5.2.4.4.Testing Suite Evidence for Sprint Review.
+
+Para este último sprint 4, se desarrolló la entrega acorde a la integración de las actualizaciones tanto del Web Application como el Backend correspondiente para el funcionamiento óptimo de todo el producto que el cliente está esperando. 
 
 | Repository                                | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
@@ -5619,6 +5661,7 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 
 ### 5.2.4.5. Execution Evidence for Sprint Review.
 
+Para este último sprint, se logró implementar la segunda y última versión del Backend de la aplicacion, analizando los <em>feedbacks</em> recibidos, para luego pasar a la parte de integracion con el Frontend de nuestro Web Application.
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
