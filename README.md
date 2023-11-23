@@ -423,6 +423,7 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
     - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
         - [Link del repositorio:](#link-del-repositorio)
     - [5.2.4.7.Software Deployment Evidence for Sprint Review.](#5247software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8 Team Collaboration Insights during Sprint.](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews.](#53-validation-interviews)
     - [5.3.1. Diseño de entrevistas.](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de entrevistas.](#532-registro-de-entrevistas)
@@ -5685,6 +5686,24 @@ Capturas de pantalla del back-end
 ![Alt text](image-15.png)
 
 ![Alt text](image-16.png)
+### 5.2.4.8 Team Collaboration Insights during Sprint.
+
+|Nombre|Rol|
+|------|---|
+|Morin Fuentes, Jean Pierre|Implementacion de todo el backend, actualizacion de todo el frontend, actualizacion de todo el documento|
+
+Repositorio Landing:
+
+https://github.com/TechSolutions-ws51/Landing-Loyal.github.io.git 
+
+Repositorio Web Application:
+
+https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips.git 
+
+Repositorio Backend:
+
+https://github.com/TechSolutions-ws51/loyalsips.git 
+
 
 ## 5.3. Validation Interviews.
 
