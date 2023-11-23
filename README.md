@@ -5568,35 +5568,31 @@ Repositorio Platform:
   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / Ballona Blas, Naggit German / Huamani Sánchez, José Diego</td>
 </tr>
 <tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 4 - Review Summary</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">En esta oportunidad, se logró presentar al Product Owner las versiones actualizadas tanto de nuestro <strong>Landing Page, Web Application y Backend</strong> en base a los <em>feedbacks</em> que hemos recibido en el Sprint Anterior. De manera breve, para el aspecto de Backend, logramos mejorar la segmentación organizativa de nuestro <strong>Bounded Context</strong> y parte de la lógica de negocio que no estaba muy esclarecida del todo; y tanto para el Landing Page como Web Application, logramos refinar la interacción y aspectos visuales en contraste tanto a las sugerencias que nos brindaron nuestros usuarios - esto, mediante reuniones no registradas, ya que se utilizó el método de desarrollo de Software de <strong>Feature Driven Development (FDD)</strong>. Como es el último sprint, todavía no recibimos validaciones o <em>feedbacks</em>, pero esperamos que los niveles de satisfacción sean los más gratos como se ha venido desarrollando durante todo ese <strong>Project Lifecycle</strong>.
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Review Summary</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">En esta oportunidad, se volvió 
 </tr>
 <tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 4 - Retrospective Summary</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Respecto al último <strong>retrospective meeting</strong> que nos corciené por este último Sprint, sentimos que estos <em>deliverables</em> entregados, generó en nosotros un nivel de satisfacción alta por el hecho de que se logró cumplir tanto al tiempo estipulado como las features nuevas que tendrán un gran impacto en nuestros segmentos objetivos; sin embargo, sentimos que en el aspecto del Web Application, se pueden seguir mejorando más detalles, como el tema de registro de datos y alojarlos a servicios en la nube - pequeños detalles que pueden seguir mejorando acrecentando aún más el proyecto -.  </td>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Retrospective Summary</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Principalmente en esta sección, </td>
 </tr>
 <tr>
   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Goal  & User Stories</td>
 </tr>
 <tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 4 Goal</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Lo que se arraiga más que todo al aspecto con enfoque de <em>Goals</em> de este Sprint, es el hecho de dar nuevas actualizaciones en base a todo lo que se vino presentando al usuario durante cada iteracion de los sprints anteriores - refiriéndonos al Landing Page, Web Application y Backend -. Cada <strong>feature</strong> actualizado, se espera que logre mejorar la funcionalidad que ya se tenía y logre mantener la facilidad de interactividad del usuario en el uso de los mismos.</td>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 Goal</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">El enfoque objetival que se tiene previsto para esta penúltima entrega, referiendonos al sprint 3, está más que todo centrado en el validar los principios de <strong>UI/UX</strong> que opinan nuestro segmento objetivo (más que todo ligado al pensamiento y sentimiento). En base a sus opiniones, mejorar el dinamismo y funcionalidad que tiene nuestro <strong>Lading Page</strong> y <strong>Web application</strong> respectivamente. Por otra parte, en relevancia al lado <strong>Backend</strong> de nuestro aplicación, más que todo va ligado al enfoque de los procesos internos no visibles que le darán la interactividad funcional ante las diferentes acciones que los usuarios desarrollen dentro de la aplicación.</td>
 </tr>
 <tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 4 Velocity</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este penúltimo sprint, el <strong>Scrum Developer Team</strong> llegó a un acuerdo en aceptar sin ningún tipo de problemas la cantidad de 16 <em>story points</em> respectivamente.</td>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 Velocity</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este penúltimo sprint, el <strong>Scrum Developer Team</strong> llegó a un acuerdo en aceptar sin ningún tipo de problemas la cantidad de 21 <em>story points</em> respectivamente.</td>
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para lo que conlleva este último sprint, estamos abarcando los <em>User Stories</em> con identificadores <em><strong>US11</strong></em> el cual equivale 5 puntos, <em><strong>US13</strong></em>, que equivale a 3 puntos y el <em><strong>US20</strong></em> que tiene como equivalencia 8 puntos.</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para lo que conlleva este sprint 3, estamos abarcando los <em>User Stories</em> con identificadores <em><strong>US18</strong></em> el cual equivale 8 puntos, <em><strong>US03</strong></em>, que equivale a 5 puntos y el <em><strong>US12</strong></em> que tiene como equivalencia 8 puntos.</td>
 </tr>
 </table>
 
-<<<<<<< HEAD
 ### 5.2.4.2. Sprint Backlog 4.
-=======
-#### 5.2.4.2. Sprint Backlog 4.
->>>>>>> 12a13474a921b0a4be989d4d464e2275dc3dc2ba
 
 <div align='justify'>
 <p>Para lo que respecta a este último sprint, se llevó a cabo las últimas actualizaciones tanto de nuestro <strong>Landing Page</strong> como nuestro <strong>Web application</strong> - tomando muy en consideración los <em>feeedbacks</em> de nuestros segmentos objetivos -. Para este sprint, se tuvo un plazo de concretación estimado de 2 semanas, de lo cual, se dió inicio el día 15 de octubre del año 2023 y, como principal objetivo mayormente se centro en refinar lo que ya habiamos presentando en el sprint anterior, el cual viene a ser nuestro <em>Backend</em> del negocio; por lo que, siguiendo las buenas prácticas de <strong>Clean Code</strong>, hemos dado otra rigurosa observación a la infraestructura y así mismo poder poder seguir mejorando la organización de la funcionalidad correspondiente (cumpliendo con las expectativas de todos nuestros usuarios y que pueda facilitar su trabajo cotidiano).</p>
@@ -5610,13 +5606,15 @@ Repositorio Platform:
 <p><strong>Link del Trello:</strong> <a href="https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps">https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps</a></p>
 </div>
 
-<<<<<<< HEAD
 ### 5.2.4.3 Development Evidence for Sprint Review.
 
 Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este tercer sprint. Como se establecio trabajar el frontend y backendde la web application, se muestran commits de diferentes repositorios donde se trabajo.
 
 ### 5.2.4.4.Testing Suite Evidence for Sprint Review.
 
+| Repository                                | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
+| [LoyalSips-Web-Application](https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips.git) | Feature/TS-Web-Application | feature:home-section add     | Updated commit | Se Actualizo todo el proyecto | 20/11/2023|
 
 ### 5.2.4.5. Execution Evidence for Sprint Review.
 
@@ -5676,7 +5674,7 @@ Capturas de pantalla de la aplicación web
 
 Back-end
 
-El back-end se desplegó en Zeabur. La base de datos se implementó en railway.
+El back-end se desplegó en Zeabur. La base de datos se implementó en Railway.
 
 Capturas de pantalla del back-end
 
@@ -5688,84 +5686,6 @@ Capturas de pantalla del back-end
 
 ![Alt text](image-16.png)
 
-=======
-#### 5.2.4.3. Development Evidence for Sprint Review.
-
-<p>Como parte de la revisión del tercer sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de <em>commits</em> en diferentes repositorios. Durante este sprint, nos enfocamos en realizar los ajustes de mejora para nuestro <strong>Landing Page</strong>,  la actualizacion del <em>Frontend Web Application</em> respecto a nuestro <strong>Startup</strong>. Por otro lado, se tuvo como objetivo desarrollar la primera version del <strong>Backend</strong> de nuestra aplicacion, el cual se hizo en el lenguaje de programacion Java, teniendo en cuenta el uso de Domain Driven Design. Los commits registrados en diversos repositorios reflejan el trabajo realizado en estas áreas en específico.</p>
-
-<table>
-<tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Repository</th>
-   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Branch</th>
-   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit ID</th>
-   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit Message</th>
-   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit Message Body</th>
-   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commited on (Date)</th>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-</tr>
-<table>
-
-
->>>>>>> 12a13474a921b0a4be989d4d464e2275dc3dc2ba
 ## 5.3. Validation Interviews.
 
 Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la website que esta destinada a optimizar la venta de los empresarios de los bares y por parte de los clientes que desean comprar bebidas. Para ello, se realizó una serie de entrevistas a los usuarios que se encuentran en el segmento objetivo, para poder obtener una retroalimentación de la website y poder mejorarla.
