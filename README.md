@@ -1380,7 +1380,7 @@ Despues de acontecer y describir los registros de los entrevistados, en esta sec
 ## 2.3. Needfinding.
 
 <div align='justify'>
-En esta sección se presentan los artefactos del proceso de análisis de la información recopilada de nuestros segmentos objetivos. Se incluyen las secciones de User Personas, User Task Matrix, User Journey Mappin, Empathy Mapping y As-Is Scenario Mapping. 
+En esta sección se presentan los artefactos del proceso de análisis de la información recopilada de nuestros segmentos objetivos. Se incluyen las secciones de User Personas, User Task Matrix, User Journey Mappin,  y As-Is Scenario Mapping. 
 </div>
 
 ### 2.3.1. User Personas.
@@ -1471,11 +1471,11 @@ tareas para los User Personas previamente definidos.
 <p> En esta sección el equipo logró elaborar un Empathy Mapping de nuestros usuarios y de los gerentes de los bares. Este análisis nos ayudará a profundizar en la necesidad de los clientes y nuestros gerentes de bares para enfocarnos en nuestros desenfoques y sus necesidades con el aplicativo.</p>
 <p><b>USER:</b></p>
 <div align='center'>
-<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148290909172154368/image.png">
+<img src="https://media.discordapp.net/attachments/1145898392631918606/1177339998652088410/Empathy_map.png">
 </div>
 <p><b>Business:</b></p>
 <div align='center'>
-<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148291301012414515/image.png">
+<img src="https://media.discordapp.net/attachments/1145898392631918606/1177353715498364989/Empathy_map.png">
 </div>
 
  ### 2.3.5. As-is Scenario Mapping
