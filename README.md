@@ -6371,6 +6371,7 @@ frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiem
 
 Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115348_upc_edu_pe/EZRZdB1V11BItXn01gNIM0gBO-KqjGfBmBjOxUO0asQ-aA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=t9RKF4)
 
+Link para ver el video en Youtube: https://youtu.be/ikKyZl3TS4g 
 ## Conclusiones
 - El equipo ha establecido un sólido sistema de control de versiones utilizando GitHub y ha implementado el flujo de trabajo Gitflow para el desarrollo del proyecto, lo que garantiza a futuro un seguimiento eficiente de las modificaciones.
 - Las convenciones de compromisos (commits) con Compromisos Convencionales (Conventional Commits) se han adoptado para mantener una estructura coherente en los registros de cambios.
