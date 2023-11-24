@@ -5601,11 +5601,11 @@ Repositorio Platform:
 <br>
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/892430247042105427/1176720425292681286/image.png?ex=656fe54b&is=655d704b&hm=9d7976d0ed42a32f8ae04c69e0f5a41b8ad40959a498a4180ed5c46e328685ce&=&format=webp&width=1339&height=564" alt="Sprint-Backlog3-Image" style="width:600px;height:auto;">
+<img src="https://media.discordapp.net/attachments/1145898392631918606/1177569242862858310/image.png?ex=6572fbd1&is=656086d1&hm=d9e60dfe563ff8b642081b614961e1438db216177ba33501f1908fa79b79d536&=&format=webp" alt="Sprint-Backlog3-Image" style="width:600px;height:auto;">
 </div>
 
 <div align="center">
-<p><strong>Link del Trello:</strong> <a href="https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps">https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps</a></p>
+<p><strong>Link del Trello:</strong> <a href="https://trello.com/invite/b/bUyRSpXT/ATTIa1ed121c1de5c0a26f0c82e47fc81d269ED03A5C/sprint-4-loyalsips">https://trello.com/invite/b/bUyRSpXT/ATTIa1ed121c1de5c0a26f0c82e47fc81d269ED03A5C/sprint-4-loyalsips</a></p>
 </div>
 
 <table>
@@ -5795,7 +5795,7 @@ Como parte de la revisión del sprint 4, para proporcionar las últimas referenc
 <tr>
 <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report">https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report</a></td>
    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Feature/ts chapter 5.2.4.1</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">y6d8g2</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">y6d8g2c</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">docs: update feeture/ts chapter 5.2.4.1
 </td>
      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">docs: update feeture/ts chapter 5.2.4.1
@@ -5807,7 +5807,7 @@ Como parte de la revisión del sprint 4, para proporcionar las últimas referenc
 <tr>
 <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report">https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report</a></td>
    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Feature/Sprint Planning added</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">dfg54c</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">dfg54c1</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Sprint Planning added
 </td>
      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Sprint Planning added
@@ -5816,45 +5816,46 @@ Como parte de la revisión del sprint 4, para proporcionar las últimas referenc
 </tr>
 <tr>
 <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report">https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report</a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Feture/Development Evidence for Sprint Review updated</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">dsf34x4</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Development Evidence for Sprint Review updated
 </td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Development Evidence for Sprint Review updated
 </td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">21/11/2023</td>
 </tr>
 <tr>
 <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report">https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report</a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Feature Sprint Backlog 4 updated</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">sd43fdw</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Sprint Backlog 4 updated
 </td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Sprint Backlog 4 updated
 </td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">21/11/2023</td>
 </tr>
 
 <tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report">https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Feature/Impact mapping improved</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">sdf3g2r</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Impact mapping improved
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Impact mapping improved
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">23/11/2023</td>
+</tr>
+<tr>
 <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Landing-Loyal.github.io">https://github.com/TechSolutions-ws51/Landing-Loyal.github.io</a> </td>
    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/videos-about-added</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">f4a4g7</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">f4a4g7f</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Videos) Section About the product and about the team added
 </td>
      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Videos) Section About the product and about the team added
 </td>
       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">23/11/2023</td>
 </tr>
+
 <tr>
 <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
@@ -5953,7 +5954,167 @@ Para este último sprint, se logró implementar la segunda y última versión de
 
 Para el sprint 4 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con un json server de forma local y luego se pasó a realizar la implementación con My Json Server. El back-end fue creado y cuenta con vinculos con el front-end, para realizar consultas y obtener datos. Enlace para acceder al My Json Server 1 y My Json Server 2. Enlace para acceder al Web Service
 
-Json server 
+Web Service:
+
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="3">Profiles</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/profiles</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{profileId}</td>
+            <td>api/v1/profiles/{profilesId}</td>
+        </tr>
+        <tr>
+            <td>Roles</td>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/roles</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Customers</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/customers</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{customerRecordId}</td>
+            <td>api/v1/customers/{customersRecordId}</td>
+        </tr>      
+        <td rowspan="5">Points</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/points</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{pointId}</td>
+            <td>api/v1/points/{pointId}/rejections</td>
+        </tr>  
+        <tr>
+            <td>POST</td>
+            <td>{pointId}</td>
+            <td>api/v1/points/{pointId}/confirmations</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{pointId}</td>
+            <td>api/v1/points/points{pointId}/cancellations</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Users</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/users</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{userId}</td>
+            <td>api/v1/users/{userId}</td>
+        </tr>
+        <tr>
+            <td rowspan="6">Bar</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{barId}</td>
+            <td>api/v1/bars/{barId}</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{barId}</td>
+            <td>api/v1/bars/{barId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/bars</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/bars</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>No tiene</td>
+            <td>api/v1/bars/{barId}</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Authentication</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/authentication/sign-up</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{companyId}</td>
+            <td>api/v1/authentication/sign-in</td>
+        </tr>
+    </tbody>
+</table>
+
+**Web Services Images:**
+
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177586253433163826/image.png)
+
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177586325759737887/image.png)
+
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177586389903228928/image.png)
+
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177586496308518912/image.png)
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177586559298576455/image.png)
+
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177586592869789738/image.png)
+
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177586636570243133/image.png)
+
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177586680442650646/image.png)
+
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177586714278113390/image.png)
+
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177586760855863306/image.png)
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177586815713149019/image.png)
+
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177586887968428083/image.png)
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177586926488924230/image.png)
+
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177586961142259855/image.png)
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177586994235318332/image.png)
+
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177587030465712178/image.png)
+
+
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177587059930710107/image.png)
+
+
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177587089601208380/image.png)
+
+
+**Json server**
 
 ![Alt text](image-1.png)
 
@@ -5980,6 +6141,12 @@ La página de destino se desplegó en GitHub Pages después de fusionar la rama 
 
 ![Alt text](image-5.png)
 
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177572670347411456/image.png)
+
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177572791814455296/image.png)
+
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177572898689519656/image.png)
+
 ![Alt text](image-6.png)
 
 Aplicación web
@@ -5994,7 +6161,7 @@ Capturas de pantalla de la aplicación web
 
 ![Alt text](image-9.png)
 
-![Alt text](image-10.png)
+![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177573624094400592/image.png)
 
 ![Alt text](image-11.png)
 
@@ -6019,7 +6186,8 @@ Capturas de pantalla del back-end
 
 |Nombre|Rol|
 |------|---|
-|Morin Fuentes, Jean Pierre|Implementacion de todo el backend, actualizacion de todo el frontend, actualizacion de todo el documento|
+|Morin Fuentes, Jean Pierre|Implementacion parcial en el backend, actualizacion de todo el frontend, actualizacion de todo el documento|
+|Alarcon Rondon, Sandro Fourfive|Implementacion parcial en el backend, desarrollo de mejoras continuas del documento, mejora de landing page|
 
 Repositorio Landing:
 
