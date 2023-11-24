@@ -5877,85 +5877,40 @@ Como parte de la revisión del sprint 4, para proporcionar las últimas referenc
 </tr>
 
 <tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">features/bar details changed</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">pia4g7f</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(bar) Section bar changed components
 </td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(bar) Section bar changed components
 </td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">23/11/2023</td>
 </tr>
 <tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips">https://github.com/TechSolutions-ws51/Web-Application-Loyal-Sips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">features/sign-up details changed</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">hjh323</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(sign-up): change components of view
 </td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(sign-up): change components of view
 </td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">23/11/2023</td>
 </tr>
+
+
 <tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/loyalsips">https://github.com/TechSolutions-ws51/loyalsips</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">features/security section added </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ryh333</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(security): security section added
 </td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(security): security section added
 </td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">23/11/2023</td>
 </tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-</tr>
+
+
+
 <table>
 
 ### 5.2.4.4.Testing Suite Evidence for Sprint Review.
