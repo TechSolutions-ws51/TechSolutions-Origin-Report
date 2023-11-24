@@ -5589,11 +5589,11 @@ Repositorio Platform:
   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / Ballona Blas, Naggit German / Huamani Sánchez, José Diego</td>
 </tr>
 <tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Review Summary</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 4 - Review Summary</th>
   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">En esta oportunidad, se logró presentar al Product Owner las versiones actualizadas tanto de nuestro <strong>Landing Page, Web Application y Backend</strong> en base a los <em>feedbacks</em> que hemos recibido en el Sprint Anterior. De manera breve, para el aspecto de Backend, logramos mejorar la segmentación organizativa de nuestro <strong>Bounded Context</strong> y parte de la lógica de negocio que no estaba muy esclarecida del todo; y tanto para el Landing Page como Web Application, logramos refinar la interacción y aspectos visuales en contraste tanto a las sugerencias que nos brindaron nuestros usuarios - esto, mediante reuniones no registradas, ya que se utilizó el método de desarrollo de Software de <strong>Feature Driven Development (FDD)</strong>. Como es el último sprint, todavía no recibimos validaciones o <em>feedbacks</em>, pero esperamos que los niveles de satisfacción sean los más gratos como se ha venido desarrollando durante todo ese <strong>Project Lifecycle</strong> 
 </tr>
 <tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 3 - Retrospective Summary</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 4 - Retrospective Summary</th>
   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Respecto al último <strong>retrospective meeting</strong> que nos corciené por este último Sprint, sentimos que estos <em>deliverables</em> entregados, generó en nosotros un nivel de satisfacción alta por el hecho de que se logró cumplir tanto al tiempo estipulado como las features nuevas que tendrán un gran impacto en nuestros segmentos objetivos; sin embargo, sentimos que en el aspecto del Web Application, se pueden seguir mejorando más detalles, como el tema de registro de datos y alojarlos a servicios en la nube - pequeños detalles que pueden seguir mejorando acrecentando aún más el proyecto -.  </td>
 </tr>
 <tr>
@@ -5609,7 +5609,7 @@ Repositorio Platform:
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para lo que conlleva este último sprint, estamos abarcando los <em>User Stories</em> con identificadores <em><strong>US11</strong></em> el cual equivale 5 puntos, <em><strong>US13</strong></em>, que equivale a 3 puntos y el <em><strong>US20</strong></em> que tiene como equivalencia 8 puntos.</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para lo que conlleva este último sprint, estamos abarcando los <em>User Stories</em> con identificadores <em><strong>US03</strong></em> el cual equivale 5 puntos, <em><strong>US08</strong></em>, que equivale a 3 puntos y el <em><strong>US10</strong></em> que tiene como equivalencia 8 puntos. <em><strong>US08</strong></em>, que equivale a 3 puntos y el <em><strong>US22</strong></em>, que equivale 4 puntos</td>
 </tr>
 </table>
 
@@ -5648,155 +5648,62 @@ Repositorio Platform:
    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Status (To Do / In - process / To - review / Done)</th>
 </tr>
 <tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US11</td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US03</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ingreso de  usuarios</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA31</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></em></td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></em></td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Registrar usuario mediante el Sign up</em></td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Accede a la plataforma por medio de su registro de nuevo usuario</em></td>
       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
 </tr>
+
+
+
 <tr>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA32</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Registrar usuario mediante el Sign in</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Accede a la plataforma por el inicio de sesión</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
 </tr>
 <tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US08</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ubicación en el Mapa</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA33</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Visualiza la ubicación  de puntos de bares</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> Accese a la ubicación del bar</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
 </tr>
+
+
+
 <tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US10</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Accesibilidad Móvil</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA34</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Visualiza la plataforma en dispositivo móvil</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">La plataforma se adpata al dispositivo móvil</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
 </tr>
 <tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> US20</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Experiencia Responsiva </td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA35</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA36</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US13</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA37</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA38</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA39</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA40</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">5</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA41</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes Jean Pierre</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA42</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US20</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA43</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA44</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">La plataforma se adapta a distintos dispositivos</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">La plataforma se adpta a distintas medidas de pantallas</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
 </tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA45</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
+
 </table>
 
 ### 5.2.4.3 Development Evidence for Sprint Review.
