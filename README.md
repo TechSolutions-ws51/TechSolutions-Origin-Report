@@ -6392,13 +6392,13 @@ Link para ver el video en Youtube: https://youtu.be/ikKyZl3TS4g
 <tr>
     <td>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918603/1170821775202983966/image.png"></div>
+      <img src="https://cdn.discordapp.com/attachments/1037195522970234950/1177666967373615126/image.png?ex=657356d5&is=6560e1d5&hm=39b4530477100380fd1be6d2d1188c852227d40892ed593e465fc4c3fe3dfd9a&"></div>
     </td>
 </tr><br>
 
 Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tf]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114140_upc_edu_pe/EffUNtkZ_2ZOrXaHP_TgrAkBT7RddPAIzzFYhTiZ7HRqDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=oxNf89)
 
-
+Link para ver el video en Youtube: https://youtu.be/weXV9q5kj9s 
 
 
 
