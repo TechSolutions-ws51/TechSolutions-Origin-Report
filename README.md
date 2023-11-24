@@ -6365,11 +6365,11 @@ frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiem
 <tr>
     <td>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918603/1170829455275597895/image.png"></div>
+      <img src="https://cdn.discordapp.com/attachments/1037195522970234950/1177665069388152832/image.png?ex=65735510&is=6560e010&hm=5e0ea10b1622e4aa7d100001f3d68cd98e589c3d233980d7acde1057c57b0e3f&"></div>
     </td>
 </tr><br>
 
-Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVJwW_giVH5AqY5Btli4gGkBoD1B7Wa1Qyvp7IyapWjkoQ?e=TlaB05&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115348_upc_edu_pe/EZRZdB1V11BItXn01gNIM0gBO-KqjGfBmBjOxUO0asQ-aA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=t9RKF4)
 
 ## Conclusiones
 - El equipo ha establecido un sólido sistema de control de versiones utilizando GitHub y ha implementado el flujo de trabajo Gitflow para el desarrollo del proyecto, lo que garantiza a futuro un seguimiento eficiente de las modificaciones.
