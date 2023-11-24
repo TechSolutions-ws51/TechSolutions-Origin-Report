@@ -6396,7 +6396,7 @@ Link para ver el video en Youtube: https://youtu.be/ikKyZl3TS4g
     </td>
 </tr><br>
 
-Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EeK7mlDo2bJCpZWkqKZLc-8BqUgy7h7qoEncn15eu-FgVw?e=TMSoI7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Link para ver el video: [upc-pre-202302-si729-ws51-TechSolutions-expo-tf]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114140_upc_edu_pe/EffUNtkZ_2ZOrXaHP_TgrAkBT7RddPAIzzFYhTiZ7HRqDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=oxNf89)
 
 
 
