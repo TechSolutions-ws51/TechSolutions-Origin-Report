@@ -5793,7 +5793,39 @@ Como parte de la revisión del sprint 4, para proporcionar las últimas referenc
    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commited on (Date)</th>
 </tr>
 <tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report">https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Feature/ts chapter 5.2.4.1</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">y6d8g2</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">docs: update feeture/ts chapter 5.2.4.1
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">docs: update feeture/ts chapter 5.2.4.1
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">21/11/2023</td>
+</tr>
+
+
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report">https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Feature/Sprint Planning added</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">dfg54c</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Sprint Planning added
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat: Sprint Planning added
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">21/11/2023</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report">https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report">https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report</a></td>
    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
@@ -5812,45 +5844,16 @@ Como parte de la revisión del sprint 4, para proporcionar las últimas referenc
 </td>
       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
 </tr>
+
 <tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/TechSolutions-ws51/Landing-Loyal.github.io">https://github.com/TechSolutions-ws51/Landing-Loyal.github.io</a> </td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/videos-about-added</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">f4a4g7</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Videos) Section About the product and about the team added
 </td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Videos) Section About the product and about the team added
 </td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">
-</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">23/11/2023</td>
 </tr>
 <tr>
 <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href=""></a></td>
