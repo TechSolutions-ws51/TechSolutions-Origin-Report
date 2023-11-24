@@ -52,7 +52,10 @@
 |3              |   15/10/2023  | Huamani Sánchez    |**Capitulo 5**<br>- Sprint Planning 3 <br>- Sprint Backlog 3 <br>- Development Evidence for Sprint Review <br>- Diseño de entrevistas <br>- Registro de entrevistas <br>- Evaluaciones según heurísticas. <br>- implementación de las Evaluaciones según Heúritcas <br>- implementación de los aggregates and events del Backend.<br><br> |
 |1              |   02/09/2023   | Ballona Blas    |**Capitulo 1** <br> - Implementó el Lean UX Canvas. <br> - Segmento Objetivo.<br><br>**Capitulo 2**<br>- User Journey Mapping.<br> - Empathy Mapping.<br>- As-is Scenario Mapping.<br><br>**Capitulo 3**<br> - Product Backlog. <br><br>**Capitulo 4**<br>- SEO Tags and Meta Tags.<br>- Searching Systems. <br>- Navigation Systems.<br>- Software Object-Oriented Design.<br>- Class Diagrams.<br><br>**Capitulo 5**<br>- Source Code Style Guide & Conventions.<br>- Software Deployment Configuration.<br>- Landing Page, Services & Applications Implementation.<br><br> |
 |2              | 23/09/2023 | Ballona Blas    |**Capitulo 2**<br>- Actualización y corrección del As-is Scenario Mapping y otros mapas. <br><br>**Capitulo 3**<br>- Actualización del Product Backlog<br><br>**Capitulo 4**<br>- Actualización del Class Diagrams.<br><br>**Capitulo 5**<br>- Actualización Conclusiones y Anexos.|
-|3              |   27/10/2023  | Ballona Blas    | **Capitulo 5**<br>- Services Documentation Evidence for Sprint Review. <br>- Software Deployment Evidence for Sprint Review. <br>- Video About-the-Product.<br>- Implementación de los Aplications/Internal (CommanService, outboundService, QueryService) y Services del Backend.<br><br> |
+|3              |   27/10/2023  | Ballona Blas    | **Capitulo 5**<br>- Services Documentation Evidence for Sprint Review. <br>- Software Deployment Evidence for Sprint Review. <br>- Video About-the-Product.<br>- Implementación de los Aplications/Internal (CommanService, outboundService, QueryService) y Services del Backend.<br><br> |<br><br>**Capitulo 5**<br>- Actualización Conclusiones y Anexos.|
+|3              |   22/11/2023  | Alarcon Sandro    | **Capitulo 5**<br>- Actualizacion del documento en genera.<br>- Creacion de nuevas ramas <br>- Apoyo en el frontend y backend <br> -Sprint 4 <br> -Sprint planning 4| -<br><br>**Capitulo 5**<br>- Actualización Conclusiones y Anexos.|
+|3              |   22/11/2023  | Morin Jean    | **Capitulo 5**<br>- Actualizacion de la Landing Page. <br>- Actualizacion del Frontend. <br>- Actualizacion del Backend y despliegue<br>- Implemente nuevos servicios en el Fronted <br>- Videos<br><br> |
+
 
 
 <br><br>
@@ -156,17 +159,33 @@ A continuación, se muestra las tareas asignadas a cada integrante del equipo pa
   </tr>
 </table>
 <br>
+<br>
+
+A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe TF.
+
+<table style="margin: 0 auto;">
+  <tr>
+    <th>Miembro</th>
+    <th>Responsabilidad</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Alarcon Rondon</td>
+    <td style="text-align: justify;">Desarrollo de la nueva versión del <em>Testing Suite Evidence for Sprint Review</em> para este sprint 4, elaboración del <em>Execution Evidence for Sprint Review</em>, Actualizacion de los <em>value Objects, Queries and Events</em> en el <strong>Backend</strong> de nuestra aplicación.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Morin Fuentes</td>
+    <td style="text-align: justify;">Elaboración del <em>Team Colaboration Insights during Sprint</em>, actualización de las conclusiones y anexos, desarrollo de los apartados de <em>Bars</em> y <em>Clients</em> en el <strong>Backend</strong> de nuestra aplicación. Por otro lado Actualizacion del frontend y todas sus ramas y desplegado</td>
+  </tr>
+</table>
+<br>
 
 <div align='justify'>
 Para el desarrollo del informe, se realizaron commits respectivos a la tarea asignada para cada integrante del equipo. A continuacón, se muestran los usuarios de github que corresponden a cada integrante del equipo.
 
 Miembros:
 
-- Jose Ampudia (IsaacAmp24)
 - Alarcon Rondon (Alarsandro)
 - Morin Fuentes (Jeanpi-MF)
-- Huamani Sánchez (ProgramadorHuamani)
-- Ballona Blas (NaggitBallona)
 </div>
 
 <div align='center'>
@@ -421,6 +440,7 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
     - [5.2.4.4.Testing Suite Evidence for Sprint Review.](#5244testing-suite-evidence-for-sprint-review)
     - [5.2.4.5. Execution Evidence for Sprint Review.](#5245-execution-evidence-for-sprint-review)
     - [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5246-services-documentation-evidence-for-sprint-review)
+  - [Web service commit details](#web-service-commit-details)
         - [Link del repositorio:](#link-del-repositorio)
     - [5.2.4.7.Software Deployment Evidence for Sprint Review.](#5247software-deployment-evidence-for-sprint-review)
     - [5.2.4.8 Team Collaboration Insights during Sprint.](#5248-team-collaboration-insights-during-sprint)
@@ -5949,7 +5969,21 @@ Para este último sprint 4, se desarrolló la entrega acorde a la integración d
 ### 5.2.4.5. Execution Evidence for Sprint Review.
 
 Para este último sprint, se logró implementar la segunda y última versión del Backend de la aplicacion, analizando los <em>feedbacks</em> recibidos, para luego pasar a la parte de integracion con el Frontend de nuestro Web Application.
+  
+  - US03:
+<img alt="open_login" src="https://cdn.discordapp.com/attachments/1037195522970234950/1177618721850802306/image.png?ex=657329e6&is=6560b4e6&hm=ebfcea78eedcc2f9c9bf9d13c0c8459dcf2593f3156e6a24648334bd4f0ed6d0&">
+<img alt="open_register" src="https://cdn.discordapp.com/attachments/1037195522970234950/1177618443168665682/image.png?ex=657329a3&is=6560b4a3&hm=fcac26b5fb206e3eca1ee14bbd9b7f19f123b5f6a416d5913d591707f6996afc&"> 
 
+  - US08:
+<img alt="map_location" src="https://cdn.discordapp.com/attachments/1037195522970234950/1177618990743437342/image.png?ex=65732a26&is=6560b526&hm=f82c192778562c0d647e0e44346e14351ed47dbadf817c2478629d998d115637&">
+<img alt="map_location" src="https://cdn.discordapp.com/attachments/1037195522970234950/1177619125405753365/image.png?ex=65732a46&is=6560b546&hm=b601b261ed9652216a97e364f70ff7260a50c92bf3fdb5f71f4255fc5f4f87af&"> 
+
+  - US010:<br>
+<img alt="Home" src="https://cdn.discordapp.com/attachments/1037195522970234950/1177620004670275644/image.png?ex=65732b18&is=6560b618&hm=51144c545f0d048f5c28b104d4e9fa04ca528843adc7ca94ac72b63df2625dae&">
+<img alt="Pubs" src="https://cdn.discordapp.com/attachments/1037195522970234950/1177620335667986493/image.png?ex=65732b67&is=6560b667&hm=0c4a0db322fc5635276c7670dafb407300dc1e5d2c0405875cd28f0aaf310261&"> 
+
+  - US22:<br>
+<img alt="open_login" src="https://cdn.discordapp.com/attachments/1037195522970234950/1177620948657123360/image.png?ex=65732bf9&is=6560b6f9&hm=cace3cd3d2e3cc17eefeebe11837bacb26bfc1a446706598a81d6665d27fcb78&">
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
 Para el sprint 4 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con un json server de forma local y luego se pasó a realizar la implementación con My Json Server. El back-end fue creado y cuenta con vinculos con el front-end, para realizar consultas y obtener datos. Enlace para acceder al My Json Server 1 y My Json Server 2. Enlace para acceder al Web Service
@@ -6113,6 +6147,19 @@ Web Service:
 
 ![Alt text](https://media.discordapp.net/attachments/1145898392631918606/1177587089601208380/image.png)
 
+## Web service commit details
+
+Link del repositorio:
+
+https://github.com/TechSolutions-ws51/loyalsips 
+
+| Repository Link | Repository | Commit Hash | Commit Message | Date |
+|------------------|------------|-------------|-----------------|------|
+| loyalsips-platform | https://github.com/TechSolutions-ws51/loyalsips | 63001fd | fix: unnecessary resources eliminated. | 23/11/2023 |
+| loyalsips-platform |https://github.com/TechSolutions-ws51/loyalsips | b3c926e | chore: add access users endpoint | 22/11/2023 |
+| loyalsips-platform | https://github.com/TechSolutions-ws51/loyalsips | f15b65f | feat: implemented security module | 21/11/2023 |
+| loyalsips-platform | https://github.com/TechSolutions-ws51/loyalsips | c87abf6 | feat: implemented new resources | 20/11/2023 |
+| loyalsips-platform | https://github.com/TechSolutions-ws51/loyalsips | b7f31ef | fix: endpoint changed | 20/11/2023 |
 
 **Json server**
 
