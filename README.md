@@ -488,6 +488,7 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           Desarrollé la actualización en referencia a las correcciones del <em>Needfinding</em> y <em>User personas</em> respectivamente; asimismo, realicé la mejora de algunos <strong>“User Stories”</strong> que no estaban del todo claros. Finalmente, como último <em>task</em>, colaboré en el desarrollo del <strong>“Web Application”</strong>, teniendo como principal rol la elaboración de la sección <strong>home, Drinks<strong> y la creación del repositorio para alojarlo.<br><br>
           <strong>TB2:</strong><br>
           En la presentacion de este trabajo, todos los integrantes aportaron mucho y le pusieron bastante empatia, tambien nos reunimos y logramos desarrollar el backend<br><br>
+          <strong>TF:</strong><br>Durante la presentación de este proyecto, los miembros del equipo llevaron a cabo la creación de elementos para la interfaz de usuario.<br><br>
           <strong>Alarcon, Sandro</strong><br>
           <strong>TB1:</strong><br>
           Para la realización de las entrevistas, se tuvo que implementar un diseño de entrevistas, con preguntas abiertas, de tal forma que permitan al segmento objetivo poder explayarse, y de ese modo, rescatar las ideas brindadas por los entrevistados, de este modo nos ayuda como equipo a seguir innovando nuestro proyecto.<br><br>
@@ -495,6 +496,8 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           Realicé la actualización del <em>Impact mapping</em>, ya que anteriormente, no estaba del todo clarividente en su semejanza. Póstumo a ello, realicé las correcciones y actualización de los <strong>“Domain Driven Design”</strong> – pertenecientes a nuestro <em>Software Architecture Components</em> -. Como último <em>task</em> que desarrollé, ha sido la implementación de la sección contact para el <strong>“Web Application”</strong>.<br><br>
              <strong>TB2:</strong><br>
           Para la entrega de este trabajo, nos repartimos todos los temas para asi tener un mejor control de nuestros tiempo y lograr culminar nuestro proyecto bien<br><br>
+          <strong>TF:</strong><br>
+          En la presentacion de este trabajo, los integrantes realizamos el desarrollo de la union de los 2 bloques del curso aprendidos<br><br>
           <strong>Huamani, José</strong><br>
           <strong>TB1:</strong><br>
           Se tuvo que realizar entrevistas para conocer el punto de vista de los segmentos objetivos, dado que nuestro proyecto posee 2 segmentos objetivos, por lo que las entrevistas nos facilitaron a encontrar ideas innovadoras para aplicarlas en nuestro proyecto, lo cual nos ayuda bastante como equipo.<br><br>
@@ -515,7 +518,9 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
         <strong>TP:</strong><br>
         Para este segundo sprint y segunda entrega del trabajo, logramos a las justas concretar el trabajo que se tenía previsto para esta entrega ya que, como principal inconveniente del framework SCRUM, el tiempo siempre nos juega en contra. Lamentablemente, aparte de concretar los aspectos de los deliverables esperados para esta entrega, hay algunos tasks que están desarrollados, pero presentan ciertos bugs y de antemano las más sinceras disculpas ante el caso. Para el siguiente sprint, esos tasks que presentan bugs, serán traslados al sprint backlog como alta prioridad para que así pueda concluirse primero y luego ya procederemos al resto de labores que nos correspondería para ese sprint.<br><br>
         <strong>TB2:</strong><br>
-        Para esta penúltima entrega de lo que respecta a nuestro trabajo, el cual viene ligándose al sprint 3, nos abarcamos mayormente en el levantamiento de observaciones con todo lo relacionado al aspecto visual e interactivo del Web application y Landing page basándonos en las opiniones de validación de nuestros segmentos objetivos; con ello, pudimos conocer un poco más acerca de la idea de sus opiniones y pensamiento lo cual nos servirá para la mejora de todo lo mostrado en el sprint anterior. Muy aparte de ello, también logramos implementar la primera versión de nuestro Backend, el cual viene hacer el encargado de la gestión de la lógica de nuestro negocio, y, a pesar de las adversidades con respecto al tiempo, lo logramos desarrollar de la mejor manera (siendo mantenible y escalable en el tiempo).
+        Para esta penúltima entrega de lo que respecta a nuestro trabajo, el cual viene ligándose al sprint 3, nos abarcamos mayormente en el levantamiento de observaciones con todo lo relacionado al aspecto visual e interactivo del Web application y Landing page basándonos en las opiniones de validación de nuestros segmentos objetivos; con ello, pudimos conocer un poco más acerca de la idea de sus opiniones y pensamiento lo cual nos servirá para la mejora de todo lo mostrado en el sprint anterior. Muy aparte de ello, también logramos implementar la primera versión de nuestro Backend, el cual viene hacer el encargado de la gestión de la lógica de nuestro negocio, y, a pesar de las adversidades con respecto al tiempo, lo logramos desarrollar de la mejor manera (siendo mantenible y escalable en el tiempo).<br><br>
+        <strong>TF:</strong><br>
+        Para esta ultima entraga que involucra el trabajo realizado para la aplicaion web, está desarrollado a las caracteristicas de nuestro producto, debido que mostramos un pensamiento crítico con la union de estos herramientas para el.
         </td>
   </tr>
   <tr>
@@ -541,8 +546,11 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <strong>TP</strong><br>
           Realicé modificaciones con respecto Domain Driven Design, cambiar el Impact Mappig que se había desarrollado, además de mejorar la  calidad de las imagenes. Agregue la seccion de Contact para la Web Aplication e hice modificacion a la pagina Home.
           <br><br>
-         <strong>TB2:</strong><br>
-          Implementacion de <em>Value Objects, queries and events</em> en el Backend, desarrollo del <em>Evidence for Sprint Review</em>, elaboración del <em>Execution Evidence for Sprint Review</em>.
+          <strong>TB2:</strong><br>
+          Implementacion de <em>Value Objects, queries and events</em> en el Backend, desarrollo del <em>Evidence for Sprint Review</em>, elaboración del <em>Execution Evidence for Sprint Review</em>.<br><br>
+          <strong>TF</strong><br>
+          Realicé cambios dentro componentes por el lado del front end, He realizado modificaciones significativas en el Impact Mapping previamente desarrollado, con el objetivo de mejorar tanto su estructura como la calidad de las imágenes asociadas. Además, he introducido una nueva sección de contacto específicamente diseñada para la aplicación web. Asimismo, realicé ajustes en la página de inicio para mejorar su presentación y funcionalidad.
+         <br><br>
           <strong>Huamani, José</strong><br>
           <strong>TB1</strong><br>
           La implementación del Lean UX Problem Statements es la rama más esencial, porque en este apartado, se explica a detalle el propósito de nuestro proyecto, que solución estamos proponiendo para mejorar en este caso el sistema de los Bares, además de ello, el Solution Profile va de la mano, porque explicamos la visión y misión de nuestro proyecto.
@@ -563,7 +571,10 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
     <strong>TP:</strong><br>Después de pasar por la fase de validación de la idea propuesta con que la respecta a todo lo que se vino desarrollando anteriormente, el docente nos comentó que tuvimos algunos puntos que mejorar – no graves, pero si eran fundamentales seguir ciertos aspectos de la rubrica para que quede más concreta la idea a expresar -, por lo que, procedimos a levantar las observaciones correspondientes y comenzamos con la elaboración de la primera versión del “Web Application”. Siendo honestos, el equipo trabajo arduamente para concretar estos aspectos fundamentales y, a pesar del tiempo que es uno de los principales enemigos de todo developer, logramos concretar la idea y está a próxima a presentarse en la exposición del día de mañana. Después de la exposición y de las otras actividades que tengamos pendientes desarrollar, se procederá a mostrar dicha versión a nuestro público para saber su opinión y lo más importante los feedback que nos puedan dejar – ya que no hay perfección sin errores -. Esperamos que les pueda hacer de su agrado esta presentación del proyecto y agradecer a todo el equipo por su dedicación y compromiso constante.<br><br>
     <strong>TB2:</strong><br>
     La importancia de lo que es este proyecto para nuestros segmentos objetivos es inigualable, por el hecho en el que ideas innovadoras para mejorar y ayudar a la acción, y dinamismo continuo humano en sus labores son lo que realmente impacta a más de uno. Por ende, su opinión nos permite seguir mejorando para poco alcanzar esa perfección que todos anhelamos; y, si esto lo relacionamos con el aspecto de desarrollo, buscamos que el ellos se sientan cómodos y a gustos en cada interacción que tengan en el mundo digital.
-    </td><br>
+    <br><br>
+    <strong>TF:</strong><br>
+    La significancia de este proyecto para nuestros públicos objetivo es incomparable, ya que se basa en la generación de ideas innovadoras destinadas a mejorar y facilitar las acciones, así como en el continuo dinamismo humano en sus labores, lo cual impacta positivamente a más de uno. Por lo tanto, valoramos su opinión como una guía fundamental para seguir perfeccionando y acercarnos cada vez más a la excelencia que todos buscamos. En relación con el desarrollo, nuestro objetivo es que se sientan cómodos y satisfechos en cada interacción que tengan en el entorno digital.
+    </td>
   </tr>
 </table>
 
@@ -5258,107 +5269,97 @@ Web Service:
     </thead>
     <tbody>
         <tr>
-            <td rowspan="14">Crops</td>
+            <td rowspan="3">Profiles</td>
         </tr>
         <tr>
             <td>POST</td>
             <td>No tiene</td>
-            <td>api/v1/crops</td>
+            <td>api/v1/profiles</td>
         </tr>
         <tr>
             <td>GET</td>
-            <td>{cropId}</td>
-            <td>api/v1/crops/{cropId}/tunnels</td>
+            <td>{profileId}</td>
+            <td>api/v1/profiles/{profilesId}</td>
         </tr>
         <tr>
-            <td>POST</td>
-            <td>{cropId}</td>
-            <td>api/v1/crops/{cropId}/tunnels</td>
-        </tr>
-        <tr>
-            <td>GET</td>
-            <td>{cropId}</td>
-            <td>api/v1/crops/{cropId}/preparation-areas</td>
-        </tr>
-        <tr>
-            <td>POST</td>
-            <td>{cropId}</td>
-            <td>api/v1/crops/{cropId}/preparation-areas</td>
-        </tr>
-        <tr>
-            <td>GET</td>
-            <td>{cropId}, {cropPhase}</td>
-            <td>api/v1/crops/{cropId}/grow-rooms/{cropPhase}</td>
-        </tr>
-        <tr>
-            <td>POST</td>
-            <td>{cropId}, {cropPhase}</td>
-            <td>api/v1/crops/{cropId}/grow-rooms/{cropPhase}</td>
-        </tr>
-        <tr>
-            <td>GET</td>
-            <td>{cropId}</td>
-            <td>api/v1/crops/{cropId}/formulas</td>
-        </tr>
-        <tr>
-            <td>POST</td>
-            <td>{cropId}</td>
-            <td>api/v1/crops/{cropId}/formulas</td>
-        </tr>
-        <tr>
-            <td>GET</td>
-            <td>{cropId}</td>
-            <td>api/v1/crops/{cropId}/bunker</td>
-        </tr>
-        <tr>
-            <td>POST</td>
-            <td>{cropId}</td>
-            <td>api/v1/crops/{cropId}/bunker</td>
-        </tr>
-        <tr>
-            <td>GET</td>
-            <td>{cropId}</td>
-            <td>api/v1/crops/{cropId}</td>
-        </tr>
-        <tr>
-            <td>GET</td>
-            <td>{companyId}</td>
-            <td>api/v1/company/{companyId}</td>
-        </tr>
-        <tr>
-            <td rowspan="3">Companies</td>
-        </tr>
-        <tr>
-            <td>GET</td>
-            <td>No tiene</td>
-            <td>api/v1/companies</td>
-        </tr>
-        <tr>
-            <td>POST</td>
-            <td>{companyId}</td>
-            <td>api/v1/companies/{companyId}</td>
-        </tr>
-        <tr>
-            <td rowspan="4">Employees</td>
+            <td rowspan="3">Customers</td>
         </tr>
         <tr>
             <td>POST</td>
             <td>No tiene</td>
-            <td>api/v1/employees</td>
+            <td>api/v1/customers</td>
         </tr>
         <tr>
             <td>GET</td>
-            <td>{employeesId}</td>
-            <td>api/v1/employees/{employeesId}</td>
+            <td>{customerRecordId}</td>
+            <td>api/v1/customers/{customersRecordId}</td>
+        </tr>      
+        <td rowspan="5">Points</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/points</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{pointId}</td>
+            <td>api/v1/points/{pointId}/rejections</td>
+        </tr>  
+        <tr>
+            <td>POST</td>
+            <td>{pointId}</td>
+            <td>api/v1/points/{pointId}/confirmations</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{pointId}</td>
+            <td>api/v1/points/points{pointId}/cancellations</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Users</td>
         </tr>
         <tr>
             <td>GET</td>
-            <td>{companyId}</td>
-            <td>api/v1/employees/{companyId}</td>
+            <td>No tiene</td>
+            <td>api/v1/users</td>
         </tr>
+        <tr>
+            <td>GET</td>
+            <td>{userId}</td>
+            <td>api/v1/users/{userId}</td>
+        </tr>
+        <tr>
+            <td rowspan="6">Bar</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{barId}</td>
+            <td>api/v1/bars/{barId}</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{barId}</td>
+            <td>api/v1/bars/{barId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/bars</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/bars</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>No tiene</td>
+            <td>api/v1/bars/{barId}</td>
+        </tr>
+        
     </tbody>
 </table>
-
 - Web service images
 
 <div align='center'>
@@ -5605,7 +5606,7 @@ Repositorio Platform:
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 4 Velocity</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este penúltimo sprint, el <strong>Scrum Developer Team</strong> llegó a un acuerdo en aceptar sin ningún tipo de problemas la cantidad de 16 <em>story points</em> respectivamente.</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este penúltimo sprint, el <strong>Scrum Developer Team</strong> llegó a un acuerdo en aceptar sin ningún tipo de problemas la cantidad de 20 <em>story points</em> respectivamente.</td>
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
